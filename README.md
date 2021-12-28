@@ -9,7 +9,7 @@ https://docs.google.com/document/d/1LZ3hHpNYAug7EtTcuXXcNdJjf6m8rsLaOncWLSnumE8/
 
 ### UUU Command
 - Open MAP_ChicasFeedingFrenzy
-- slomo <speed>
+- slomo `speed`
 - toggledebugcamera
 - destroytarget
 - summon freddy_c
