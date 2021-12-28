@@ -8,6 +8,9 @@ Saves Files: `C:\Users\Admin\AppData\Local\fnaf9\Saved\SaveGames`
 
 ### [UUU Command](https://framedsc.com/GeneralGuides/universal_ue4_consoleunlocker.htm)
 - Open MAP_ChicasFeedingFrenzy
+- open map_princessquest_titlemenu
+- open map_princessquest_titlemenu_act2
+- open map_princessquest_titlemenu_act3
 - slomo `speed`
 - toggledebugcamera
 - destroytarget
