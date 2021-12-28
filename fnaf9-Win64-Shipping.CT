@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="38">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>98799</ID>
+      <Description>"&lt;- Five Nights at Freddy's: Security Breach"</Description>
+      <Options moHideChildren="1"/>
+      <LastState/>
+      <Color>0000EC</Color>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript Async="1">[ENABLE]
+aobscanmodule(aob_GregoryLocalPlayerBase,$process,48 8B ? FF 90 ? ? ? ? 48 8B ? ? ? 48 8B ? ? ? 48 83 C4 ? 5F C3 CC CC CC CC CC 48 89)//48 8B 06 FF 90 28 07 00 00
+alloc(newmem_GregoryLocalPlayerBase,$75,aob_GregoryLocalPlayerBase)
+alloc(bkp_GregoryLocalPlayerBase,9,aob_GregoryLocalPlayerBase)
+registersymbol(aob_GregoryLocalPlayerBase playerBasePtr bkp_GregoryLocalPlayerBase)
+label(return_GregoryLocalPlayerBase playerBasePtr)
+bkp_GregoryLocalPlayerBase:
+  readmem(aob_GregoryLocalPlayerBase,9)
+newmem_GregoryLocalPlayerBase:
+  mov qword ptr [playerBasePtr],rsi
+  readmem(aob_GregoryLocalPlayerBase,9)
+    jmp return_GregoryLocalPlayerBase
+align 8,CC
+playerBasePtr:
+  resb 8
+aob_GregoryLocalPlayerBase:
+  jmp newmem_GregoryLocalPlayerBase
+  nop 4
+return_GregoryLocalPlayerBase:
+aobscanmodule(aob_ReadPointerBase,$process,48 03 ? 33 D2 EB ? 33 D2 8B CA 48 85 ? 4C 8D)
+alloc(newmem_ReadPointerBase,$75,aob_ReadPointerBase)
+alloc(bkp_ReadPointerBase,5,aob_ReadPointerBase)
+registersymbol(aob_ReadPointerBase fnafInventorySystemBase bkp_ReadPointerBase)
+label(return_ReadPointerBase fnafInventorySystemBase)
+bkp_ReadPointerBase:
+  readmem(aob_ReadPointerBase,5)
+newmem_ReadPointerBase:
+  mov qword ptr [fnafInventorySystemBase],rdi
+  readmem(aob_ReadPointerBase,5)
+    jmp return_ReadPointerBase
+align 8,CC
+fnafInventorySystemBase:
+  resb 8
+aob_ReadPointerBase:
+    jmp newmem_ReadPointerBase
+return_ReadPointerBase:
+[DISABLE]
+aob_GregoryLocalPlayerBase:
+  readmem(bkp_GregoryLocalPlayerBase,9)
+aob_ReadPointerBase:
+  readmem(bkp_ReadPointerBase,5)
+unregistersymbol(*)
+dealloc(*)
+</AssemblerScript>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>98940</ID>
+          <Description>"[ Player Information ]"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <Color>0000D5</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>98938</ID>
+              <Description>"PlayerName"</Description>
+              <LastState RealAddress="22ED3EDA620"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>007DFB</Color>
+              <VariableType>String</VariableType>
+              <Length>100</Length>
+              <Unicode>1</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>[playerBasePtr]+E8</Address>
+              <Offsets>
+                <Offset>0</Offset>
+                <Offset>308</Offset>
+                <Offset>230</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98937</ID>
+              <Description>"PlayerID"</Description>
+              <LastState Value="258" RealAddress="22F661C87AC"/>
+              <Color>007DFB</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>[playerBasePtr]+E8</Address>
+              <Offsets>
+                <Offset>22C</Offset>
+                <Offset>230</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98939</ID>
+              <Description>"TotalTime"</Description>
+              <LastState Value="74.12493896" RealAddress="22E94B67E48"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePTr]+868</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>98954</ID>
+          <Description>"[ Player Movement ]"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <Color>0000D5</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>98904</ID>
+              <Description>"PlayerLocation.Z"</Description>
+              <LastState Value="1550.900024" RealAddress="22F541CE1E8"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+138</Address>
+              <Offsets>
+                <Offset>1D8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98905</ID>
+              <Description>"PlayerLocation.Y"</Description>
+              <LastState Value="42985.23828" RealAddress="22F541CE1E4"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+138</Address>
+              <Offsets>
+                <Offset>1D4</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98906</ID>
+              <Description>"PlayerLocation.X"</Description>
+              <LastState Value="-15304.83887" RealAddress="22F541CE1E0"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+138</Address>
+              <Offsets>
+                <Offset>1D0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98806</ID>
+              <Description>"PlayerScale3D.X"</Description>
+              <LastState Value="1" RealAddress="22F541CE144"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+138</Address>
+              <Offsets>
+                <Offset>134</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98807</ID>
+              <Description>"PlayerScale3D.Y"</Description>
+              <LastState Value="1" RealAddress="22F541CE148"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+138</Address>
+              <Offsets>
+                <Offset>138</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98808</ID>
+              <Description>"PlayerScale3D.Z"</Description>
+              <LastState Value="1" RealAddress="22F541CE14C"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+138</Address>
+              <Offsets>
+                <Offset>13C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98809</ID>
+              <Description>"ComponentVelocity.X"</Description>
+              <LastState Value="0" RealAddress="22F541CE150"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+138</Address>
+              <Offsets>
+                <Offset>140</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98810</ID>
+              <Description>"ComponentVelocity.Y"</Description>
+              <LastState Value="0" RealAddress="22F541CE154"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+138</Address>
+              <Offsets>
+                <Offset>144</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98811</ID>
+              <Description>"ComponentVelocity.Z"</Description>
+              <LastState Value="0" RealAddress="22F541CE158"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+138</Address>
+              <Offsets>
+                <Offset>148</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98958</ID>
+              <Description>"-"</Description>
+              <LastState Value="" RealAddress="00000000"/>
+              <Color>FFFFFF</Color>
+              <GroupHeader>1</GroupHeader>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98907</ID>
+              <Description>"GravityScale"</Description>
+              <LastState Value="2" RealAddress="22E969EF490"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+290</Address>
+              <Offsets>
+                <Offset>150</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98909</ID>
+              <Description>"MovementMode"</Description>
+              <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">1:Walking
+2:NavWalking
+3:Falling
+4:Swimming
+5:Flying
+6:Custom
+7:Max
+</DropDownList>
+              <LastState Value="1" RealAddress="22E969EF4A8"/>
+              <Color>007DFB</Color>
+              <VariableType>Byte</VariableType>
+              <Address>[playerBasePtr]+290</Address>
+              <Offsets>
+                <Offset>168</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98913</ID>
+              <Description>"MaxFlySpeed"</Description>
+              <LastState Value="100" RealAddress="22E969EF4D8"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+290</Address>
+              <Offsets>
+                <Offset>198</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98934</ID>
+              <Description>"FlyingSpeed"</Description>
+              <LastState Value="1200" RealAddress="22F502047C0"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+260</Address>
+              <Offsets>
+                <Offset>640</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98961</ID>
+              <Description>"-"</Description>
+              <LastState Value="" RealAddress="00000000"/>
+              <Color>FFFFFF</Color>
+              <GroupHeader>1</GroupHeader>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98910</ID>
+              <Description>"MaxWalkSpeed"</Description>
+              <LastState Value="275" RealAddress="22E969EF4CC"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+290</Address>
+              <Offsets>
+                <Offset>18C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98911</ID>
+              <Description>"MaxWalkSpeedCrouched"</Description>
+              <LastState Value="150" RealAddress="22E969EF4D0"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+290</Address>
+              <Offsets>
+                <Offset>190</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98932</ID>
+              <Description>"RunSpeed"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>playerBasePtr</Address>
+              <Offsets>
+                <Offset>5BC</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98915</ID>
+              <Description>"MaxAcceleration"</Description>
+              <LastState Value="2048" RealAddress="22E969EF4E0"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+290</Address>
+              <Offsets>
+                <Offset>1A0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98960</ID>
+              <Description>"-"</Description>
+              <LastState Value="" RealAddress="00000000"/>
+              <Color>FFFFFF</Color>
+              <GroupHeader>1</GroupHeader>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98908</ID>
+              <Description>"JumpZVelocity"</Description>
+              <LastState Value="500" RealAddress="22E969EF498"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+290</Address>
+              <Offsets>
+                <Offset>158</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98927</ID>
+              <Description>"JumpMaxCount"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>007DFB</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>playerBasePtr</Address>
+              <Offsets>
+                <Offset>344</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98928</ID>
+              <Description>"JumpMaxHoldTime"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>playerBasePtr</Address>
+              <Offsets>
+                <Offset>340</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98929</ID>
+              <Description>"JumpCurrentCount"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>007DFB</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>playerBasePtr</Address>
+              <Offsets>
+                <Offset>348</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98959</ID>
+              <Description>"-"</Description>
+              <LastState Value="" RealAddress="00000000"/>
+              <Color>FFFFFF</Color>
+              <GroupHeader>1</GroupHeader>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98812</ID>
+              <Description>"CurrentStamina"</Description>
+              <LastState Value="2" RealAddress="22F559D3AB8"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+770</Address>
+              <Offsets>
+                <Offset>B8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98813</ID>
+              <Description>"MaxStamina"</Description>
+              <LastState Value="2" RealAddress="22F559D3ABC"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+770</Address>
+              <Offsets>
+                <Offset>BC</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98814</ID>
+              <Description>"StaminaRefillRate"</Description>
+              <LastState Value="0.5" RealAddress="22F559D3AC0"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+770</Address>
+              <Offsets>
+                <Offset>C0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98815</ID>
+              <Description>"StaminaDepleteRate"</Description>
+              <LastState Value="0.25" RealAddress="22F559D3AC4"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+770</Address>
+              <Offsets>
+                <Offset>C4</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98817</ID>
+              <Description>"ReplenishingStamina"</Description>
+              <LastState Value="0" RealAddress="22F559D3AF0"/>
+              <Color>007DFB</Color>
+              <VariableType>Byte</VariableType>
+              <Address>[playerBasePtr]+770</Address>
+              <Offsets>
+                <Offset>F0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98818</ID>
+              <Description>"LastStaminaUseTime"</Description>
+              <LastState Value="1009.459656" RealAddress="22F559D3AF4"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+770</Address>
+              <Offsets>
+                <Offset>F4</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98819</ID>
+              <Description>"RefillWaitTime"</Description>
+              <LastState Value="1" RealAddress="22F559D3AF8"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+770</Address>
+              <Offsets>
+                <Offset>F8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98816</ID>
+              <Description>"bUsingStamina"</Description>
+              <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:False
+1:True
+</DropDownList>
+              <LastState Value="0" RealAddress="22F559D3AC8"/>
+              <Color>007DFB</Color>
+              <VariableType>Byte</VariableType>
+              <Address>[playerBasePtr]+770</Address>
+              <Offsets>
+                <Offset>C8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98962</ID>
+              <Description>"-"</Description>
+              <LastState Value="" RealAddress="00000000"/>
+              <Color>FFFFFF</Color>
+              <GroupHeader>1</GroupHeader>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98917</ID>
+              <Description>"BrakingFrictionFactor"</Description>
+              <LastState Value="2" RealAddress="22E969EF4E8"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+290</Address>
+              <Offsets>
+                <Offset>1A8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98918</ID>
+              <Description>"BrakingFriction"</Description>
+              <LastState Value="0" RealAddress="22E969EF4EC"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+290</Address>
+              <Offsets>
+                <Offset>1AC</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98919</ID>
+              <Description>"BrakingSubStepTime"</Description>
+              <LastState Value="0.03030303121" RealAddress="22E969EF4F0"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+290</Address>
+              <Offsets>
+                <Offset>1B0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98920</ID>
+              <Description>"BrakingDecelerationWalking"</Description>
+              <LastState Value="2048" RealAddress="22E969EF4F4"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+290</Address>
+              <Offsets>
+                <Offset>1B4</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98921</ID>
+              <Description>"BrakingDecelerationFalling"</Description>
+              <LastState Value="0" RealAddress="22E969EF4F8"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+290</Address>
+              <Offsets>
+                <Offset>1B8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98922</ID>
+              <Description>"BrakingDecelerationFlying"</Description>
+              <LastState Value="400" RealAddress="22E969EF500"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+290</Address>
+              <Offsets>
+                <Offset>1C0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98923</ID>
+              <Description>"BrakingDecelerationSwimming"</Description>
+              <LastState Value="0" RealAddress="22E969EF4FC"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+290</Address>
+              <Offsets>
+                <Offset>1BC</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98924</ID>
+              <Description>"AirControl"</Description>
+              <LastState Value="0.05000000075" RealAddress="22E969EF504"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+290</Address>
+              <Offsets>
+                <Offset>1C4</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98925</ID>
+              <Description>"AirControlBoostMultiplier"</Description>
+              <LastState Value="2" RealAddress="22E969EF508"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+290</Address>
+              <Offsets>
+                <Offset>1C8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98926</ID>
+              <Description>"AirControlBoostVelocityThreshold"</Description>
+              <LastState Value="25" RealAddress="22E969EF50C"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+290</Address>
+              <Offsets>
+                <Offset>1CC</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>98957</ID>
+          <Description>"[ FNAF Inventory System ]"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <Color>0000D5</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>98945</ID>
+              <Description>"CurrentFlashlightBattery"</Description>
+              <LastState Value="75" RealAddress="22F0C2A6AB0"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>007DFB</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>[[fnafInventorySystemBase]+0]+C6F0</Address>
+              <Offsets>
+                <Offset>B0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98946</ID>
+              <Description>"MaxFlashlightBattery"</Description>
+              <LastState Value="300" RealAddress="22F0C2A6AB4"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>007DFB</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>[[fnafInventorySystemBase]+0]+C6F0</Address>
+              <Offsets>
+                <Offset>B4</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98963</ID>
+              <Description>"DefaultIntensity"</Description>
+              <LastState Value="200" RealAddress="22F661C68D4"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+720</Address>
+              <Offsets>
+                <Offset>2D4</Offset>
+                <Offset>1F8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98930</ID>
+              <Description>"bFlashlightActive"</Description>
+              <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:False
+1:True
+</DropDownList>
+              <LastState Value="0" RealAddress="22F661C68D0"/>
+              <Color>007DFB</Color>
+              <VariableType>Byte</VariableType>
+              <Address>[playerBasePtr]+9A8</Address>
+              <Offsets>
+                <Offset>2D0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98992</ID>
+              <Description>"-"</Description>
+              <LastState Value="" RealAddress="00000000"/>
+              <Color>FFFFFF</Color>
+              <GroupHeader>1</GroupHeader>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98989</ID>
+              <Description>"CurrentLaserGunAmmo"</Description>
+              <LastState Value="6" RealAddress="22EFCE454DC"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>007DFB</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>[playerBasePtr]+758</Address>
+              <Offsets>
+                <Offset>2DC</Offset>
+                <Offset>A0</Offset>
+                <Offset>260</Offset>
+                <Offset>1F8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98990</ID>
+              <Description>"MaxLaserGunAmmo"</Description>
+              <LastState Value="6" RealAddress="22EFCE454D8"/>
+              <Color>007DFB</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>[playerBasePtr]+758</Address>
+              <Offsets>
+                <Offset>2D8</Offset>
+                <Offset>A0</Offset>
+                <Offset>260</Offset>
+                <Offset>1F8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98991</ID>
+              <Description>"LaserGunRechargeTime"</Description>
+              <LastState Value="15" RealAddress="22EFCE454F0"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+758</Address>
+              <Offsets>
+                <Offset>2F0</Offset>
+                <Offset>A0</Offset>
+                <Offset>260</Offset>
+                <Offset>1F8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98996</ID>
+              <Description>"-"</Description>
+              <LastState Value="" RealAddress="00000000"/>
+              <Color>FFFFFF</Color>
+              <GroupHeader>1</GroupHeader>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98994</ID>
+              <Description>"bCanUseFazCam - Ammo"</Description>
+              <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:False - Recharging
+1:True
+</DropDownList>
+              <LastState Value="1" RealAddress="22F6F9A1C68"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>007DFB</Color>
+              <VariableType>Byte</VariableType>
+              <Address>[playerBasePtr]+760</Address>
+              <Offsets>
+                <Offset>268</Offset>
+                <Offset>1F8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98995</ID>
+              <Description>"FazCamRechargeTime"</Description>
+              <LastState Value="30" RealAddress="22F6F9A1C6C"/>
+              <Color>007DFB</Color>
+              <VariableType>Float</VariableType>
+              <Address>[playerBasePtr]+760</Address>
+              <Offsets>
+                <Offset>26C</Offset>
+                <Offset>1F8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98973</ID>
+              <Description>"-"</Description>
+              <LastState Value="" RealAddress="00000000"/>
+              <Color>FFFFFF</Color>
+              <GroupHeader>1</GroupHeader>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98947</ID>
+              <Description>"FreddyPowerLevel"</Description>
+              <LastState Value="100" RealAddress="22F0C2A6AB8"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>007DFB</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>[[fnafInventorySystemBase]+0]+C6F0</Address>
+              <Offsets>
+                <Offset>B8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98948</ID>
+              <Description>"FreddyMaxPowerLevel"</Description>
+              <LastState Value="100" RealAddress="22F0C2A6ABC"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>007DFB</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>[[fnafInventorySystemBase]+0]+C6F0</Address>
+              <Offsets>
+                <Offset>BC</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98974</ID>
+              <Description>"-"</Description>
+              <LastState Value="" RealAddress="00000000"/>
+              <Color>FFFFFF</Color>
+              <GroupHeader>1</GroupHeader>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98949</ID>
+              <Description>"SecurityLevel"</Description>
+              <LastState Value="14" RealAddress="22F0C2A6AC0"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>007DFB</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>[[fnafInventorySystemBase]+0]+C6F0</Address>
+              <Offsets>
+                <Offset>+C0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98966</ID>
+              <Description>"UsedPartyPassCount"</Description>
+              <LastState Value="1" RealAddress="22F0C2A6AC8"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>007DFB</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>[[fnafInventorySystemBase]+0]+C6F0</Address>
+              <Offsets>
+                <Offset>C8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98967</ID>
+              <Description>"CollectedPartyPassCount"</Description>
+              <LastState Value="1" RealAddress="22F0C2A6AC4"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>007DFB</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>[[fnafInventorySystemBase]+0]+C6F0</Address>
+              <Offsets>
+                <Offset>+C4</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98952</ID>
+              <Description>"TapesListenedTo"</Description>
+              <LastState Value="0" RealAddress="22F0C2A6AD8"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>007DFB</Color>
+              <VariableType>Byte</VariableType>
+              <Address>[[fnafInventorySystemBase]+0]+C6F0</Address>
+              <Offsets>
+                <Offset>D8</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>98955</ID>
+          <Description>"[ Scripts ]"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <Color>0000D5</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>98965</ID>
+              <Description>"Exploration Mode               F1 - Toggle"</Description>
+              <LastState/>
+              <Color>007DFB</Color>
+              <VariableType>Auto Assembler Script</VariableType>
+              <AssemblerScript>{$lua}
+if syntaxcheck then return end
+[ENABLE]
+flySpeed = getAddressSafe('[[playerBasePtr]+290]+198')
+if flySpeed then writeFloat(flySpeed, 650) else return end
+zMovement = createTimer(nil)
+zMovement.Interval = 1
+zMovement.OnTimer = function(createKeys_writeStats)
+  bActorEnableCollision = getAddressSafe('[playerBasePtr]+5C')
+  if bActorEnableCollision then writeBytes(bActorEnableCollision, 0x40) else return end
+  movementMode = getAddressSafe('[[playerBasePtr]+290]+168')
+  if movementMode then writeBytes(movementMode, 0x5) else return end
+  playerZ = readFloat('[[playerBasePtr]+138]+1D8')
+  if playerZ then
+    if isKeyPressed(VK_SPACE) then writeFloat('[[playerBasePtr]+138]+1D8', playerZ + 40) end
+    if isKeyPressed(VK_CONTROL) then writeFloat('[[playerBasePtr]+138]+1D8', playerZ - 40) end
+  end
+end
+[DISABLE]
+if bActorEnableCollision then writeBytes(bActorEnableCollision, 0x44) else return end
+  bActorEnableCollision = nil
+if movementMode then writeBytes(movementMode, 0x1) else return end
+  movementMode = nil
+if flySpeed then writeFloat(flySpeed, 100) else return end
+  flySpeed = nil
+zMovement.destroy()
+</AssemblerScript>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Toggle Activation</Action>
+                  <Keys>
+                    <Key>112</Key>
+                  </Keys>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98968</ID>
+              <Description>"UnlimitedFlashlightPower"</Description>
+              <LastState/>
+              <Color>007DFB</Color>
+              <VariableType>Auto Assembler Script</VariableType>
+              <AssemblerScript>{$lua}
+if syntaxcheck then return end
+[ENABLE]
+writeBytes('[[[fnafInventorySystemBase]+0]+C6F0]+D0',0x1)
+[DISABLE]
+writeBytes('[[[fnafInventorySystemBase]+0]+C6F0]+D0',0x0)
+
+</AssemblerScript>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98998</ID>
+              <Description>"UnlimitedLaserGunAmmo"</Description>
+              <LastState/>
+              <Color>007DFB</Color>
+              <VariableType>Auto Assembler Script</VariableType>
+              <AssemblerScript>{$lua}
+if syntaxcheck then return end
+[ENABLE]
+lazerGunInf = createTimer(nil)
+lazerGunInf.Interval = 250
+lazerGunInf.OnTimer = function(writeLaserGun)
+  local maxLaser =  readInteger('[[[[[playerBasePtr]+758]+1F8]+260]+A0]+2D8')
+  writeInteger('[[[[[playerBasePtr]+758]+1F8]+260]+A0]+2DC', maxLaser)
+end
+[DISABLE]
+lazerGunInf.destroy()
+
+</AssemblerScript>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98997</ID>
+              <Description>"UnlimitedFazCamUsage"</Description>
+              <LastState/>
+              <Color>007DFB</Color>
+              <VariableType>Auto Assembler Script</VariableType>
+              <AssemblerScript>{$lua}
+if syntaxcheck then return end
+[ENABLE]
+fazCamInf = createTimer(nil)
+fazCamInf.Interval = 250
+fazCamInf.OnTimer = function(writeFazCam)
+  writeBytes('[[[playerBasePtr]+760]+1F8]+268',0x1)
+end
+[DISABLE]
+fazCamInf.destroy()
+
+</AssemblerScript>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98969</ID>
+              <Description>"UnlimitedStamina"</Description>
+              <LastState/>
+              <Color>007DFB</Color>
+              <VariableType>Auto Assembler Script</VariableType>
+              <AssemblerScript>{$lua}
+if syntaxcheck then return end
+[ENABLE]
+writeBytes('[[[fnafInventorySystemBase]+0]+C6F0]+D1',0x1)
+[DISABLE]
+writeBytes('[[[fnafInventorySystemBase]+0]+C6F0]+D1',0x0)
+
+</AssemblerScript>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98972</ID>
+              <Description>"UnlimitedFreddyPower"</Description>
+              <LastState/>
+              <Color>007DFB</Color>
+              <VariableType>Auto Assembler Script</VariableType>
+              <AssemblerScript>[ENABLE]
+aobscanmodule(UnlimitedFreddyPower,fnaf9-Win64-Shipping.exe,89 8F ? ? ? ? 48 83 C4 ? 5F C3 CC 48 89)
+alloc(bytesUnlimitedFreddyPower,6)
+registersymbol(UnlimitedFreddyPower bytesUnlimitedFreddyPower)
+bytesUnlimitedFreddyPower:
+  readmem(UnlimitedFreddyPower,6)
+UnlimitedFreddyPower:
+  db 90 90 90 90 90 90
+luacall(writeInteger('[[[fnafInventorySystemBase]+0]+C6F0]+B8', 100))
+[DISABLE]
+UnlimitedFreddyPower:
+  readmem(bytesUnlimitedFreddyPower,6)
+unregistersymbol(*)
+dealloc(*)
+</AssemblerScript>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+  <Comments>219B9BA9F70 + 8
+</Comments>
+  <LuaScript>local gameName = "Five Nights at Freddy's: Security Breach"
+local gameProcess = "fnaf9-Win64-shipping.exe"
+if getProcessIDFromProcessName(gameProcess) ~= nil then
+   if readInteger(process) == nil then
+      openProcess(gameProcess)
+   else
+       if readInteger(process) ~= readInteger(gameProcess) then
+          openProcess(gameProcess)
+      end
+   end
+else
+    beep() error(showMessage(string.format("%s is not running.",gameName)))
+end
+--; Auto Attach Process For User
+if syntaxcheck then return end
+function cycleFullCompact()
+  local state = not(compactmenuitem.Caption == 'Compact View Mode')
+  compactmenuitem.Caption = state and 'Compact View Mode' or 'Full View Mode'
+  getMainForm().Splitter1.Visible = state
+  getMainForm().Panel4.Visible = state
+  getMainForm().Panel5.Visible = state
+end
+function addCompactMenu()
+  if compactmenualreadyexists then return end
+  local parent = getMainForm().Menu.Items
+  compactmenuitem = createMenuItem(parent); parent.add(compactmenuitem)
+  compactmenuitem.Caption = 'Compact View Mode'
+  compactmenuitem.OnClick = cycleFullCompact
+  compactmenualreadyexists = 'yes'
+end
+addCompactMenu()
+cycleFullCompact()
+--; Add Comapact Mode
+messageDialog([[
+Author: G40sty
+]])
+
+
+</LuaScript>
+</CheatTable>
