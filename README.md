@@ -6,7 +6,7 @@ Saves Files: `C:\Users\Admin\AppData\Local\fnaf9\Saved\SaveGames`
 ### Cheat Engine
 2F850B42F70 - жизнь принцессы
 
-### UUU Command
+### [UUU Command](https://framedsc.com/GeneralGuides/universal_ue4_consoleunlocker.htm)
 - Open MAP_ChicasFeedingFrenzy
 - slomo `speed`
 - toggledebugcamera
