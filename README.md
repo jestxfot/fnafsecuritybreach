@@ -18,6 +18,7 @@ Saves Files: `C:\Users\Admin\AppData\Local\fnaf9\Saved\SaveGames`
 - summon vanny_c
 - summon vanessa_c
 - viewmode lit / shadercomplexity
+- showdebug
 
 ### [FnafMenuLoader (Fnaf Debug Menu)](https://github.com/Skizzium/FNaFMenuLoader)
 ### Archive
