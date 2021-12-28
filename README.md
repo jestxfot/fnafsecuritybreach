@@ -12,3 +12,6 @@ https://docs.google.com/document/d/1LZ3hHpNYAug7EtTcuXXcNdJjf6m8rsLaOncWLSnumE8/
 - slomo <speed>
 - toggledebugcamera
 - destroytarget
+- summon freddy_c
+- summon vanny_c
+- summon vanessa_c
