@@ -15,5 +15,6 @@ Saves Files: `C:\Users\Admin\AppData\Local\fnaf9\Saved\SaveGames`
 - summon vanny_c
 - summon vanessa_c
 
+### [FnafMenuLoader (Fnaf Debug Menu)](https://github.com/Skizzium/FNaFMenuLoader)
 ### Archive
 https://docs.google.com/document/d/1LZ3hHpNYAug7EtTcuXXcNdJjf6m8rsLaOncWLSnumE8/edit
