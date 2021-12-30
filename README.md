@@ -11,6 +11,7 @@ Saves Files: `C:\Users\Admin\AppData\Local\fnaf9\Saved\SaveGames`
 - open map_princessquest_titlemenu
 - open map_princessquest_titlemenu_act2
 - open map_princessquest_titlemenu_act3
+- open map_charactergallery
 - slomo `speed`
 - toggledebugcamera
 - destroytarget
