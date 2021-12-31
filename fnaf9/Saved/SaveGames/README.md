@@ -1,6 +1,8 @@
 # Save Games
 12 slot - after daycare
 <br>
+34 slot - FazbearBlast
+<br>
 37 slot - Chica Kitchen
 <br>
 40 slot - Afton Family
