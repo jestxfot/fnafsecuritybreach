@@ -22,6 +22,8 @@ Saves Files: `C:\Users\Admin\AppData\Local\fnaf9\Saved\SaveGames`
 - showdebug
 
 ### [FnafMenuLoader (Fnaf Debug Menu)](https://github.com/Skizzium/FNaFMenuLoader)
+
+### [Fnaf SB mod loader](https://cdn.kaydax.xyz/fnaf_sb_mod_loader.zip)
 Use [Unreal Engine Mod Loader](https://github.com/RussellJerome/UnrealModLoader)
 ### Archive
 https://docs.google.com/document/d/1LZ3hHpNYAug7EtTcuXXcNdJjf6m8rsLaOncWLSnumE8/edit
