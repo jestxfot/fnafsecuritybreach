@@ -9,6 +9,10 @@
 <br>
 41 slot - Roxy Raceway
 <br>
+42 slot - DJ Music Man
+<br>
+43 slot - Dj Music Man (done!)
+<br>
 45 slot - Monty Golf
 <br>
 49 slot - Monty Gold MiniGame Arcade
