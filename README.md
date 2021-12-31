@@ -4,7 +4,7 @@ AES: `0x85F7D4007015493ED0359C9007266038F8F7B1F96988F19A610103874CC95286`
 Saves Files: `C:\Users\Admin\AppData\Local\fnaf9\Saved\SaveGames`
 
 ### Cheat Engine
-2F850B42F70 - жизнь принцессы
+2F850B42F70 - lives Princess
 
 ### [UUU Command](https://framedsc.com/GeneralGuides/universal_ue4_consoleunlocker.htm)
 - Open MAP_ChicasFeedingFrenzy
