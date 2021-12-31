@@ -10,3 +10,5 @@
 41 slot - Roxy Raceway
 <br>
 45 slot - Monty Golf
+<br>
+49 slot - Monty Gold MiniGame Arcade
