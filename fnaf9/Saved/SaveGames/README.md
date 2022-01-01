@@ -1,6 +1,8 @@
 # Save Games
 1 slot - Freddy room
 <br>
+2 slot - Freddy charging station
+<br>
 3 slot - after 1st Chica (Monty jumpscare) 
 <br>
 4 slot - after office camera
