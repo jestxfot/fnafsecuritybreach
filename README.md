@@ -26,6 +26,7 @@ Saves Files: `C:\Users\Admin\AppData\Local\fnaf9\Saved\SaveGames`
 - destroypawns
 - enableonscreenmessages
 - ChangeSize
+- DestroyAll `type`
 
 ### [FnafMenuLoader (Fnaf Debug Menu)](https://github.com/Skizzium/FNaFMenuLoader)
 
