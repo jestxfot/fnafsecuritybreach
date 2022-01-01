@@ -21,6 +21,10 @@ Saves Files: `C:\Users\Admin\AppData\Local\fnaf9\Saved\SaveGames`
 - summon vanessa_c
 - viewmode lit / shadercomplexity
 - showdebug
+- restartlevel
+- pause
+- destroypawns
+- enableonscreenmessages
 
 ### [FnafMenuLoader (Fnaf Debug Menu)](https://github.com/Skizzium/FNaFMenuLoader)
 
