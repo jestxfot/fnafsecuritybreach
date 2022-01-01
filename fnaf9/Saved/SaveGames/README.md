@@ -3,6 +3,8 @@
 <br>
 3 slot - after 1st Chica (Monty jumpscare) 
 <br>
+4 slot - after office camera
+<br>
 12 slot - after daycare
 <br>
 34 slot - FazbearBlast
