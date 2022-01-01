@@ -1,4 +1,6 @@
 # Save Games
+3 slot - after 1st Chica (Monty jumpscare) 
+<br>
 12 slot - after daycare
 <br>
 34 slot - FazbearBlast
