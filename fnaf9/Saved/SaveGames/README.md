@@ -1,4 +1,6 @@
 # Save Games
+1 slot - Freddy room
+<br>
 3 slot - after 1st Chica (Monty jumpscare) 
 <br>
 12 slot - after daycare
