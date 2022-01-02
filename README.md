@@ -33,8 +33,8 @@
 | Summon PlayerControlledStaffBot_C | StaffBot Skeleton |
 | Summon CautionBot_C | 
 | Summon StaffBotSecurityPatrol_C |
-| Summon StaffbotTaskPlacement_C | WTF
-| Summon StaffBotWorkerPath_C | StaffBot jumpscare
+| Summon StaffbotTaskPlacement_C | WTF (cube) |
+| Summon StaffBotWorkerPath_C | StaffBot jumpscare |
 | ViewMode `value` | Values: `shadercomplexity` OR `lit`  |
 | ShowDebug |
 | RestartLevel |
