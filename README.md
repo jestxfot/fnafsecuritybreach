@@ -12,12 +12,12 @@
 ## [UUU Command](https://framedsc.com/GeneralGuides/universal_ue4_consoleunlocker.htm)
 | Command | Description |
 |---|-----------|
-| Open MAP_ChicasFeedingFrenzy | 
-| Open map_PrincessQuest_TitleMenu | 
-| Open map_PrincessQuest_TitleMenu_act2 |
-| Open map_PrincessQuest_TitleMenu_act3 |
-| Open map_charactergallery |
-| Open map_BowlingAlley_Test |
+| **Open** MAP_ChicasFeedingFrenzy | 
+| **Open** map_PrincessQuest_TitleMenu | 
+| **Open** map_PrincessQuest_TitleMenu_act2 |
+| **Open** map_PrincessQuest_TitleMenu_act3 |
+| **Open** map_charactergallery |
+| **Open** map_BowlingAlley_Test |
 | Slomo `value` | Speed Player: `0`, `1`, `2`, etc. |
 | ChangeSize `value` | Default: `1`|
 | ToggleDebugCamera | Values: `0`, `1`, `2` |
