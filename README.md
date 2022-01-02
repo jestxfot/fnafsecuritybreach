@@ -26,11 +26,11 @@
 | **Summon** vanny_c |
 | **Summon** vanessa_c |
 | **Summon** burntrap_c |
-| **Summon** PlayerControlledStaffBot_Kitchen_C | Lights??? |
 | **Summon** Gregory_C | 2 position (your position is bifurcated) |
 | **Summon** FirstPersonCharacter_C |
 | **Summon** StaffBotBase_C| :robot: StaffBot Original |
 | **Summon** PlayerControlledStaffBot_C | :robot: StaffBot Skeleton |
+| **Summon** PlayerControlledStaffBot_Kitchen_C | Lights??? |
 | **Summon** CautionBot_C | 
 | **Summon** StaffBotSecurityPatrol_C |
 | **Summon** StaffbotTaskPlacement_C | WTF (cube) |
