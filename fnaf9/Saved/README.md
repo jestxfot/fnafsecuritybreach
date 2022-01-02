@@ -8,8 +8,8 @@
 | 0 | 11 PM | Intro Game |
 | 1 | 11 PM | Freddy room |
 | 2 | 11 PM | Freddy charging station |
-| 3 | 11 PM | after 1st Chica (Monty jumpscare)  |
-| 4 | 11 PM | after office camera |
+| 3 | 11 PM | After 1st Chica (Monty jumpscare)  |
+| 4 | 11 PM | After office camera |
 | 5 | 12 AM |  |
 | 6 | 12 AM |  |
 | 7 | 12 AM |  |
@@ -17,7 +17,7 @@
 | 9 | 12 AM |  |
 | 10 | 12 AM |  |
 | 11 | 1 AM |  |
-| 12 | 12 AM | after daycare |
+| 12 | 12 AM | After daycare |
 | 13 | 1 AM |  |
 | 14 | 1 AM |  |
 | 15 | 1 AM |  |
