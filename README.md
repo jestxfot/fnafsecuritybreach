@@ -29,6 +29,7 @@ Open map_charactergallery
 ```
 Open map_BowlingAlley_Test
 ```
+### Player CMDs:
 ```
 Slomo `speed`
 ```
