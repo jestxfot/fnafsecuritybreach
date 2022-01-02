@@ -5,7 +5,7 @@
 
 | Slot № | Time | Description |
 |:---:|---|---|
-| 0 | 11 PM |  |
+| 0 | 11 PM | Intro Game |
 | 1 | 11 PM | Freddy room |
 | 2 | 11 PM | Freddy charging station |
 | 3 | 11 PM | after 1st Chica (Monty jumpscare)  |
