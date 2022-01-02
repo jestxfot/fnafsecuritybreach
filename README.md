@@ -35,13 +35,13 @@
 | **Summon** StaffBotSecurityPatrol_C |
 | **Summon** StaffbotTaskPlacement_C | WTF (cube) |
 | **Summon** StaffBotWorkerPath_C | :robot: StaffBot jumpscare |
-| ViewMode `value` | Values: `shadercomplexity` OR `lit`  |
-| ShowDebug |
-| RestartLevel |
-| Pause | HotKey: numpad 0 |
 | DestroyPawns | Destruction of ALL bots |
 | DestroyAll `name` | ??? |
+| ViewMode `value` | Values: `shadercomplexity` OR `lit`  |
+| ShowDebug |
 | EnableOnScreenMessages
+| Pause | HotKey: numpad 0 |
+| RestartLevel |
 
 ### [FnafMenuLoader (Fnaf Debug Menu)](https://github.com/Skizzium/FNaFMenuLoader)
 
