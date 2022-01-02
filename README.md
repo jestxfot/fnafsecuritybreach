@@ -66,6 +66,9 @@ Summon Gregory_C
 ```
 Summon FirstPersonCharacter_C
 ```
+```
+Summon CautionBot_C
+```
 ### Other CMDs
 ```
 ViewMode lit
