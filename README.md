@@ -52,9 +52,6 @@ Summon vanessa_c
 ```
 Summon burntrap_c
 ```
-```
-Summon PlayerControlledStaffBot_C
-```
 Lights???
 ```
 PlayerControlledStaffBot_Kitchen_C
@@ -65,6 +62,14 @@ Summon Gregory_C
 ```
 ```
 Summon FirstPersonCharacter_C
+```
+Original StaffBot:
+```
+Summon StaffBotBase_C
+```
+Skeleton StaffBot:
+```
+Summon PlayerControlledStaffBot_C
 ```
 ```
 Summon CautionBot_C
