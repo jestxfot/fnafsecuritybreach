@@ -81,6 +81,10 @@ WTF
 ```
 Summon StaffbotTaskPlacement_C
 ```
+StaffBot jumpscare:
+```
+Summon StaffBotWorkerPath_C
+```
 ### Other CMDs
 ```
 ViewMode lit
