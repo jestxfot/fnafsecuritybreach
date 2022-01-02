@@ -12,7 +12,7 @@
 ## [UUU Command](https://framedsc.com/GeneralGuides/universal_ue4_consoleunlocker.htm)
 | Command | Description |
 |---|-----------|
-| **Open** MAP_ChicasFeedingFrenzy | 
+| **Open** map_ChicasFeedingFrenzy | 
 | **Open** map_PrincessQuest_TitleMenu | 
 | **Open** map_PrincessQuest_TitleMenu_act2 |
 | **Open** map_PrincessQuest_TitleMenu_act3 |
