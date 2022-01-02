@@ -59,6 +59,10 @@ Lights???
 ```
 PlayerControlledStaffBot_Kitchen_C
 ```
+Gregory
+```
+Summon FirstPersonCharacter_C
+```
 ### Other CMDs
 ```
 ViewMode lit
