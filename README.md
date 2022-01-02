@@ -35,7 +35,7 @@
 | Summon StaffBotSecurityPatrol_C |
 | Summon StaffbotTaskPlacement_C | WTF
 | Summon StaffBotWorkerPath_C | StaffBot jumpscare
-| ViewMode | Values: `shadercomplexity` OR `lit`  |
+| ViewMode `value` | Values: `shadercomplexity` OR `lit`  |
 | ShowDebug |
 | RestartLevel |
 | Pause | HotKey: numpad 0 |
