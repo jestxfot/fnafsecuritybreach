@@ -36,7 +36,7 @@
 | **Summon** StaffbotTaskPlacement_C | WTF (cube) |
 | **Summon** StaffBotWorkerPath_C | :robot: StaffBot jumpscare |
 | DestroyPawns | Destruction of ALL bots |
-| DestroyAll `name` | ??? |
+| DestroyAll `value` | ??? |
 | ViewMode `value` | Values: `shadercomplexity` OR `lit`  |
 | ShowDebug |
 | EnableOnScreenMessages
