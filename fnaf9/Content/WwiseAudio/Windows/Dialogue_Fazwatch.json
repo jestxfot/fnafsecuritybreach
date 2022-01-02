@@ -1,0 +1,1193 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "140",
+  "RootPaths": {
+   "ProjectRoot": "I:\\Quarters\\fnaf9\\fnaf9_WwiseProject\\",
+   "SourceFilesRoot": "I:\\Quarters\\fnaf9\\fnaf9_WwiseProject\\.cache\\Windows\\",
+   "SoundBanksRoot": "I:\\Quarters\\fnaf9\\Content\\WwiseAudio\\Windows\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "I:\\Quarters\\fnaf9\\fnaf9_WwiseProject\\GeneratedSoundBanks\\Windows"
+  },
+  "SoundBanks": [
+   {
+    "Id": "2569781022",
+    "GUID": "{7A458C1B-199C-443F-928E-1A1E4A4D21CB}",
+    "Language": "SFX",
+    "Hash": "3336063595",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Dialogue_Fazwatch",
+    "ShortName": "Dialogue_Fazwatch",
+    "Path": "Dialogue_Fazwatch.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "3457921257",
+      "Name": "FREDDY_00053_fazwatch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Dialogue\\Freddy_Fazwatch\\FREDDY_00053_fazwatch",
+      "GUID": "{B3E7406F-6A0C-4CD5-9C9A-D1ED585FF12C}",
+      "DurationType": "OneShot",
+      "DurationMin": "5.343674",
+      "DurationMax": "5.343674",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "517086275",
+        "Language": "SFX",
+        "ShortName": "vo_freddy_00053_weShould_Pref.wav",
+        "Path": "SFX\\vo_freddy_00053_weShould_Pref_541FA035.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1963354648",
+        "Name": "Freddy_Fazwatch_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_Fazwatch\\Freddy_Fazwatch_ChicaVoiceBox",
+        "GUID": "{85E72EE5-1DD1-471E-AB47-59AC3345F64A}"
+       },
+       {
+        "Id": "2826426461",
+        "Name": "Freddy_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_ChicaVoiceBox",
+        "GUID": "{6B0B9E70-967F-4040-AFA6-F58AEA731575}"
+       },
+       {
+        "Id": "3299441632",
+        "Name": "Freddy_InsideFreddy",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_InsideFreddy",
+        "GUID": "{633C0E79-7B66-4184-AC89-FB3E24CA3BBB}"
+       }
+      ]
+     },
+     {
+      "Id": "1543910372",
+      "Name": "FREDDY_00054_fazwatch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Dialogue\\Freddy_Fazwatch\\FREDDY_00054_fazwatch",
+      "GUID": "{6E34ECF5-3931-4C7F-96AA-6F261E601ABD}",
+      "DurationType": "OneShot",
+      "DurationMin": "18.933016",
+      "DurationMax": "18.933016",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "809070400",
+        "Language": "SFX",
+        "ShortName": "vo_freddy_00054_gregoryI_Pref.wav",
+        "Path": "SFX\\vo_freddy_00054_gregoryI_Pref_541FA035.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1963354648",
+        "Name": "Freddy_Fazwatch_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_Fazwatch\\Freddy_Fazwatch_ChicaVoiceBox",
+        "GUID": "{85E72EE5-1DD1-471E-AB47-59AC3345F64A}"
+       }
+      ]
+     },
+     {
+      "Id": "3428069763",
+      "Name": "FREDDY_00055_fazwatch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Dialogue\\Freddy_Fazwatch\\FREDDY_00055_fazwatch",
+      "GUID": "{64233F9D-F94E-44BC-BA0E-45ED4633122B}",
+      "DurationType": "OneShot",
+      "DurationMin": "6.298345",
+      "DurationMax": "6.298345",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "115906598",
+        "Language": "SFX",
+        "ShortName": "vo_freddy_00055_itAppears_Pref.wav",
+        "Path": "SFX\\vo_freddy_00055_itAppears_Pref_541FA035.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1963354648",
+        "Name": "Freddy_Fazwatch_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_Fazwatch\\Freddy_Fazwatch_ChicaVoiceBox",
+        "GUID": "{85E72EE5-1DD1-471E-AB47-59AC3345F64A}"
+       }
+      ]
+     },
+     {
+      "Id": "2547484030",
+      "Name": "FREDDY_00056_fazwatch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Dialogue\\Freddy_Fazwatch\\FREDDY_00056_fazwatch",
+      "GUID": "{400EB36D-408D-4AFF-A06A-45D354E7B2CA}",
+      "DurationType": "OneShot",
+      "DurationMin": "7.617687",
+      "DurationMax": "7.617687",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "672921880",
+        "Language": "SFX",
+        "ShortName": "vo_freddy_00056_itLooks_Pref.wav",
+        "Path": "SFX\\vo_freddy_00056_itLooks_Pref_541FA035.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1963354648",
+        "Name": "Freddy_Fazwatch_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_Fazwatch\\Freddy_Fazwatch_ChicaVoiceBox",
+        "GUID": "{85E72EE5-1DD1-471E-AB47-59AC3345F64A}"
+       }
+      ]
+     },
+     {
+      "Id": "2082818992",
+      "Name": "FREDDY_00061_fazwatch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Dialogue\\Freddy_Fazwatch\\FREDDY_00061_fazwatch",
+      "GUID": "{04CF88BC-31B3-48F4-A0E6-A636AF3E25EE}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000"
+     },
+     {
+      "Id": "3733762241",
+      "Name": "FREDDY_00061a_fazwatch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Dialogue\\Freddy_Fazwatch\\FREDDY_00061a_fazwatch",
+      "GUID": "{A6A05F99-74D3-4B6B-B629-20F3D9E567C9}",
+      "DurationType": "OneShot",
+      "DurationMin": "3.681088",
+      "DurationMax": "3.681088",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "153897860",
+        "Language": "SFX",
+        "ShortName": "FREDDY_00061a.wav",
+        "Path": "SFX\\FREDDY_00061a_541FA035.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1963354648",
+        "Name": "Freddy_Fazwatch_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_Fazwatch\\Freddy_Fazwatch_ChicaVoiceBox",
+        "GUID": "{85E72EE5-1DD1-471E-AB47-59AC3345F64A}"
+       }
+      ]
+     },
+     {
+      "Id": "3433238582",
+      "Name": "FREDDY_00197_fazwatch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Dialogue\\Freddy_Fazwatch\\FREDDY_00197_fazwatch",
+      "GUID": "{D5F1B43D-B243-46A4-A638-DA41EC04AD8D}",
+      "DurationType": "OneShot",
+      "DurationMin": "14.653356",
+      "DurationMax": "14.653356",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "401839215",
+        "Language": "SFX",
+        "ShortName": "FREDDY_00197.wav",
+        "Path": "SFX\\FREDDY_00197_541FA035.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1963354648",
+        "Name": "Freddy_Fazwatch_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_Fazwatch\\Freddy_Fazwatch_ChicaVoiceBox",
+        "GUID": "{85E72EE5-1DD1-471E-AB47-59AC3345F64A}"
+       },
+       {
+        "Id": "2826426461",
+        "Name": "Freddy_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_ChicaVoiceBox",
+        "GUID": "{6B0B9E70-967F-4040-AFA6-F58AEA731575}"
+       },
+       {
+        "Id": "3299441632",
+        "Name": "Freddy_InsideFreddy",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_InsideFreddy",
+        "GUID": "{633C0E79-7B66-4184-AC89-FB3E24CA3BBB}"
+       }
+      ]
+     },
+     {
+      "Id": "295959495",
+      "Name": "FREDDY_00198_fazwatch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Dialogue\\Freddy_Fazwatch\\FREDDY_00198_fazwatch",
+      "GUID": "{4861CC5A-7F01-4D05-BB1E-411EACAD8E6F}",
+      "DurationType": "OneShot",
+      "DurationMin": "11.172902",
+      "DurationMax": "11.172902",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "597734879",
+        "Language": "SFX",
+        "ShortName": "FREDDY_00198.wav",
+        "Path": "SFX\\FREDDY_00198_541FA035.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1963354648",
+        "Name": "Freddy_Fazwatch_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_Fazwatch\\Freddy_Fazwatch_ChicaVoiceBox",
+        "GUID": "{85E72EE5-1DD1-471E-AB47-59AC3345F64A}"
+       },
+       {
+        "Id": "2826426461",
+        "Name": "Freddy_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_ChicaVoiceBox",
+        "GUID": "{6B0B9E70-967F-4040-AFA6-F58AEA731575}"
+       },
+       {
+        "Id": "3299441632",
+        "Name": "Freddy_InsideFreddy",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_InsideFreddy",
+        "GUID": "{633C0E79-7B66-4184-AC89-FB3E24CA3BBB}"
+       }
+      ]
+     },
+     {
+      "Id": "107441482",
+      "Name": "FREDDY_00203_fazwatch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Dialogue\\Freddy_Fazwatch\\FREDDY_00203_fazwatch",
+      "GUID": "{4D1B7D4B-3D0C-4452-98E9-DDF024661A64}",
+      "DurationType": "OneShot",
+      "DurationMin": "7.835170",
+      "DurationMax": "7.835170",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "309674420",
+        "Language": "SFX",
+        "ShortName": "FREDDY_00203.wav",
+        "Path": "SFX\\FREDDY_00203_541FA035.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1963354648",
+        "Name": "Freddy_Fazwatch_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_Fazwatch\\Freddy_Fazwatch_ChicaVoiceBox",
+        "GUID": "{85E72EE5-1DD1-471E-AB47-59AC3345F64A}"
+       },
+       {
+        "Id": "2826426461",
+        "Name": "Freddy_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_ChicaVoiceBox",
+        "GUID": "{6B0B9E70-967F-4040-AFA6-F58AEA731575}"
+       },
+       {
+        "Id": "3299441632",
+        "Name": "Freddy_InsideFreddy",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_InsideFreddy",
+        "GUID": "{633C0E79-7B66-4184-AC89-FB3E24CA3BBB}"
+       }
+      ]
+     },
+     {
+      "Id": "4203072267",
+      "Name": "FREDDY_00204_fazwatch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Dialogue\\Freddy_Fazwatch\\FREDDY_00204_fazwatch",
+      "GUID": "{E06739DD-BB1D-4DC3-9396-5AC04A24CDD3}",
+      "DurationType": "OneShot",
+      "DurationMin": "4.370317",
+      "DurationMax": "4.370317",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "749149838",
+        "Language": "SFX",
+        "ShortName": "FREDDY_00204.wav",
+        "Path": "SFX\\FREDDY_00204_541FA035.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1963354648",
+        "Name": "Freddy_Fazwatch_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_Fazwatch\\Freddy_Fazwatch_ChicaVoiceBox",
+        "GUID": "{85E72EE5-1DD1-471E-AB47-59AC3345F64A}"
+       },
+       {
+        "Id": "2826426461",
+        "Name": "Freddy_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_ChicaVoiceBox",
+        "GUID": "{6B0B9E70-967F-4040-AFA6-F58AEA731575}"
+       },
+       {
+        "Id": "3299441632",
+        "Name": "Freddy_InsideFreddy",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_InsideFreddy",
+        "GUID": "{633C0E79-7B66-4184-AC89-FB3E24CA3BBB}"
+       }
+      ]
+     },
+     {
+      "Id": "2310130156",
+      "Name": "FREDDY_00205_fazwatch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Dialogue\\Freddy_Fazwatch\\FREDDY_00205_fazwatch",
+      "GUID": "{55C5AD48-1D50-406E-AA25-DA8A18E82CDD}",
+      "DurationType": "OneShot",
+      "DurationMin": "11.675306",
+      "DurationMax": "11.675306",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "831309511",
+        "Language": "SFX",
+        "ShortName": "FREDDY_00205.wav",
+        "Path": "SFX\\FREDDY_00205_541FA035.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1963354648",
+        "Name": "Freddy_Fazwatch_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_Fazwatch\\Freddy_Fazwatch_ChicaVoiceBox",
+        "GUID": "{85E72EE5-1DD1-471E-AB47-59AC3345F64A}"
+       },
+       {
+        "Id": "2826426461",
+        "Name": "Freddy_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_ChicaVoiceBox",
+        "GUID": "{6B0B9E70-967F-4040-AFA6-F58AEA731575}"
+       },
+       {
+        "Id": "3299441632",
+        "Name": "Freddy_InsideFreddy",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_InsideFreddy",
+        "GUID": "{633C0E79-7B66-4184-AC89-FB3E24CA3BBB}"
+       }
+      ]
+     },
+     {
+      "Id": "4014254333",
+      "Name": "FREDDY_00206_fazwatch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Dialogue\\Freddy_Fazwatch\\FREDDY_00206_fazwatch",
+      "GUID": "{0365CDBF-6F9B-44D6-9D3C-BA07708C9973}",
+      "DurationType": "OneShot",
+      "DurationMin": "4.973197",
+      "DurationMax": "4.973197",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "40486238",
+        "Language": "SFX",
+        "ShortName": "FREDDY_00206.wav",
+        "Path": "SFX\\FREDDY_00206_541FA035.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1963354648",
+        "Name": "Freddy_Fazwatch_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_Fazwatch\\Freddy_Fazwatch_ChicaVoiceBox",
+        "GUID": "{85E72EE5-1DD1-471E-AB47-59AC3345F64A}"
+       },
+       {
+        "Id": "2826426461",
+        "Name": "Freddy_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_ChicaVoiceBox",
+        "GUID": "{6B0B9E70-967F-4040-AFA6-F58AEA731575}"
+       },
+       {
+        "Id": "3299441632",
+        "Name": "Freddy_InsideFreddy",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_InsideFreddy",
+        "GUID": "{633C0E79-7B66-4184-AC89-FB3E24CA3BBB}"
+       }
+      ]
+     },
+     {
+      "Id": "3644581638",
+      "Name": "FREDDY_00207_fazwatch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Dialogue\\Freddy_Fazwatch\\FREDDY_00207_fazwatch",
+      "GUID": "{188EE467-7D8B-43BB-95A9-5150B0CE3DC5}",
+      "DurationType": "OneShot",
+      "DurationMin": "4.788208",
+      "DurationMax": "4.788208",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "509963966",
+        "Language": "SFX",
+        "ShortName": "FREDDY_00207.wav",
+        "Path": "SFX\\FREDDY_00207_541FA035.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1963354648",
+        "Name": "Freddy_Fazwatch_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_Fazwatch\\Freddy_Fazwatch_ChicaVoiceBox",
+        "GUID": "{85E72EE5-1DD1-471E-AB47-59AC3345F64A}"
+       },
+       {
+        "Id": "2826426461",
+        "Name": "Freddy_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_ChicaVoiceBox",
+        "GUID": "{6B0B9E70-967F-4040-AFA6-F58AEA731575}"
+       },
+       {
+        "Id": "3299441632",
+        "Name": "Freddy_InsideFreddy",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_InsideFreddy",
+        "GUID": "{633C0E79-7B66-4184-AC89-FB3E24CA3BBB}"
+       }
+      ]
+     },
+     {
+      "Id": "326306583",
+      "Name": "FREDDY_00208_fazwatch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Dialogue\\Freddy_Fazwatch\\FREDDY_00208_fazwatch",
+      "GUID": "{8EEC2111-461D-4AAD-B9F1-926A8C6A55E9}",
+      "DurationType": "OneShot",
+      "DurationMin": "4.366826",
+      "DurationMax": "4.366826",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "97823422",
+        "Language": "SFX",
+        "ShortName": "FREDDY_00208.wav",
+        "Path": "SFX\\FREDDY_00208_541FA035.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1963354648",
+        "Name": "Freddy_Fazwatch_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_Fazwatch\\Freddy_Fazwatch_ChicaVoiceBox",
+        "GUID": "{85E72EE5-1DD1-471E-AB47-59AC3345F64A}"
+       },
+       {
+        "Id": "2826426461",
+        "Name": "Freddy_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_ChicaVoiceBox",
+        "GUID": "{6B0B9E70-967F-4040-AFA6-F58AEA731575}"
+       },
+       {
+        "Id": "3299441632",
+        "Name": "Freddy_InsideFreddy",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_InsideFreddy",
+        "GUID": "{633C0E79-7B66-4184-AC89-FB3E24CA3BBB}"
+       }
+      ]
+     },
+     {
+      "Id": "1729993528",
+      "Name": "FREDDY_00209_fazwatch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Dialogue\\Freddy_Fazwatch\\FREDDY_00209_fazwatch",
+      "GUID": "{66BB9D02-E57E-47B6-823A-349DA75A5002}",
+      "DurationType": "OneShot",
+      "DurationMin": "9.956758",
+      "DurationMax": "9.956758",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "108770549",
+        "Language": "SFX",
+        "ShortName": "FREDDY_00209.wav",
+        "Path": "SFX\\FREDDY_00209_541FA035.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1963354648",
+        "Name": "Freddy_Fazwatch_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_Fazwatch\\Freddy_Fazwatch_ChicaVoiceBox",
+        "GUID": "{85E72EE5-1DD1-471E-AB47-59AC3345F64A}"
+       },
+       {
+        "Id": "2826426461",
+        "Name": "Freddy_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_ChicaVoiceBox",
+        "GUID": "{6B0B9E70-967F-4040-AFA6-F58AEA731575}"
+       },
+       {
+        "Id": "3299441632",
+        "Name": "Freddy_InsideFreddy",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_InsideFreddy",
+        "GUID": "{633C0E79-7B66-4184-AC89-FB3E24CA3BBB}"
+       }
+      ]
+     },
+     {
+      "Id": "1301958746",
+      "Name": "FREDDY_00210_fazwatch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Dialogue\\Freddy_Fazwatch\\FREDDY_00210_fazwatch",
+      "GUID": "{2F37B360-BD90-4483-A953-7F1CE1397EE4}",
+      "DurationType": "OneShot",
+      "DurationMin": "7.794263",
+      "DurationMax": "7.794263",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "751889543",
+        "Language": "SFX",
+        "ShortName": "FREDDY_00210.wav",
+        "Path": "SFX\\FREDDY_00210_541FA035.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1963354648",
+        "Name": "Freddy_Fazwatch_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_Fazwatch\\Freddy_Fazwatch_ChicaVoiceBox",
+        "GUID": "{85E72EE5-1DD1-471E-AB47-59AC3345F64A}"
+       },
+       {
+        "Id": "2826426461",
+        "Name": "Freddy_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_ChicaVoiceBox",
+        "GUID": "{6B0B9E70-967F-4040-AFA6-F58AEA731575}"
+       },
+       {
+        "Id": "3299441632",
+        "Name": "Freddy_InsideFreddy",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_InsideFreddy",
+        "GUID": "{633C0E79-7B66-4184-AC89-FB3E24CA3BBB}"
+       }
+      ]
+     },
+     {
+      "Id": "3144964513",
+      "Name": "FREDDY_00211_fazwatch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Dialogue\\Freddy_Fazwatch\\FREDDY_00211_fazwatch",
+      "GUID": "{2F206008-EB97-4C0D-B037-24E3072D8BB9}",
+      "DurationType": "OneShot",
+      "DurationMin": "10.251746",
+      "DurationMax": "10.251746",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "367121199",
+        "Language": "SFX",
+        "ShortName": "FREDDY_00211.wav",
+        "Path": "SFX\\FREDDY_00211_541FA035.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1963354648",
+        "Name": "Freddy_Fazwatch_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_Fazwatch\\Freddy_Fazwatch_ChicaVoiceBox",
+        "GUID": "{85E72EE5-1DD1-471E-AB47-59AC3345F64A}"
+       },
+       {
+        "Id": "2826426461",
+        "Name": "Freddy_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_ChicaVoiceBox",
+        "GUID": "{6B0B9E70-967F-4040-AFA6-F58AEA731575}"
+       },
+       {
+        "Id": "3299441632",
+        "Name": "Freddy_InsideFreddy",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_InsideFreddy",
+        "GUID": "{633C0E79-7B66-4184-AC89-FB3E24CA3BBB}"
+       }
+      ]
+     },
+     {
+      "Id": "303238358",
+      "Name": "FREDDY_00214_fazwatch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Dialogue\\Freddy_Fazwatch\\FREDDY_00214_fazwatch",
+      "GUID": "{0483AB20-99A4-4B72-B052-D06264FC532F}",
+      "DurationType": "OneShot",
+      "DurationMin": "4.228481",
+      "DurationMax": "4.228481",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "64839814",
+        "Language": "SFX",
+        "ShortName": "FREDDY_00214.wav",
+        "Path": "SFX\\FREDDY_00214_541FA035.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1963354648",
+        "Name": "Freddy_Fazwatch_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_Fazwatch\\Freddy_Fazwatch_ChicaVoiceBox",
+        "GUID": "{85E72EE5-1DD1-471E-AB47-59AC3345F64A}"
+       },
+       {
+        "Id": "2826426461",
+        "Name": "Freddy_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_ChicaVoiceBox",
+        "GUID": "{6B0B9E70-967F-4040-AFA6-F58AEA731575}"
+       },
+       {
+        "Id": "3299441632",
+        "Name": "Freddy_InsideFreddy",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_InsideFreddy",
+        "GUID": "{633C0E79-7B66-4184-AC89-FB3E24CA3BBB}"
+       }
+      ]
+     },
+     {
+      "Id": "1053038811",
+      "Name": "FREDDY_00217_fazwatch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Dialogue\\Freddy_Fazwatch\\FREDDY_00217_fazwatch",
+      "GUID": "{C4EEFAAB-A951-4D91-80AE-245F0E72C559}",
+      "DurationType": "OneShot",
+      "DurationMin": "11.730295",
+      "DurationMax": "11.730295",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "780863894",
+        "Language": "SFX",
+        "ShortName": "FREDDY_00217.wav",
+        "Path": "SFX\\FREDDY_00217_541FA035.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1963354648",
+        "Name": "Freddy_Fazwatch_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_Fazwatch\\Freddy_Fazwatch_ChicaVoiceBox",
+        "GUID": "{85E72EE5-1DD1-471E-AB47-59AC3345F64A}"
+       },
+       {
+        "Id": "2826426461",
+        "Name": "Freddy_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_ChicaVoiceBox",
+        "GUID": "{6B0B9E70-967F-4040-AFA6-F58AEA731575}"
+       },
+       {
+        "Id": "3299441632",
+        "Name": "Freddy_InsideFreddy",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_InsideFreddy",
+        "GUID": "{633C0E79-7B66-4184-AC89-FB3E24CA3BBB}"
+       }
+      ]
+     },
+     {
+      "Id": "3902283554",
+      "Name": "FREDDY_00218_fazwatch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Dialogue\\Freddy_Fazwatch\\FREDDY_00218_fazwatch",
+      "GUID": "{583BFD91-16B7-443B-AD1F-0128BEBC5EBF}",
+      "DurationType": "OneShot",
+      "DurationMin": "9.723447",
+      "DurationMax": "9.723447",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "876556874",
+        "Language": "SFX",
+        "ShortName": "FREDDY_00218.wav",
+        "Path": "SFX\\FREDDY_00218_541FA035.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1963354648",
+        "Name": "Freddy_Fazwatch_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_Fazwatch\\Freddy_Fazwatch_ChicaVoiceBox",
+        "GUID": "{85E72EE5-1DD1-471E-AB47-59AC3345F64A}"
+       },
+       {
+        "Id": "2826426461",
+        "Name": "Freddy_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_ChicaVoiceBox",
+        "GUID": "{6B0B9E70-967F-4040-AFA6-F58AEA731575}"
+       },
+       {
+        "Id": "3299441632",
+        "Name": "Freddy_InsideFreddy",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_InsideFreddy",
+        "GUID": "{633C0E79-7B66-4184-AC89-FB3E24CA3BBB}"
+       }
+      ]
+     },
+     {
+      "Id": "3944462505",
+      "Name": "FREDDY_00219_fazwatch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Dialogue\\Freddy_Fazwatch\\FREDDY_00219_fazwatch",
+      "GUID": "{805B8C00-C4C9-49B3-98EF-0B1CD2DF2E77}",
+      "DurationType": "OneShot",
+      "DurationMin": "5.975125",
+      "DurationMax": "5.975125",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "264592289",
+        "Language": "SFX",
+        "ShortName": "FREDDY_00219.wav",
+        "Path": "SFX\\FREDDY_00219_541FA035.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1963354648",
+        "Name": "Freddy_Fazwatch_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_Fazwatch\\Freddy_Fazwatch_ChicaVoiceBox",
+        "GUID": "{85E72EE5-1DD1-471E-AB47-59AC3345F64A}"
+       },
+       {
+        "Id": "2826426461",
+        "Name": "Freddy_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_ChicaVoiceBox",
+        "GUID": "{6B0B9E70-967F-4040-AFA6-F58AEA731575}"
+       },
+       {
+        "Id": "3299441632",
+        "Name": "Freddy_InsideFreddy",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_InsideFreddy",
+        "GUID": "{633C0E79-7B66-4184-AC89-FB3E24CA3BBB}"
+       }
+      ]
+     },
+     {
+      "Id": "1858723622",
+      "Name": "FREDDY_00221_fazwatch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Dialogue\\Freddy_Fazwatch\\FREDDY_00221_fazwatch",
+      "GUID": "{5DCDCFBE-E390-4BDC-AD4E-B057F6726489}",
+      "DurationType": "OneShot",
+      "DurationMin": "3.227528",
+      "DurationMax": "3.227528",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "585916237",
+        "Language": "SFX",
+        "ShortName": "FREDDY_00221.wav",
+        "Path": "SFX\\FREDDY_00221_541FA035.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1963354648",
+        "Name": "Freddy_Fazwatch_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_Fazwatch\\Freddy_Fazwatch_ChicaVoiceBox",
+        "GUID": "{85E72EE5-1DD1-471E-AB47-59AC3345F64A}"
+       },
+       {
+        "Id": "2826426461",
+        "Name": "Freddy_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_ChicaVoiceBox",
+        "GUID": "{6B0B9E70-967F-4040-AFA6-F58AEA731575}"
+       },
+       {
+        "Id": "3299441632",
+        "Name": "Freddy_InsideFreddy",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_InsideFreddy",
+        "GUID": "{633C0E79-7B66-4184-AC89-FB3E24CA3BBB}"
+       }
+      ]
+     },
+     {
+      "Id": "1357677355",
+      "Name": "FREDDY_00222_fazwatch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Dialogue\\Freddy_Fazwatch\\FREDDY_00222_fazwatch",
+      "GUID": "{320C44C9-8149-421C-A2A9-0CFB90282ACA}",
+      "DurationType": "OneShot",
+      "DurationMin": "3.254240",
+      "DurationMax": "3.254240",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "141746147",
+        "Language": "SFX",
+        "ShortName": "FREDDY_00222.wav",
+        "Path": "SFX\\FREDDY_00222_541FA035.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1963354648",
+        "Name": "Freddy_Fazwatch_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_Fazwatch\\Freddy_Fazwatch_ChicaVoiceBox",
+        "GUID": "{85E72EE5-1DD1-471E-AB47-59AC3345F64A}"
+       },
+       {
+        "Id": "2826426461",
+        "Name": "Freddy_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_ChicaVoiceBox",
+        "GUID": "{6B0B9E70-967F-4040-AFA6-F58AEA731575}"
+       },
+       {
+        "Id": "3299441632",
+        "Name": "Freddy_InsideFreddy",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_InsideFreddy",
+        "GUID": "{633C0E79-7B66-4184-AC89-FB3E24CA3BBB}"
+       }
+      ]
+     },
+     {
+      "Id": "2690803212",
+      "Name": "FREDDY_00223_fazwatch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Dialogue\\Freddy_Fazwatch\\FREDDY_00223_fazwatch",
+      "GUID": "{89971107-FC3C-4D91-9E3F-EC8D9D105F12}",
+      "DurationType": "OneShot",
+      "DurationMin": "6.304331",
+      "DurationMax": "6.304331",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "1068548260",
+        "Language": "SFX",
+        "ShortName": "FREDDY_00223.wav",
+        "Path": "SFX\\FREDDY_00223_541FA035.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1963354648",
+        "Name": "Freddy_Fazwatch_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_Fazwatch\\Freddy_Fazwatch_ChicaVoiceBox",
+        "GUID": "{85E72EE5-1DD1-471E-AB47-59AC3345F64A}"
+       },
+       {
+        "Id": "2826426461",
+        "Name": "Freddy_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_ChicaVoiceBox",
+        "GUID": "{6B0B9E70-967F-4040-AFA6-F58AEA731575}"
+       },
+       {
+        "Id": "3299441632",
+        "Name": "Freddy_InsideFreddy",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_InsideFreddy",
+        "GUID": "{633C0E79-7B66-4184-AC89-FB3E24CA3BBB}"
+       }
+      ]
+     },
+     {
+      "Id": "330420202",
+      "Name": "FREDDY_00225_fazwatch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Dialogue\\Freddy_Fazwatch\\FREDDY_00225_fazwatch",
+      "GUID": "{332E478D-3CFB-42B6-AB30-BE108D847DF3}",
+      "DurationType": "OneShot",
+      "DurationMin": "13.751995",
+      "DurationMax": "13.751995",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "508360287",
+        "Language": "SFX",
+        "ShortName": "FREDDY_00225.wav",
+        "Path": "SFX\\FREDDY_00225_541FA035.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1963354648",
+        "Name": "Freddy_Fazwatch_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_Fazwatch\\Freddy_Fazwatch_ChicaVoiceBox",
+        "GUID": "{85E72EE5-1DD1-471E-AB47-59AC3345F64A}"
+       },
+       {
+        "Id": "2826426461",
+        "Name": "Freddy_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_ChicaVoiceBox",
+        "GUID": "{6B0B9E70-967F-4040-AFA6-F58AEA731575}"
+       },
+       {
+        "Id": "3299441632",
+        "Name": "Freddy_InsideFreddy",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_InsideFreddy",
+        "GUID": "{633C0E79-7B66-4184-AC89-FB3E24CA3BBB}"
+       }
+      ]
+     },
+     {
+      "Id": "1185849647",
+      "Name": "FREDDY_00226_fazwatch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Dialogue\\Freddy_Fazwatch\\FREDDY_00226_fazwatch",
+      "GUID": "{7A63FC79-EAFB-4702-9D1B-57A421AE7152}",
+      "DurationType": "OneShot",
+      "DurationMin": "10.766848",
+      "DurationMax": "10.766848",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "495409741",
+        "Language": "SFX",
+        "ShortName": "FREDDY_00226.wav",
+        "Path": "SFX\\FREDDY_00226_541FA035.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1963354648",
+        "Name": "Freddy_Fazwatch_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_Fazwatch\\Freddy_Fazwatch_ChicaVoiceBox",
+        "GUID": "{85E72EE5-1DD1-471E-AB47-59AC3345F64A}"
+       },
+       {
+        "Id": "2826426461",
+        "Name": "Freddy_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_ChicaVoiceBox",
+        "GUID": "{6B0B9E70-967F-4040-AFA6-F58AEA731575}"
+       },
+       {
+        "Id": "3299441632",
+        "Name": "Freddy_InsideFreddy",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_InsideFreddy",
+        "GUID": "{633C0E79-7B66-4184-AC89-FB3E24CA3BBB}"
+       }
+      ]
+     },
+     {
+      "Id": "4178784453",
+      "Name": "FREDDY_00228_fazwatch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Dialogue\\Freddy_Fazwatch\\FREDDY_00228_fazwatch",
+      "GUID": "{E53E72BD-B211-4EF0-BC1C-278717D14816}",
+      "DurationType": "OneShot",
+      "DurationMin": "14.818775",
+      "DurationMax": "14.818775",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "339280514",
+        "Language": "SFX",
+        "ShortName": "FREDDY_00228.wav",
+        "Path": "SFX\\FREDDY_00228_541FA035.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1963354648",
+        "Name": "Freddy_Fazwatch_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_Fazwatch\\Freddy_Fazwatch_ChicaVoiceBox",
+        "GUID": "{85E72EE5-1DD1-471E-AB47-59AC3345F64A}"
+       },
+       {
+        "Id": "2826426461",
+        "Name": "Freddy_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_ChicaVoiceBox",
+        "GUID": "{6B0B9E70-967F-4040-AFA6-F58AEA731575}"
+       },
+       {
+        "Id": "3299441632",
+        "Name": "Freddy_InsideFreddy",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_InsideFreddy",
+        "GUID": "{633C0E79-7B66-4184-AC89-FB3E24CA3BBB}"
+       }
+      ]
+     },
+     {
+      "Id": "3646515726",
+      "Name": "FREDDY_00229_fazwatch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Dialogue\\Freddy_Fazwatch\\FREDDY_00229_fazwatch",
+      "GUID": "{568EF907-959C-45B7-999F-2A725EFB3FFB}",
+      "DurationType": "OneShot",
+      "DurationMin": "11.821519",
+      "DurationMax": "11.821519",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "326477933",
+        "Language": "SFX",
+        "ShortName": "FREDDY_00229.wav",
+        "Path": "SFX\\FREDDY_00229_541FA035.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1963354648",
+        "Name": "Freddy_Fazwatch_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_Fazwatch\\Freddy_Fazwatch_ChicaVoiceBox",
+        "GUID": "{85E72EE5-1DD1-471E-AB47-59AC3345F64A}"
+       },
+       {
+        "Id": "2826426461",
+        "Name": "Freddy_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_ChicaVoiceBox",
+        "GUID": "{6B0B9E70-967F-4040-AFA6-F58AEA731575}"
+       },
+       {
+        "Id": "3299441632",
+        "Name": "Freddy_InsideFreddy",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_InsideFreddy",
+        "GUID": "{633C0E79-7B66-4184-AC89-FB3E24CA3BBB}"
+       }
+      ]
+     },
+     {
+      "Id": "1549082792",
+      "Name": "FREDDY_00230_fazwatch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Dialogue\\Freddy_Fazwatch\\FREDDY_00230_fazwatch",
+      "GUID": "{337B1B95-FC5C-4469-ACC2-7B10AF955C1E}",
+      "DurationType": "OneShot",
+      "DurationMin": "16.858685",
+      "DurationMax": "16.858685",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "425836821",
+        "Language": "SFX",
+        "ShortName": "FREDDY_00230.wav",
+        "Path": "SFX\\FREDDY_00230_541FA035.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1963354648",
+        "Name": "Freddy_Fazwatch_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_Fazwatch\\Freddy_Fazwatch_ChicaVoiceBox",
+        "GUID": "{85E72EE5-1DD1-471E-AB47-59AC3345F64A}"
+       },
+       {
+        "Id": "2826426461",
+        "Name": "Freddy_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_ChicaVoiceBox",
+        "GUID": "{6B0B9E70-967F-4040-AFA6-F58AEA731575}"
+       },
+       {
+        "Id": "3299441632",
+        "Name": "Freddy_InsideFreddy",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_InsideFreddy",
+        "GUID": "{633C0E79-7B66-4184-AC89-FB3E24CA3BBB}"
+       }
+      ]
+     },
+     {
+      "Id": "3524039175",
+      "Name": "FREDDY_00231_fazwatch",
+      "ObjectPath": "\\Events\\Default Work Unit\\FREDDY_00231_fazwatch",
+      "GUID": "{5724F84C-6578-4FF7-BC7C-57E318751EBB}",
+      "DurationType": "OneShot",
+      "DurationMin": "4.481565",
+      "DurationMax": "4.481565",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "587670395",
+        "Language": "SFX",
+        "ShortName": "FREDDY_00231.wav",
+        "Path": "SFX\\FREDDY_00231_541FA035.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1963354648",
+        "Name": "Freddy_Fazwatch_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_Fazwatch\\Freddy_Fazwatch_ChicaVoiceBox",
+        "GUID": "{85E72EE5-1DD1-471E-AB47-59AC3345F64A}"
+       },
+       {
+        "Id": "2826426461",
+        "Name": "Freddy_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_ChicaVoiceBox",
+        "GUID": "{6B0B9E70-967F-4040-AFA6-F58AEA731575}"
+       },
+       {
+        "Id": "3299441632",
+        "Name": "Freddy_InsideFreddy",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_InsideFreddy",
+        "GUID": "{633C0E79-7B66-4184-AC89-FB3E24CA3BBB}"
+       }
+      ]
+     },
+     {
+      "Id": "2602237762",
+      "Name": "FREDDY_00232_fazwatch",
+      "ObjectPath": "\\Events\\Default Work Unit\\FREDDY_00232_fazwatch",
+      "GUID": "{BF0FEA5E-2D75-4550-8B5A-4E078E00709B}",
+      "DurationType": "OneShot",
+      "DurationMin": "4.411179",
+      "DurationMax": "4.411179",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "507609703",
+        "Language": "SFX",
+        "ShortName": "FREDDY_00232.wav",
+        "Path": "SFX\\FREDDY_00232_541FA035.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1963354648",
+        "Name": "Freddy_Fazwatch_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_Fazwatch\\Freddy_Fazwatch_ChicaVoiceBox",
+        "GUID": "{85E72EE5-1DD1-471E-AB47-59AC3345F64A}"
+       },
+       {
+        "Id": "2826426461",
+        "Name": "Freddy_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_ChicaVoiceBox",
+        "GUID": "{6B0B9E70-967F-4040-AFA6-F58AEA731575}"
+       },
+       {
+        "Id": "3299441632",
+        "Name": "Freddy_InsideFreddy",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_InsideFreddy",
+        "GUID": "{633C0E79-7B66-4184-AC89-FB3E24CA3BBB}"
+       }
+      ]
+     },
+     {
+      "Id": "1836904547",
+      "Name": "FREDDY_00235_fazwatch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Dialogue\\Freddy_Fazwatch\\FREDDY_00235_fazwatch",
+      "GUID": "{24379895-0912-4348-A1B1-56C9FA700887}",
+      "DurationType": "OneShot",
+      "DurationMin": "9.841564",
+      "DurationMax": "9.841564",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "1013234840",
+        "Language": "SFX",
+        "ShortName": "FREDDY_00235.wav",
+        "Path": "SFX\\FREDDY_00235_541FA035.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1963354648",
+        "Name": "Freddy_Fazwatch_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_Fazwatch\\Freddy_Fazwatch_ChicaVoiceBox",
+        "GUID": "{85E72EE5-1DD1-471E-AB47-59AC3345F64A}"
+       },
+       {
+        "Id": "2826426461",
+        "Name": "Freddy_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_ChicaVoiceBox",
+        "GUID": "{6B0B9E70-967F-4040-AFA6-F58AEA731575}"
+       },
+       {
+        "Id": "3299441632",
+        "Name": "Freddy_InsideFreddy",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_InsideFreddy",
+        "GUID": "{633C0E79-7B66-4184-AC89-FB3E24CA3BBB}"
+       }
+      ]
+     },
+     {
+      "Id": "4105838925",
+      "Name": "FREDDY_00235b_fazwatch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Dialogue\\Freddy_Fazwatch\\FREDDY_00235b_fazwatch",
+      "GUID": "{409818D8-4F27-4A65-B7E1-7001B9C0E9FF}",
+      "DurationType": "OneShot",
+      "DurationMin": "9.308390",
+      "DurationMax": "9.308390",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "1029739283",
+        "Language": "SFX",
+        "ShortName": "FREDDY_00235b_pref.wav",
+        "Path": "SFX\\FREDDY_00235b_pref_541FA035.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1963354648",
+        "Name": "Freddy_Fazwatch_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_Fazwatch\\Freddy_Fazwatch_ChicaVoiceBox",
+        "GUID": "{85E72EE5-1DD1-471E-AB47-59AC3345F64A}"
+       },
+       {
+        "Id": "2826426461",
+        "Name": "Freddy_ChicaVoiceBox",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_ChicaVoiceBox",
+        "GUID": "{6B0B9E70-967F-4040-AFA6-F58AEA731575}"
+       },
+       {
+        "Id": "3299441632",
+        "Name": "Freddy_InsideFreddy",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\Pause Bus\\Dialogue\\Dialogue_Ducking\\Dialogue_FreddyGregory\\Freddy_InsideFreddy",
+        "GUID": "{633C0E79-7B66-4184-AC89-FB3E24CA3BBB}"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "183903552",
+      "Name": "occlusion",
+      "ObjectPath": "\\Game Parameters\\bind_to_parameters\\occlusion",
+      "GUID": "{8D5CD7F0-0D05-416B-83A8-C86EB18CF773}"
+     },
+     {
+      "Id": "3298513196",
+      "Name": "freddy_voicebox_installed",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\freddy_voicebox_installed",
+      "GUID": "{D78C0CFB-133C-446C-B86E-9AF7BEDFE29B}"
+     },
+     {
+      "Id": "3436536763",
+      "Name": "GREGORY_OUTSIDE_FREDDY",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\GREGORY_OUTSIDE_FREDDY",
+      "GUID": "{09E398A7-CDE7-43F5-9BFB-64A8F6D4EDB8}"
+     }
+    ]
+   }
+  ]
+ }
+}

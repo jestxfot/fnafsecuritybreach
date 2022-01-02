@@ -1,0 +1,212 @@
+Event	ID	Name			Wwise Object Path	Notes
+	236725868	Stop_mus_phantogeusia			\Default Work Unit\MusicStreaming\Stop_mus_phantogeusia	
+	239250967	Play_mus_FreddysFanfare_80sSynth_elevator			\Default Work Unit\MusicStreaming\Play_mus_FreddysFanfare_80sSynth_elevator	
+	428487280	Stop_MINI_GOLF_INTRO___FINAL___09_10_21			\Default Work Unit\MusicStreaming\Stop_MINI_GOLF_INTRO___FINAL___09_10_21	
+	429560537	Play_mus_FreddysFanfare_80sSynth_elevator_sinkhole			\Default Work Unit\MusicStreaming\Play_mus_FreddysFanfare_80sSynth_elevator_sinkhole	
+	598258058	Stop_mus_hour3_PostPrizeCounter			\Default Work Unit\MusicStreaming\Stop_mus_hour3_PostPrizeCounter	
+	663513444	Play_mus_theNerveCutter			\Default Work Unit\MusicStreaming\Play_mus_theNerveCutter	
+	701957048	Stop_mus_hour3_ChicaBathroom			\Default Work Unit\MusicStreaming\Stop_mus_hour3_ChicaBathroom	
+	709504947	Stop_mus_FreddysFanfare_80sSynth_elevator_sinkhole			\Default Work Unit\MusicStreaming\Stop_mus_FreddysFanfare_80sSynth_elevator_sinkhole	
+	739692312	Play_mus_FreddysFanfare_Organ			\Default Work Unit\MusicStreaming\Play_mus_FreddysFanfare_Organ	
+	916771563	Stop_mus_DJMM_arcade			\Default Work Unit\MusicStreaming\Stop_mus_DJMM_arcade	
+	973583313	Play_mus_DJMM_arcade			\Default Work Unit\MusicStreaming\Play_mus_DJMM_arcade	
+	1035189163	Play_mus_silence			\Default Work Unit\MusicStreaming\Play_mus_silence	
+	1101808264	Stop_mus_LMM_vent			\Default Work Unit\MusicStreaming\Stop_mus_LMM_vent	
+	1120244337	Play_mus_hour3_AtriumExplore			\Default Work Unit\MusicStreaming\Play_mus_hour3_AtriumExplore	
+	1177805636	Play_mus_foreverAndEver_old			\Default Work Unit\MusicStreaming\Play_mus_foreverAndEver_old	
+	1271110762	Play_MINI_GOLF_INTRO___FINAL___09_10_21			\Default Work Unit\MusicStreaming\Play_MINI_GOLF_INTRO___FINAL___09_10_21	
+	1315258658	Stop_mus_Atmosphere2			\Default Work Unit\MusicStreaming\Stop_mus_Atmosphere2	
+	1389152978	Play_mus_FreddysTheme_HologramStage			\Default Work Unit\MusicStreaming\Play_mus_FreddysTheme_HologramStage	
+	1408360131	Play_mus_FreddysFanfare_Muzak			\Default Work Unit\MusicStreaming\Play_mus_FreddysFanfare_Muzak	
+	1418075832	Play_mus_Atmosphere2			\Default Work Unit\MusicStreaming\Play_mus_Atmosphere2	
+	1431331473	Stop_mus_FreddysFanfare_80sSynth_elevator			\Default Work Unit\MusicStreaming\Stop_mus_FreddysFanfare_80sSynth_elevator	
+	1514742834	Play_F9_Intro_Leadin			\Default Work Unit\MusicStreaming\Play_F9_Intro_Leadin	
+	1644216655	Stop_mus_hour3_AtriumExplore			\Default Work Unit\MusicStreaming\Stop_mus_hour3_AtriumExplore	
+	1718369076	Play_F9_IntroMusic_TEMP			\Default Work Unit\MusicStreaming\Play_F9_IntroMusic_TEMP	
+	1894732136	Play_mus_titlescreen_waterphone			\Default Work Unit\MusicStreaming\Play_mus_titlescreen_waterphone	
+	1910456559	Play_mus_chicasFeedingFrenzy			\Default Work Unit\MusicStreaming\Play_mus_chicasFeedingFrenzy	
+	2019130711	Play_mus_titlescreen_wooo			\Default Work Unit\MusicStreaming\Play_mus_titlescreen_wooo	
+	2102504521	Play_mus_titlescreen_buzzdrip			\Default Work Unit\MusicStreaming\Play_mus_titlescreen_buzzdrip	
+	2242531958	Stop_mus_theNerveCutter			\Default Work Unit\MusicStreaming\Stop_mus_theNerveCutter	
+	2258018844	Play_mus_hour3_PostPrizeCounter			\Default Work Unit\MusicStreaming\Play_mus_hour3_PostPrizeCounter	
+	2429112633	Stop_mus_chicasFeedingFrenzy			\Default Work Unit\MusicStreaming\Stop_mus_chicasFeedingFrenzy	
+	2803195986	Play_mus_foreverAndEver_full			\Default Work Unit\MusicStreaming\Play_mus_foreverAndEver_full	
+	2824278704	Play_mus_titlescreen_echoclack			\Default Work Unit\MusicStreaming\Play_mus_titlescreen_echoclack	
+	3090866678	Play_mus_LMM_vent			\Default Work Unit\MusicStreaming\Play_mus_LMM_vent	
+	3125286452	Stop_mus_snapGoesTheSfinalChord			\Default Work Unit\MusicStreaming\Stop_mus_snapGoesTheSfinalChord	
+	3130331750	Play_mus_FreddysFanfare_80sSynth			\Default Work Unit\MusicStreaming\Play_mus_FreddysFanfare_80sSynth	
+	3219624011	Play_mus_titlescreen_musicbox			\Default Work Unit\MusicStreaming\Play_mus_titlescreen_musicbox	
+	3224492330	Play_mus_snapGoesTheSfinalChord			\Default Work Unit\MusicStreaming\Play_mus_snapGoesTheSfinalChord	
+	3228103830	Play_mus_hour3_ChicaBathroom			\Default Work Unit\MusicStreaming\Play_mus_hour3_ChicaBathroom	
+	3614092622	Play_mus_phantogeusia			\Default Work Unit\MusicStreaming\Play_mus_phantogeusia	
+	3679325784	Play_mus_hour4_afterShowtime_moonman_tension			\Default Work Unit\Hours\Hour4\Play_mus_hour4_afterShowtime_moonman_tension	
+	4126594186	Stop_mus_hour4_afterShowtime_moonman_tension			\Default Work Unit\Hours\Hour4\Stop_mus_hour4_afterShowtime_moonman_tension	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	1389408139	djmusicman_stage			\music\djmusicman_stage	
+
+Switch	ID	Name	Switch Group			Notes
+	936729720	stage3	djmusicman_stage			
+	936729721	stage2	djmusicman_stage			
+	936729722	stage1	djmusicman_stage			
+	936729725	stage6	djmusicman_stage			
+	936729726	stage5	djmusicman_stage			
+	936729727	stage4	djmusicman_stage			
+
+State Group	ID	Name			Wwise Object Path	Notes
+	378812136	hour4_showtime			\story_moments\hour4_showtime	
+	511511205	hour3_prizeCounterPostOG			\atmosphere_music\hour3_prizeCounterPostOG	
+	877642339	cinematics			\story_moments\cinematics	
+	2095737386	office_game			\story_moments\office_game	
+	2621771053	DJMM_music			\story_moments\DJMM_music	
+	3528969519	elevator_music			\atmosphere_music\elevator_music	
+	3538823496	hiding			\Default Work Unit\hiding	
+	4054184860	LOCATION_MUSIC			\Default Work Unit\LOCATION_MUSIC	
+
+State	ID	Name	State Group			Notes
+	58138747	active	hour4_showtime			
+	748895195	None	hour4_showtime			
+	58138747	active	hour3_prizeCounterPostOG			
+	748895195	None	hour3_prizeCounterPostOG			
+	1381183024	roxyEncounter	hour3_prizeCounterPostOG			
+	179926554	hour2_sunmanCarryPlayer	cinematics			
+	226153362	chicaBossBattleIntro	cinematics			
+	440612544	ending_gregoryInAlley	cinematics			
+	710521474	dumpBallsMonty	cinematics			
+	748895195	None	cinematics			
+	790502354	stageLift	cinematics			
+	1029351162	hour1_getOutOfFreddy	cinematics			
+	1177990589	ending_burntrap	cinematics			
+	1430576587	hour1_vanessaWalksBy	cinematics			
+	1458317405	montyBossBattleIntro	cinematics			
+	2178279524	overtime_endGame	cinematics			
+	2339442211	hour1_walkToFirstAid	cinematics			
+	2424749623	hour3_littleMusicManVent	cinematics			
+	2434794556	ending_vip	cinematics			
+	2513513052	hour3_chicaKitchen_Static	cinematics			
+	2517651529	hour1_firstAidDialogue	cinematics			
+	2525860868	hour1_afterIntroVideo	cinematics			
+	2571510049	ending_vannyDestroy	cinematics			
+	2631564358	roxyBossBattleIntro	cinematics			
+	2632086901	ending_vannyRedeem	cinematics			
+	2646572446	hour2_sunmanIntro	cinematics			
+	2756657571	hour4_lostAndFound	cinematics			
+	2939560893	hour5_endoIntro	cinematics			
+	2968865688	hour2_slideNoEntry	cinematics			
+	2975652148	ending_loadingDock	cinematics			
+	2975896672	hour1_introVideo	cinematics			
+	3200292227	dumpBallsMonty_sloMo	cinematics			
+	3422007485	hour4_transitionToLostAndFound	cinematics			
+	3516848363	hour2_kickedOutOfDaycare	cinematics			
+	3707806325	overtime_vannyIntro	cinematics			
+	3724300962	hour1_startInFreddy	cinematics			
+	3730917311	hour3_chicaKitchen	cinematics			
+	3878647458	hour3_elevatorTrap	cinematics			
+	4006066345	hour2_transitionToMoonMan	cinematics			
+	4083394624	burntrapBossBattleIntro	cinematics			
+	4098128287	roxyBossBattleIntro_sloMo	cinematics			
+	4222242326	hour4_mmattack	cinematics			
+	4286150249	hour2_slideEnter	cinematics			
+	135588769	prizeCounter	office_game			
+	479909808	roxyBossBattle	office_game			
+	748895195	None	office_game			
+	1517441814	vannyBossBattle	office_game			
+	1543687740	underground	office_game			
+	1586158131	kitchen	office_game			
+	2470573081	montyBossBattle	office_game			
+	2852108392	westArcade	office_game			
+	3341690334	daycare	office_game			
+	3505015852	chicaBossBattle	office_game			
+	3538421602	backstage	office_game			
+	3991556185	fazerblast	office_game			
+	58138747	active	DJMM_music			
+	748895195	None	DJMM_music			
+	58138747	active	elevator_music			
+	748895195	None	elevator_music			
+	748895195	None	hiding			
+	4230341173	hiding_active	hiding			
+	748895195	None	LOCATION_MUSIC			
+	1218694439	MUS_FazerblastJam	LOCATION_MUSIC			
+	1285837047	MUS_FreddysTheme_Organ	LOCATION_MUSIC			
+	1573868719	MUS_SpaceLobby	LOCATION_MUSIC			
+	1583389107	MUS_FreddysTheme_80sSynth	LOCATION_MUSIC			
+	1769899787	MUS_GolfSwamp	LOCATION_MUSIC			
+	1825203175	MUS_None	LOCATION_MUSIC			
+	2269017259	MUS_RoxyRaceway	LOCATION_MUSIC			
+	2442534611	MUS_ElChips	LOCATION_MUSIC			
+	2864353648	MUS_FreddysTheme_Muzak	LOCATION_MUSIC			
+	3351653077	MUS_Arcade	LOCATION_MUSIC			
+	4092072802	MUS_Daycare	LOCATION_MUSIC			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	483119	active	elevator_music	\Interactive Music Hierarchy\LocationMusic\OpenWorldMusic\HologramStage\mus_FreddysTheme_HologramStage		
+	11716041	active	DJMM_music	\Interactive Music Hierarchy\LocationMusic\LocationMusic		
+	36578235	vannyBossBattle	office_game	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\StoryTensions		
+	119323508	active	hour4_showtime	\Interactive Music Hierarchy\LocationMusic\LocationMusic		
+	264551528	hour4_lostAndFound	cinematics	\Interactive Music Hierarchy\LocationMusic\LocationMusic		
+	266794669	active	elevator_music	\Interactive Music Hierarchy\LocationMusic\OpenWorldMusic\HologramStage\mus_FreddysTheme_HologramStage_Distant		
+	314946465	hour3_elevatorTrap	cinematics	\Interactive Music Hierarchy\LocationMusic\LocationMusic		
+	466815993	hour4_transitionToLostAndFound	cinematics	\Interactive Music Hierarchy\LocationMusic\LocationMusic		
+	568992595	burntrapBossBattleIntro	cinematics	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem		
+	604237497	hour2_sunmanIntro	cinematics	\Interactive Music Hierarchy\LocationMusic\LocationMusic		
+	648178151	hiding_active	hiding	\Interactive Music Hierarchy\LocationMusic\LocationMusic		
+	750050915	MUS_SpaceLobby	LOCATION_MUSIC	\Interactive Music Hierarchy\LocationMusic\OpenWorldMusic\HologramStage\mus_FreddysTheme_HologramStage_Distant		
+	763835356	roxyEncounter	hour3_prizeCounterPostOG	\Interactive Music Hierarchy\LocationMusic\LocationMusic		
+	850059596	active	hour3_prizeCounterPostOG	\Interactive Music Hierarchy\LocationMusic\LocationMusic		
+	861428432	active	elevator_music	\Interactive Music Hierarchy\LocationMusic\LocationMusic		
+	1045565613	MUS_ElChips	LOCATION_MUSIC	\Interactive Music Hierarchy\LocationMusic\OpenWorldMusic\HologramStage\mus_FreddysTheme_HologramStage_Distant		
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	11027689	vanny_threat_level			\tension\vanny_threat_level	
+	183903552	occlusion			\bind_to_parameters\occlusion	
+	411474615	djmm_beat_level			\hour6\djmm_beat_level	
+	1437246667	azimuth			\bind_to_parameters\azimuth	
+	1745535041	emitter_cone			\bind_to_parameters\emitter_cone	
+	2597585438	hour4_elevatorDescend_automation			\hour4\hour4_elevatorDescend_automation	
+	3820641237	AI_PROXIMITY			\tension\AI_PROXIMITY	
+	3927966044	light_active			\Default Work Unit\light_active	
+
+Effect plug-ins	ID	Name	Type				Notes
+	2369861920	Dual_Filters_Radio_Comm_01	Wwise Parametric EQ			
+	2369861923	Dual_Filters_Radio_Comm_02	Wwise Parametric EQ			
+	3593642777	Room_Large_Tiled	Wwise RoomVerb			
+	3796564934	Hard_Knee_Minus_3dB_RMS	Wwise Compressor			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	20204265	07 PRIZE BOX - Theme D - Closure	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\07 PRIZE BOX - Theme D - Closure_F585A561.wem		\Interactive Music Hierarchy\Default Work Unit\OneShotMusic_3D\mus_silence\07 PRIZE BOX - Theme D - Closure		369208
+	268211433	DJ Music Man part 04 - 04-15-21	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\DJ Music Man part 04 - 04-15-21_F585A561.wem		\Interactive Music Hierarchy\DJ Music Man\DJMM\DJMM_Part4\DJ Music Man part 04 - 04-15-21\DJ Music Man part 04 - 04-15-21		5032
+	389726121	DJ Music Man part 03 - 04-15-21	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\DJ Music Man part 03 - 04-15-21_F585A561.wem		\Interactive Music Hierarchy\DJ Music Man\DJMM\DJMM_Part3\DJ Music Man part 03 - 04-15-21\DJ Music Man part 03 - 04-15-21		5032
+	631996518	DJ Music Man part 05 - 04-15-21	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\DJ Music Man part 05 - 04-15-21_F585A561.wem		\Interactive Music Hierarchy\DJ Music Man\DJMM\DJMM_Part4\DJ Music Man part 05 - 04-15-21\DJ Music Man part 05 - 04-15-21		5032
+	675627666	Freddy Main Theme - 10-04-21 - Locked Radio Mix	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\Freddy Main Theme - 10-04-21 - Locked Radio Mix_F585A561.wem		\Interactive Music Hierarchy\LocationMusic\OpenWorldMusic\HologramStage\mus_FreddysTheme_HologramStage\Freddy Main Theme - 10-04-21 - Locked Radio Mix\Freddy Main Theme - 10-04-21 - Locked Radio Mix		24904
+	706585598	DJ Music Man part FILL - 04-15-21	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\DJ Music Man part FILL - 04-15-21_F585A561.wem		\Interactive Music Hierarchy\DJ Music Man\DJMM\DJ Music Man part FILL - 04-15-21\DJ Music Man part FILL - 04-15-21		5032
+	986924068	DJ Music Man part 01 - 04-15-21	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\DJ Music Man part 01 - 04-15-21_F585A561.wem		\Interactive Music Hierarchy\DJ Music Man\DJMM\DJMM_Part1\DJ Music Man part 01 - 04-15-21\DJ Music Man part 01 - 04-15-21		5032
+	1003347199	DJ Music Man part 06 - 04-15-21	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\DJ Music Man part 06 - 04-15-21_F585A561.wem		\Interactive Music Hierarchy\DJ Music Man\DJMM\DJMM_Part6\DJ Music Man part 06 - 04-15-21\DJ Music Man part 06 - 04-15-21		5032
+	1004810230	DJ Music Man part 02 - 04-15-21	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\DJ Music Man part 02 - 04-15-21_F585A561.wem		\Interactive Music Hierarchy\DJ Music Man\DJMM\DJMM_Part2\DJ Music Man part 02 - 04-15-21\DJ Music Man part 02 - 04-15-21		5032
+	1056413595	MINI GOLF INTRO - FINAL - 09-10-21	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MINI GOLF INTRO - FINAL - 09-10-21_F585A561.wem		\Interactive Music Hierarchy\MiniGolf\MINI GOLF INTRO - FINAL - 09-10-21\MINI GOLF INTRO - FINAL - 09-10-21		3274696
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	152122545	Freddy Main Theme - Elevator 2 SOLO ORGAN - 05-04-21	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\Freddy Main Theme - Elevator 2 SOLO ORGAN - 05-04-21_3D1D1BA5.wem	152122545.wem	\Interactive Music Hierarchy\LocationMusic\OpenWorldMusic\mus_FreddysFanfare_Organ\Freddy Main Theme - Elevator 2 SOLO ORGAN - 05-04-21\Freddy Main Theme - Elevator 2 SOLO ORGAN - 05-04-21	
+	203887681	Freddy Main Theme - Elevator 3 VG-1 - 05-04-21	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\Freddy Main Theme - Elevator 3 VG-1 - 05-04-21_F585A561.wem	203887681.wem	\Interactive Music Hierarchy\LocationMusic\OpenWorldMusic\mus_FreddysFanfare_80sSynth\Freddy Main Theme - Elevator 3 VG-1 - 05-04-21\Freddy Main Theme - Elevator 3 VG-1 - 05-04-21	
+	263837450	TITLE SCREEN - Echo-Clacks - LOOP AA_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\TITLE SCREEN - Echo-Clacks - LOOP AA_3D1D1BA5.wem	263837450.wem	\Interactive Music Hierarchy\TitleScreenMusic\mus_titlescreen_echoclack\TITLE SCREEN - Echo-Clacks - LOOP AA\TITLE SCREEN - Echo-Clacks - LOOP AA_01	
+	268211433	DJ Music Man part 04 - 04-15-21	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\DJ Music Man part 04 - 04-15-21_F585A561.wem	268211433.wem	\Interactive Music Hierarchy\DJ Music Man\DJMM\DJMM_Part4\DJ Music Man part 04 - 04-15-21\DJ Music Man part 04 - 04-15-21	
+	296638591	FNAF_SB_tension2_int3_lp	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FNAF_SB_tension2_int3_lp_F585A561.wem	296638591.wem	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\StoryTensions\Tension_Gord_02\FNAF_SB_tension2_int3_lp	
+	334526789	FNAF_SB_tension2_int1_lp	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FNAF_SB_tension2_int1_lp_F585A561.wem	334526789.wem	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\StoryTensions\Tension_Gord_02\FNAF_SB_tension2_int1_lp	
+	389663321	TITLE SCREEN - Waterfone - LOOP AA	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\TITLE SCREEN - Waterfone - LOOP AA_3D1D1BA5.wem	389663321.wem	\Interactive Music Hierarchy\TitleScreenMusic\mus_titlescreen_waterphone\TITLE SCREEN - Waterfone - LOOP AA\TITLE SCREEN - Waterfone - LOOP AA	
+	389726121	DJ Music Man part 03 - 04-15-21	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\DJ Music Man part 03 - 04-15-21_F585A561.wem	389726121.wem	\Interactive Music Hierarchy\DJ Music Man\DJMM\DJMM_Part3\DJ Music Man part 03 - 04-15-21\DJ Music Man part 03 - 04-15-21	
+	428394806	Freddy Main Theme - Elevator 1 BOSSA - 05-04-21	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\Freddy Main Theme - Elevator 1 BOSSA - 05-04-21_F585A561.wem	428394806.wem	\Interactive Music Hierarchy\LocationMusic\LocationMusic\mus_FreddysFanfare_Muzak\Freddy Main Theme - Elevator 1 BOSSA - 05-04-21\Freddy Main Theme - Elevator 1 BOSSA - 05-04-21	
+	610368521	FreddyThemeChoppedScrewed	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FreddyThemeChoppedScrewed_4491CC86.wem	610368521.wem	\Interactive Music Hierarchy\LocationMusic\mus_FreddysFanfare_80sSynth_elevator_sinkhole\FreddyThemeChoppedScrewed\FreddyThemeChoppedScrewed	
+	630033211	TITLE SCREEN - Wooo - LOOP AA	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\TITLE SCREEN - Wooo - LOOP AA_3D1D1BA5.wem	630033211.wem	\Interactive Music Hierarchy\TitleScreenMusic\mus_titlescreen_wooo\TITLE SCREEN - Wooo - LOOP AA\TITLE SCREEN - Wooo - LOOP AA	
+	631996518	DJ Music Man part 05 - 04-15-21	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\DJ Music Man part 05 - 04-15-21_F585A561.wem	631996518.wem	\Interactive Music Hierarchy\DJ Music Man\DJMM\DJMM_Part4\DJ Music Man part 05 - 04-15-21\DJ Music Man part 05 - 04-15-21	
+	637643894	Freddy Main Theme - Elevator 3 VG-1 - 05-04-21	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\Freddy Main Theme - Elevator 3 VG-1 - 05-04-21_D0662435.wem	637643894.wem	\Interactive Music Hierarchy\LocationMusic\mus_FreddysFanfare_80sSynth_elevator\Freddy Main Theme - Elevator 3 VG-1 - 05-04-21\Freddy Main Theme - Elevator 3 VG-1 - 05-04-21	
+	675627666	Freddy Main Theme - 10-04-21 - Locked Radio Mix	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\Freddy Main Theme - 10-04-21 - Locked Radio Mix_F585A561.wem	675627666.wem	\Interactive Music Hierarchy\LocationMusic\OpenWorldMusic\HologramStage\mus_FreddysTheme_HologramStage\Freddy Main Theme - 10-04-21 - Locked Radio Mix\Freddy Main Theme - 10-04-21 - Locked Radio Mix	
+	676298411	TITLE SCREEN - Buzz-Drip - LOOP AA	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\TITLE SCREEN - Buzz-Drip - LOOP AA_3D1D1BA5.wem	676298411.wem	\Interactive Music Hierarchy\TitleScreenMusic\mus_titlescreen_buzzdrip\TITLE SCREEN - Buzz-Drip - LOOP AA\TITLE SCREEN - Buzz-Drip - LOOP AA	
+	706585598	DJ Music Man part FILL - 04-15-21	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\DJ Music Man part FILL - 04-15-21_F585A561.wem	706585598.wem	\Interactive Music Hierarchy\DJ Music Man\DJMM\DJ Music Man part FILL - 04-15-21\DJ Music Man part FILL - 04-15-21	
+	768036597	FNAF_SB_tension2_int2_lp	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FNAF_SB_tension2_int2_lp_F585A561.wem	768036597.wem	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\StoryTensions\Tension_Gord_02\FNAF_SB_tension2_int2_lp	
+	921169830	FOREVER AND EVER - Full Song - 11-04-21	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FOREVER AND EVER - Full Song - 11-04-21_13C5A5C7.wem	921169830.wem	\Interactive Music Hierarchy\ForeverAndEver\ForeverAndEver\mus_foreverAndEver_full\FOREVER AND EVER - Full Song - 11-04-21\FOREVER AND EVER - Full Song - 11-04-21	
+	972835169	Concealed Coolness	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\Concealed Coolness_F585A561.wem	972835169.wem	\Interactive Music Hierarchy\ScottSongs\ScottSongs\mus_chicasFeedingFrenzy\Concealed Coolness\Concealed Coolness	
+	980660099	TITLE SCREEN - Music Box - LOOP AA	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\TITLE SCREEN - Music Box - LOOP AA_3D1D1BA5.wem	980660099.wem	\Interactive Music Hierarchy\TitleScreenMusic\mus_titlescreen_musicbox\TITLE SCREEN - Music Box - LOOP AA\TITLE SCREEN - Music Box - LOOP AA	
+	986924068	DJ Music Man part 01 - 04-15-21	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\DJ Music Man part 01 - 04-15-21_F585A561.wem	986924068.wem	\Interactive Music Hierarchy\DJ Music Man\DJMM\DJMM_Part1\DJ Music Man part 01 - 04-15-21\DJ Music Man part 01 - 04-15-21	
+	1003347199	DJ Music Man part 06 - 04-15-21	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\DJ Music Man part 06 - 04-15-21_F585A561.wem	1003347199.wem	\Interactive Music Hierarchy\DJ Music Man\DJMM\DJMM_Part6\DJ Music Man part 06 - 04-15-21\DJ Music Man part 06 - 04-15-21	
+	1004810230	DJ Music Man part 02 - 04-15-21	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\DJ Music Man part 02 - 04-15-21_F585A561.wem	1004810230.wem	\Interactive Music Hierarchy\DJ Music Man\DJMM\DJMM_Part2\DJ Music Man part 02 - 04-15-21\DJ Music Man part 02 - 04-15-21	
+	1059007789	FOREVER AND EVER - Full Song Old 45 - 11-04-21	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FOREVER AND EVER - Full Song Old 45 - 11-04-21_13C5A5C7.wem	1059007789.wem	\Interactive Music Hierarchy\ForeverAndEver\ForeverAndEver\mus_foreverAndEver_old\FOREVER AND EVER - Full Song Old 45 - 11-04-21\FOREVER AND EVER - Full Song Old 45 - 11-04-21	
+

@@ -1,0 +1,74 @@
+Event	ID	Name			Wwise Object Path	Notes
+	107441482	FREDDY_00203_fazwatch			\Default Work Unit\Dialogue\Freddy_Fazwatch\FREDDY_00203_fazwatch	
+	295959495	FREDDY_00198_fazwatch			\Default Work Unit\Dialogue\Freddy_Fazwatch\FREDDY_00198_fazwatch	
+	303238358	FREDDY_00214_fazwatch			\Default Work Unit\Dialogue\Freddy_Fazwatch\FREDDY_00214_fazwatch	
+	326306583	FREDDY_00208_fazwatch			\Default Work Unit\Dialogue\Freddy_Fazwatch\FREDDY_00208_fazwatch	
+	330420202	FREDDY_00225_fazwatch			\Default Work Unit\Dialogue\Freddy_Fazwatch\FREDDY_00225_fazwatch	
+	1053038811	FREDDY_00217_fazwatch			\Default Work Unit\Dialogue\Freddy_Fazwatch\FREDDY_00217_fazwatch	
+	1185849647	FREDDY_00226_fazwatch			\Default Work Unit\Dialogue\Freddy_Fazwatch\FREDDY_00226_fazwatch	
+	1301958746	FREDDY_00210_fazwatch			\Default Work Unit\Dialogue\Freddy_Fazwatch\FREDDY_00210_fazwatch	
+	1357677355	FREDDY_00222_fazwatch			\Default Work Unit\Dialogue\Freddy_Fazwatch\FREDDY_00222_fazwatch	
+	1543910372	FREDDY_00054_fazwatch			\Default Work Unit\Dialogue\Freddy_Fazwatch\FREDDY_00054_fazwatch	
+	1549082792	FREDDY_00230_fazwatch			\Default Work Unit\Dialogue\Freddy_Fazwatch\FREDDY_00230_fazwatch	
+	1729993528	FREDDY_00209_fazwatch			\Default Work Unit\Dialogue\Freddy_Fazwatch\FREDDY_00209_fazwatch	
+	1836904547	FREDDY_00235_fazwatch			\Default Work Unit\Dialogue\Freddy_Fazwatch\FREDDY_00235_fazwatch	
+	1858723622	FREDDY_00221_fazwatch			\Default Work Unit\Dialogue\Freddy_Fazwatch\FREDDY_00221_fazwatch	
+	2082818992	FREDDY_00061_fazwatch			\Default Work Unit\Dialogue\Freddy_Fazwatch\FREDDY_00061_fazwatch	
+	2310130156	FREDDY_00205_fazwatch			\Default Work Unit\Dialogue\Freddy_Fazwatch\FREDDY_00205_fazwatch	
+	2547484030	FREDDY_00056_fazwatch			\Default Work Unit\Dialogue\Freddy_Fazwatch\FREDDY_00056_fazwatch	
+	2602237762	FREDDY_00232_fazwatch			\Default Work Unit\FREDDY_00232_fazwatch	
+	2690803212	FREDDY_00223_fazwatch			\Default Work Unit\Dialogue\Freddy_Fazwatch\FREDDY_00223_fazwatch	
+	3144964513	FREDDY_00211_fazwatch			\Default Work Unit\Dialogue\Freddy_Fazwatch\FREDDY_00211_fazwatch	
+	3428069763	FREDDY_00055_fazwatch			\Default Work Unit\Dialogue\Freddy_Fazwatch\FREDDY_00055_fazwatch	
+	3433238582	FREDDY_00197_fazwatch			\Default Work Unit\Dialogue\Freddy_Fazwatch\FREDDY_00197_fazwatch	
+	3457921257	FREDDY_00053_fazwatch			\Default Work Unit\Dialogue\Freddy_Fazwatch\FREDDY_00053_fazwatch	
+	3524039175	FREDDY_00231_fazwatch			\Default Work Unit\FREDDY_00231_fazwatch	
+	3644581638	FREDDY_00207_fazwatch			\Default Work Unit\Dialogue\Freddy_Fazwatch\FREDDY_00207_fazwatch	
+	3646515726	FREDDY_00229_fazwatch			\Default Work Unit\Dialogue\Freddy_Fazwatch\FREDDY_00229_fazwatch	
+	3733762241	FREDDY_00061a_fazwatch			\Default Work Unit\Dialogue\Freddy_Fazwatch\FREDDY_00061a_fazwatch	
+	3902283554	FREDDY_00218_fazwatch			\Default Work Unit\Dialogue\Freddy_Fazwatch\FREDDY_00218_fazwatch	
+	3944462505	FREDDY_00219_fazwatch			\Default Work Unit\Dialogue\Freddy_Fazwatch\FREDDY_00219_fazwatch	
+	4014254333	FREDDY_00206_fazwatch			\Default Work Unit\Dialogue\Freddy_Fazwatch\FREDDY_00206_fazwatch	
+	4105838925	FREDDY_00235b_fazwatch			\Default Work Unit\Dialogue\Freddy_Fazwatch\FREDDY_00235b_fazwatch	
+	4178784453	FREDDY_00228_fazwatch			\Default Work Unit\Dialogue\Freddy_Fazwatch\FREDDY_00228_fazwatch	
+	4203072267	FREDDY_00204_fazwatch			\Default Work Unit\Dialogue\Freddy_Fazwatch\FREDDY_00204_fazwatch	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	183903552	occlusion			\bind_to_parameters\occlusion	
+	3298513196	freddy_voicebox_installed			\Default Work Unit\freddy_voicebox_installed	
+	3436536763	GREGORY_OUTSIDE_FREDDY			\Default Work Unit\GREGORY_OUTSIDE_FREDDY	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	40486238	FREDDY_00206	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00206_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00206		56491
+	64839814	FREDDY_00214	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00214_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00214		46847
+	97823422	FREDDY_00208	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00208_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00208		48656
+	108770549	FREDDY_00209	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00209_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00209		112671
+	115906598	vo_freddy_00055_itAppears_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00055_itAppears_Pref_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\vo_freddy_00055_itAppears_Pref		73178
+	141746147	FREDDY_00222	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00222_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00222		35767
+	153897860	FREDDY_00061a	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00061a_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00061a		41786
+	264592289	FREDDY_00219	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00219_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00219		64413
+	309674420	FREDDY_00203	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00203_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00203		89515
+	326477933	FREDDY_00229	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00229_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00229		135161
+	339280514	FREDDY_00228	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00228_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00228		168508
+	367121199	FREDDY_00211	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00211_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00211		113282
+	401839215	FREDDY_00197	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00197_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00197		169382
+	425836821	FREDDY_00230	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00230_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00230		189077
+	495409741	FREDDY_00226	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00226_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00226		119357
+	507609703	FREDDY_00232	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00232_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00232		49526
+	508360287	FREDDY_00225	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00225_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00225		151222
+	509963966	FREDDY_00207	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00207_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00207		54630
+	517086275	FREDDY_00053_weShould_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00053_weShould_Pref_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00053_weShould_Pref		64010
+	585916237	FREDDY_00221	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00221_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00221		39168
+	587670395	FREDDY_00231	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00231_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00231		51624
+	597734879	FREDDY_00198	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00198_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00198		128061
+	672921880	vo_freddy_00056_itLooks_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00056_itLooks_Pref_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\vo_freddy_00056_itLooks_Pref		88218
+	749149838	FREDDY_00204	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00204_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00204		47691
+	751889543	FREDDY_00210	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00210_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00210		88278
+	780863894	FREDDY_00217	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00217_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00217		127884
+	809070400	vo_freddy_00054_gregoryI_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00054_gregoryI_Pref_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\vo_freddy_00054_gregoryI_Pref		203308
+	831309511	FREDDY_00205	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00205_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00205		129767
+	876556874	FREDDY_00218	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00218_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00218		110987
+	1013234840	FREDDY_00235	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00235_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00235		110054
+	1029739283	FREDDY_00235b_pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00235b_pref_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00235b_pref		100387
+	1068548260	FREDDY_00223	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00223_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00223		69642
+

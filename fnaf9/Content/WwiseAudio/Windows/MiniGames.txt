@@ -1,0 +1,230 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2771256	Play_TSS_Coin			\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_TSS_Coin	
+	90781802	Play_LazerTagGun_Shoot_3D			\Default Work Unit\MiniGames\LazerTag\Play_LazerTagGun_Shoot_3D	
+	91096959	Play_sfx_minigame_golf_spinningPlatform_lp			\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_spinningPlatform_lp	
+	93868345	Play_GG_Strike_Heavy			\Default Work Unit\MiniGames\GatorGolf\Play_GG_Strike_Heavy	
+	107559365	Play_LazerTagGun_Shoot_2D			\Default Work Unit\MiniGames\LazerTag\Play_LazerTagGun_Shoot_2D	
+	231119102	Play_TSS_Pistol			\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_TSS_Pistol	
+	292711976	Play_sfx_minigame_chicaFF_wave_begin			\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_sfx_minigame_chicaFF_wave_begin	
+	363190361	Play_BB_ScorePickup			\Default Work Unit\MiniGames\BalloonBoy\Play_BB_ScorePickup	
+	428487280	Stop_MINI_GOLF_INTRO___FINAL___09_10_21			\Default Work Unit\MusicStreaming\Stop_MINI_GOLF_INTRO___FINAL___09_10_21	
+	433964055	Play_BB_SoundTrack			\Default Work Unit\MiniGames\BalloonBoy\Play_BB_SoundTrack	
+	595728240	Play_sfx_minigame_golf_large_gear_spin_lp			\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_large_gear_spin_lp	
+	661961071	Play_TSS_Door			\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_TSS_Door	
+	675479966	Play_sfx_minigame_golf_ball_water_splash			\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_ball_water_splash	
+	691860075	Play_sfx_minigame_golf_spinningCakePlatform_lp			\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_spinningCakePlatform_lp	
+	709082776	Play_GG_Strike_Light			\Default Work Unit\MiniGames\GatorGolf\Play_GG_Strike_Light	
+	809182345	Stop_sfx_minigame_chicaFF_weaponPickup_spin_lp			\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Stop_sfx_minigame_chicaFF_weaponPickup_spin_lp	
+	832037579	Play_sfx_minigame_golf_sting_outOfBounds			\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_sting_outOfBounds	
+	855298741	Play_BB_Crack			\Default Work Unit\MiniGames\BalloonBoy\Play_BB_Crack	
+	872754152	Play_sfx_minigame_golf_monty_head_move_down			\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_monty_head_move_down	
+	886505935	Play_sfx_minigame_golf_sting_eagle			\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_sting_eagle	
+	991074340	Play_GG_BallBounce_Once			\Default Work Unit\MiniGames\GatorGolf\Play_GG_BallBounce_Once	
+	1028681193	Play_TSS_HealthPickup			\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_TSS_HealthPickup	
+	1135134960	Stop_sfx_minigame_chicaFF_glitchMode_lp			\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Stop_sfx_minigame_chicaFF_glitchMode_lp	
+	1198689595	Play_TSS_Shotgun			\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_TSS_Shotgun	
+	1247650314	Play_sfx_minigame_chicaFF_orb_explode			\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_sfx_minigame_chicaFF_orb_explode	
+	1271110762	Play_MINI_GOLF_INTRO___FINAL___09_10_21			\Default Work Unit\MusicStreaming\Play_MINI_GOLF_INTRO___FINAL___09_10_21	
+	1445606971	Play_TSS_DoorOpen			\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_TSS_DoorOpen	
+	1506074226	Play_sfx_minigame_golf_sting_par			\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_sting_par	
+	1582427352	Play_sfx_minigame_chicaFF_orb_shoot			\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_sfx_minigame_chicaFF_orb_shoot	
+	1585358622	Play_sfx_minigame_golf_cupcake_swing			\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_cupcake_swing	
+	1683990454	Play_sfx_minigame_golf_sting_birdie			\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_sting_birdie	
+	1735243809	Play_sfx_minigame_golf_ball_bounce_hard			\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_ball_bounce_hard	
+	1742125688	Stop_BB_Tada_Loop			\Default Work Unit\MiniGames\BalloonBoy\Stop_BB_Tada_Loop	
+	1765237267	Play_GG_BallBounce_LastBounce			\Default Work Unit\MiniGames\GatorGolf\Play_GG_BallBounce_LastBounce	
+	1819477740	Play_BB_Balloon_Get_02			\Default Work Unit\MiniGames\BalloonBoy\Play_BB_Balloon_Get_02	
+	1819477741	Play_BB_Balloon_Get_03			\Default Work Unit\MiniGames\BalloonBoy\Play_BB_Balloon_Get_03	
+	1819477743	Play_BB_Balloon_Get_01			\Default Work Unit\MiniGames\BalloonBoy\Play_BB_Balloon_Get_01	
+	1888357842	Play_BB_Tada_Loop			\Default Work Unit\MiniGames\BalloonBoy\Play_BB_Tada_Loop	
+	2034834847	Play_TSS_Sniper_ChargeUP_Loop			\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_TSS_Sniper_ChargeUP_Loop	
+	2048239221	Play_BB_Pickup			\Default Work Unit\MiniGames\BalloonBoy\Play_BB_Pickup	
+	2071329455	Play_TSS_DoorClosed			\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_TSS_DoorClosed	
+	2133541053	Play_TSS_Sniper_Shot			\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_TSS_Sniper_Shot	
+	2162267940	Play_sfx_minigame_golf_sting_doubleBogey			\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_sting_doubleBogey	
+	2237217501	Play_sfx_minigame_golf_emitter_vent_fan			\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_emitter_vent_fan	
+	2339077932	Play_sfx_minigame_golf_monitor_static_large			\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_monitor_static_large	
+	2410157573	Play_sfx_minigame_golf_introWhoosh			\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_introWhoosh	
+	2514561578	Play_GG_InCup			\Default Work Unit\MiniGames\GatorGolf\Play_GG_InCup	
+	2537645289	Play_BB_Tada_Normal			\Default Work Unit\MiniGames\BalloonBoy\Play_BB_Tada_Normal	
+	2559352954	Play_BB_Tada_Highscore			\Default Work Unit\MiniGames\BalloonBoy\Play_BB_Tada_Highscore	
+	2714482474	Play_sfx_minigame_golf_balloonboy_animatronic_move			\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_balloonboy_animatronic_move	
+	2846616430	Play_sfx_minigame_chicaFF_glitchMode_lp			\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_sfx_minigame_chicaFF_glitchMode_lp	
+	2863667920	Play_sfx_minigame_chicaFF_orb_spawn			\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_sfx_minigame_chicaFF_orb_spawn	
+	2942961818	Play_sfx_minigame_golf_pneumaticPlatform_move			\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_pneumaticPlatform_move	
+	2973832907	Play_sfx_minigame_golf_putt_interact_power_tick			\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_putt_interact_power_tick	
+	2985898637	Play_sfx_minigame_golf_ball_bounce_thud			\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_ball_bounce_thud	
+	3068653380	Play_sfx_minigame_golf_pneumaticPlatform_move_finish			\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_pneumaticPlatform_move_finish	
+	3108199889	Play_BB_Death			\Default Work Unit\MiniGames\BalloonBoy\Play_BB_Death	
+	3158179766	Play_sfx_minigame_golf_putt_interact_start			\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_putt_interact_start	
+	3255134123	Play_sfx_minigame_golf_monty_head_move_up			\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_monty_head_move_up	
+	3342177919	Play_TSS_WeaponPickup			\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_TSS_WeaponPickup	
+	3515778306	Play_TSS_Hit			\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_TSS_Hit	
+	3545390596	Play_TSS_Pop			\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_TSS_Pop	
+	3608639990	Play_TSS_Sniper_ChargeUP			\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_TSS_Sniper_ChargeUP	
+	3843530281	Play_BB_Jump			\Default Work Unit\MiniGames\BalloonBoy\Play_BB_Jump	
+	3961279397	Play_sfx_minigame_golf_sting_bogey			\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_sting_bogey	
+	4007896767	Play_sfx_minigame_chicaFF_weaponPickup_spin_lp			\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_sfx_minigame_chicaFF_weaponPickup_spin_lp	
+	4142814872	Stop_BB_Tada_Highscore			\Default Work Unit\MiniGames\BalloonBoy\Stop_BB_Tada_Highscore	
+	4193342138	Play_BB_Damage			\Default Work Unit\MiniGames\BalloonBoy\Play_BB_Damage	
+	4194030438	Play_GG_BallHitsWall			\Default Work Unit\MiniGames\GatorGolf\Play_GG_BallHitsWall	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	2873259978	BB_SOUNDTRACK			\Default Work Unit\BB_SOUNDTRACK	
+
+State	ID	Name	State Group			Notes
+	606143337	Glitched	BB_SOUNDTRACK			
+	748895195	None	BB_SOUNDTRACK			
+	1160234136	Normal	BB_SOUNDTRACK			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	194271666	BB_Jump_PitchMultiplier			\Default Work Unit\BB_Jump_PitchMultiplier	
+	1384576038	BB_Tada_PitchMultiplier			\Default Work Unit\BB_Tada_PitchMultiplier	
+	1437246667	azimuth			\bind_to_parameters\azimuth	
+	2988174415	BB_Static_VolumeLevel			\Default Work Unit\BB_Static_VolumeLevel	
+	3530583335	PHYSICS_IMPACT_VALUE			\Default Work Unit\PHYSICS_IMPACT_VALUE	
+	4285804331	golf_putt_power			\minigames\golf_putt_power	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	15308588	sfx_minigame_golf_pneumaticPlatform_move_04	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_pneumaticPlatform_move_04_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_pneumaticPlatform\sfx_minigame_golf_pneumaticPlatform_move\sfx_minigame_golf_pneumaticPlatform_move_04		25248
+	19525001	sfx_gg_golf_wallhit_06	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_gg_golf_wallhit_06_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\LegacyContent\GG_BallHitsWall\sfx_gg_golf_wallhit_06		3642
+	22994013	sfx_fazerblast_shot_enemy_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_fazerblast_shot_enemy_02_9441A322.wem		\Actor-Mixer Hierarchy\Environment\Hour6\Fazerblast\sfx_fazerblast_shot_enemy\sfx_fazerblast_shot_enemy_02		9231
+	49756882	sfx_gg_golf_incup_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_gg_golf_incup_02_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\LegacyContent\GG_InCup\sfx_gg_golf_incup_02		28093
+	51316734	sfx_fazerblast_shot_player_05	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_fazerblast_shot_player_05_9441A322.wem		\Actor-Mixer Hierarchy\Environment\Hour6\Fazerblast\sfx_fazerblast_shot_player\sfx_fazerblast_shot_player_05		9213
+	60797065	sfx_gg_golf_bounce_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_gg_golf_bounce_01_30439D80.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\LegacyContent\GG_BallBounce_Once\sfx_gg_golf_bounce_01		4933
+	78329469	sfx_minigame_golf_ball_bounce_hard_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_ball_bounce_hard_02_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\sfx_minigame_golf_ball_bounce_hard\sfx_minigame_golf_ball_bounce_hard_02		997
+	103948900	TSS_Coin	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\TSS_Coin_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\ChicaFeedingFrenzy\TSS_Coin		19662
+	121417644	sfx_general_monitor_static_st_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_general_monitor_static_st_03_90870865.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_monitor_static_large\sfx_general_monitor_static_st_03		720901
+	129352437	sfx_minigame_golf_ball_bounce_hard_05	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_ball_bounce_hard_05_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\sfx_minigame_golf_ball_bounce_hard\sfx_minigame_golf_ball_bounce_hard_05		1030
+	145778107	sfx_minigame_golf_ball_water_splash_04	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_ball_water_splash_04_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\sfx_minigame_golf_ball_water_splash\sfx_minigame_golf_ball_water_splash_04		10807
+	151699836	sfx_gg_golf_strike_04	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_gg_golf_strike_04_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\LegacyContent\GG_Strike_Heavy\sfx_gg_golf_strike_04		7544
+	160426992	sfx_gg_golf_strike_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_gg_golf_strike_02_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\LegacyContent\GG_Strike_Light\sfx_gg_golf_strike_02		8691
+	164617683	sfx_minigame_golf_sting_outOfBounds	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_sting_outOfBounds_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\stings\sfx_minigame_golf_sting_outOfBounds		7288
+	166916969	BB_BalloonBoyCoinGet	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\BB_BalloonBoyCoinGet_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\BalloonBoy\BB_BalloonBoyCoinGet		7150
+	169619437	sfx_minigame_golf_sting_par	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_sting_par_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\stings\sfx_minigame_golf_sting_par		13320
+	170396304	sfx_minigame_golf_ball_bounce_hard_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_ball_bounce_hard_03_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\sfx_minigame_golf_ball_bounce_hard\sfx_minigame_golf_ball_bounce_hard_03		1041
+	198432248	sfx_gg_golf_bounce_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_gg_golf_bounce_02_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\LegacyContent\GG_BallBounce_LastBounce\sfx_gg_golf_bounce_02		4818
+	201442833	sfx_minigame_golf_monty_head_move_down_04	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_monty_head_move_down_04_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_monty_head_move_down\sfx_minigame_golf_monty_head_move_down_04		17690
+	217146883	sfx_minigame_golf_ball_bounce_hard_06	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_ball_bounce_hard_06_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\sfx_minigame_golf_ball_bounce_hard\sfx_minigame_golf_ball_bounce_hard_06		1052
+	223629444	sfx_minigame_chicaFF_orb_shoot	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_chicaFF_orb_shoot_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\ChicaFeedingFrenzy\sfx_minigame_chicaFF_orb_shoot		2072
+	233048311	sfx_minigame_golf_ball_water_splash_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_ball_water_splash_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\sfx_minigame_golf_ball_water_splash\sfx_minigame_golf_ball_water_splash_01		15528
+	235576188	sfx_gg_golf_strike_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_gg_golf_strike_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\LegacyContent\GG_Strike_Light\sfx_gg_golf_strike_01		8282
+	248382991	TSS_DoorOpen	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\TSS_DoorOpen_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\ChicaFeedingFrenzy\TSS_DoorOpen		9774
+	266719381	sfx_minigame_chicaFF_orb_explode	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_chicaFF_orb_explode_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\ChicaFeedingFrenzy\sfx_minigame_chicaFF_orb_explode		12461
+	275022491	sfx_gg_golf_bounce_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_gg_golf_bounce_03_A184A660.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\LegacyContent\GG_BallBounce_Once\sfx_gg_golf_bounce_03		2019
+	280352623	sfx_minigame_golf_ball_bounce_thud_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_ball_bounce_thud_02_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\sfx_minigame_golf_ball_bounce_thud\sfx_minigame_golf_ball_bounce_thud_02		1240
+	288280504	BB_Tada_NewHighScore	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\BB_Tada_NewHighScore_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\BalloonBoy\BB_Tada_NewHighScore		23143
+	292983833	sfx_minigame_golf_ball_water_splash_05	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_ball_water_splash_05_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\sfx_minigame_golf_ball_water_splash\sfx_minigame_golf_ball_water_splash_05		12591
+	293921756	sfx_minigame_golf_pneumaticPlatform_move_finish_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_pneumaticPlatform_move_finish_02_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_pneumaticPlatform\sfx_minigame_golf_pneumaticPlatform_move_finish\sfx_minigame_golf_pneumaticPlatform_move_finish_02		15870
+	312397935	TSS_WeaponPickup	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\TSS_WeaponPickup_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\ChicaFeedingFrenzy\TSS_WeaponPickup		57631
+	313063676	sfx_minigame_golf_ball_bounce_thud_05	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_ball_bounce_thud_05_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\sfx_minigame_golf_ball_bounce_thud\sfx_minigame_golf_ball_bounce_thud_05		1173
+	314321956	sfx_minigame_golf_ball_bounce_thud_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_ball_bounce_thud_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\sfx_minigame_golf_ball_bounce_thud\sfx_minigame_golf_ball_bounce_thud_01		1185
+	314636237	BB_Balloon_Wump	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\BB_Balloon_Wump_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\BalloonBoy\BB_Balloon_Wump		1125
+	316547620	sfx_minigame_golf_monty_head_move_down_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_monty_head_move_down_03_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_monty_head_move_down\sfx_minigame_golf_monty_head_move_down_03		16424
+	317044086	sfx_minigame_golf_monty_head_move_down_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_monty_head_move_down_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_monty_head_move_down\sfx_minigame_golf_monty_head_move_down_01		16760
+	320740920	sfx_fazerblast_shot_player_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_fazerblast_shot_player_02_9441A322.wem		\Actor-Mixer Hierarchy\Environment\Hour6\Fazerblast\sfx_fazerblast_shot_player\sfx_fazerblast_shot_player_02		8856
+	324815176	sfx_minigame_golf_ball_bounce_hard_04	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_ball_bounce_hard_04_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\sfx_minigame_golf_ball_bounce_hard\sfx_minigame_golf_ball_bounce_hard_04		1415
+	325551066	BB_BalloonBoyHit	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\BB_BalloonBoyHit_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\BalloonBoy\BB_BalloonBoyHit		4497
+	325581931	sfx_minigame_golf_ball_bounce_thud_06	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_ball_bounce_thud_06_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\sfx_minigame_golf_ball_bounce_thud\sfx_minigame_golf_ball_bounce_thud_06		1170
+	335554055	sfx_minigame_golf_introWhoosh	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_introWhoosh_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\stings\sfx_minigame_golf_introWhoosh		45008
+	350552949	sfx_fazerblast_shot_player_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_fazerblast_shot_player_01_9441A322.wem		\Actor-Mixer Hierarchy\Environment\Hour6\Fazerblast\sfx_fazerblast_shot_player\sfx_fazerblast_shot_player_01		8841
+	350731907	sfx_gg_golf_wallhit_04	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_gg_golf_wallhit_04_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\LegacyContent\GG_BallHitsWall\sfx_gg_golf_wallhit_04		7805
+	369689451	sfx_gg_golf_bounce_05	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_gg_golf_bounce_05_543C8515.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\LegacyContent\GG_BallBounce_Once\sfx_gg_golf_bounce_05		5119
+	379245340	sfx_gg_golf_strike_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_gg_golf_strike_03_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\LegacyContent\GG_Strike_Light\sfx_gg_golf_strike_03		7906
+	392207614	sfx_minigame_golf_cupcake_swing_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_cupcake_swing_03_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_cupcake_swing\sfx_minigame_golf_cupcake_swing_03		41521
+	408508456	sfx_minigame_golf_large_gear_spin_lp	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_large_gear_spin_lp_01_90870865.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_large_gear_spin_lp		529322
+	422618892	sfx_minigame_golf_pneumaticPlatform_move_finish_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_pneumaticPlatform_move_finish_03_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_pneumaticPlatform\sfx_minigame_golf_pneumaticPlatform_move_finish\sfx_minigame_golf_pneumaticPlatform_move_finish_03		15700
+	427350112	sfx_minigame_chicaFF_weaponPickup_spin_lp	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_chicaFF_weaponPickup_spin_lp_90870865.wem		\Actor-Mixer Hierarchy\Minigames\ChicaFeedingFrenzy\sfx_minigame_chicaFF_weaponPickup_spin_lp		55842
+	427950478	BB_Purple_Smasher	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\BB_Purple_Smasher_F585A561.wem		\Interactive Music Hierarchy\BalloonBoy\BB Soundtrack\BB_Normal\BB_Purple_Smasher\BB_Purple_Smasher		3081880
+	435014946	sfx_minigame_golf_balloonboy_animatronic_move_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_balloonboy_animatronic_move_02_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_balloonboy_animatronic_move\sfx_minigame_golf_balloonboy_animatronic_move_02		17090
+	435504629	TSS_Hit	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\TSS_Hit_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\ChicaFeedingFrenzy\TSS_Hit		2416
+	459856607	amb_emitter_vent_fan_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_emitter_vent_fan_01_90870865.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_emitter_vent_fan\amb_emitter_vent_fan_01		540658
+	460335791	TSS_DoorClosed	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\TSS_DoorClosed_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\ChicaFeedingFrenzy\TSS_DoorClosed		9241
+	497865329	TSS_Sniper_Shot	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\TSS_Sniper_Shot_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\ChicaFeedingFrenzy\TSS_Sniper_Shot		41319
+	501531330	sfx_minigame_golf_pneumaticPlatform_move_06	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_pneumaticPlatform_move_06_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_pneumaticPlatform\sfx_minigame_golf_pneumaticPlatform_move\sfx_minigame_golf_pneumaticPlatform_move_06		24106
+	502019467	sfx_minigame_chicaFF_glitchMode_lp	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_chicaFF_glitchMode_lp_90870865.wem		\Actor-Mixer Hierarchy\Minigames\ChicaFeedingFrenzy\sfx_minigame_chicaFF_glitchMode_lp		124304
+	513747771	sfx_gg_golf_bounce_05	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_gg_golf_bounce_05_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\LegacyContent\GG_BallBounce_LastBounce\sfx_gg_golf_bounce_05		11192
+	514683044	amb_emitter_vent_fan_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_emitter_vent_fan_03_90870865.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_emitter_vent_fan\amb_emitter_vent_fan_03		520785
+	517733352	sfx_minigame_chicaFF_wave_begin	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_chicaFF_wave_begin_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\ChicaFeedingFrenzy\sfx_minigame_chicaFF_wave_begin		35592
+	527367324	sfx_minigame_golf_monty_head_move_down_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_monty_head_move_down_02_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_monty_head_move_down\sfx_minigame_golf_monty_head_move_down_02		18309
+	527582547	sfx_gg_golf_wallhit_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_gg_golf_wallhit_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\LegacyContent\GG_BallHitsWall\sfx_gg_golf_wallhit_01		7525
+	530346220	BB_Death	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\BB_Death_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\BalloonBoy\BB_Death		36078
+	538175999	sfx_gg_golf_wallhit_05	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_gg_golf_wallhit_05_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\LegacyContent\GG_BallHitsWall\sfx_gg_golf_wallhit_05		7671
+	548241771	sfx_gg_golf_bounce_04	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_gg_golf_bounce_04_639251EC.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\LegacyContent\GG_BallBounce_Once\sfx_gg_golf_bounce_04		2209
+	552550994	sfx_minigame_golf_balloonboy_animatronic_move_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_balloonboy_animatronic_move_03_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_balloonboy_animatronic_move\sfx_minigame_golf_balloonboy_animatronic_move_03		16241
+	556525397	sfx_minigame_golf_sting_doubleBogey	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_sting_doubleBogey_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\stings\sfx_minigame_golf_sting_doubleBogey		15035
+	558357644	sfx_minigame_golf_ball_water_splash_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_ball_water_splash_02_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\sfx_minigame_golf_ball_water_splash\sfx_minigame_golf_ball_water_splash_02		11906
+	558458708	sfx_minigame_golf_cupcake_swing_04	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_cupcake_swing_04_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_cupcake_swing\sfx_minigame_golf_cupcake_swing_04		40760
+	564491400	sfx_minigame_golf_pneumaticPlatform_move_05	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_pneumaticPlatform_move_05_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_pneumaticPlatform\sfx_minigame_golf_pneumaticPlatform_move\sfx_minigame_golf_pneumaticPlatform_move_05		21078
+	566642683	sfx_minigame_golf_pneumaticPlatform_move_finish_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_pneumaticPlatform_move_finish_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_pneumaticPlatform\sfx_minigame_golf_pneumaticPlatform_move_finish\sfx_minigame_golf_pneumaticPlatform_move_finish_01		15377
+	571223936	sfx_gg_golf_bounce_06	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_gg_golf_bounce_06_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\LegacyContent\GG_BallBounce_LastBounce\sfx_gg_golf_bounce_06		4791
+	575609017	sfx_minigame_golf_sting_birdie	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_sting_birdie_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\stings\sfx_minigame_golf_sting_birdie		14736
+	576963846	sfx_minigame_golf_monty_head_move_down_05	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_monty_head_move_down_05_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_monty_head_move_down\sfx_minigame_golf_monty_head_move_down_05		17166
+	584797845	BB_Balloon_Get_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\BB_Balloon_Get_02_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\BalloonBoy\BB_Balloon_Get_02		4789
+	588472086	sfx_gg_golf_bounce_04	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_gg_golf_bounce_04_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\LegacyContent\GG_BallBounce_LastBounce\sfx_gg_golf_bounce_04		5338
+	591900130	sfx_minigame_chicaFF_orb_spawn	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_chicaFF_orb_spawn_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\ChicaFeedingFrenzy\sfx_minigame_chicaFF_orb_spawn		47412
+	628653248	sfx_minigame_golf_sting_bogey	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_sting_bogey_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\stings\sfx_minigame_golf_sting_bogey		14614
+	631062037	BB_Static_Loop	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\BB_Static_Loop_F585A561.wem		\Interactive Music Hierarchy\BalloonBoy\BB Soundtrack\BB_Glitched\BB_PurpleSmasher_Glitched\BB_Static_Loop		62784
+	635013717	BB_Balloon_Get_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\BB_Balloon_Get_03_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\BalloonBoy\BB_Balloon_Get_03		9454
+	638239015	TSS_Sniper_ChargeUP	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\TSS_Sniper_ChargeUP_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\ChicaFeedingFrenzy\TSS_Sniper_ChargeUP		9005
+	646220317	sfx_general_monitor_static_st_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_general_monitor_static_st_01_90870865.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_monitor_static_large\sfx_general_monitor_static_st_01		752927
+	646693073	sfx_minigame_golf_monty_head_move_up_04	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_monty_head_move_up_04_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_monty_head_move_up\sfx_minigame_golf_monty_head_move_up_04		12412
+	647305969	sfx_minigame_golf_sting_eagle	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_sting_eagle_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\stings\sfx_minigame_golf_sting_eagle		15037
+	649887777	BB_Balloon_Get_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\BB_Balloon_Get_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\BalloonBoy\BB_Balloon_Get_01		4563
+	652362799	sfx_minigame_golf_cupcake_swing_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_cupcake_swing_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_cupcake_swing\sfx_minigame_golf_cupcake_swing_01		40823
+	658008159	sfx_gg_golf_roll_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_gg_golf_roll_03_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\LegacyContent\GG_Strike_Roll_Sweetener\sfx_gg_golf_roll_03		14984
+	672017179	sfx_gg_golf_roll_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_gg_golf_roll_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\LegacyContent\GG_Strike_Roll_Sweetener\sfx_gg_golf_roll_01		17599
+	683621460	sfx_gg_golf_strike_05	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_gg_golf_strike_05_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\LegacyContent\GG_Strike_Heavy\sfx_gg_golf_strike_05		8213
+	691583279	sfx_general_monitor_static_st_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_general_monitor_static_st_02_90870865.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_monitor_static_large\sfx_general_monitor_static_st_02		740079
+	715213573	sfx_minigame_golf_putt_interact_power_tick	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_putt_interact_power_tick_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\sfx_minigame_golf_putt_interact_power_tick		675
+	722184854	sfx_minigame_golf_ball_water_splash_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_ball_water_splash_03_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\sfx_minigame_golf_ball_water_splash\sfx_minigame_golf_ball_water_splash_03		10777
+	722599845	sfx_fazerblast_shot_player_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_fazerblast_shot_player_03_9441A322.wem		\Actor-Mixer Hierarchy\Environment\Hour6\Fazerblast\sfx_fazerblast_shot_player\sfx_fazerblast_shot_player_03		9245
+	729666568	sfx_gg_golf_bounce_06	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_gg_golf_bounce_06_EBA48808.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\LegacyContent\GG_BallBounce_Once\sfx_gg_golf_bounce_06		1928
+	729804541	sfx_fazerblast_shot_player_04	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_fazerblast_shot_player_04_9441A322.wem		\Actor-Mixer Hierarchy\Environment\Hour6\Fazerblast\sfx_fazerblast_shot_player\sfx_fazerblast_shot_player_04		9023
+	733700712	sfx_minigame_golf_balloonboy_animatronic_move_05	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_balloonboy_animatronic_move_05_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_balloonboy_animatronic_move\sfx_minigame_golf_balloonboy_animatronic_move_05		16666
+	740738604	sfx_gg_golf_incup_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_gg_golf_incup_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\LegacyContent\GG_InCup\sfx_gg_golf_incup_01		30236
+	742012947	sfx_minigame_golf_cupcake_swing_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_cupcake_swing_02_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_cupcake_swing\sfx_minigame_golf_cupcake_swing_02		39807
+	748848076	sfx_minigame_golf_monty_head_move_up_05	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_monty_head_move_up_05_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_monty_head_move_up\sfx_minigame_golf_monty_head_move_up_05		13402
+	762121799	sfx_minigame_golf_putt_interact_start	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_putt_interact_start_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\sfx_minigame_golf_putt_interact_start		1557
+	770931113	sfx_minigame_golf_pneumaticPlatform_move_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_pneumaticPlatform_move_03_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_pneumaticPlatform\sfx_minigame_golf_pneumaticPlatform_move\sfx_minigame_golf_pneumaticPlatform_move_03		23506
+	776502931	sfx_minigame_golf_pneumaticPlatform_move_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_pneumaticPlatform_move_02_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_pneumaticPlatform\sfx_minigame_golf_pneumaticPlatform_move\sfx_minigame_golf_pneumaticPlatform_move_02		21287
+	776593002	BB_SquareWave_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\BB_SquareWave_01_90870865.wem		\Actor-Mixer Hierarchy\Minigames\BalloonBoy\BB_SquareWave_01		41487
+	776888692	sfx_minigame_golf_spinningPlatform_lp	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_spinningPlatform_lp_01_90870865.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_spinningPlatform_lp		75839
+	780366724	sfx_gg_golf_strike_07	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_gg_golf_strike_07_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\LegacyContent\GG_Strike_Heavy\sfx_gg_golf_strike_07		8799
+	798652113	TSS_Pistol	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\TSS_Pistol_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\ChicaFeedingFrenzy\TSS_Pistol		37684
+	799789990	TSS_Shotgun	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\TSS_Shotgun_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\ChicaFeedingFrenzy\TSS_Shotgun		9929
+	802976491	TSS_Sniper_ChargeUP_Loop	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\TSS_Sniper_ChargeUP_Loop_90870865.wem		\Actor-Mixer Hierarchy\Minigames\ChicaFeedingFrenzy\TSS_Sniper_ChargeUP_Loop		59798
+	807327811	sfx_minigame_golf_monty_head_move_up_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_monty_head_move_up_02_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_monty_head_move_up\sfx_minigame_golf_monty_head_move_up_02		12575
+	807650844	sfx_minigame_golf_pneumaticPlatform_move_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_pneumaticPlatform_move_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_pneumaticPlatform\sfx_minigame_golf_pneumaticPlatform_move\sfx_minigame_golf_pneumaticPlatform_move_01		20710
+	814007782	sfx_minigame_golf_balloonboy_animatronic_move_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_balloonboy_animatronic_move_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_balloonboy_animatronic_move\sfx_minigame_golf_balloonboy_animatronic_move_01		16954
+	829305080	BB_PurpleSmasher_Glitched	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\BB_PurpleSmasher_Glitched_F585A561.wem		\Interactive Music Hierarchy\BalloonBoy\BB Soundtrack\BB_Glitched\BB_PurpleSmasher_Glitched\BB_PurpleSmasher_Glitched		3081960
+	838199559	TSS_Door	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\TSS_Door_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\ChicaFeedingFrenzy\TSS_Door		23226
+	839347981	sfx_fazerblast_shot_enemy_05	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_fazerblast_shot_enemy_05_9441A322.wem		\Actor-Mixer Hierarchy\Environment\Hour6\Fazerblast\sfx_fazerblast_shot_enemy\sfx_fazerblast_shot_enemy_05		10012
+	852574916	sfx_fazerblast_shot_player_06	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_fazerblast_shot_player_06_9441A322.wem		\Actor-Mixer Hierarchy\Environment\Hour6\Fazerblast\sfx_fazerblast_shot_player\sfx_fazerblast_shot_player_06		9582
+	883723325	sfx_gg_golf_bounce_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_gg_golf_bounce_02_CA0CEDD0.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\LegacyContent\GG_BallBounce_Once\sfx_gg_golf_bounce_02		2232
+	904478750	sfx_gg_golf_wallhit_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_gg_golf_wallhit_02_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\LegacyContent\GG_BallHitsWall\sfx_gg_golf_wallhit_02		7260
+	906686062	sfx_minigame_golf_ball_bounce_thud_04	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_ball_bounce_thud_04_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\sfx_minigame_golf_ball_bounce_thud\sfx_minigame_golf_ball_bounce_thud_04		1224
+	910533189	sfx_gg_golf_wallhit_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_gg_golf_wallhit_03_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\LegacyContent\GG_BallHitsWall\sfx_gg_golf_wallhit_03		8124
+	914362276	sfx_minigame_golf_monty_head_move_up_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_monty_head_move_up_03_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_monty_head_move_up\sfx_minigame_golf_monty_head_move_up_03		11807
+	927411389	sfx_fazerblast_shot_enemy_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_fazerblast_shot_enemy_01_9441A322.wem		\Actor-Mixer Hierarchy\Environment\Hour6\Fazerblast\sfx_fazerblast_shot_enemy\sfx_fazerblast_shot_enemy_01		9478
+	927679779	sfx_minigame_golf_ball_bounce_hard_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_ball_bounce_hard_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\sfx_minigame_golf_ball_bounce_hard\sfx_minigame_golf_ball_bounce_hard_01		1024
+	931648028	sfx_fazerblast_shot_enemy_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_fazerblast_shot_enemy_03_9441A322.wem		\Actor-Mixer Hierarchy\Environment\Hour6\Fazerblast\sfx_fazerblast_shot_enemy\sfx_fazerblast_shot_enemy_03		10487
+	932662049	sfx_minigame_golf_monty_head_move_up_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_monty_head_move_up_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_monty_head_move_up\sfx_minigame_golf_monty_head_move_up_01		12704
+	933778385	sfx_minigame_golf_ball_bounce_thud_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_ball_bounce_thud_03_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\sfx_minigame_golf_ball_bounce_thud\sfx_minigame_golf_ball_bounce_thud_03		1232
+	961543533	sfx_fazerblast_shot_enemy_04	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_fazerblast_shot_enemy_04_9441A322.wem		\Actor-Mixer Hierarchy\Environment\Hour6\Fazerblast\sfx_fazerblast_shot_enemy\sfx_fazerblast_shot_enemy_04		9963
+	962064623	TSS_HealthPickup	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\TSS_HealthPickup_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\ChicaFeedingFrenzy\TSS_HealthPickup		15006
+	977046008	sfx_minigame_golf_pneumaticPlatform_move_finish_04	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_pneumaticPlatform_move_finish_04_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_pneumaticPlatform\sfx_minigame_golf_pneumaticPlatform_move_finish\sfx_minigame_golf_pneumaticPlatform_move_finish_04		16350
+	987645966	TSS_Pop	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\TSS_Pop_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\ChicaFeedingFrenzy\TSS_Pop		18355
+	991605482	sfx_minigame_golf_cupcake_swing_05	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_cupcake_swing_05_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_cupcake_swing\sfx_minigame_golf_cupcake_swing_05		40049
+	994089262	sfx_minigame_golf_balloonboy_animatronic_move_04	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_balloonboy_animatronic_move_04_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_balloonboy_animatronic_move\sfx_minigame_golf_balloonboy_animatronic_move_04		15739
+	1000316319	BB_Tada	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\BB_Tada_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\BalloonBoy\BB_Tada		10633
+	1001038376	amb_emitter_vent_fan_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_emitter_vent_fan_02_90870865.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_emitter_vent_fan\amb_emitter_vent_fan_02		527270
+	1015100796	sfx_gg_golf_bounce_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_gg_golf_bounce_03_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\LegacyContent\GG_BallBounce_LastBounce\sfx_gg_golf_bounce_03		4881
+	1044536712	sfx_fazerblast_shot_enemy_06	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_fazerblast_shot_enemy_06_9441A322.wem		\Actor-Mixer Hierarchy\Environment\Hour6\Fazerblast\sfx_fazerblast_shot_enemy\sfx_fazerblast_shot_enemy_06		10897
+	1055297141	sfx_gg_golf_bounce_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_gg_golf_bounce_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\LegacyContent\GG_BallBounce_LastBounce\sfx_gg_golf_bounce_01		12075
+	1056413595	MINI GOLF INTRO - FINAL - 09-10-21	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MINI GOLF INTRO - FINAL - 09-10-21_F585A561.wem		\Interactive Music Hierarchy\MiniGolf\MINI GOLF INTRO - FINAL - 09-10-21\MINI GOLF INTRO - FINAL - 09-10-21		3274696
+	1056550956	sfx_gg_golf_roll_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_gg_golf_roll_02_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\LegacyContent\GG_Strike_Roll_Sweetener\sfx_gg_golf_roll_02		16821
+	1057575502	sfx_minigame_golf_ball_water_splash_06	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_ball_water_splash_06_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\sfx_minigame_golf_ball_water_splash\sfx_minigame_golf_ball_water_splash_06		12653
+	1058842680	BB_Ouch	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\BB_Ouch_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\BalloonBoy\BB_Ouch		7474
+	1069755821	sfx_minigame_golf_cupcake_swing_06	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_cupcake_swing_06_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\GatorGolf\ASITP_Content\Emitters\sfx_minigame_golf_cupcake_swing\sfx_minigame_golf_cupcake_swing_06		43458
+

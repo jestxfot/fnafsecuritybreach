@@ -1,0 +1,240 @@
+Event	ID	Name			Wwise Object Path	Notes
+	211747143	Play_cine_burntrapEnding			\Default Work Unit\Cinematics\Play_cine_burntrapEnding	
+	379488304	Play_cine_roxyIntro_stem_sfx_G			\Default Work Unit\Cinematics\Play_cine_roxyIntro_stem_sfx_G	
+	379488305	Play_cine_roxyIntro_stem_sfx_F			\Default Work Unit\Cinematics\Play_cine_roxyIntro_stem_sfx_F	
+	379488306	Play_cine_roxyIntro_stem_sfx_E			\Default Work Unit\Cinematics\Play_cine_roxyIntro_stem_sfx_E	
+	379488307	Play_cine_roxyIntro_stem_sfx_D			\Default Work Unit\Cinematics\Play_cine_roxyIntro_stem_sfx_D	
+	379488308	Play_cine_roxyIntro_stem_sfx_C			\Default Work Unit\Cinematics\Play_cine_roxyIntro_stem_sfx_C	
+	379488309	Play_cine_roxyIntro_stem_sfx_B			\Default Work Unit\Cinematics\Play_cine_roxyIntro_stem_sfx_B	
+	379488310	Play_cine_roxyIntro_stem_sfx_A			\Default Work Unit\Cinematics\Play_cine_roxyIntro_stem_sfx_A	
+	379488316	Play_cine_roxyIntro_stem_sfx_K			\Default Work Unit\Cinematics\Play_cine_roxyIntro_stem_sfx_K	
+	379488317	Play_cine_roxyIntro_stem_sfx_J			\Default Work Unit\Cinematics\Play_cine_roxyIntro_stem_sfx_J	
+	379488318	Play_cine_roxyIntro_stem_sfx_I			\Default Work Unit\Cinematics\Play_cine_roxyIntro_stem_sfx_I	
+	379488319	Play_cine_roxyIntro_stem_sfx_H			\Default Work Unit\Cinematics\Play_cine_roxyIntro_stem_sfx_H	
+	492809488	Play_cine_montyOutro_stem_sfx_A			\Default Work Unit\Cinematics\Play_cine_montyOutro_stem_sfx_A	
+	492809490	Play_cine_montyOutro_stem_sfx_C			\Default Work Unit\Cinematics\Play_cine_montyOutro_stem_sfx_C	
+	492809491	Play_cine_montyOutro_stem_sfx_B			\Default Work Unit\Cinematics\Play_cine_montyOutro_stem_sfx_B	
+	492809492	Play_cine_montyOutro_stem_sfx_E			\Default Work Unit\Cinematics\Play_cine_montyOutro_stem_sfx_E	
+	492809493	Play_cine_montyOutro_stem_sfx_D			\Default Work Unit\Cinematics\Play_cine_montyOutro_stem_sfx_D	
+	492809495	Play_cine_montyOutro_stem_sfx_F			\Default Work Unit\Cinematics\Play_cine_montyOutro_stem_sfx_F	
+	1068246274	Play_cine_freddyDisassembled			\Default Work Unit\Cinematics\Play_cine_freddyDisassembled	
+	1506973849	Play_cine_vannyRedeemEnding			\Default Work Unit\Cinematics\Play_cine_vannyRedeemEnding	
+	2292631342	Play_cine_gregoryInAlleyEnding			\Default Work Unit\Cinematics\Play_cine_gregoryInAlleyEnding	
+	2324979680	Play_cine_burntrapIntro_stem_sfx_A			\Default Work Unit\Cinematics\Play_cine_burntrapIntro_stem_sfx_A	
+	2324979682	Play_cine_burntrapIntro_stem_sfx_C			\Default Work Unit\Cinematics\Play_cine_burntrapIntro_stem_sfx_C	
+	2324979683	Play_cine_burntrapIntro_stem_sfx_B			\Default Work Unit\Cinematics\Play_cine_burntrapIntro_stem_sfx_B	
+	2324979684	Play_cine_burntrapIntro_stem_sfx_E			\Default Work Unit\Cinematics\Play_cine_burntrapIntro_stem_sfx_E	
+	2324979685	Play_cine_burntrapIntro_stem_sfx_D			\Default Work Unit\Cinematics\Play_cine_burntrapIntro_stem_sfx_D	
+	2324979686	Play_cine_burntrapIntro_stem_sfx_G			\Default Work Unit\Cinematics\Play_cine_burntrapIntro_stem_sfx_G	
+	2324979687	Play_cine_burntrapIntro_stem_sfx_F			\Default Work Unit\Cinematics\Play_cine_burntrapIntro_stem_sfx_F	
+	2324979689	Play_cine_burntrapIntro_stem_sfx_H			\Default Work Unit\Cinematics\Play_cine_burntrapIntro_stem_sfx_H	
+	2377070685	Play_cine_fazerblastEnding			\Default Work Unit\Cinematics\Play_cine_fazerblastEnding	
+	2385027828	Play_cine_loadingDockEnding			\Default Work Unit\Cinematics\Play_cine_loadingDockEnding	
+	2405991129	Play_cine_montyIntro_stem_sfx_A			\Default Work Unit\Cinematics\Play_cine_montyIntro_stem_sfx_A	
+	2405991130	Play_cine_montyIntro_stem_sfx_B			\Default Work Unit\Cinematics\Play_cine_montyIntro_stem_sfx_B	
+	2405991131	Play_cine_montyIntro_stem_sfx_C			\Default Work Unit\Cinematics\Play_cine_montyIntro_stem_sfx_C	
+	2405991132	Play_cine_montyIntro_stem_sfx_D			\Default Work Unit\Cinematics\Play_cine_montyIntro_stem_sfx_D	
+	3242597424	Play_cine_chicaIntro_stem_sfx_I			\Default Work Unit\Cinematics\Play_cine_chicaIntro_stem_sfx_I	
+	3242597425	Play_cine_chicaIntro_stem_sfx_H			\Default Work Unit\Cinematics\Play_cine_chicaIntro_stem_sfx_H	
+	3242597427	Play_cine_chicaIntro_stem_sfx_J			\Default Work Unit\Cinematics\Play_cine_chicaIntro_stem_sfx_J	
+	3242597432	Play_cine_chicaIntro_stem_sfx_A			\Default Work Unit\Cinematics\Play_cine_chicaIntro_stem_sfx_A	
+	3242597434	Play_cine_chicaIntro_stem_sfx_C			\Default Work Unit\Cinematics\Play_cine_chicaIntro_stem_sfx_C	
+	3242597435	Play_cine_chicaIntro_stem_sfx_B			\Default Work Unit\Cinematics\Play_cine_chicaIntro_stem_sfx_B	
+	3242597436	Play_cine_chicaIntro_stem_sfx_E			\Default Work Unit\Cinematics\Play_cine_chicaIntro_stem_sfx_E	
+	3242597437	Play_cine_chicaIntro_stem_sfx_D			\Default Work Unit\Cinematics\Play_cine_chicaIntro_stem_sfx_D	
+	3242597438	Play_cine_chicaIntro_stem_sfx_G			\Default Work Unit\Cinematics\Play_cine_chicaIntro_stem_sfx_G	
+	3242597439	Play_cine_chicaIntro_stem_sfx_F			\Default Work Unit\Cinematics\Play_cine_chicaIntro_stem_sfx_F	
+	3247835616	Play_cine_newGame			\Default Work Unit\Cinematics\Play_cine_newGame	
+	3354835104	Play_mus_cine_burntrapintro			\Default Work Unit\Cinematics\Play_mus_cine_burntrapintro	
+	3906871484	Play_cine_vipEnding			\Default Work Unit\Cinematics\Play_cine_vipEnding	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	877642339	cinematics			\story_moments\cinematics	
+	2095737386	office_game			\story_moments\office_game	
+	3875263435	ambience_state			\Default Work Unit\ambience_state	
+
+State	ID	Name	State Group			Notes
+	179926554	hour2_sunmanCarryPlayer	cinematics			
+	226153362	chicaBossBattleIntro	cinematics			
+	440612544	ending_gregoryInAlley	cinematics			
+	710521474	dumpBallsMonty	cinematics			
+	748895195	None	cinematics			
+	790502354	stageLift	cinematics			
+	1029351162	hour1_getOutOfFreddy	cinematics			
+	1177990589	ending_burntrap	cinematics			
+	1430576587	hour1_vanessaWalksBy	cinematics			
+	1458317405	montyBossBattleIntro	cinematics			
+	2178279524	overtime_endGame	cinematics			
+	2339442211	hour1_walkToFirstAid	cinematics			
+	2424749623	hour3_littleMusicManVent	cinematics			
+	2434794556	ending_vip	cinematics			
+	2513513052	hour3_chicaKitchen_Static	cinematics			
+	2517651529	hour1_firstAidDialogue	cinematics			
+	2525860868	hour1_afterIntroVideo	cinematics			
+	2571510049	ending_vannyDestroy	cinematics			
+	2631564358	roxyBossBattleIntro	cinematics			
+	2632086901	ending_vannyRedeem	cinematics			
+	2646572446	hour2_sunmanIntro	cinematics			
+	2756657571	hour4_lostAndFound	cinematics			
+	2939560893	hour5_endoIntro	cinematics			
+	2968865688	hour2_slideNoEntry	cinematics			
+	2975652148	ending_loadingDock	cinematics			
+	2975896672	hour1_introVideo	cinematics			
+	3200292227	dumpBallsMonty_sloMo	cinematics			
+	3422007485	hour4_transitionToLostAndFound	cinematics			
+	3516848363	hour2_kickedOutOfDaycare	cinematics			
+	3707806325	overtime_vannyIntro	cinematics			
+	3724300962	hour1_startInFreddy	cinematics			
+	3730917311	hour3_chicaKitchen	cinematics			
+	3878647458	hour3_elevatorTrap	cinematics			
+	4006066345	hour2_transitionToMoonMan	cinematics			
+	4083394624	burntrapBossBattleIntro	cinematics			
+	4098128287	roxyBossBattleIntro_sloMo	cinematics			
+	4222242326	hour4_mmattack	cinematics			
+	4286150249	hour2_slideEnter	cinematics			
+	135588769	prizeCounter	office_game			
+	479909808	roxyBossBattle	office_game			
+	748895195	None	office_game			
+	1517441814	vannyBossBattle	office_game			
+	1543687740	underground	office_game			
+	1586158131	kitchen	office_game			
+	2470573081	montyBossBattle	office_game			
+	2852108392	westArcade	office_game			
+	3341690334	daycare	office_game			
+	3505015852	chicaBossBattle	office_game			
+	3538421602	backstage	office_game			
+	3991556185	fazerblast	office_game			
+	748895195	None	ambience_state			
+	3346875887	pas_dome	ambience_state			
+	3554243619	montyboss	ambience_state			
+	3733799887	gatorgolf_backroom	ambience_state			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	21717447	cine_burntrapEnding_preCred_mx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_burntrapEnding_preCred_mx_stem_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\burntrapEnding\cine_burntrapEnding_preCred_mx_stem		99352
+	62133997	cine_burntrapIntro_stem_sfx_A	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_burntrapIntro_stem_sfx_A_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\burntrapIntro\cine_burntrapIntro_stem_sfx_A		49744
+	72997979	cine_vipEnding_postCred_mx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_vipEnding_postCred_mx_stem_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\vipEnding\cine_vipEnding_postCred_mx_stem		49744
+	83068227	cine_roxyIntro_stem_sfx_B	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_roxyIntro_stem_sfx_B_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\roxyIntro\cine_roxyIntro_stem_sfx_B		99352
+	90388361	cine_roxyIntro_stem_sfx_C	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_roxyIntro_stem_sfx_C_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\roxyIntro\cine_roxyIntro_stem_sfx_C		99352
+	170884649	cine_fazerblastEnding_preCred_sfx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_fazerblastEnding_preCred_sfx_stem_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\fazerblastEnding\cine_fazerblastEnding_preCred_sfx_stem		99352
+	200766917	cine_burntrapEnding_postCred_mx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_burntrapEnding_postCred_mx_stem_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\burntrapEnding\cine_burntrapEnding_postCred_mx_stem		49744
+	209074964	cine_vipEnding_preCred_mx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_vipEnding_preCred_mx_stem_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\vipEnding\cine_vipEnding_preCred_mx_stem		99352
+	216986409	cine_montyIntro_stem_sfx_A	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_montyIntro_stem_sfx_A_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\montyIntro\cine_montyIntro_stem_sfx_A		99352
+	243534328	cine_loadingDock_postCred_sfx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_loadingDock_postCred_sfx_stem_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\loadingDockEnding\cine_loadingDock_postCred_sfx_stem		81064
+	256353092	cine_vipEnding_postCred_sfx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_vipEnding_postCred_sfx_stem_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\vipEnding\cine_vipEnding_postCred_sfx_stem		99352
+	258057600	cine_chicaIntro_stem_sfx_D	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_chicaIntro_stem_sfx_D_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\chicaIntro\cine_chicaIntro_stem_sfx_D		99352
+	277221374	cine_roxyIntro_stem_sfx_E	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_roxyIntro_stem_sfx_E_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\roxyIntro\cine_roxyIntro_stem_sfx_E		99352
+	294594235	cine_chicaIntro_stem_sfx_I	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_chicaIntro_stem_sfx_I_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\chicaIntro\cine_chicaIntro_stem_sfx_I		99352
+	313721052	cine_chicaIntro_stem_sfx_F	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_chicaIntro_stem_sfx_F_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\chicaIntro\cine_chicaIntro_stem_sfx_F		99352
+	327050900	cine_gregoryInAlley_mx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_gregoryInAlley_mx_stem_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\gregoryInAlleyEnding\cine_gregoryInAlley_mx_stem		99352
+	337195051	cine_fazerblastEnding_preCred_mx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_fazerblastEnding_preCred_mx_stem_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\fazerblastEnding\cine_fazerblastEnding_preCred_mx_stem		99352
+	378620368	cine_freddyDisassemble_mx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_freddyDisassemble_mx_stem_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\freddyDisassembled\cine_freddyDisassemble_mx_stem		99352
+	380880357	cine_roxyIntro_stem_sfx_I	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_roxyIntro_stem_sfx_I_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\roxyIntro\cine_roxyIntro_stem_sfx_I		99352
+	382276280	cine_montyOutro_stem_sfx_B	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_montyOutro_stem_sfx_B_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\montyOutro\cine_montyOutro_stem_sfx_B		99352
+	422072612	cine_chicaIntro_stem_sfx_G	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_chicaIntro_stem_sfx_G_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\chicaIntro\cine_chicaIntro_stem_sfx_G		99352
+	453561808	cine_burntrapIntro_stem_sfx_G	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_burntrapIntro_stem_sfx_G_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\burntrapIntro\cine_burntrapIntro_stem_sfx_G		49744
+	459948832	cine_montyOutro_stem_sfx_F	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_montyOutro_stem_sfx_F_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\montyOutro\cine_montyOutro_stem_sfx_F		99352
+	470141809	cine_montyOutro_stem_sfx_C	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_montyOutro_stem_sfx_C_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\montyOutro\cine_montyOutro_stem_sfx_C		99352
+	493173643	cine_roxyIntro_stem_sfx_J	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_roxyIntro_stem_sfx_J_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\roxyIntro\cine_roxyIntro_stem_sfx_J		99352
+	521912896	cine_vannyRedeemed_postCred_mx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_vannyRedeemed_postCred_mx_stem_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\vannyRedeemEnding\cine_vannyRedeemed_postCred_mx_stem		49744
+	538485710	cine_vannyRedeemed_postCred_sfx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_vannyRedeemed_postCred_sfx_stem_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\vannyRedeemEnding\cine_vannyRedeemed_postCred_sfx_stem		54064
+	540147838	cine_burntrapIntro_stem_sfx_D	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_burntrapIntro_stem_sfx_D_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\burntrapIntro\cine_burntrapIntro_stem_sfx_D		49744
+	541623159	cine_vipEnding_preCred_sfx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_vipEnding_preCred_sfx_stem_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\vipEnding\cine_vipEnding_preCred_sfx_stem		99352
+	556493950	cine_chicaIntro_stem_sfx_E	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_chicaIntro_stem_sfx_E_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\chicaIntro\cine_chicaIntro_stem_sfx_E		99352
+	561874433	cine_montyIntro_stem_sfx_C	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_montyIntro_stem_sfx_C_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\montyIntro\cine_montyIntro_stem_sfx_C		99352
+	577312035	cine_vannyRedeemed_preCred_sfx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_vannyRedeemed_preCred_sfx_stem_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\vannyRedeemEnding\cine_vannyRedeemed_preCred_sfx_stem		99352
+	580151308	cine_burntrapEnding_preCred_sfx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_burntrapEnding_preCred_sfx_stem_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\burntrapEnding\cine_burntrapEnding_preCred_sfx_stem		99352
+	583774864	cine_loadingDock_preCred_mx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_loadingDock_preCred_mx_stem_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\loadingDockEnding\cine_loadingDock_preCred_mx_stem		99352
+	605326708	cine_montyIntro_stem_sfx_D	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_montyIntro_stem_sfx_D_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\montyIntro\cine_montyIntro_stem_sfx_D		99352
+	607219713	cine_fazerblastEnding_postCred_sfx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_fazerblastEnding_postCred_sfx_stem_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\fazerblastEnding\cine_fazerblastEnding_postCred_sfx_stem		81064
+	637115063	cine_burntrapIntro_stem_sfx_F	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_burntrapIntro_stem_sfx_F_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\burntrapIntro\cine_burntrapIntro_stem_sfx_F		49744
+	646734504	cine_burntrapIntro_stem_sfx_H	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_burntrapIntro_stem_sfx_H_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\burntrapIntro\cine_burntrapIntro_stem_sfx_H		49744
+	651914974	cine_montyIntro_stem_sfx_B	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_montyIntro_stem_sfx_B_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\montyIntro\cine_montyIntro_stem_sfx_B		99352
+	674597996	cine_roxyIntro_stem_sfx_K	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_roxyIntro_stem_sfx_K_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\roxyIntro\cine_roxyIntro_stem_sfx_K		99352
+	693105983	cine_roxyIntro_stem_sfx_F	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_roxyIntro_stem_sfx_F_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\roxyIntro\cine_roxyIntro_stem_sfx_F		49744
+	695024293	cine_loadingDock_preCred_sfx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_loadingDock_preCred_sfx_stem_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\loadingDockEnding\cine_loadingDock_preCred_sfx_stem		99352
+	740168100	cine_montyOutro_stem_sfx_A	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_montyOutro_stem_sfx_A_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\montyOutro\cine_montyOutro_stem_sfx_A		99352
+	757360568	mus_credits_sad	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\mus_credits_sad_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\mus_credits_sad		99352
+	780964233	cine_burntrapEnding_postCred_sfx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_burntrapEnding_postCred_sfx_stem_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\burntrapEnding\cine_burntrapEnding_postCred_sfx_stem		54064
+	785743380	cine_burntrapIntro_stem_sfx_B	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_burntrapIntro_stem_sfx_B_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\burntrapIntro\cine_burntrapIntro_stem_sfx_B		249832
+	785905381	cine_chicaIntro_stem_sfx_B	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_chicaIntro_stem_sfx_B_766ED0FA.wem		\Actor-Mixer Hierarchy\2D\Cinematics\chicaIntro\cine_chicaIntro_stem_sfx_B		49744
+	813228047	cine_vannyRedeemed_preCred_mx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_vannyRedeemed_preCred_mx_stem_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\vannyRedeemEnding\cine_vannyRedeemed_preCred_mx_stem		49744
+	817256462	mus_cine_burntrapintro V1	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\mus_cine_burntrapintro V1_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\burntrapIntro\mus_cine_burntrapintro V1		99352
+	832695295	cine_credits_stem_mx_longer	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_credits_stem_mx_longer_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\cine_credits_stem_mx_longer		99352
+	836403338	cine_burntrapIntro_stem_sfx_C	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_burntrapIntro_stem_sfx_C_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\burntrapIntro\cine_burntrapIntro_stem_sfx_C		183664
+	857320738	cine_credits_stem_mx_uncut	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_credits_stem_mx_uncut_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\cine_credits_stem_mx_uncut		99352
+	869144295	cine_roxyIntro_stem_sfx_H	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_roxyIntro_stem_sfx_H_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\roxyIntro\cine_roxyIntro_stem_sfx_H		49744
+	888317886	cine_freddyDisassemble_sfx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_freddyDisassemble_sfx_stem_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\freddyDisassembled\cine_freddyDisassemble_sfx_stem		99352
+	904699848	cine_gameIntro_sfx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_gameIntro_sfx_stem_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\newGame\cine_gameIntro_sfx_stem		99352
+	907137808	cine_roxyIntro_stem_sfx_A	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_roxyIntro_stem_sfx_A_A6A16711.wem		\Actor-Mixer Hierarchy\2D\Cinematics\roxyIntro\cine_roxyIntro_stem_sfx_A		99352
+	950976404	cine_gregoryInAlley_sfx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_gregoryInAlley_sfx_stem_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\gregoryInAlleyEnding\cine_gregoryInAlley_sfx_stem		99352
+	956290313	cine_chicaIntro_stem_sfx_H	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_chicaIntro_stem_sfx_H_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\chicaIntro\cine_chicaIntro_stem_sfx_H		99352
+	984312447	cine_roxyIntro_stem_sfx_G	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_roxyIntro_stem_sfx_G_5BF034BA.wem		\Actor-Mixer Hierarchy\2D\Cinematics\roxyIntro\cine_roxyIntro_stem_sfx_G		99352
+	988248061	cine_burntrapIntro_stem_sfx_E	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_burntrapIntro_stem_sfx_E_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\burntrapIntro\cine_burntrapIntro_stem_sfx_E		249832
+	993717348	cine_montyOutro_stem_sfx_E	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_montyOutro_stem_sfx_E_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\montyOutro\cine_montyOutro_stem_sfx_E		99352
+	994653205	cine_roxyIntro_stem_sfx_D	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_roxyIntro_stem_sfx_D_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\roxyIntro\cine_roxyIntro_stem_sfx_D		99352
+	1011856947	cine_gameIntro_mx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_gameIntro_mx_stem_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\newGame\cine_gameIntro_mx_stem		99352
+	1012213062	cine_montyOutro_stem_sfx_D	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_montyOutro_stem_sfx_D_73E79EE3.wem		\Actor-Mixer Hierarchy\2D\Cinematics\montyOutro\cine_montyOutro_stem_sfx_D		99352
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	21717447	cine_burntrapEnding_preCred_mx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_burntrapEnding_preCred_mx_stem_73E79EE3.wem	21717447.wem	\Actor-Mixer Hierarchy\2D\Cinematics\burntrapEnding\cine_burntrapEnding_preCred_mx_stem	
+	62133997	cine_burntrapIntro_stem_sfx_A	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_burntrapIntro_stem_sfx_A_73E79EE3.wem	62133997.wem	\Actor-Mixer Hierarchy\2D\Cinematics\burntrapIntro\cine_burntrapIntro_stem_sfx_A	
+	72997979	cine_vipEnding_postCred_mx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_vipEnding_postCred_mx_stem_73E79EE3.wem	72997979.wem	\Actor-Mixer Hierarchy\2D\Cinematics\vipEnding\cine_vipEnding_postCred_mx_stem	
+	83068227	cine_roxyIntro_stem_sfx_B	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_roxyIntro_stem_sfx_B_73E79EE3.wem	83068227.wem	\Actor-Mixer Hierarchy\2D\Cinematics\roxyIntro\cine_roxyIntro_stem_sfx_B	
+	90388361	cine_roxyIntro_stem_sfx_C	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_roxyIntro_stem_sfx_C_73E79EE3.wem	90388361.wem	\Actor-Mixer Hierarchy\2D\Cinematics\roxyIntro\cine_roxyIntro_stem_sfx_C	
+	170884649	cine_fazerblastEnding_preCred_sfx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_fazerblastEnding_preCred_sfx_stem_73E79EE3.wem	170884649.wem	\Actor-Mixer Hierarchy\2D\Cinematics\fazerblastEnding\cine_fazerblastEnding_preCred_sfx_stem	
+	200766917	cine_burntrapEnding_postCred_mx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_burntrapEnding_postCred_mx_stem_73E79EE3.wem	200766917.wem	\Actor-Mixer Hierarchy\2D\Cinematics\burntrapEnding\cine_burntrapEnding_postCred_mx_stem	
+	209074964	cine_vipEnding_preCred_mx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_vipEnding_preCred_mx_stem_73E79EE3.wem	209074964.wem	\Actor-Mixer Hierarchy\2D\Cinematics\vipEnding\cine_vipEnding_preCred_mx_stem	
+	216986409	cine_montyIntro_stem_sfx_A	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_montyIntro_stem_sfx_A_73E79EE3.wem	216986409.wem	\Actor-Mixer Hierarchy\2D\Cinematics\montyIntro\cine_montyIntro_stem_sfx_A	
+	243534328	cine_loadingDock_postCred_sfx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_loadingDock_postCred_sfx_stem_73E79EE3.wem	243534328.wem	\Actor-Mixer Hierarchy\2D\Cinematics\loadingDockEnding\cine_loadingDock_postCred_sfx_stem	
+	256353092	cine_vipEnding_postCred_sfx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_vipEnding_postCred_sfx_stem_73E79EE3.wem	256353092.wem	\Actor-Mixer Hierarchy\2D\Cinematics\vipEnding\cine_vipEnding_postCred_sfx_stem	
+	258057600	cine_chicaIntro_stem_sfx_D	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_chicaIntro_stem_sfx_D_73E79EE3.wem	258057600.wem	\Actor-Mixer Hierarchy\2D\Cinematics\chicaIntro\cine_chicaIntro_stem_sfx_D	
+	277221374	cine_roxyIntro_stem_sfx_E	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_roxyIntro_stem_sfx_E_73E79EE3.wem	277221374.wem	\Actor-Mixer Hierarchy\2D\Cinematics\roxyIntro\cine_roxyIntro_stem_sfx_E	
+	294594235	cine_chicaIntro_stem_sfx_I	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_chicaIntro_stem_sfx_I_73E79EE3.wem	294594235.wem	\Actor-Mixer Hierarchy\2D\Cinematics\chicaIntro\cine_chicaIntro_stem_sfx_I	
+	313721052	cine_chicaIntro_stem_sfx_F	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_chicaIntro_stem_sfx_F_73E79EE3.wem	313721052.wem	\Actor-Mixer Hierarchy\2D\Cinematics\chicaIntro\cine_chicaIntro_stem_sfx_F	
+	327050900	cine_gregoryInAlley_mx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_gregoryInAlley_mx_stem_73E79EE3.wem	327050900.wem	\Actor-Mixer Hierarchy\2D\Cinematics\gregoryInAlleyEnding\cine_gregoryInAlley_mx_stem	
+	337195051	cine_fazerblastEnding_preCred_mx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_fazerblastEnding_preCred_mx_stem_73E79EE3.wem	337195051.wem	\Actor-Mixer Hierarchy\2D\Cinematics\fazerblastEnding\cine_fazerblastEnding_preCred_mx_stem	
+	378620368	cine_freddyDisassemble_mx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_freddyDisassemble_mx_stem_73E79EE3.wem	378620368.wem	\Actor-Mixer Hierarchy\2D\Cinematics\freddyDisassembled\cine_freddyDisassemble_mx_stem	
+	380880357	cine_roxyIntro_stem_sfx_I	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_roxyIntro_stem_sfx_I_73E79EE3.wem	380880357.wem	\Actor-Mixer Hierarchy\2D\Cinematics\roxyIntro\cine_roxyIntro_stem_sfx_I	
+	382276280	cine_montyOutro_stem_sfx_B	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_montyOutro_stem_sfx_B_73E79EE3.wem	382276280.wem	\Actor-Mixer Hierarchy\2D\Cinematics\montyOutro\cine_montyOutro_stem_sfx_B	
+	422072612	cine_chicaIntro_stem_sfx_G	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_chicaIntro_stem_sfx_G_73E79EE3.wem	422072612.wem	\Actor-Mixer Hierarchy\2D\Cinematics\chicaIntro\cine_chicaIntro_stem_sfx_G	
+	453561808	cine_burntrapIntro_stem_sfx_G	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_burntrapIntro_stem_sfx_G_73E79EE3.wem	453561808.wem	\Actor-Mixer Hierarchy\2D\Cinematics\burntrapIntro\cine_burntrapIntro_stem_sfx_G	
+	459948832	cine_montyOutro_stem_sfx_F	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_montyOutro_stem_sfx_F_73E79EE3.wem	459948832.wem	\Actor-Mixer Hierarchy\2D\Cinematics\montyOutro\cine_montyOutro_stem_sfx_F	
+	470141809	cine_montyOutro_stem_sfx_C	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_montyOutro_stem_sfx_C_73E79EE3.wem	470141809.wem	\Actor-Mixer Hierarchy\2D\Cinematics\montyOutro\cine_montyOutro_stem_sfx_C	
+	493173643	cine_roxyIntro_stem_sfx_J	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_roxyIntro_stem_sfx_J_73E79EE3.wem	493173643.wem	\Actor-Mixer Hierarchy\2D\Cinematics\roxyIntro\cine_roxyIntro_stem_sfx_J	
+	521912896	cine_vannyRedeemed_postCred_mx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_vannyRedeemed_postCred_mx_stem_73E79EE3.wem	521912896.wem	\Actor-Mixer Hierarchy\2D\Cinematics\vannyRedeemEnding\cine_vannyRedeemed_postCred_mx_stem	
+	538485710	cine_vannyRedeemed_postCred_sfx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_vannyRedeemed_postCred_sfx_stem_73E79EE3.wem	538485710.wem	\Actor-Mixer Hierarchy\2D\Cinematics\vannyRedeemEnding\cine_vannyRedeemed_postCred_sfx_stem	
+	540147838	cine_burntrapIntro_stem_sfx_D	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_burntrapIntro_stem_sfx_D_73E79EE3.wem	540147838.wem	\Actor-Mixer Hierarchy\2D\Cinematics\burntrapIntro\cine_burntrapIntro_stem_sfx_D	
+	541623159	cine_vipEnding_preCred_sfx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_vipEnding_preCred_sfx_stem_73E79EE3.wem	541623159.wem	\Actor-Mixer Hierarchy\2D\Cinematics\vipEnding\cine_vipEnding_preCred_sfx_stem	
+	556493950	cine_chicaIntro_stem_sfx_E	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_chicaIntro_stem_sfx_E_73E79EE3.wem	556493950.wem	\Actor-Mixer Hierarchy\2D\Cinematics\chicaIntro\cine_chicaIntro_stem_sfx_E	
+	561874433	cine_montyIntro_stem_sfx_C	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_montyIntro_stem_sfx_C_73E79EE3.wem	561874433.wem	\Actor-Mixer Hierarchy\2D\Cinematics\montyIntro\cine_montyIntro_stem_sfx_C	
+	577312035	cine_vannyRedeemed_preCred_sfx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_vannyRedeemed_preCred_sfx_stem_73E79EE3.wem	577312035.wem	\Actor-Mixer Hierarchy\2D\Cinematics\vannyRedeemEnding\cine_vannyRedeemed_preCred_sfx_stem	
+	580151308	cine_burntrapEnding_preCred_sfx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_burntrapEnding_preCred_sfx_stem_73E79EE3.wem	580151308.wem	\Actor-Mixer Hierarchy\2D\Cinematics\burntrapEnding\cine_burntrapEnding_preCred_sfx_stem	
+	583774864	cine_loadingDock_preCred_mx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_loadingDock_preCred_mx_stem_73E79EE3.wem	583774864.wem	\Actor-Mixer Hierarchy\2D\Cinematics\loadingDockEnding\cine_loadingDock_preCred_mx_stem	
+	605326708	cine_montyIntro_stem_sfx_D	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_montyIntro_stem_sfx_D_73E79EE3.wem	605326708.wem	\Actor-Mixer Hierarchy\2D\Cinematics\montyIntro\cine_montyIntro_stem_sfx_D	
+	607219713	cine_fazerblastEnding_postCred_sfx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_fazerblastEnding_postCred_sfx_stem_73E79EE3.wem	607219713.wem	\Actor-Mixer Hierarchy\2D\Cinematics\fazerblastEnding\cine_fazerblastEnding_postCred_sfx_stem	
+	637115063	cine_burntrapIntro_stem_sfx_F	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_burntrapIntro_stem_sfx_F_73E79EE3.wem	637115063.wem	\Actor-Mixer Hierarchy\2D\Cinematics\burntrapIntro\cine_burntrapIntro_stem_sfx_F	
+	646734504	cine_burntrapIntro_stem_sfx_H	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_burntrapIntro_stem_sfx_H_73E79EE3.wem	646734504.wem	\Actor-Mixer Hierarchy\2D\Cinematics\burntrapIntro\cine_burntrapIntro_stem_sfx_H	
+	651914974	cine_montyIntro_stem_sfx_B	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_montyIntro_stem_sfx_B_73E79EE3.wem	651914974.wem	\Actor-Mixer Hierarchy\2D\Cinematics\montyIntro\cine_montyIntro_stem_sfx_B	
+	674597996	cine_roxyIntro_stem_sfx_K	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_roxyIntro_stem_sfx_K_73E79EE3.wem	674597996.wem	\Actor-Mixer Hierarchy\2D\Cinematics\roxyIntro\cine_roxyIntro_stem_sfx_K	
+	693105983	cine_roxyIntro_stem_sfx_F	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_roxyIntro_stem_sfx_F_73E79EE3.wem	693105983.wem	\Actor-Mixer Hierarchy\2D\Cinematics\roxyIntro\cine_roxyIntro_stem_sfx_F	
+	695024293	cine_loadingDock_preCred_sfx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_loadingDock_preCred_sfx_stem_73E79EE3.wem	695024293.wem	\Actor-Mixer Hierarchy\2D\Cinematics\loadingDockEnding\cine_loadingDock_preCred_sfx_stem	
+	740168100	cine_montyOutro_stem_sfx_A	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_montyOutro_stem_sfx_A_73E79EE3.wem	740168100.wem	\Actor-Mixer Hierarchy\2D\Cinematics\montyOutro\cine_montyOutro_stem_sfx_A	
+	757360568	mus_credits_sad	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\mus_credits_sad_73E79EE3.wem	757360568.wem	\Actor-Mixer Hierarchy\2D\Cinematics\mus_credits_sad	
+	780964233	cine_burntrapEnding_postCred_sfx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_burntrapEnding_postCred_sfx_stem_73E79EE3.wem	780964233.wem	\Actor-Mixer Hierarchy\2D\Cinematics\burntrapEnding\cine_burntrapEnding_postCred_sfx_stem	
+	785905381	cine_chicaIntro_stem_sfx_B	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_chicaIntro_stem_sfx_B_766ED0FA.wem	785905381.wem	\Actor-Mixer Hierarchy\2D\Cinematics\chicaIntro\cine_chicaIntro_stem_sfx_B	
+	813228047	cine_vannyRedeemed_preCred_mx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_vannyRedeemed_preCred_mx_stem_73E79EE3.wem	813228047.wem	\Actor-Mixer Hierarchy\2D\Cinematics\vannyRedeemEnding\cine_vannyRedeemed_preCred_mx_stem	
+	817256462	mus_cine_burntrapintro V1	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\mus_cine_burntrapintro V1_73E79EE3.wem	817256462.wem	\Actor-Mixer Hierarchy\2D\Cinematics\burntrapIntro\mus_cine_burntrapintro V1	
+	832695295	cine_credits_stem_mx_longer	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_credits_stem_mx_longer_73E79EE3.wem	832695295.wem	\Actor-Mixer Hierarchy\2D\Cinematics\cine_credits_stem_mx_longer	
+	857320738	cine_credits_stem_mx_uncut	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_credits_stem_mx_uncut_73E79EE3.wem	857320738.wem	\Actor-Mixer Hierarchy\2D\Cinematics\cine_credits_stem_mx_uncut	
+	869144295	cine_roxyIntro_stem_sfx_H	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_roxyIntro_stem_sfx_H_73E79EE3.wem	869144295.wem	\Actor-Mixer Hierarchy\2D\Cinematics\roxyIntro\cine_roxyIntro_stem_sfx_H	
+	888317886	cine_freddyDisassemble_sfx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_freddyDisassemble_sfx_stem_73E79EE3.wem	888317886.wem	\Actor-Mixer Hierarchy\2D\Cinematics\freddyDisassembled\cine_freddyDisassemble_sfx_stem	
+	904699848	cine_gameIntro_sfx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_gameIntro_sfx_stem_73E79EE3.wem	904699848.wem	\Actor-Mixer Hierarchy\2D\Cinematics\newGame\cine_gameIntro_sfx_stem	
+	907137808	cine_roxyIntro_stem_sfx_A	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_roxyIntro_stem_sfx_A_A6A16711.wem	907137808.wem	\Actor-Mixer Hierarchy\2D\Cinematics\roxyIntro\cine_roxyIntro_stem_sfx_A	
+	950976404	cine_gregoryInAlley_sfx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_gregoryInAlley_sfx_stem_73E79EE3.wem	950976404.wem	\Actor-Mixer Hierarchy\2D\Cinematics\gregoryInAlleyEnding\cine_gregoryInAlley_sfx_stem	
+	956290313	cine_chicaIntro_stem_sfx_H	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_chicaIntro_stem_sfx_H_73E79EE3.wem	956290313.wem	\Actor-Mixer Hierarchy\2D\Cinematics\chicaIntro\cine_chicaIntro_stem_sfx_H	
+	984312447	cine_roxyIntro_stem_sfx_G	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_roxyIntro_stem_sfx_G_5BF034BA.wem	984312447.wem	\Actor-Mixer Hierarchy\2D\Cinematics\roxyIntro\cine_roxyIntro_stem_sfx_G	
+	993717348	cine_montyOutro_stem_sfx_E	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_montyOutro_stem_sfx_E_73E79EE3.wem	993717348.wem	\Actor-Mixer Hierarchy\2D\Cinematics\montyOutro\cine_montyOutro_stem_sfx_E	
+	994653205	cine_roxyIntro_stem_sfx_D	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_roxyIntro_stem_sfx_D_73E79EE3.wem	994653205.wem	\Actor-Mixer Hierarchy\2D\Cinematics\roxyIntro\cine_roxyIntro_stem_sfx_D	
+	1011856947	cine_gameIntro_mx_stem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_gameIntro_mx_stem_73E79EE3.wem	1011856947.wem	\Actor-Mixer Hierarchy\2D\Cinematics\newGame\cine_gameIntro_mx_stem	
+	1012213062	cine_montyOutro_stem_sfx_D	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\cine_montyOutro_stem_sfx_D_73E79EE3.wem	1012213062.wem	\Actor-Mixer Hierarchy\2D\Cinematics\montyOutro\cine_montyOutro_stem_sfx_D	
+

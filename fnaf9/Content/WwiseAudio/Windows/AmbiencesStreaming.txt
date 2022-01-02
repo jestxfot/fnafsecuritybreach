@@ -1,0 +1,528 @@
+Event	ID	Name			Wwise Object Path	Notes
+	419583455	Play_Tension_Gord_02_MontyBossBattle			\Default Work Unit\AmbiencesStreaming\Play_Tension_Gord_02_MontyBossBattle	
+	420074922	Stop_VannyAttackTension			\Default Work Unit\Stop_VannyAttackTension	
+	451983678	Play_Tension_Gord_03_chicaKitchenOffice			\Default Work Unit\AmbiencesStreaming\Play_Tension_Gord_03_chicaKitchenOffice	
+	540335944	Stop_Tension_Gord_02_StaffBot			\Default Work Unit\AmbiencesStreaming\Stop_Tension_Gord_02_StaffBot	
+	786840796	Play_Tension_Gord_02_RoxyPrizeCounterPostCinematic			\Default Work Unit\AmbiencesStreaming\Play_Tension_Gord_02_RoxyPrizeCounterPostCinematic	
+	969432764	Stop_Tension_Gord_03_chicaKitchenOffice			\Default Work Unit\AmbiencesStreaming\Stop_Tension_Gord_03_chicaKitchenOffice	
+	1081609364	Play_LocationMusic			\Default Work Unit\AmbiencesStreaming\Play_LocationMusic	
+	1172472742	Play_Tension_Gord_03_LMM			\Default Work Unit\AmbiencesStreaming\Play_Tension_Gord_03_LMM	
+	1569965957	Play_SFX_EnvironmentalAmbiences			\Default Work Unit\AmbiencesStreaming\Play_SFX_EnvironmentalAmbiences	
+	1576556217	Stop_Tension_Gord_02_MontyBossBattle			\Default Work Unit\AmbiencesStreaming\Stop_Tension_Gord_02_MontyBossBattle	
+	1867787466	Play_Tension_Gord_02_StaffBot			\Default Work Unit\AmbiencesStreaming\Play_Tension_Gord_02_StaffBot	
+	2097290022	Stop_Tension_Gord_02_RoxyPrizeCounterPostCinematic			\Default Work Unit\AmbiencesStreaming\Stop_Tension_Gord_02_RoxyPrizeCounterPostCinematic	
+	2245136575	Stop_SFX_EnvironmentalAmbiences			\Default Work Unit\AmbiencesStreaming\Stop_SFX_EnvironmentalAmbiences	
+	2467071860	Play_TensionSystem_AttackLayers			\Default Work Unit\AmbiencesStreaming\Play_TensionSystem_AttackLayers	
+	2492480086	Stop_Tension_Gord_02_ChicaFizzyFaz			\Default Work Unit\AmbiencesStreaming\Stop_Tension_Gord_02_ChicaFizzyFaz	
+	2810353848	Play_VannyAttackTension			\Default Work Unit\Play_VannyAttackTension	
+	2817380788	Play_Tension_Gord_02_ChicaFizzyFaz			\Default Work Unit\AmbiencesStreaming\Play_Tension_Gord_02_ChicaFizzyFaz	
+	2975533622	Stop_TensionSystem_AttackLayers			\Default Work Unit\AmbiencesStreaming\Stop_TensionSystem_AttackLayers	
+	3667137744	Stop_Tension_Gord_02_RoxyBossBattle			\Default Work Unit\AmbiencesStreaming\Stop_Tension_Gord_02_RoxyBossBattle	
+	3716108148	Stop_Tension_Gord_03_LMM			\Default Work Unit\AmbiencesStreaming\Stop_Tension_Gord_03_LMM	
+	3779312778	Play_Tension_Gord_02_RoxyBossBattle			\Default Work Unit\AmbiencesStreaming\Play_Tension_Gord_02_RoxyBossBattle	
+	4178610829	Play_SFX_MiniGolf_Ambiences			\Default Work Unit\AmbiencesStreaming\Play_SFX_MiniGolf_Ambiences	
+	4222580035	Stop_SFX_MiniGolf_Ambiences			\Default Work Unit\AmbiencesStreaming\Stop_SFX_MiniGolf_Ambiences	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	271889580	golf_current_hole			\minigames\golf_current_hole	
+	1176052424	LOCATION			\Default Work Unit\LOCATION	
+
+Switch	ID	Name	Switch Group			Notes
+	846646257	_1	golf_current_hole			
+	846646258	_2	golf_current_hole			
+	846646259	_3	golf_current_hole			
+	846646260	_4	golf_current_hole			
+	846646261	_5	golf_current_hole			
+	846646262	_6	golf_current_hole			
+	846646263	_7	golf_current_hole			
+	846646264	_8	golf_current_hole			
+	846646265	_9	golf_current_hole			
+	1644366928	_13	golf_current_hole			
+	1644366929	_12	golf_current_hole			
+	1644366930	_11	golf_current_hole			
+	1644366931	_10	golf_current_hole			
+	1644366932	_17	golf_current_hole			
+	1644366933	_16	golf_current_hole			
+	1644366934	_15	golf_current_hole			
+	1644366935	_14	golf_current_hole			
+	1644366939	_18	golf_current_hole			
+	36366712	AMB_Catwalks	LOCATION			
+	79465641	AMB_BowlingAlley	LOCATION			
+	91725792	AMB_FazerTag	LOCATION			
+	425497542	AMB_Utilidor_Small	LOCATION			
+	436379097	AMB_ParkingGarage	LOCATION			
+	467632346	AMB_Utilidor_Large	LOCATION			
+	492663108	AMB_Bathroom	LOCATION			
+	496888105	AMB_Stairwell	LOCATION			
+	508266363	AMB_GatorGolf_MedRoom	LOCATION			
+	531749319	AMB_GeneralRoom_Small	LOCATION			
+	539736153	AMB_GatorGolf	LOCATION			
+	650111602	AMB_Kitchen	LOCATION			
+	847146884	AMB_DarkHallway	LOCATION			
+	941127970	AMB_ServerRoom	LOCATION			
+	1014596549	AMB_MontyGolf_TrippyHall	LOCATION			
+	1193195097	AMB_FazerTag_Entrance	LOCATION			
+	1210962787	AMB_WestArcade	LOCATION			
+	1405399250	AMB_RehearsalRoom	LOCATION			
+	1503326033	AMB_LobbyCafe	LOCATION			
+	1586341226	AMB_Sewer_Medium	LOCATION			
+	1677516324	AMB_Utilidor_Medium	LOCATION			
+	1756845675	AMB_NeonRoom_Small	LOCATION			
+	1872529209	AMB_MontyGolf_Mechanical	LOCATION			
+	1915693652	AMB_pas_Dome	LOCATION			
+	1947258218	AMB_Arcade	LOCATION			
+	1969515167	AMB_NeonRoom_Large	LOCATION			
+	2082126615	AMB_Daycare	LOCATION			
+	2113904613	AMB_Sewer_Tunnel	LOCATION			
+	2142159411	AMB_GlamrockGifts	LOCATION			
+	2162189253	AMB_HardRoomSmall	LOCATION			
+	2274461017	AMB_FizzyFazVats	LOCATION			
+	2496195321	AMB_Sinkhole	LOCATION			
+	2706706902	AMB_MechanicalRoom_Small	LOCATION			
+	2720937478	AMB_MontyBossBattle_Room	LOCATION			
+	2891383230	AMB_Raceway	LOCATION			
+	2981457343	AMB_GeneralRoom_Medium	LOCATION			
+	3132542283	AMB_NeonRoom_Medium	LOCATION			
+	3207324726	AMB_Fire	LOCATION			
+	3330513156	AMB_Office_Medium	LOCATION			
+	3370757776	AMB_Sewer	LOCATION			
+	3382118788	AMB_Sewer_Large	LOCATION			
+	3408020807	AMB_VentilationInside	LOCATION			
+	3544653904	AMB_MachineRoom	LOCATION			
+	3605209298	AMB_Docks	LOCATION			
+	3668321683	AMB_Freezer_Large	LOCATION			
+	3708322673	AMB_Laundry_Large	LOCATION			
+	3729701050	AMB_Closet_Small	LOCATION			
+	3914933986	AMB_Kitchen_Large	LOCATION			
+	4042100587	AMB_Theatre	LOCATION			
+	4078558067	AMB_Silence	LOCATION			
+	4096831364	AMB_Atrium	LOCATION			
+	4281687536	AMB_Burntrap	LOCATION			
+
+State Group	ID	Name			Wwise Object Path	Notes
+	378812136	hour4_showtime			\story_moments\hour4_showtime	
+	511511205	hour3_prizeCounterPostOG			\atmosphere_music\hour3_prizeCounterPostOG	
+	724292039	hour1_lobbyMagnet			\atmosphere_music\hour1_lobbyMagnet	
+	733910165	hour4_moonmanchase			\atmosphere_music\hour4_moonmanchase	
+	877642339	cinematics			\story_moments\cinematics	
+	1305376387	hour3_chicaBathroom			\atmosphere_music\hour3_chicaBathroom	
+	1475161877	animatronic_attack			\Default Work Unit\animatronic_attack	
+	2095737386	office_game			\story_moments\office_game	
+	2456467480	hour3_atriumExplore			\atmosphere_music\hour3_atriumExplore	
+	2621771053	DJMM_music			\story_moments\DJMM_music	
+	3342860265	hour1_corridorChase			\story_moments\hour1_corridorChase	
+	3359613719	fazwatch_camera_state			\Default Work Unit\fazwatch_camera_state	
+	3528969519	elevator_music			\atmosphere_music\elevator_music	
+	3538823496	hiding			\Default Work Unit\hiding	
+	3683551463	fazwatch_state			\Default Work Unit\fazwatch_state	
+	3870388151	hour1_postCorridorChaseOffice			\story_moments\hour1_postCorridorChaseOffice	
+	3875263435	ambience_state			\Default Work Unit\ambience_state	
+	3896917229	jumpscare_state			\Default Work Unit\jumpscare_state	
+	4054184860	LOCATION_MUSIC			\Default Work Unit\LOCATION_MUSIC	
+	4243984524	lights_state			\Default Work Unit\lights_state	
+
+State	ID	Name	State Group			Notes
+	58138747	active	hour4_showtime			
+	748895195	None	hour4_showtime			
+	58138747	active	hour3_prizeCounterPostOG			
+	748895195	None	hour3_prizeCounterPostOG			
+	1381183024	roxyEncounter	hour3_prizeCounterPostOG			
+	58138747	active	hour1_lobbyMagnet			
+	748895195	None	hour1_lobbyMagnet			
+	58138747	active	hour4_moonmanchase			
+	748895195	None	hour4_moonmanchase			
+	179926554	hour2_sunmanCarryPlayer	cinematics			
+	226153362	chicaBossBattleIntro	cinematics			
+	440612544	ending_gregoryInAlley	cinematics			
+	710521474	dumpBallsMonty	cinematics			
+	748895195	None	cinematics			
+	790502354	stageLift	cinematics			
+	1029351162	hour1_getOutOfFreddy	cinematics			
+	1177990589	ending_burntrap	cinematics			
+	1430576587	hour1_vanessaWalksBy	cinematics			
+	1458317405	montyBossBattleIntro	cinematics			
+	2178279524	overtime_endGame	cinematics			
+	2339442211	hour1_walkToFirstAid	cinematics			
+	2424749623	hour3_littleMusicManVent	cinematics			
+	2434794556	ending_vip	cinematics			
+	2513513052	hour3_chicaKitchen_Static	cinematics			
+	2517651529	hour1_firstAidDialogue	cinematics			
+	2525860868	hour1_afterIntroVideo	cinematics			
+	2571510049	ending_vannyDestroy	cinematics			
+	2631564358	roxyBossBattleIntro	cinematics			
+	2632086901	ending_vannyRedeem	cinematics			
+	2646572446	hour2_sunmanIntro	cinematics			
+	2756657571	hour4_lostAndFound	cinematics			
+	2939560893	hour5_endoIntro	cinematics			
+	2968865688	hour2_slideNoEntry	cinematics			
+	2975652148	ending_loadingDock	cinematics			
+	2975896672	hour1_introVideo	cinematics			
+	3200292227	dumpBallsMonty_sloMo	cinematics			
+	3422007485	hour4_transitionToLostAndFound	cinematics			
+	3516848363	hour2_kickedOutOfDaycare	cinematics			
+	3707806325	overtime_vannyIntro	cinematics			
+	3724300962	hour1_startInFreddy	cinematics			
+	3730917311	hour3_chicaKitchen	cinematics			
+	3878647458	hour3_elevatorTrap	cinematics			
+	4006066345	hour2_transitionToMoonMan	cinematics			
+	4083394624	burntrapBossBattleIntro	cinematics			
+	4098128287	roxyBossBattleIntro_sloMo	cinematics			
+	4222242326	hour4_mmattack	cinematics			
+	4286150249	hour2_slideEnter	cinematics			
+	58138747	active	hour3_chicaBathroom			
+	748895195	None	hour3_chicaBathroom			
+	180661997	attack	animatronic_attack			
+	748895195	None	animatronic_attack			
+	4208712191	seeking	animatronic_attack			
+	135588769	prizeCounter	office_game			
+	479909808	roxyBossBattle	office_game			
+	748895195	None	office_game			
+	1517441814	vannyBossBattle	office_game			
+	1543687740	underground	office_game			
+	1586158131	kitchen	office_game			
+	2470573081	montyBossBattle	office_game			
+	2852108392	westArcade	office_game			
+	3341690334	daycare	office_game			
+	3505015852	chicaBossBattle	office_game			
+	3538421602	backstage	office_game			
+	3991556185	fazerblast	office_game			
+	58138747	active	hour3_atriumExplore			
+	748895195	None	hour3_atriumExplore			
+	58138747	active	DJMM_music			
+	748895195	None	DJMM_music			
+	58138747	active	hour1_corridorChase			
+	748895195	None	hour1_corridorChase			
+	58138747	active	fazwatch_camera_state			
+	748895195	None	fazwatch_camera_state			
+	3248502869	disabled	fazwatch_camera_state			
+	58138747	active	elevator_music			
+	748895195	None	elevator_music			
+	748895195	None	hiding			
+	4230341173	hiding_active	hiding			
+	58138747	active	fazwatch_state			
+	748895195	None	fazwatch_state			
+	58138747	active	hour1_postCorridorChaseOffice			
+	748895195	None	hour1_postCorridorChaseOffice			
+	748895195	None	ambience_state			
+	3346875887	pas_dome	ambience_state			
+	3554243619	montyboss	ambience_state			
+	3733799887	gatorgolf_backroom	ambience_state			
+	351483260	jumpscare_active	jumpscare_state			
+	748895195	None	jumpscare_state			
+	1432716332	game_over	jumpscare_state			
+	2062658082	nonlethal_jumpscare_active	jumpscare_state			
+	748895195	None	LOCATION_MUSIC			
+	1218694439	MUS_FazerblastJam	LOCATION_MUSIC			
+	1285837047	MUS_FreddysTheme_Organ	LOCATION_MUSIC			
+	1573868719	MUS_SpaceLobby	LOCATION_MUSIC			
+	1583389107	MUS_FreddysTheme_80sSynth	LOCATION_MUSIC			
+	1769899787	MUS_GolfSwamp	LOCATION_MUSIC			
+	1825203175	MUS_None	LOCATION_MUSIC			
+	2269017259	MUS_RoxyRaceway	LOCATION_MUSIC			
+	2442534611	MUS_ElChips	LOCATION_MUSIC			
+	2864353648	MUS_FreddysTheme_Muzak	LOCATION_MUSIC			
+	3351653077	MUS_Arcade	LOCATION_MUSIC			
+	4092072802	MUS_Daycare	LOCATION_MUSIC			
+	409917040	lights_off	lights_state			
+	748895195	None	lights_state			
+	1063352154	lights_on	lights_state			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	11716041	active	DJMM_music	\Interactive Music Hierarchy\LocationMusic\LocationMusic		
+	13447730	active	hour1_postCorridorChaseOffice	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AI_Prox\Tension_Generic_BaseLayer\gordLayer		
+	26157365	attack	animatronic_attack	\Interactive Music Hierarchy\GordSongs\Mus_Atmospheres\mus_Atmosphere3_PrizeCounter		
+	30133633	montyBossBattleIntro	cinematics	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AI_Prox		
+	36578235	vannyBossBattle	office_game	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\StoryTensions		
+	57161837	hour1_firstAidDialogue	cinematics	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AI_Prox\Tension_Generic_BaseLayer\gordLayer		
+	62324413	backstage	office_game	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AI_Prox\Tension_Generic_BaseLayer\gordLayer		
+	65193400	active	hour3_chicaBathroom	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AI_Prox\Tension_Generic_BaseLayer		
+	95308218	hour1_getOutOfFreddy	cinematics	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AI_Prox\Tension_Generic_BaseLayer\gordLayer		
+	103711251	active	DJMM_music	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_arcade\amb_bed_arcade_scatter		
+	108431458	attack	animatronic_attack	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\StoryTensions\Tension_Gord_02_RoxyPrizeCounterPostCinematic		
+	119323508	active	hour4_showtime	\Interactive Music Hierarchy\LocationMusic\LocationMusic		
+	150843713	attack	animatronic_attack	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AI_Prox\Tension_Generic_BaseLayer		
+	167930416	dumpBallsMonty_sloMo	cinematics	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences		
+	187355015	hour2_sunmanIntro	cinematics	\Interactive Music Hierarchy\LocationMusic\LocationMusic\mus_Daycare		
+	202666117	hour1_startInFreddy	cinematics	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AI_Prox\Tension_Generic_BaseLayer\gordLayer		
+	229988368	vannyBossBattle	office_game	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AttackLayers		
+	245344729	hour1_vanessaWalksBy	cinematics	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AI_Prox\Tension_Generic_BaseLayer		
+	264551528	hour4_lostAndFound	cinematics	\Interactive Music Hierarchy\LocationMusic\LocationMusic		
+	272722817	montyBossBattleIntro	cinematics	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences		
+	306830658	active	hour1_lobbyMagnet	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AI_Prox\Tension_Generic_BaseLayer		
+	314946465	hour3_elevatorTrap	cinematics	\Interactive Music Hierarchy\LocationMusic\LocationMusic		
+	327978693	burntrapBossBattleIntro	cinematics	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_burntrap\spooky_scatters		
+	334048194	hour1_afterIntroVideo	cinematics	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AI_Prox\Tension_Generic_BaseLayer\gordLayer		
+	344071970	roxyBossBattle	office_game	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AttackLayers		
+	356379824	montyBossBattle	office_game	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AttackLayers		
+	378542200	hiding_active	hiding	\Interactive Music Hierarchy\GordSongs\Mus_Atmospheres		
+	414114217	daycare	office_game	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AI_Prox		
+	422255956	hour1_vanessaWalksBy	cinematics	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AI_Prox\Tension_Generic_BaseLayer\gordLayer		
+	454617574	hour1_firstAidDialogue	cinematics	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AI_Prox\Tension_Generic_BaseLayer		
+	457918395	attack	animatronic_attack	\Interactive Music Hierarchy\GordSongs\Mus_Atmospheres\mus_Atmosphere1		
+	459813145	attack	animatronic_attack	\Interactive Music Hierarchy\GordSongs\Mus_Atmospheres\mus_Atmosphere2		
+	466815993	hour4_transitionToLostAndFound	cinematics	\Interactive Music Hierarchy\LocationMusic\LocationMusic		
+	524196564	hour1_introVideo	cinematics	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AI_Prox\Tension_Generic_BaseLayer\gordLayer		
+	526174508	seeking	animatronic_attack	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fazerBlast_mainRoom\scatters		
+	527992938	roxyBossBattle	office_game	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AI_Prox		
+	543148143	fazerblast	office_game	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AI_Prox		
+	545729372	roxyBossBattleIntro	cinematics	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences		
+	561307853	attack	animatronic_attack	\Interactive Music Hierarchy\GordSongs\Mus_Atmospheres\mus_Atmosphere3_Underground		
+	568992595	burntrapBossBattleIntro	cinematics	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem		
+	572839597	dumpBallsMonty_sloMo	cinematics	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\StoryTensions\Tension_Gord_02_MontyBossBattle		
+	588765039	montyBossBattle	office_game	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AI_Prox		
+	604237497	hour2_sunmanIntro	cinematics	\Interactive Music Hierarchy\LocationMusic\LocationMusic		
+	641775604	roxyBossBattleIntro_sloMo	cinematics	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences		
+	646973108	active	fazwatch_state	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D		
+	648178151	hiding_active	hiding	\Interactive Music Hierarchy\LocationMusic\LocationMusic		
+	651333444	attack	animatronic_attack	\Interactive Music Hierarchy\GordSongs\Mus_Atmospheres\mus_Atmosphere1_PostPrizeCounter		
+	711397855	attack	animatronic_attack	\Interactive Music Hierarchy\LocationMusic\LocationMusic\mus_Atmosphere2		
+	723231724	seeking	animatronic_attack	\Interactive Music Hierarchy\GordSongs\Mus_Atmospheres\mus_Fazerblast_Jam		
+	724446633	seeking	animatronic_attack	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AI_Prox\Tension_Generic_BaseLayer		
+	740488869	attack	animatronic_attack	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fazerBlast_mainRoom\scatters		
+	763835356	roxyEncounter	hour3_prizeCounterPostOG	\Interactive Music Hierarchy\LocationMusic\LocationMusic		
+	767464752	fazerblast	office_game	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AI_Prox\Tension_Generic_BaseLayer\gordLayer		
+	780227391	seeking	animatronic_attack	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AttackLayers		
+	787188069	daycare	office_game	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AI_Prox\Tension_Generic_BaseLayer		
+	810693917	ending_burntrap	cinematics	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_burntrap\spooky_scatters		
+	836091464	dumpBallsMonty	cinematics	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\StoryTensions\Tension_Gord_02_MontyBossBattle		
+	838338465	gatorgolf_backroom	ambience_state	\Interactive Music Hierarchy\LocationMusic\LocationMusic\mus_GolfSwamp		
+	840989380	active	hour1_corridorChase	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AI_Prox\Tension_Generic_BaseLayer\gordLayer		
+	850059596	active	hour3_prizeCounterPostOG	\Interactive Music Hierarchy\LocationMusic\LocationMusic		
+	854984130	roxyEncounter	hour3_prizeCounterPostOG	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AI_Prox		
+	861428432	active	elevator_music	\Interactive Music Hierarchy\LocationMusic\LocationMusic		
+	881516655	roxyEncounter	hour3_prizeCounterPostOG	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\StoryTensions\Tension_Gord_02_RoxyPrizeCounterPostCinematic		
+	908669014	active	elevator_music	\Interactive Music Hierarchy\GordSongs\Mus_Atmospheres		
+	967377719	dumpBallsMonty	cinematics	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences		
+	984161363	attack	animatronic_attack	\Interactive Music Hierarchy\GordSongs\Mus_Atmospheres\mus_Atmosphere3_Backstage		
+	1031883880	hour4_transitionToLostAndFound	cinematics	\Interactive Music Hierarchy\GordSongs\Mus_Atmospheres		
+	1033860287	attack	animatronic_attack	\Interactive Music Hierarchy\GordSongs\Mus_Atmospheres\mus_Atmosphere3_Daycare		
+	1040171906	attack	animatronic_attack	\Interactive Music Hierarchy\GordSongs\Mus_Atmospheres\mus_Atmosphere3_Kitchen		
+	1043694065	prizeCounter	office_game	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AI_Prox\Tension_Generic_BaseLayer\gordLayer		
+	1063654597	active	DJMM_music	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_arcade		
+	1066930203	attack	animatronic_attack	\Interactive Music Hierarchy\GordSongs\Mus_Atmospheres\mus_Fazerblast_Jam		
+	1070126177	seeking	animatronic_attack	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\StoryTensions\Tension_Gord_02_RoxyPrizeCounterPostCinematic		
+	1071006363	active	fazwatch_camera_state	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D		
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	11027689	vanny_threat_level			\tension\vanny_threat_level	
+	271889580	golf_current_hole			\minigames\golf_current_hole	
+	2657385157	dialogue_meter			\ducking\dialogue_meter	
+	2978973357	hour3_kitchen_timer			\hour3\hour3_kitchen_timer	
+	3240262508	underground_phase			\overtime\underground_phase	
+	3643051029	lmm_music_automation			\tension\lmm_music_automation	
+	3643127635	daycare_generators_activated			\hour2\daycare_generators_activated	
+	3820641237	AI_PROXIMITY			\tension\AI_PROXIMITY	
+	3862137264	pas_door_open_amount			\hour5\pas_door_open_amount	
+	3927966044	light_active			\Default Work Unit\light_active	
+
+Effect plug-ins	ID	Name	Type				Notes
+	3593642777	Room_Large_Tiled	Wwise RoomVerb			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	1725162	amb_scatter_fazerblast_laser_shot_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_fazerblast_laser_shot_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fazerBlast_mainRoom\scatters\amb_scatter_fazerblast_laser_shot\amb_scatter_fazerblast_laser_shot_03		39736
+	4419820	amb_bed_arcade_scatter_09	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_arcade_scatter_09_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_arcade\amb_bed_arcade_scatter\amb_bed_arcade_scatter_09		84124
+	5192674	amb_scatter_fazerblast_laser_shot_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_fazerblast_laser_shot_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fazerBlast_mainRoom\scatters\amb_scatter_fazerblast_laser_shot\amb_scatter_fazerblast_laser_shot_02		42040
+	9324021	sfx_burntrap_battle_scatter_laughter_demonic_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_burntrap_battle_scatter_laughter_demonic_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_burntrap\spooky_scatters\sfx_burntrap_battle_scatter_laughter_demonic\sfx_burntrap_battle_scatter_laughter_demonic_03		96300
+	14914351	sfx_burntrap_battle_scatter_laughter_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_burntrap_battle_scatter_laughter_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_burntrap\spooky_scatters\sfx_burntrap_battle_scatter_laughter\sfx_burntrap_battle_scatter_laughter_02		92916
+	24566803	amb_scatter_fazerblast_laser_shot_08	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_fazerblast_laser_shot_08_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fazerBlast_mainRoom\scatters\amb_scatter_fazerblast_laser_shot\amb_scatter_fazerblast_laser_shot_08		65944
+	36848844	amb_scatter_creepy_distant_tones_06	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_creepy_distant_tones_06_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_dark_hallway\amb_scatter_creepy_distant_tones\amb_scatter_creepy_distant_tones_06		178660
+	42487648	amb_bed_arcade_scatter_11	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_arcade_scatter_11_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_arcade\amb_bed_arcade_scatter\amb_bed_arcade_scatter_11		70732
+	47407807	amb_scatter_fazerblast_explosion_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_fazerblast_explosion_02  _73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fazerBlast_mainRoom\scatters\amb_scatter_fazerblast_explosion\amb_scatter_fazerblast_explosion_02		50608
+	51480796	sfx_burntrap_battle_scatter_laughter_demonic_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_burntrap_battle_scatter_laughter_demonic_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_burntrap\spooky_scatters\sfx_burntrap_battle_scatter_laughter_demonic\sfx_burntrap_battle_scatter_laughter_demonic_01		65268
+	57192397	amb_scatter_building_creak_06	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_building_creak_06_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_dark_hallway\amb_scatter_building_creak\amb_scatter_building_creak_06		76096
+	60012710	sfx_burntrap_battle_scatter_chains_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_burntrap_battle_scatter_chains_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_burntrap\spooky_scatters\sfx_burntrap_battle_scatter_chains_01		121032
+	65242670	amb_scatter_vent_rattle_dist_07	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_vent_rattle_dist_07_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_dark_hallway\amb_scatter_vent_rattle_dist\amb_scatter_vent_rattle_dist_07		139168
+	89516616	amb_scatter_fazerblast_scifi_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_fazerblast_scifi_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fazerBlast_mainRoom\scatters\amb_scatter_fazerblast_scifi\amb_scatter_fazerblast_scifi_01		45712
+	94996535	sfx_burntrap_battle_scatter_whisper_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_burntrap_battle_scatter_whisper_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_burntrap\spooky_scatters\sfx_burntrap_battle_scatter_whisper\sfx_burntrap_battle_scatter_whisper_01		148608
+	95052827	amb_scatter_creepy_distant_tones_09	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_creepy_distant_tones_09_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_dark_hallway\amb_scatter_creepy_distant_tones\amb_scatter_creepy_distant_tones_09		268120
+	97638054	amb_scatter_building_creak_08	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_building_creak_08_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_dark_hallway\amb_scatter_building_creak\amb_scatter_building_creak_08		164836
+	118829501	amb_scatter_creepy_distant_tones_07	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_creepy_distant_tones_07_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_dark_hallway\amb_scatter_creepy_distant_tones\amb_scatter_creepy_distant_tones_07		143740
+	124212340	amb_scatter_rat_squeak_04	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_rat_squeak_04_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\UtilidoorMedium\amb_scatter_rat_squeak\amb_scatter_rat_squeak_04		40752
+	137504301	amb_scatter_building_creak_05	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_building_creak_05_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_dark_hallway\amb_scatter_building_creak\amb_scatter_building_creak_05		133372
+	146244556	amb_bed_arcade_scatter_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_arcade_scatter_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_arcade\amb_bed_arcade_scatter\amb_bed_arcade_scatter_03		91360
+	149566871	amb_scatter_pipe_drip_06	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_pipe_drip_06_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\UtilidoorMedium\amb_scatter_pipe_drip\amb_scatter_pipe_drip_06		56088
+	176827935	sfx_burntrap_battle_scatter_laughter_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_burntrap_battle_scatter_laughter_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_burntrap\spooky_scatters\sfx_burntrap_battle_scatter_laughter\sfx_burntrap_battle_scatter_laughter_03		111348
+	190000658	amb_scatter_vent_rattle_dist_08	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_vent_rattle_dist_08_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_dark_hallway\amb_scatter_vent_rattle_dist\amb_scatter_vent_rattle_dist_08		84988
+	196781195	amb_scatter_vent_rattle_dist_05	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_vent_rattle_dist_05_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_dark_hallway\amb_scatter_vent_rattle_dist\amb_scatter_vent_rattle_dist_05		138412
+	223207379	amb_scatter_rat_squeak_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_rat_squeak_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\UtilidoorMedium\amb_scatter_rat_squeak\amb_scatter_rat_squeak_02		30780
+	230071187	amb_scatter_vent_rattle_dist_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_vent_rattle_dist_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_dark_hallway\amb_scatter_vent_rattle_dist\amb_scatter_vent_rattle_dist_03		90604
+	235857474	amb_bed_arcade_scatter_04	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_arcade_scatter_04_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_arcade\amb_bed_arcade_scatter\amb_bed_arcade_scatter_04		93268
+	236818988	amb_scatter_fazerblast_laser_shot_05	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_fazerblast_laser_shot_05_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fazerBlast_mainRoom\scatters\amb_scatter_fazerblast_laser_shot\amb_scatter_fazerblast_laser_shot_05		37072
+	261047177	amb_scatter_rat_squeak_07	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_rat_squeak_07_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\UtilidoorMedium\amb_scatter_rat_squeak\amb_scatter_rat_squeak_07		40752
+	267346039	sfx_burntrap_battle_scatter_laughter_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_burntrap_battle_scatter_laughter_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_burntrap\spooky_scatters\sfx_burntrap_battle_scatter_laughter\sfx_burntrap_battle_scatter_laughter_01		74484
+	271197897	amb_scatter_fazerblast_scifi_12	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_fazerblast_scifi_12_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fazerBlast_mainRoom\scatters\amb_scatter_fazerblast_scifi\amb_scatter_fazerblast_scifi_12		42256
+	275775575	amb_scatter_fazerblast_scifi_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_fazerblast_scifi_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fazerBlast_mainRoom\scatters\amb_scatter_fazerblast_scifi\amb_scatter_fazerblast_scifi_02		33256
+	287307512	amb_scatter_vent_rattle_dist_06	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_vent_rattle_dist_06_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_dark_hallway\amb_scatter_vent_rattle_dist\amb_scatter_vent_rattle_dist_06		138664
+	300285640	amb_scatter_vent_rattle_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_vent_rattle_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\vent\amb_scatter_vent_rattle\amb_scatter_vent_rattle_02		39844
+	308157771	amb_scatter_fazerblast_laser_shot_07	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_fazerblast_laser_shot_07_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fazerBlast_mainRoom\scatters\amb_scatter_fazerblast_laser_shot\amb_scatter_fazerblast_laser_shot_07		41824
+	321274211	amb_scatter_rat_squeak_06	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_rat_squeak_06_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\UtilidoorMedium\amb_scatter_rat_squeak\amb_scatter_rat_squeak_06		54108
+	330897424	amb_scatter_rat_scurry_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_rat_scurry_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\UtilidoorMedium\amb_scatter_rat_scurry\amb_scatter_rat_scurry_02		56088
+	331547781	amb_scatter_pipe_drip_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_pipe_drip_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\UtilidoorMedium\amb_scatter_pipe_drip\amb_scatter_pipe_drip_01		74520
+	346006551	amb_bed_arcade_scatter_07	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_arcade_scatter_07_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_arcade\amb_bed_arcade_scatter\amb_bed_arcade_scatter_07		100036
+	356822006	amb_scatter_vent_rattle_dist_11	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_vent_rattle_dist_11_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_dark_hallway\amb_scatter_vent_rattle_dist\amb_scatter_vent_rattle_dist_11		127180
+	361145721	amb_scatter_fazerblast_scifi_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_fazerblast_scifi_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fazerBlast_mainRoom\scatters\amb_scatter_fazerblast_scifi\amb_scatter_fazerblast_scifi_03		41680
+	395906127	sfx_burntrap_battle_scatter_swell_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_burntrap_battle_scatter_swell_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_burntrap\spooky_scatters\sfx_burntrap_battle_scatter_swell\sfx_burntrap_battle_scatter_swell_02		168228
+	404805867	amb_scatter_creepy_distant_tones_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_creepy_distant_tones_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_dark_hallway\amb_scatter_creepy_distant_tones\amb_scatter_creepy_distant_tones_03		178768
+	405032276	sfx_burntrap_battle_scatter_whisper_05	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_burntrap_battle_scatter_whisper_05_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_burntrap\spooky_scatters\sfx_burntrap_battle_scatter_whisper\sfx_burntrap_battle_scatter_whisper_05		148608
+	406070553	amb_scatter_building_creak_04	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_building_creak_04_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_dark_hallway\amb_scatter_building_creak\amb_scatter_building_creak_04		68608
+	411969286	amb_bed_arcade_scatter_08	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_arcade_scatter_08_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_arcade\amb_bed_arcade_scatter\amb_bed_arcade_scatter_08		97120
+	415373315	amb_scatter_creepy_distant_tones_05	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_creepy_distant_tones_05_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_dark_hallway\amb_scatter_creepy_distant_tones\amb_scatter_creepy_distant_tones_05		208036
+	416854716	amb_scatter_pipe_drip_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_pipe_drip_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\UtilidoorMedium\amb_scatter_pipe_drip\amb_scatter_pipe_drip_03		74520
+	429811077	amb_scatter_fazerblast_scifi_04	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_fazerblast_scifi_04_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fazerBlast_mainRoom\scatters\amb_scatter_fazerblast_scifi\amb_scatter_fazerblast_scifi_04		36712
+	430298600	amb_scatter_building_creak_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_building_creak_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_dark_hallway\amb_scatter_building_creak\amb_scatter_building_creak_01		103060
+	443306173	amb_scatter_fazerblast_laser_shot_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_fazerblast_laser_shot_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fazerBlast_mainRoom\scatters\amb_scatter_fazerblast_laser_shot\amb_scatter_fazerblast_laser_shot_01		60688
+	461809207	amb_scatter_pipe_drip_05	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_pipe_drip_05_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\UtilidoorMedium\amb_scatter_pipe_drip\amb_scatter_pipe_drip_05		92952
+	479944199	amb_bed_loading_docks	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_loading_docks_F585A561.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\Docks\amb_bed_loading_docks		2770480
+	483502545	amb_scatter_fazerblast_scifi_09	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_fazerblast_scifi_09_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fazerBlast_mainRoom\scatters\amb_scatter_fazerblast_scifi\amb_scatter_fazerblast_scifi_09		31528
+	510131700	amb_scatter_pipe_drip_04	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_pipe_drip_04_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\UtilidoorMedium\amb_scatter_pipe_drip\amb_scatter_pipe_drip_04		74520
+	520886849	amb_scatter_rat_squeak_05	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_rat_squeak_05_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\UtilidoorMedium\amb_scatter_rat_squeak\amb_scatter_rat_squeak_05		40752
+	539977649	amb_scatter_fazerblast_explosion_08  	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_fazerblast_explosion_08  _73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fazerBlast_mainRoom\scatters\amb_scatter_fazerblast_explosion\amb_scatter_fazerblast_explosion_08  		63460
+	542598189	amb_scatter_fazerblast_explosion_07  	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_fazerblast_explosion_07  _73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fazerBlast_mainRoom\scatters\amb_scatter_fazerblast_explosion\amb_scatter_fazerblast_explosion_07  		53776
+	547747242	amb_scatter_fazerblast_scifi_13	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_fazerblast_scifi_13_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fazerBlast_mainRoom\scatters\amb_scatter_fazerblast_scifi\amb_scatter_fazerblast_scifi_13		37072
+	567763668	amb_scatter_pipe_drip_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_pipe_drip_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\UtilidoorMedium\amb_scatter_pipe_drip\amb_scatter_pipe_drip_02		56088
+	579318980	amb_scatter_fazerblast_laser_shot_04	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_fazerblast_laser_shot_04_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fazerBlast_mainRoom\scatters\amb_scatter_fazerblast_laser_shot\amb_scatter_fazerblast_laser_shot_04		42796
+	582615472	amb_scatter_creepy_distant_tones_10	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_creepy_distant_tones_10_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_dark_hallway\amb_scatter_creepy_distant_tones\amb_scatter_creepy_distant_tones_10		269200
+	588757099	sfx_burntrap_battle_scatter_swell_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_burntrap_battle_scatter_swell_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_burntrap\spooky_scatters\sfx_burntrap_battle_scatter_swell\sfx_burntrap_battle_scatter_swell_01		68040
+	589646314	amb_scatter_vent_rattle_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_vent_rattle_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\vent\amb_scatter_vent_rattle\amb_scatter_vent_rattle_01		52048
+	613107408	amb_scatter_fazerblast_scifi_10	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_fazerblast_scifi_10_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fazerBlast_mainRoom\scatters\amb_scatter_fazerblast_scifi\amb_scatter_fazerblast_scifi_10		39844
+	622476968	amb_scatter_fazerblast_scifi_08	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_fazerblast_scifi_08_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fazerBlast_mainRoom\scatters\amb_scatter_fazerblast_scifi\amb_scatter_fazerblast_scifi_08		41320
+	623138316	sfx_burntrap_battle_scatter_whisper_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_burntrap_battle_scatter_whisper_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_burntrap\spooky_scatters\sfx_burntrap_battle_scatter_whisper\sfx_burntrap_battle_scatter_whisper_03		130176
+	635038837	sfx_burntrap_battle_scatter_whisper_06	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_burntrap_battle_scatter_whisper_06_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_burntrap\spooky_scatters\sfx_burntrap_battle_scatter_whisper\sfx_burntrap_battle_scatter_whisper_06		148608
+	645278959	amb_scatter_building_creak_07	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_building_creak_07_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_dark_hallway\amb_scatter_building_creak\amb_scatter_building_creak_07		100684
+	664133838	amb_scatter_fazerblast_scifi_14	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_fazerblast_scifi_14_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fazerBlast_mainRoom\scatters\amb_scatter_fazerblast_scifi\amb_scatter_fazerblast_scifi_14		30664
+	667274851	amb_scatter_rat_scurry_06	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_rat_scurry_06_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\UtilidoorMedium\amb_scatter_rat_scurry\amb_scatter_rat_scurry_06		56088
+	677907379	amb_scatter_rat_squeak_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_rat_squeak_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\UtilidoorMedium\amb_scatter_rat_squeak\amb_scatter_rat_squeak_01		76104
+	685187044	amb_scatter_rat_scurry_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_rat_scurry_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\UtilidoorMedium\amb_scatter_rat_scurry\amb_scatter_rat_scurry_01		56088
+	713512378	amb_scatter_vent_rattle_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_vent_rattle_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\vent\amb_scatter_vent_rattle\amb_scatter_vent_rattle_03		41716
+	714247561	amb_scatter_creepy_distant_tones_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_creepy_distant_tones_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_dark_hallway\amb_scatter_creepy_distant_tones\amb_scatter_creepy_distant_tones_02		176068
+	715308967	amb_scatter_rat_scurry_05	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_rat_scurry_05_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\UtilidoorMedium\amb_scatter_rat_scurry\amb_scatter_rat_scurry_05		56088
+	736400634	amb_scatter_fazerblast_scifi_06	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_fazerblast_scifi_06_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fazerBlast_mainRoom\scatters\amb_scatter_fazerblast_scifi\amb_scatter_fazerblast_scifi_06		41248
+	760148389	amb_scatter_vent_rattle_dist_09	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_vent_rattle_dist_09_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_dark_hallway\amb_scatter_vent_rattle_dist\amb_scatter_vent_rattle_dist_09		93592
+	766508878	amb_scatter_creepy_distant_tones_04	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_creepy_distant_tones_04_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_dark_hallway\amb_scatter_creepy_distant_tones\amb_scatter_creepy_distant_tones_04		267112
+	794485047	sfx_burntrap_battle_scatter_whisper_04	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_burntrap_battle_scatter_whisper_04_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_burntrap\spooky_scatters\sfx_burntrap_battle_scatter_whisper\sfx_burntrap_battle_scatter_whisper_04		167040
+	797389575	amb_bed_arcade_scatter_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_arcade_scatter_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_arcade\amb_bed_arcade_scatter\amb_bed_arcade_scatter_01		96724
+	799766507	amb_scatter_vent_rattle_dist_04	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_vent_rattle_dist_04_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_dark_hallway\amb_scatter_vent_rattle_dist\amb_scatter_vent_rattle_dist_04		64936
+	801489894	amb_scatter_vent_rattle_dist_10	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_vent_rattle_dist_10_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_dark_hallway\amb_scatter_vent_rattle_dist\amb_scatter_vent_rattle_dist_10		102988
+	814091225	amb_scatter_building_creak_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_building_creak_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_dark_hallway\amb_scatter_building_creak\amb_scatter_building_creak_03		110980
+	846259348	amb_scatter_building_creak_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_building_creak_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_dark_hallway\amb_scatter_building_creak\amb_scatter_building_creak_02		98668
+	853498257	sfx_burntrap_battle_scatter_swell_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_burntrap_battle_scatter_swell_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_burntrap\spooky_scatters\sfx_burntrap_battle_scatter_swell\sfx_burntrap_battle_scatter_swell_03		225144
+	859457939	amb_scatter_vent_rattle_dist_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_vent_rattle_dist_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_dark_hallway\amb_scatter_vent_rattle_dist\amb_scatter_vent_rattle_dist_01		101692
+	860019812	amb_scatter_rat_squeak_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_rat_squeak_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\UtilidoorMedium\amb_scatter_rat_squeak\amb_scatter_rat_squeak_03		54108
+	864445739	amb_scatter_fazerblast_scifi_05	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_fazerblast_scifi_05_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fazerBlast_mainRoom\scatters\amb_scatter_fazerblast_scifi\amb_scatter_fazerblast_scifi_05		51724
+	876549931	amb_scatter_fazerblast_scifi_07	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_fazerblast_scifi_07_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fazerBlast_mainRoom\scatters\amb_scatter_fazerblast_scifi\amb_scatter_fazerblast_scifi_07		41752
+	884314761	amb_scatter_fazerblast_laser_shot_06	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_fazerblast_laser_shot_06_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fazerBlast_mainRoom\scatters\amb_scatter_fazerblast_laser_shot\amb_scatter_fazerblast_laser_shot_06		39268
+	893069385	amb_scatter_fazerblast_explosion_06  	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_fazerblast_explosion_06  _73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fazerBlast_mainRoom\scatters\amb_scatter_fazerblast_explosion\amb_scatter_fazerblast_explosion_06  		37972
+	918068974	amb_scatter_fazerblast_explosion_04  	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_fazerblast_explosion_04  _73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fazerBlast_mainRoom\scatters\amb_scatter_fazerblast_explosion\amb_scatter_fazerblast_explosion_04  		52480
+	926511399	amb_scatter_rat_squeak_08	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_rat_squeak_08_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\UtilidoorMedium\amb_scatter_rat_squeak\amb_scatter_rat_squeak_08		40752
+	934864617	amb_bed_arcade_scatter_06	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_arcade_scatter_06_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_arcade\amb_bed_arcade_scatter\amb_bed_arcade_scatter_06		95968
+	958835260	amb_scatter_vent_rattle_04	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_vent_rattle_04_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\vent\amb_scatter_vent_rattle\amb_scatter_vent_rattle_04		38008
+	968547256	amb_scatter_creepy_distant_tones_08	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_creepy_distant_tones_08_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_dark_hallway\amb_scatter_creepy_distant_tones\amb_scatter_creepy_distant_tones_08		183484
+	973620541	amb_bed_arcade_scatter_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_arcade_scatter_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_arcade\amb_bed_arcade_scatter\amb_bed_arcade_scatter_02		86428
+	981230654	amb_scatter_fazerblast_explosion_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_fazerblast_explosion_01  _73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fazerBlast_mainRoom\scatters\amb_scatter_fazerblast_explosion\amb_scatter_fazerblast_explosion_01		52984
+	994025865	sfx_burntrap_battle_scatter_chains_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_burntrap_battle_scatter_chains_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_burntrap\spooky_scatters\sfx_burntrap_battle_scatter_chains_02		136044
+	996924003	amb_scatter_vent_rattle_dist_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_vent_rattle_dist_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_dark_hallway\amb_scatter_vent_rattle_dist\amb_scatter_vent_rattle_dist_02		186112
+	998788935	amb_scatter_vent_rattle_05	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_vent_rattle_05_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\vent\amb_scatter_vent_rattle\amb_scatter_vent_rattle_05		43732
+	1001513955	amb_scatter_fazerblast_scifi_11	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_fazerblast_scifi_11_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fazerBlast_mainRoom\scatters\amb_scatter_fazerblast_scifi\amb_scatter_fazerblast_scifi_11		49276
+	1021557576	amb_scatter_fazerblast_explosion_05  	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_fazerblast_explosion_05  _73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fazerBlast_mainRoom\scatters\amb_scatter_fazerblast_explosion\amb_scatter_fazerblast_explosion_05  		60976
+	1035261030	amb_scatter_vent_rattle_06	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_vent_rattle_06_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\vent\amb_scatter_vent_rattle\amb_scatter_vent_rattle_06		42220
+	1038870177	sfx_burntrap_battle_scatter_laughter_demonic_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_burntrap_battle_scatter_laughter_demonic_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_burntrap\spooky_scatters\sfx_burntrap_battle_scatter_laughter_demonic\sfx_burntrap_battle_scatter_laughter_demonic_02		186264
+	1039986659	amb_bed_arcade_scatter_10	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_arcade_scatter_10_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_arcade\amb_bed_arcade_scatter\amb_bed_arcade_scatter_10		79516
+	1042431212	amb_bed_arcade_scatter_05	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_arcade_scatter_05_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_arcade\amb_bed_arcade_scatter\amb_bed_arcade_scatter_05		91720
+	1046249136	amb_scatter_rat_scurry_04	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_rat_scurry_04_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\UtilidoorMedium\amb_scatter_rat_scurry\amb_scatter_rat_scurry_04		56088
+	1046882748	sfx_burntrap_battle_scatter_whisper_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_burntrap_battle_scatter_whisper_02_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_burntrap\spooky_scatters\sfx_burntrap_battle_scatter_whisper\sfx_burntrap_battle_scatter_whisper_02		148608
+	1050749863	amb_scatter_fazerblast_explosion_03  	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_fazerblast_explosion_03  _73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fazerBlast_mainRoom\scatters\amb_scatter_fazerblast_explosion\amb_scatter_fazerblast_explosion_03  		73504
+	1059755806	amb_scatter_creepy_distant_tones_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_creepy_distant_tones_01_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_dark_hallway\amb_scatter_creepy_distant_tones\amb_scatter_creepy_distant_tones_01		172900
+	1064794186	amb_scatter_rat_scurry_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_scatter_rat_scurry_03_73E79EE3.wem		\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\UtilidoorMedium\amb_scatter_rat_scurry\amb_scatter_rat_scurry_03		56088
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	4774520	FNAF_SB_atmo1_piano	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FNAF_SB_atmo1_piano_F585A561.wem	4774520.wem	\Interactive Music Hierarchy\GordSongs\Mus_Atmospheres\mus_Atmosphere1\New Music Segment\FNAF_SB_atmo1_piano	
+	5566507	amb_bed_montyGolf_mechanicalRoom	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_montyGolf_mechanicalRoom_F585A561.wem	5566507.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_bed_montyGolf_mechanicalRoom\amb_bed_montyGolf_mechanicalRoom	
+	18505594	DAYCARE - LOOP - FINAL	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\DAYCARE - LOOP - FINAL_F585A561.wem	18505594.wem	\Interactive Music Hierarchy\LocationMusic\LocationMusic\mus_Daycare\DAYCARE - LOOP - FINAL\DAYCARE - LOOP - FINAL	
+	26972198	amb_bed_theatre	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_theatre_F585A561.wem	26972198.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_theater\amb_bed_theatre	
+	35577993	amb_bed_dark_hallway	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_dark_hallway_F585A561.wem	35577993.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_dark_hallway\amb_bed_dark_hallway	
+	44284415	amb_bed_laundryRoom_large	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_laundryRoom_large_F585A561.wem	44284415.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_bed_laundryRoom_large\amb_bed_laundryRoom_large	
+	49391178	amb_bed_sewer_room_large	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_sewer_room_large_F585A561.wem	49391178.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_bed_sewer_room_large\amb_bed_sewer_room_large	
+	55820231	amb_bed_arcade	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_arcade_F585A561.wem	55820231.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_arcade\amb_bed_arcade	
+	76895975	amb_bed_bowlingAlley	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_bowlingAlley_F585A561.wem	76895975.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_bowlingAlley\amb_bed_bowlingAlley	
+	88129184	SPACE LOBBY - FINAL PT 2 - LOOP	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\SPACE LOBBY - FINAL PT 2 - LOOP_F585A561.wem	88129184.wem	\Interactive Music Hierarchy\LocationMusic\LocationMusic\mus_SpaceLobby\SPACE LOBBY - FINAL PT 2 - LOOP\SPACE LOBBY - FINAL PT 2 - LOOP	
+	90927421	amb_bed_machineRoom_small	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_machineRoom_small_F585A561.wem	90927421.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\UtilidoorMedium\amb_bed_machineRoom_small	
+	97167646	amb_general_neonSigns_large_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_general_neonSigns_large_01_F585A561.wem	97167646.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_neonSigns_large\amb_general_neonSigns_large\amb_general_neonSigns_large_01	
+	111365464	sfx_tension_generic_layer2	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_tension_generic_layer2_F585A561.wem	111365464.wem	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AI_Prox\Tension_Generic_BaseLayer\sfx_tension_generic_layer2	
+	135469669	amb_bed_vent_interior_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_vent_interior_03_F585A561.wem	135469669.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\vent\amb_bed_vent_interior\amb_bed_vent_interior_03	
+	136113411	sfx_minigame_golf_amb_bed_huge_mechanical	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_amb_bed_huge_mechanical_01_F585A561.wem	136113411.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\huge_mechanical\sfx_minigame_golf_amb_bed_huge_mechanical	
+	150867116	FNAF_SB_tension3_int2_lp	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FNAF_SB_tension3_int2_lp_F585A561.wem	150867116.wem	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AI_Prox\Tension_Generic_BaseLayer\gordLayer\FNAF_SB_tension3_int2_lp	
+	154615203	amb_bed_fazerblast_mainRoom	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_fazerblast_mainRoom_F585A561.wem	154615203.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fazerBlast_mainRoom\amb_bed_fazerblast_mainRoom	
+	158812380	amb_general_neonSigns_medium_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_general_neonSigns_medium_03_F585A561.wem	158812380.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_neonSigns_medium\amb_general_neonSigns_medium\amb_general_neonSigns_medium_03	
+	160532204	amb_bed_sinkhole	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_sinkhole_F585A561.wem	160532204.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_bed_sinkhole\amb_bed_sinkhole	
+	167192512	GOLF SWAMP - A2 - LOOP	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GOLF SWAMP - A2 - LOOP_F585A561.wem	167192512.wem	\Interactive Music Hierarchy\LocationMusic\LocationMusic\mus_GolfSwamp\GOLF SWAMP - A2 - LOOP\GOLF SWAMP - A2 - LOOP	
+	182812435	FNAF_SB_atmo1_ambientSpheres	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FNAF_SB_atmo1_ambientSpheres_F585A561.wem	182812435.wem	\Interactive Music Hierarchy\GordSongs\Mus_Atmospheres\mus_Atmosphere1\New Music Segment\FNAF_SB_atmo1_ambientSpheres	
+	195949870	FNAF_SB_atmo2_1000hisses	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FNAF_SB_atmo2_1000hisses_F585A561.wem	195949870.wem	\Interactive Music Hierarchy\LocationMusic\LocationMusic\mus_Atmosphere2\FNAF_SB_atmo2 V1\FNAF_SB_atmo2_1000hisses	
+	203887681	Freddy Main Theme - Elevator 3 VG-1 - 05-04-21	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\Freddy Main Theme - Elevator 3 VG-1 - 05-04-21_F585A561.wem	203887681.wem	\Interactive Music Hierarchy\LocationMusic\LocationMusic\mus_FreddysFanfare_80sSynth\Freddy Main Theme - Elevator 3 VG-1 - 05-04-21\Freddy Main Theme - Elevator 3 VG-1 - 05-04-21	
+	208577171	amb_bed_montyGolf_mainRoom_air	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_montyGolf_mainRoom_air_F585A561.wem	208577171.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_montyGolf_mainRoom\amb_bed_montyGolf_mainRoom_air	
+	210030003	FNAF_SB_atmo2_creepyBells	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FNAF_SB_atmo2_creepyBells_F585A561.wem	210030003.wem	\Interactive Music Hierarchy\LocationMusic\LocationMusic\mus_Atmosphere2\FNAF_SB_atmo2 V1\FNAF_SB_atmo2_creepyBells	
+	225044782	sfx_tension_generic_layer1	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_tension_generic_layer1_F585A561.wem	225044782.wem	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AI_Prox\Tension_Generic_BaseLayer\sfx_tension_generic_layer1	
+	261268630	FNAF_SB_atmo1_ jupitersOrgan	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FNAF_SB_atmo1_ jupitersOrgan_F585A561.wem	261268630.wem	\Interactive Music Hierarchy\GordSongs\Mus_Atmospheres\mus_Atmosphere1\New Music Segment\FNAF_SB_atmo1_ jupitersOrgan	
+	265373475	FNAF_SB_atmo2_buzzkill	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FNAF_SB_atmo2_buzzkill_F585A561.wem	265373475.wem	\Interactive Music Hierarchy\LocationMusic\LocationMusic\mus_Atmosphere2\FNAF_SB_atmo2 V1\FNAF_SB_atmo2_buzzkill	
+	280203766	amb_bed_lobbyCafe	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_lobbyCafe_F585A561.wem	280203766.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_lobbyCafe\amb_bed_lobbyCafe	
+	293428169	amb_bed_stairwell_concrete	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_stairwell_concrete_F585A561.wem	293428169.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\Stairwell\amb_bed_stairwell_concrete	
+	296638591	FNAF_SB_tension2_int3_lp	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FNAF_SB_tension2_int3_lp_F585A561.wem	296638591.wem	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\StoryTensions\Tension_Gord_02_RoxyBossBattle\FNAF_SB_tension2_int3_lp	
+	303142234	FNAF_SB_atmo3_blueWhale	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FNAF_SB_atmo3_blueWhale_F585A561.wem	303142234.wem	\Interactive Music Hierarchy\GordSongs\Mus_Atmospheres\mus_Atmosphere3_Daycare\FNAF_SB_atmo3_badImpact\FNAF_SB_atmo3_blueWhale	
+	304571109	amb_bed_fizzyFaz_vats	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_fizzyFaz_vats_F585A561.wem	304571109.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fizzyFaz_vats\amb_bed_fizzyFaz_vats	
+	324763610	amb_bed_mechanicalRoom_small	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_mechanicalRoom_small_F585A561.wem	324763610.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_mechanicalRoom_small\amb_bed_mechanicalRoom_small	
+	334526789	FNAF_SB_tension2_int1_lp	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FNAF_SB_tension2_int1_lp_F585A561.wem	334526789.wem	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\StoryTensions\Tension_Gord_02_RoxyPrizeCounterPostCinematic\FNAF_SB_tension2_int1_lp	
+	342682125	amb_bed_office_medium	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_office_medium_F585A561.wem	342682125.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_office_medium\amb_bed_office_medium	
+	350371066	amb_bed_vent_interior_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_vent_interior_01_F585A561.wem	350371066.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\vent\amb_bed_vent_interior\amb_bed_vent_interior_01	
+	353616234	El Chips - Final Mix - 08-20-21	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\El Chips - Final Mix - 08-20-21_F585A561.wem	353616234.wem	\Interactive Music Hierarchy\LocationMusic\LocationMusic\mus_ElChips\El Chips - Final Mix - 08-20-21\El Chips - Final Mix - 08-20-21	
+	356151568	FNAF_SB_atmo3_circuitTremor	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FNAF_SB_atmo3_circuitTremor_F585A561.wem	356151568.wem	\Interactive Music Hierarchy\GordSongs\Mus_Atmospheres\mus_Atmosphere3_Daycare\FNAF_SB_atmo3_badImpact\FNAF_SB_atmo3_circuitTremor	
+	382757064	ARCADE THEME - LOOP - FINAL - 09-08-21	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\ARCADE THEME - LOOP - FINAL - 09-08-21_F585A561.wem	382757064.wem	\Interactive Music Hierarchy\LocationMusic\LocationMusic\mus_Arcade\ARCADE THEME - LOOP - FINAL - 09-08-21\ARCADE THEME - LOOP - FINAL - 09-08-21	
+	394183574	amb_bed_montyGolf_trippyHall	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_montyGolf_trippyHall_F585A561.wem	394183574.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_bed_montyGolf_trippyHall\amb_bed_montyGolf_trippyHall	
+	398638301	FNAF_SB_atmo2_nordicWinds	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FNAF_SB_atmo2_nordicWinds_F585A561.wem	398638301.wem	\Interactive Music Hierarchy\LocationMusic\LocationMusic\mus_Atmosphere2\FNAF_SB_atmo2 V1\FNAF_SB_atmo2_nordicWinds	
+	399784184	FNAF_SB_atmo1_foggyChoir	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FNAF_SB_atmo1_foggyChoir_F585A561.wem	399784184.wem	\Interactive Music Hierarchy\GordSongs\Mus_Atmospheres\mus_Atmosphere1\New Music Segment\FNAF_SB_atmo1_foggyChoir	
+	401638408	amb_general_neonSigns_small_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_general_neonSigns_small_01_F585A561.wem	401638408.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_neonSigns_small\amb_general_neonSigns_small\amb_general_neonSigns_small_01	
+	403042850	amb_bed_tile_bathroom_large	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_tile_bathroom_large_F585A561.wem	403042850.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_bathroom_large\amb_bed_tile_bathroom_large	
+	404177992	amb_general_neonSigns_small_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_general_neonSigns_small_02_F585A561.wem	404177992.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_neonSigns_small\amb_general_neonSigns_small\amb_general_neonSigns_small_02	
+	409248377	FNAF_SB_atmo1_arkhisWorldOfPlucking	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FNAF_SB_atmo1_arkhisWorldOfPlucking_F585A561.wem	409248377.wem	\Interactive Music Hierarchy\GordSongs\Mus_Atmospheres\mus_Atmosphere1\New Music Segment\FNAF_SB_atmo1_arkhisWorldOfPlucking	
+	415786504	amb_bed_hardRoom_small	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_hardRoom_small_F585A561.wem	415786504.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_hardRoom_small\amb_bed_hardRoom_small	
+	419584621	FNAF_SB_tension3_int3_lp	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FNAF_SB_tension3_int3_lp_F585A561.wem	419584621.wem	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\StoryTensions\Tension_Gord_03_LMM\FNAF_SB_tension3_int3_lp	
+	424836572	FNAF_SB_atmo2_rhythmicBells	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FNAF_SB_atmo2_rhythmicBells_F585A561.wem	424836572.wem	\Interactive Music Hierarchy\LocationMusic\LocationMusic\mus_Atmosphere2\FNAF_SB_atmo2 V1\FNAF_SB_atmo2_rhythmicBells	
+	428394806	Freddy Main Theme - Elevator 1 BOSSA - 05-04-21	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\Freddy Main Theme - Elevator 1 BOSSA - 05-04-21_F585A561.wem	428394806.wem	\Interactive Music Hierarchy\LocationMusic\LocationMusic\mus_FreddysFanfare_Muzak\Freddy Main Theme - Elevator 1 BOSSA - 05-04-21\Freddy Main Theme - Elevator 1 BOSSA - 05-04-21	
+	430059074	amb_bed_kitchen_large	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_kitchen_large_F585A561.wem	430059074.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_bed_kitchen_large\amb_bed_kitchen_large	
+	432184972	amb_general_neonSigns_large_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_general_neonSigns_large_02_F585A561.wem	432184972.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_neonSigns_large\amb_general_neonSigns_large\amb_general_neonSigns_large_02	
+	463703524	sfx_minigame_golf_amb_bed_jungle_night	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_golf_amb_bed_jungle_night_01_F585A561.wem	463703524.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\jungle_night\sfx_minigame_golf_amb_bed_jungle_night	
+	479844391	FNAF_SB_atmo2_synthLead	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FNAF_SB_atmo2_synthLead_F585A561.wem	479844391.wem	\Interactive Music Hierarchy\LocationMusic\LocationMusic\mus_Atmosphere2\FNAF_SB_atmo2 V1\FNAF_SB_atmo2_synthLead	
+	482152285	amb_general_neonSigns_small_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_general_neonSigns_small_03_F585A561.wem	482152285.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_neonSigns_small\amb_general_neonSigns_small\amb_general_neonSigns_small_03	
+	486651948	amb_bed_montyGolf_medRoom_air	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_montyGolf_medRoom_air_F585A561.wem	486651948.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_montyGolf_medRoom\amb_bed_montyGolf_medRoom_air	
+	501166377	amb_general_neonSigns_large_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_general_neonSigns_large_03_F585A561.wem	501166377.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_neonSigns_large\amb_general_neonSigns_large\amb_general_neonSigns_large_03	
+	520403724	amb_bed_daycare	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_daycare_F585A561.wem	520403724.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_daycare\amb_bed_daycare	
+	525849610	amb_bed_freezer_large	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_freezer_large_F585A561.wem	525849610.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_bed_freezer_large\amb_bed_freezer_large	
+	528654806	FNAF_SB_atmo3_badImpact	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FNAF_SB_atmo3_badImpact_F585A561.wem	528654806.wem	\Interactive Music Hierarchy\GordSongs\Mus_Atmospheres\mus_Atmosphere3_Daycare\FNAF_SB_atmo3_badImpact\FNAF_SB_atmo3_badImpact	
+	541318484	amb_bed_glamrockGifts	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_glamrockGifts_F585A561.wem	541318484.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_glamrockGifts\amb_bed_glamrockGifts	
+	602344161	amb_bed_kitchen_small	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_kitchen_small_F585A561.wem	602344161.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\Kitchen\amb_bed_kitchen_small	
+	607519481	FNAF_SB_atmo1_blackSnow	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FNAF_SB_atmo1_blackSnow_F585A561.wem	607519481.wem	\Interactive Music Hierarchy\GordSongs\Mus_Atmospheres\mus_Atmosphere1\New Music Segment\FNAF_SB_atmo1_blackSnow	
+	616111508	amb_bed_fazerblast_lobby	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_fazerblast_lobby_F585A561.wem	616111508.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_fazerBlast_Lobby\amb_bed_fazerblast_lobby	
+	640084798	FazerBlastJam	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FazerBlastJam_F585A561.wem	640084798.wem	\Interactive Music Hierarchy\GordSongs\Mus_Atmospheres\mus_Fazerblast_Jam\FazerBlastJam\FazerBlastJam	
+	645928945	amb_bed_sewer_tunnel	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_sewer_tunnel_F585A561.wem	645928945.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_bed_sewer_tunnel\amb_bed_sewer_tunnel	
+	660316843	FNAF_SB_atmo3_crunchedAmbience	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FNAF_SB_atmo3_crunchedAmbience_F585A561.wem	660316843.wem	\Interactive Music Hierarchy\GordSongs\Mus_Atmospheres\mus_Atmosphere3_Daycare\FNAF_SB_atmo3_badImpact\FNAF_SB_atmo3_crunchedAmbience	
+	687254579	Freddy Main Theme - Elevator 2 SOLO ORGAN - 05-04-21	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\Freddy Main Theme - Elevator 2 SOLO ORGAN - 05-04-21_F585A561.wem	687254579.wem	\Interactive Music Hierarchy\LocationMusic\LocationMusic\mus_FreddysFanfare_Organ\Freddy Main Theme - Elevator 2 SOLO ORGAN - 05-04-21\Freddy Main Theme - Elevator 2 SOLO ORGAN - 05-04-21	
+	694164331	amb_bed_closet_small	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_closet_small_F585A561.wem	694164331.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_bed_closet_small\amb_bed_closet_small	
+	697418104	amb_bed_montyGolf_mainRoom_jungle	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_montyGolf_mainRoom_jungle_F585A561.wem	697418104.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_montyGolf_mainRoom\amb_bed_montyGolf_mainRoom_jungle	
+	740494179	amb_general_neonSigns_medium_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_general_neonSigns_medium_01_F585A561.wem	740494179.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_neonSigns_medium\amb_general_neonSigns_medium\amb_general_neonSigns_medium_01	
+	767556103	FNAF_SB_tension1_int2_lp	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FNAF_SB_tension1_int2_lp_F585A561.wem	767556103.wem	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AttackLayers\Tension_Gord_01\FNAF_SB_tension1_int2_lp	
+	768036597	FNAF_SB_tension2_int2_lp	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FNAF_SB_tension2_int2_lp_F585A561.wem	768036597.wem	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\StoryTensions\Tension_Gord_02_RoxyPrizeCounterPostCinematic\FNAF_SB_tension2_int2_lp	
+	879279102	amb_bed_ultidor	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_ultidor_F585A561.wem	879279102.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\UtilidoorLarge\amb_bed_ultidor	
+	899906322	MontyBossBattle_Roomtone	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\MontyBossBattle_Roomtone_F585A561.wem	899906322.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\MontyBossBattle_Roomtone	
+	924014621	amb_bed_parking_garage	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_parking_garage_F585A561.wem	924014621.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_bed_parking_garage\amb_bed_parking_garage	
+	932532575	FNAF_SB_atmo3_synthLead	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FNAF_SB_atmo3_synthLead_F585A561.wem	932532575.wem	\Interactive Music Hierarchy\GordSongs\Mus_Atmospheres\mus_Atmosphere3_Daycare\FNAF_SB_atmo3_badImpact\FNAF_SB_atmo3_synthLead	
+	941150323	amb_bed_pas_innerDome_tension	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_pas_innerDome_tension_F585A561.wem	941150323.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_pas_innerDome\amb_bed_pas_innerDome_tension	
+	941630968	FNAF_SB_atmo1_arkhisDropsOfMelancholy	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FNAF_SB_atmo1_arkhisDropsOfMelancholy_F585A561.wem	941630968.wem	\Interactive Music Hierarchy\GordSongs\Mus_Atmospheres\mus_Atmosphere1\New Music Segment\FNAF_SB_atmo1_arkhisDropsOfMelancholy	
+	944800501	SPACE LOBBY - FINAL PT 1 - INTRO	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\SPACE LOBBY - FINAL PT 1 - INTRO_F585A561.wem	944800501.wem	\Interactive Music Hierarchy\LocationMusic\LocationMusic\mus_SpaceLobby\SPACE LOBBY - FINAL PT 1 - INTRO\SPACE LOBBY - FINAL PT 1 - INTRO	
+	955368986	amb_general_neonSigns_medium_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_general_neonSigns_medium_02_F585A561.wem	955368986.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_neonSigns_medium\amb_general_neonSigns_medium\amb_general_neonSigns_medium_02	
+	970301755	amb_bed_daycare_lights_on	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_daycare_lights_on_F585A561.wem	970301755.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_MiniGolf_Ambiences\amb_daycare\amb_bed_daycare_lights\amb_bed_daycare_lights_on	
+	984893968	amb_bed_sewer_room_med	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_sewer_room_med_F585A561.wem	984893968.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_bed_sewer_room_med\amb_bed_sewer_room_med	
+	985352350	amb_bed_pas_innerDome	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_pas_innerDome_F585A561.wem	985352350.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\amb_pas_innerDome\bed_dooropen_blend\amb_bed_pas_innerDome	
+	1006775899	FNAF_SB_tension1_int1_lp	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FNAF_SB_tension1_int1_lp_F585A561.wem	1006775899.wem	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AttackLayers\Tension_Gord_01\FNAF_SB_tension1_int1_lp	
+	1013781223	FNAF_SB_tension3_int1_lp	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FNAF_SB_tension3_int1_lp_F585A561.wem	1013781223.wem	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AI_Prox\Tension_Generic_BaseLayer\gordLayer\FNAF_SB_tension3_int1_lp	
+	1030061520	GOLF SWAMP - A1 - INTRO	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\GOLF SWAMP - A1 - INTRO_F585A561.wem	1030061520.wem	\Interactive Music Hierarchy\LocationMusic\LocationMusic\mus_GolfSwamp\GOLF SWAMP - A1 - INTRO\GOLF SWAMP - A1 - INTRO	
+	1034071094	amb_bed_vent_interior_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\amb_bed_vent_interior_02_F585A561.wem	1034071094.wem	\Actor-Mixer Hierarchy\Environment\EnvironmentalAmbiences2D\SFX_EnvironmentalAmbiences\vent\amb_bed_vent_interior\amb_bed_vent_interior_02	
+	1035395745	FNAF_SB_tension1_int3_lp	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FNAF_SB_tension1_int3_lp_F585A561.wem	1035395745.wem	\Actor-Mixer Hierarchy\TensionSystem\TensionSystem\Tension_AttackLayers\Tension_Gord_01\FNAF_SB_tension1_int3_lp	
+

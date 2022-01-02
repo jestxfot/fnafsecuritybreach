@@ -1,0 +1,2940 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>I:\Quarters\fnaf9\fnaf9_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>I:\Quarters\fnaf9\Content\WwiseAudio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>I:\Quarters\fnaf9\fnaf9_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="3451965696" GUID="{39614243-A18E-46CA-9AC3-C5E6BB381A19}" Language="SFX" Hash="1446811596">
+			<ObjectPath>\SoundBanks\Default Work Unit\AmbiencesStreaming</ObjectPath>
+			<ShortName>AmbiencesStreaming</ShortName>
+			<Path>AmbiencesStreaming.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1081609364" Name="Play_LocationMusic" ObjectPath="\Events\Default Work Unit\AmbiencesStreaming\Play_LocationMusic" GUID="{7D8E6E7D-1188-4895-A8FA-DE029926D7CA}" DurationType="Infinite">
+					<ReferencedStreamedFiles>
+						<File Id="18505594" Language="SFX">
+							<ShortName>DAYCARE - LOOP - FINAL.wav</ShortName>
+							<Path>SFX\DAYCARE - LOOP - FINAL_F585A561.wem</Path>
+						</File>
+						<File Id="88129184" Language="SFX">
+							<ShortName>SPACE LOBBY - FINAL PT 2 - LOOP.wav</ShortName>
+							<Path>SFX\SPACE LOBBY - FINAL PT 2 - LOOP_F585A561.wem</Path>
+						</File>
+						<File Id="167192512" Language="SFX">
+							<ShortName>GOLF SWAMP - A2 - LOOP.wav</ShortName>
+							<Path>SFX\GOLF SWAMP - A2 - LOOP_F585A561.wem</Path>
+						</File>
+						<File Id="195949870" Language="SFX">
+							<ShortName>FNAF_SB_atmo2_1000hisses.wav</ShortName>
+							<Path>SFX\FNAF_SB_atmo2_1000hisses_F585A561.wem</Path>
+						</File>
+						<File Id="203887681" Language="SFX">
+							<ShortName>Freddy Main Theme - Elevator 3 VG-1 - 05-04-21.wav</ShortName>
+							<Path>SFX\Freddy Main Theme - Elevator 3 VG-1 - 05-04-21_F585A561.wem</Path>
+						</File>
+						<File Id="210030003" Language="SFX">
+							<ShortName>FNAF_SB_atmo2_creepyBells.wav</ShortName>
+							<Path>SFX\FNAF_SB_atmo2_creepyBells_F585A561.wem</Path>
+						</File>
+						<File Id="265373475" Language="SFX">
+							<ShortName>FNAF_SB_atmo2_buzzkill.wav</ShortName>
+							<Path>SFX\FNAF_SB_atmo2_buzzkill_F585A561.wem</Path>
+						</File>
+						<File Id="353616234" Language="SFX">
+							<ShortName>El Chips - Final Mix - 08-20-21.wav</ShortName>
+							<Path>SFX\El Chips - Final Mix - 08-20-21_F585A561.wem</Path>
+						</File>
+						<File Id="382757064" Language="SFX">
+							<ShortName>ARCADE THEME - LOOP - FINAL - 09-08-21.wav</ShortName>
+							<Path>SFX\ARCADE THEME - LOOP - FINAL - 09-08-21_F585A561.wem</Path>
+						</File>
+						<File Id="398638301" Language="SFX">
+							<ShortName>FNAF_SB_atmo2_nordicWinds.wav</ShortName>
+							<Path>SFX\FNAF_SB_atmo2_nordicWinds_F585A561.wem</Path>
+						</File>
+						<File Id="424836572" Language="SFX">
+							<ShortName>FNAF_SB_atmo2_rhythmicBells.wav</ShortName>
+							<Path>SFX\FNAF_SB_atmo2_rhythmicBells_F585A561.wem</Path>
+						</File>
+						<File Id="428394806" Language="SFX">
+							<ShortName>Freddy Main Theme - Elevator 1 BOSSA - 05-04-21.wav</ShortName>
+							<Path>SFX\Freddy Main Theme - Elevator 1 BOSSA - 05-04-21_F585A561.wem</Path>
+						</File>
+						<File Id="479844391" Language="SFX">
+							<ShortName>FNAF_SB_atmo2_synthLead.wav</ShortName>
+							<Path>SFX\FNAF_SB_atmo2_synthLead_F585A561.wem</Path>
+						</File>
+						<File Id="687254579" Language="SFX">
+							<ShortName>Freddy Main Theme - Elevator 2 SOLO ORGAN - 05-04-21.wav</ShortName>
+							<Path>SFX\Freddy Main Theme - Elevator 2 SOLO ORGAN - 05-04-21_F585A561.wem</Path>
+						</File>
+						<File Id="944800501" Language="SFX">
+							<ShortName>SPACE LOBBY - FINAL PT 1 - INTRO.wav</ShortName>
+							<Path>SFX\SPACE LOBBY - FINAL PT 1 - INTRO_F585A561.wem</Path>
+						</File>
+						<File Id="1030061520" Language="SFX">
+							<ShortName>GOLF SWAMP - A1 - INTRO.wav</ShortName>
+							<Path>SFX\GOLF SWAMP - A1 - INTRO_F585A561.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<AuxBusSends>
+						<AuxBus Id="785966131" Name="REV_Room_Tiled_Large" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_Room_Tiled_Large" GUID="{98312720-E17A-4F74-ADD2-41CA3A3098A5}"/>
+						<AuxBus Id="800671367" Name="REV_Room_Tiled_Medium" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_Room_Tiled_Medium" GUID="{FF545A96-B5D2-4444-8AA0-6FB2FCFC444C}"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="1569965957" Name="Play_SFX_EnvironmentalAmbiences" ObjectPath="\Events\Default Work Unit\AmbiencesStreaming\Play_SFX_EnvironmentalAmbiences" GUID="{78023D40-9635-41E8-BBE5-DA081780C2CC}" DurationType="Infinite">
+					<ReferencedStreamedFiles>
+						<File Id="4774520" Language="SFX">
+							<ShortName>FNAF_SB_atmo1_piano.wav</ShortName>
+							<Path>SFX\FNAF_SB_atmo1_piano_F585A561.wem</Path>
+						</File>
+						<File Id="5566507" Language="SFX">
+							<ShortName>amb_bed_montyGolf_mechanicalRoom.wav</ShortName>
+							<Path>SFX\amb_bed_montyGolf_mechanicalRoom_F585A561.wem</Path>
+						</File>
+						<File Id="18505594" Language="SFX">
+							<ShortName>DAYCARE - LOOP - FINAL.wav</ShortName>
+							<Path>SFX\DAYCARE - LOOP - FINAL_F585A561.wem</Path>
+						</File>
+						<File Id="26972198" Language="SFX">
+							<ShortName>amb_bed_theatre.wav</ShortName>
+							<Path>SFX\amb_bed_theatre_F585A561.wem</Path>
+						</File>
+						<File Id="35577993" Language="SFX">
+							<ShortName>amb_bed_dark_hallway.wav</ShortName>
+							<Path>SFX\amb_bed_dark_hallway_F585A561.wem</Path>
+						</File>
+						<File Id="44284415" Language="SFX">
+							<ShortName>amb_bed_laundryRoom_large.wav</ShortName>
+							<Path>SFX\amb_bed_laundryRoom_large_F585A561.wem</Path>
+						</File>
+						<File Id="49391178" Language="SFX">
+							<ShortName>amb_bed_sewer_room_large.wav</ShortName>
+							<Path>SFX\amb_bed_sewer_room_large_F585A561.wem</Path>
+						</File>
+						<File Id="55820231" Language="SFX">
+							<ShortName>amb_bed_arcade.wav</ShortName>
+							<Path>SFX\amb_bed_arcade_F585A561.wem</Path>
+						</File>
+						<File Id="76895975" Language="SFX">
+							<ShortName>amb_bed_bowlingAlley.wav</ShortName>
+							<Path>SFX\amb_bed_bowlingAlley_F585A561.wem</Path>
+						</File>
+						<File Id="88129184" Language="SFX">
+							<ShortName>SPACE LOBBY - FINAL PT 2 - LOOP.wav</ShortName>
+							<Path>SFX\SPACE LOBBY - FINAL PT 2 - LOOP_F585A561.wem</Path>
+						</File>
+						<File Id="90927421" Language="SFX">
+							<ShortName>amb_bed_machineRoom_small.wav</ShortName>
+							<Path>SFX\amb_bed_machineRoom_small_F585A561.wem</Path>
+						</File>
+						<File Id="97167646" Language="SFX">
+							<ShortName>amb_general_neonSigns_large_01.wav</ShortName>
+							<Path>SFX\amb_general_neonSigns_large_01_F585A561.wem</Path>
+						</File>
+						<File Id="111365464" Language="SFX">
+							<ShortName>sfx_tension_generic_layer2.wav</ShortName>
+							<Path>SFX\sfx_tension_generic_layer2_F585A561.wem</Path>
+						</File>
+						<File Id="135469669" Language="SFX">
+							<ShortName>amb_bed_vent_interior_03.wav</ShortName>
+							<Path>SFX\amb_bed_vent_interior_03_F585A561.wem</Path>
+						</File>
+						<File Id="150867116" Language="SFX">
+							<ShortName>FNAF_SB_tension3_int2_lp.wav</ShortName>
+							<Path>SFX\FNAF_SB_tension3_int2_lp_F585A561.wem</Path>
+						</File>
+						<File Id="154615203" Language="SFX">
+							<ShortName>amb_bed_fazerblast_mainRoom.wav</ShortName>
+							<Path>SFX\amb_bed_fazerblast_mainRoom_F585A561.wem</Path>
+						</File>
+						<File Id="158812380" Language="SFX">
+							<ShortName>amb_general_neonSigns_medium_03.wav</ShortName>
+							<Path>SFX\amb_general_neonSigns_medium_03_F585A561.wem</Path>
+						</File>
+						<File Id="160532204" Language="SFX">
+							<ShortName>amb_bed_sinkhole.wav</ShortName>
+							<Path>SFX\amb_bed_sinkhole_F585A561.wem</Path>
+						</File>
+						<File Id="167192512" Language="SFX">
+							<ShortName>GOLF SWAMP - A2 - LOOP.wav</ShortName>
+							<Path>SFX\GOLF SWAMP - A2 - LOOP_F585A561.wem</Path>
+						</File>
+						<File Id="182812435" Language="SFX">
+							<ShortName>FNAF_SB_atmo1_ambientSpheres.wav</ShortName>
+							<Path>SFX\FNAF_SB_atmo1_ambientSpheres_F585A561.wem</Path>
+						</File>
+						<File Id="195949870" Language="SFX">
+							<ShortName>FNAF_SB_atmo2_1000hisses.wav</ShortName>
+							<Path>SFX\FNAF_SB_atmo2_1000hisses_F585A561.wem</Path>
+						</File>
+						<File Id="203887681" Language="SFX">
+							<ShortName>Freddy Main Theme - Elevator 3 VG-1 - 05-04-21.wav</ShortName>
+							<Path>SFX\Freddy Main Theme - Elevator 3 VG-1 - 05-04-21_F585A561.wem</Path>
+						</File>
+						<File Id="208577171" Language="SFX">
+							<ShortName>amb_bed_montyGolf_mainRoom_air.wav</ShortName>
+							<Path>SFX\amb_bed_montyGolf_mainRoom_air_F585A561.wem</Path>
+						</File>
+						<File Id="210030003" Language="SFX">
+							<ShortName>FNAF_SB_atmo2_creepyBells.wav</ShortName>
+							<Path>SFX\FNAF_SB_atmo2_creepyBells_F585A561.wem</Path>
+						</File>
+						<File Id="225044782" Language="SFX">
+							<ShortName>sfx_tension_generic_layer1.wav</ShortName>
+							<Path>SFX\sfx_tension_generic_layer1_F585A561.wem</Path>
+						</File>
+						<File Id="261268630" Language="SFX">
+							<ShortName>FNAF_SB_atmo1_ jupitersOrgan.wav</ShortName>
+							<Path>SFX\FNAF_SB_atmo1_ jupitersOrgan_F585A561.wem</Path>
+						</File>
+						<File Id="265373475" Language="SFX">
+							<ShortName>FNAF_SB_atmo2_buzzkill.wav</ShortName>
+							<Path>SFX\FNAF_SB_atmo2_buzzkill_F585A561.wem</Path>
+						</File>
+						<File Id="280203766" Language="SFX">
+							<ShortName>amb_bed_lobbyCafe.wav</ShortName>
+							<Path>SFX\amb_bed_lobbyCafe_F585A561.wem</Path>
+						</File>
+						<File Id="293428169" Language="SFX">
+							<ShortName>amb_bed_stairwell_concrete.wav</ShortName>
+							<Path>SFX\amb_bed_stairwell_concrete_F585A561.wem</Path>
+						</File>
+						<File Id="303142234" Language="SFX">
+							<ShortName>FNAF_SB_atmo3_blueWhale.wav</ShortName>
+							<Path>SFX\FNAF_SB_atmo3_blueWhale_F585A561.wem</Path>
+						</File>
+						<File Id="304571109" Language="SFX">
+							<ShortName>amb_bed_fizzyFaz_vats.wav</ShortName>
+							<Path>SFX\amb_bed_fizzyFaz_vats_F585A561.wem</Path>
+						</File>
+						<File Id="324763610" Language="SFX">
+							<ShortName>amb_bed_mechanicalRoom_small.wav</ShortName>
+							<Path>SFX\amb_bed_mechanicalRoom_small_F585A561.wem</Path>
+						</File>
+						<File Id="342682125" Language="SFX">
+							<ShortName>amb_bed_office_medium.wav</ShortName>
+							<Path>SFX\amb_bed_office_medium_F585A561.wem</Path>
+						</File>
+						<File Id="350371066" Language="SFX">
+							<ShortName>amb_bed_vent_interior_01.wav</ShortName>
+							<Path>SFX\amb_bed_vent_interior_01_F585A561.wem</Path>
+						</File>
+						<File Id="353616234" Language="SFX">
+							<ShortName>El Chips - Final Mix - 08-20-21.wav</ShortName>
+							<Path>SFX\El Chips - Final Mix - 08-20-21_F585A561.wem</Path>
+						</File>
+						<File Id="356151568" Language="SFX">
+							<ShortName>FNAF_SB_atmo3_circuitTremor.wav</ShortName>
+							<Path>SFX\FNAF_SB_atmo3_circuitTremor_F585A561.wem</Path>
+						</File>
+						<File Id="382757064" Language="SFX">
+							<ShortName>ARCADE THEME - LOOP - FINAL - 09-08-21.wav</ShortName>
+							<Path>SFX\ARCADE THEME - LOOP - FINAL - 09-08-21_F585A561.wem</Path>
+						</File>
+						<File Id="394183574" Language="SFX">
+							<ShortName>amb_bed_montyGolf_trippyHall.wav</ShortName>
+							<Path>SFX\amb_bed_montyGolf_trippyHall_F585A561.wem</Path>
+						</File>
+						<File Id="398638301" Language="SFX">
+							<ShortName>FNAF_SB_atmo2_nordicWinds.wav</ShortName>
+							<Path>SFX\FNAF_SB_atmo2_nordicWinds_F585A561.wem</Path>
+						</File>
+						<File Id="399784184" Language="SFX">
+							<ShortName>FNAF_SB_atmo1_foggyChoir.wav</ShortName>
+							<Path>SFX\FNAF_SB_atmo1_foggyChoir_F585A561.wem</Path>
+						</File>
+						<File Id="401638408" Language="SFX">
+							<ShortName>amb_general_neonSigns_small_01.wav</ShortName>
+							<Path>SFX\amb_general_neonSigns_small_01_F585A561.wem</Path>
+						</File>
+						<File Id="403042850" Language="SFX">
+							<ShortName>amb_bed_tile_bathroom_large.wav</ShortName>
+							<Path>SFX\amb_bed_tile_bathroom_large_F585A561.wem</Path>
+						</File>
+						<File Id="404177992" Language="SFX">
+							<ShortName>amb_general_neonSigns_small_02.wav</ShortName>
+							<Path>SFX\amb_general_neonSigns_small_02_F585A561.wem</Path>
+						</File>
+						<File Id="409248377" Language="SFX">
+							<ShortName>FNAF_SB_atmo1_arkhisWorldOfPlucking.wav</ShortName>
+							<Path>SFX\FNAF_SB_atmo1_arkhisWorldOfPlucking_F585A561.wem</Path>
+						</File>
+						<File Id="415786504" Language="SFX">
+							<ShortName>amb_bed_hardRoom_small.wav</ShortName>
+							<Path>SFX\amb_bed_hardRoom_small_F585A561.wem</Path>
+						</File>
+						<File Id="424836572" Language="SFX">
+							<ShortName>FNAF_SB_atmo2_rhythmicBells.wav</ShortName>
+							<Path>SFX\FNAF_SB_atmo2_rhythmicBells_F585A561.wem</Path>
+						</File>
+						<File Id="428394806" Language="SFX">
+							<ShortName>Freddy Main Theme - Elevator 1 BOSSA - 05-04-21.wav</ShortName>
+							<Path>SFX\Freddy Main Theme - Elevator 1 BOSSA - 05-04-21_F585A561.wem</Path>
+						</File>
+						<File Id="430059074" Language="SFX">
+							<ShortName>amb_bed_kitchen_large.wav</ShortName>
+							<Path>SFX\amb_bed_kitchen_large_F585A561.wem</Path>
+						</File>
+						<File Id="432184972" Language="SFX">
+							<ShortName>amb_general_neonSigns_large_02.wav</ShortName>
+							<Path>SFX\amb_general_neonSigns_large_02_F585A561.wem</Path>
+						</File>
+						<File Id="479844391" Language="SFX">
+							<ShortName>FNAF_SB_atmo2_synthLead.wav</ShortName>
+							<Path>SFX\FNAF_SB_atmo2_synthLead_F585A561.wem</Path>
+						</File>
+						<File Id="482152285" Language="SFX">
+							<ShortName>amb_general_neonSigns_small_03.wav</ShortName>
+							<Path>SFX\amb_general_neonSigns_small_03_F585A561.wem</Path>
+						</File>
+						<File Id="486651948" Language="SFX">
+							<ShortName>amb_bed_montyGolf_medRoom_air.wav</ShortName>
+							<Path>SFX\amb_bed_montyGolf_medRoom_air_F585A561.wem</Path>
+						</File>
+						<File Id="501166377" Language="SFX">
+							<ShortName>amb_general_neonSigns_large_03.wav</ShortName>
+							<Path>SFX\amb_general_neonSigns_large_03_F585A561.wem</Path>
+						</File>
+						<File Id="520403724" Language="SFX">
+							<ShortName>amb_bed_daycare.wav</ShortName>
+							<Path>SFX\amb_bed_daycare_F585A561.wem</Path>
+						</File>
+						<File Id="525849610" Language="SFX">
+							<ShortName>amb_bed_freezer_large.wav</ShortName>
+							<Path>SFX\amb_bed_freezer_large_F585A561.wem</Path>
+						</File>
+						<File Id="528654806" Language="SFX">
+							<ShortName>FNAF_SB_atmo3_badImpact.wav</ShortName>
+							<Path>SFX\FNAF_SB_atmo3_badImpact_F585A561.wem</Path>
+						</File>
+						<File Id="541318484" Language="SFX">
+							<ShortName>amb_bed_glamrockGifts.wav</ShortName>
+							<Path>SFX\amb_bed_glamrockGifts_F585A561.wem</Path>
+						</File>
+						<File Id="602344161" Language="SFX">
+							<ShortName>amb_bed_kitchen_small.wav</ShortName>
+							<Path>SFX\amb_bed_kitchen_small_F585A561.wem</Path>
+						</File>
+						<File Id="607519481" Language="SFX">
+							<ShortName>FNAF_SB_atmo1_blackSnow.wav</ShortName>
+							<Path>SFX\FNAF_SB_atmo1_blackSnow_F585A561.wem</Path>
+						</File>
+						<File Id="616111508" Language="SFX">
+							<ShortName>amb_bed_fazerblast_lobby.wav</ShortName>
+							<Path>SFX\amb_bed_fazerblast_lobby_F585A561.wem</Path>
+						</File>
+						<File Id="640084798" Language="SFX">
+							<ShortName>FazerBlastJam.wav</ShortName>
+							<Path>SFX\FazerBlastJam_F585A561.wem</Path>
+						</File>
+						<File Id="645928945" Language="SFX">
+							<ShortName>amb_bed_sewer_tunnel.wav</ShortName>
+							<Path>SFX\amb_bed_sewer_tunnel_F585A561.wem</Path>
+						</File>
+						<File Id="660316843" Language="SFX">
+							<ShortName>FNAF_SB_atmo3_crunchedAmbience.wav</ShortName>
+							<Path>SFX\FNAF_SB_atmo3_crunchedAmbience_F585A561.wem</Path>
+						</File>
+						<File Id="687254579" Language="SFX">
+							<ShortName>Freddy Main Theme - Elevator 2 SOLO ORGAN - 05-04-21.wav</ShortName>
+							<Path>SFX\Freddy Main Theme - Elevator 2 SOLO ORGAN - 05-04-21_F585A561.wem</Path>
+						</File>
+						<File Id="694164331" Language="SFX">
+							<ShortName>amb_bed_closet_small.wav</ShortName>
+							<Path>SFX\amb_bed_closet_small_F585A561.wem</Path>
+						</File>
+						<File Id="697418104" Language="SFX">
+							<ShortName>amb_bed_montyGolf_mainRoom_jungle.wav</ShortName>
+							<Path>SFX\amb_bed_montyGolf_mainRoom_jungle_F585A561.wem</Path>
+						</File>
+						<File Id="740494179" Language="SFX">
+							<ShortName>amb_general_neonSigns_medium_01.wav</ShortName>
+							<Path>SFX\amb_general_neonSigns_medium_01_F585A561.wem</Path>
+						</File>
+						<File Id="879279102" Language="SFX">
+							<ShortName>amb_bed_ultidor.wav</ShortName>
+							<Path>SFX\amb_bed_ultidor_F585A561.wem</Path>
+						</File>
+						<File Id="899906322" Language="SFX">
+							<ShortName>MontyBossBattle_Roomtone.wav</ShortName>
+							<Path>SFX\MontyBossBattle_Roomtone_F585A561.wem</Path>
+						</File>
+						<File Id="924014621" Language="SFX">
+							<ShortName>amb_bed_parking_garage.wav</ShortName>
+							<Path>SFX\amb_bed_parking_garage_F585A561.wem</Path>
+						</File>
+						<File Id="932532575" Language="SFX">
+							<ShortName>FNAF_SB_atmo3_synthLead.wav</ShortName>
+							<Path>SFX\FNAF_SB_atmo3_synthLead_F585A561.wem</Path>
+						</File>
+						<File Id="941150323" Language="SFX">
+							<ShortName>amb_bed_pas_innerDome_tension.wav</ShortName>
+							<Path>SFX\amb_bed_pas_innerDome_tension_F585A561.wem</Path>
+						</File>
+						<File Id="941630968" Language="SFX">
+							<ShortName>FNAF_SB_atmo1_arkhisDropsOfMelancholy.wav</ShortName>
+							<Path>SFX\FNAF_SB_atmo1_arkhisDropsOfMelancholy_F585A561.wem</Path>
+						</File>
+						<File Id="944800501" Language="SFX">
+							<ShortName>SPACE LOBBY - FINAL PT 1 - INTRO.wav</ShortName>
+							<Path>SFX\SPACE LOBBY - FINAL PT 1 - INTRO_F585A561.wem</Path>
+						</File>
+						<File Id="955368986" Language="SFX">
+							<ShortName>amb_general_neonSigns_medium_02.wav</ShortName>
+							<Path>SFX\amb_general_neonSigns_medium_02_F585A561.wem</Path>
+						</File>
+						<File Id="970301755" Language="SFX">
+							<ShortName>amb_bed_daycare_lights_on.wav</ShortName>
+							<Path>SFX\amb_bed_daycare_lights_on_F585A561.wem</Path>
+						</File>
+						<File Id="984893968" Language="SFX">
+							<ShortName>amb_bed_sewer_room_med.wav</ShortName>
+							<Path>SFX\amb_bed_sewer_room_med_F585A561.wem</Path>
+						</File>
+						<File Id="985352350" Language="SFX">
+							<ShortName>amb_bed_pas_innerDome.wav</ShortName>
+							<Path>SFX\amb_bed_pas_innerDome_F585A561.wem</Path>
+						</File>
+						<File Id="1013781223" Language="SFX">
+							<ShortName>FNAF_SB_tension3_int1_lp.wav</ShortName>
+							<Path>SFX\FNAF_SB_tension3_int1_lp_F585A561.wem</Path>
+						</File>
+						<File Id="1030061520" Language="SFX">
+							<ShortName>GOLF SWAMP - A1 - INTRO.wav</ShortName>
+							<Path>SFX\GOLF SWAMP - A1 - INTRO_F585A561.wem</Path>
+						</File>
+						<File Id="1034071094" Language="SFX">
+							<ShortName>amb_bed_vent_interior_02.wav</ShortName>
+							<Path>SFX\amb_bed_vent_interior_02_F585A561.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="1725162" Language="SFX">
+							<ShortName>amb_scatter_fazerblast_laser_shot_03.wav</ShortName>
+							<Path>SFX\amb_scatter_fazerblast_laser_shot_03_73E79EE3.wem</Path>
+						</File>
+						<File Id="4419820" Language="SFX">
+							<ShortName>amb_bed_arcade_scatter_09.wav</ShortName>
+							<Path>SFX\amb_bed_arcade_scatter_09_73E79EE3.wem</Path>
+						</File>
+						<File Id="5192674" Language="SFX">
+							<ShortName>amb_scatter_fazerblast_laser_shot_02.wav</ShortName>
+							<Path>SFX\amb_scatter_fazerblast_laser_shot_02_73E79EE3.wem</Path>
+						</File>
+						<File Id="9324021" Language="SFX">
+							<ShortName>sfx_burntrap_battle_scatter_laughter_demonic_03.wav</ShortName>
+							<Path>SFX\sfx_burntrap_battle_scatter_laughter_demonic_03_73E79EE3.wem</Path>
+						</File>
+						<File Id="14914351" Language="SFX">
+							<ShortName>sfx_burntrap_battle_scatter_laughter_02.wav</ShortName>
+							<Path>SFX\sfx_burntrap_battle_scatter_laughter_02_73E79EE3.wem</Path>
+						</File>
+						<File Id="24566803" Language="SFX">
+							<ShortName>amb_scatter_fazerblast_laser_shot_08.wav</ShortName>
+							<Path>SFX\amb_scatter_fazerblast_laser_shot_08_73E79EE3.wem</Path>
+						</File>
+						<File Id="36848844" Language="SFX">
+							<ShortName>amb_scatter_creepy_distant_tones_06.wav</ShortName>
+							<Path>SFX\amb_scatter_creepy_distant_tones_06_73E79EE3.wem</Path>
+						</File>
+						<File Id="42487648" Language="SFX">
+							<ShortName>amb_bed_arcade_scatter_11.wav</ShortName>
+							<Path>SFX\amb_bed_arcade_scatter_11_73E79EE3.wem</Path>
+						</File>
+						<File Id="47407807" Language="SFX">
+							<ShortName>amb_scatter_fazerblast_explosion_02  .wav</ShortName>
+							<Path>SFX\amb_scatter_fazerblast_explosion_02  _73E79EE3.wem</Path>
+						</File>
+						<File Id="51480796" Language="SFX">
+							<ShortName>sfx_burntrap_battle_scatter_laughter_demonic_01.wav</ShortName>
+							<Path>SFX\sfx_burntrap_battle_scatter_laughter_demonic_01_73E79EE3.wem</Path>
+						</File>
+						<File Id="57192397" Language="SFX">
+							<ShortName>amb_scatter_building_creak_06.wav</ShortName>
+							<Path>SFX\amb_scatter_building_creak_06_73E79EE3.wem</Path>
+						</File>
+						<File Id="60012710" Language="SFX">
+							<ShortName>sfx_burntrap_battle_scatter_chains_01.wav</ShortName>
+							<Path>SFX\sfx_burntrap_battle_scatter_chains_01_73E79EE3.wem</Path>
+						</File>
+						<File Id="65242670" Language="SFX">
+							<ShortName>amb_scatter_vent_rattle_dist_07.wav</ShortName>
+							<Path>SFX\amb_scatter_vent_rattle_dist_07_73E79EE3.wem</Path>
+						</File>
+						<File Id="89516616" Language="SFX">
+							<ShortName>amb_scatter_fazerblast_scifi_01.wav</ShortName>
+							<Path>SFX\amb_scatter_fazerblast_scifi_01_73E79EE3.wem</Path>
+						</File>
+						<File Id="94996535" Language="SFX">
+							<ShortName>sfx_burntrap_battle_scatter_whisper_01.wav</ShortName>
+							<Path>SFX\sfx_burntrap_battle_scatter_whisper_01_73E79EE3.wem</Path>
+						</File>
+						<File Id="95052827" Language="SFX">
+							<ShortName>amb_scatter_creepy_distant_tones_09.wav</ShortName>
+							<Path>SFX\amb_scatter_creepy_distant_tones_09_73E79EE3.wem</Path>
+						</File>
+						<File Id="97638054" Language="SFX">
+							<ShortName>amb_scatter_building_creak_08.wav</ShortName>
+							<Path>SFX\amb_scatter_building_creak_08_73E79EE3.wem</Path>
+						</File>
+						<File Id="118829501" Language="SFX">
+							<ShortName>amb_scatter_creepy_distant_tones_07.wav</ShortName>
+							<Path>SFX\amb_scatter_creepy_distant_tones_07_73E79EE3.wem</Path>
+						</File>
+						<File Id="124212340" Language="SFX">
+							<ShortName>amb_scatter_rat_squeak_04.wav</ShortName>
+							<Path>SFX\amb_scatter_rat_squeak_04_73E79EE3.wem</Path>
+						</File>
+						<File Id="137504301" Language="SFX">
+							<ShortName>amb_scatter_building_creak_05.wav</ShortName>
+							<Path>SFX\amb_scatter_building_creak_05_73E79EE3.wem</Path>
+						</File>
+						<File Id="146244556" Language="SFX">
+							<ShortName>amb_bed_arcade_scatter_03.wav</ShortName>
+							<Path>SFX\amb_bed_arcade_scatter_03_73E79EE3.wem</Path>
+						</File>
+						<File Id="149566871" Language="SFX">
+							<ShortName>amb_scatter_pipe_drip_06.wav</ShortName>
+							<Path>SFX\amb_scatter_pipe_drip_06_73E79EE3.wem</Path>
+						</File>
+						<File Id="176827935" Language="SFX">
+							<ShortName>sfx_burntrap_battle_scatter_laughter_03.wav</ShortName>
+							<Path>SFX\sfx_burntrap_battle_scatter_laughter_03_73E79EE3.wem</Path>
+						</File>
+						<File Id="190000658" Language="SFX">
+							<ShortName>amb_scatter_vent_rattle_dist_08.wav</ShortName>
+							<Path>SFX\amb_scatter_vent_rattle_dist_08_73E79EE3.wem</Path>
+						</File>
+						<File Id="196781195" Language="SFX">
+							<ShortName>amb_scatter_vent_rattle_dist_05.wav</ShortName>
+							<Path>SFX\amb_scatter_vent_rattle_dist_05_73E79EE3.wem</Path>
+						</File>
+						<File Id="223207379" Language="SFX">
+							<ShortName>amb_scatter_rat_squeak_02.wav</ShortName>
+							<Path>SFX\amb_scatter_rat_squeak_02_73E79EE3.wem</Path>
+						</File>
+						<File Id="230071187" Language="SFX">
+							<ShortName>amb_scatter_vent_rattle_dist_03.wav</ShortName>
+							<Path>SFX\amb_scatter_vent_rattle_dist_03_73E79EE3.wem</Path>
+						</File>
+						<File Id="235857474" Language="SFX">
+							<ShortName>amb_bed_arcade_scatter_04.wav</ShortName>
+							<Path>SFX\amb_bed_arcade_scatter_04_73E79EE3.wem</Path>
+						</File>
+						<File Id="236818988" Language="SFX">
+							<ShortName>amb_scatter_fazerblast_laser_shot_05.wav</ShortName>
+							<Path>SFX\amb_scatter_fazerblast_laser_shot_05_73E79EE3.wem</Path>
+						</File>
+						<File Id="261047177" Language="SFX">
+							<ShortName>amb_scatter_rat_squeak_07.wav</ShortName>
+							<Path>SFX\amb_scatter_rat_squeak_07_73E79EE3.wem</Path>
+						</File>
+						<File Id="267346039" Language="SFX">
+							<ShortName>sfx_burntrap_battle_scatter_laughter_01.wav</ShortName>
+							<Path>SFX\sfx_burntrap_battle_scatter_laughter_01_73E79EE3.wem</Path>
+						</File>
+						<File Id="271197897" Language="SFX">
+							<ShortName>amb_scatter_fazerblast_scifi_12.wav</ShortName>
+							<Path>SFX\amb_scatter_fazerblast_scifi_12_73E79EE3.wem</Path>
+						</File>
+						<File Id="275775575" Language="SFX">
+							<ShortName>amb_scatter_fazerblast_scifi_02.wav</ShortName>
+							<Path>SFX\amb_scatter_fazerblast_scifi_02_73E79EE3.wem</Path>
+						</File>
+						<File Id="287307512" Language="SFX">
+							<ShortName>amb_scatter_vent_rattle_dist_06.wav</ShortName>
+							<Path>SFX\amb_scatter_vent_rattle_dist_06_73E79EE3.wem</Path>
+						</File>
+						<File Id="300285640" Language="SFX">
+							<ShortName>amb_scatter_vent_rattle_02.wav</ShortName>
+							<Path>SFX\amb_scatter_vent_rattle_02_73E79EE3.wem</Path>
+						</File>
+						<File Id="308157771" Language="SFX">
+							<ShortName>amb_scatter_fazerblast_laser_shot_07.wav</ShortName>
+							<Path>SFX\amb_scatter_fazerblast_laser_shot_07_73E79EE3.wem</Path>
+						</File>
+						<File Id="321274211" Language="SFX">
+							<ShortName>amb_scatter_rat_squeak_06.wav</ShortName>
+							<Path>SFX\amb_scatter_rat_squeak_06_73E79EE3.wem</Path>
+						</File>
+						<File Id="330897424" Language="SFX">
+							<ShortName>amb_scatter_rat_scurry_02.wav</ShortName>
+							<Path>SFX\amb_scatter_rat_scurry_02_73E79EE3.wem</Path>
+						</File>
+						<File Id="331547781" Language="SFX">
+							<ShortName>amb_scatter_pipe_drip_01.wav</ShortName>
+							<Path>SFX\amb_scatter_pipe_drip_01_73E79EE3.wem</Path>
+						</File>
+						<File Id="346006551" Language="SFX">
+							<ShortName>amb_bed_arcade_scatter_07.wav</ShortName>
+							<Path>SFX\amb_bed_arcade_scatter_07_73E79EE3.wem</Path>
+						</File>
+						<File Id="356822006" Language="SFX">
+							<ShortName>amb_scatter_vent_rattle_dist_11.wav</ShortName>
+							<Path>SFX\amb_scatter_vent_rattle_dist_11_73E79EE3.wem</Path>
+						</File>
+						<File Id="361145721" Language="SFX">
+							<ShortName>amb_scatter_fazerblast_scifi_03.wav</ShortName>
+							<Path>SFX\amb_scatter_fazerblast_scifi_03_73E79EE3.wem</Path>
+						</File>
+						<File Id="395906127" Language="SFX">
+							<ShortName>sfx_burntrap_battle_scatter_swell_02.wav</ShortName>
+							<Path>SFX\sfx_burntrap_battle_scatter_swell_02_73E79EE3.wem</Path>
+						</File>
+						<File Id="404805867" Language="SFX">
+							<ShortName>amb_scatter_creepy_distant_tones_03.wav</ShortName>
+							<Path>SFX\amb_scatter_creepy_distant_tones_03_73E79EE3.wem</Path>
+						</File>
+						<File Id="405032276" Language="SFX">
+							<ShortName>sfx_burntrap_battle_scatter_whisper_05.wav</ShortName>
+							<Path>SFX\sfx_burntrap_battle_scatter_whisper_05_73E79EE3.wem</Path>
+						</File>
+						<File Id="406070553" Language="SFX">
+							<ShortName>amb_scatter_building_creak_04.wav</ShortName>
+							<Path>SFX\amb_scatter_building_creak_04_73E79EE3.wem</Path>
+						</File>
+						<File Id="411969286" Language="SFX">
+							<ShortName>amb_bed_arcade_scatter_08.wav</ShortName>
+							<Path>SFX\amb_bed_arcade_scatter_08_73E79EE3.wem</Path>
+						</File>
+						<File Id="415373315" Language="SFX">
+							<ShortName>amb_scatter_creepy_distant_tones_05.wav</ShortName>
+							<Path>SFX\amb_scatter_creepy_distant_tones_05_73E79EE3.wem</Path>
+						</File>
+						<File Id="416854716" Language="SFX">
+							<ShortName>amb_scatter_pipe_drip_03.wav</ShortName>
+							<Path>SFX\amb_scatter_pipe_drip_03_73E79EE3.wem</Path>
+						</File>
+						<File Id="429811077" Language="SFX">
+							<ShortName>amb_scatter_fazerblast_scifi_04.wav</ShortName>
+							<Path>SFX\amb_scatter_fazerblast_scifi_04_73E79EE3.wem</Path>
+						</File>
+						<File Id="430298600" Language="SFX">
+							<ShortName>amb_scatter_building_creak_01.wav</ShortName>
+							<Path>SFX\amb_scatter_building_creak_01_73E79EE3.wem</Path>
+						</File>
+						<File Id="443306173" Language="SFX">
+							<ShortName>amb_scatter_fazerblast_laser_shot_01.wav</ShortName>
+							<Path>SFX\amb_scatter_fazerblast_laser_shot_01_73E79EE3.wem</Path>
+						</File>
+						<File Id="461809207" Language="SFX">
+							<ShortName>amb_scatter_pipe_drip_05.wav</ShortName>
+							<Path>SFX\amb_scatter_pipe_drip_05_73E79EE3.wem</Path>
+						</File>
+						<File Id="479944199" Language="SFX">
+							<ShortName>amb_bed_loading_docks.wav</ShortName>
+							<Path>SFX\amb_bed_loading_docks_F585A561.wem</Path>
+						</File>
+						<File Id="483502545" Language="SFX">
+							<ShortName>amb_scatter_fazerblast_scifi_09.wav</ShortName>
+							<Path>SFX\amb_scatter_fazerblast_scifi_09_73E79EE3.wem</Path>
+						</File>
+						<File Id="510131700" Language="SFX">
+							<ShortName>amb_scatter_pipe_drip_04.wav</ShortName>
+							<Path>SFX\amb_scatter_pipe_drip_04_73E79EE3.wem</Path>
+						</File>
+						<File Id="520886849" Language="SFX">
+							<ShortName>amb_scatter_rat_squeak_05.wav</ShortName>
+							<Path>SFX\amb_scatter_rat_squeak_05_73E79EE3.wem</Path>
+						</File>
+						<File Id="539977649" Language="SFX">
+							<ShortName>amb_scatter_fazerblast_explosion_08  .wav</ShortName>
+							<Path>SFX\amb_scatter_fazerblast_explosion_08  _73E79EE3.wem</Path>
+						</File>
+						<File Id="542598189" Language="SFX">
+							<ShortName>amb_scatter_fazerblast_explosion_07  .wav</ShortName>
+							<Path>SFX\amb_scatter_fazerblast_explosion_07  _73E79EE3.wem</Path>
+						</File>
+						<File Id="547747242" Language="SFX">
+							<ShortName>amb_scatter_fazerblast_scifi_13.wav</ShortName>
+							<Path>SFX\amb_scatter_fazerblast_scifi_13_73E79EE3.wem</Path>
+						</File>
+						<File Id="567763668" Language="SFX">
+							<ShortName>amb_scatter_pipe_drip_02.wav</ShortName>
+							<Path>SFX\amb_scatter_pipe_drip_02_73E79EE3.wem</Path>
+						</File>
+						<File Id="579318980" Language="SFX">
+							<ShortName>amb_scatter_fazerblast_laser_shot_04.wav</ShortName>
+							<Path>SFX\amb_scatter_fazerblast_laser_shot_04_73E79EE3.wem</Path>
+						</File>
+						<File Id="582615472" Language="SFX">
+							<ShortName>amb_scatter_creepy_distant_tones_10.wav</ShortName>
+							<Path>SFX\amb_scatter_creepy_distant_tones_10_73E79EE3.wem</Path>
+						</File>
+						<File Id="588757099" Language="SFX">
+							<ShortName>sfx_burntrap_battle_scatter_swell_01.wav</ShortName>
+							<Path>SFX\sfx_burntrap_battle_scatter_swell_01_73E79EE3.wem</Path>
+						</File>
+						<File Id="589646314" Language="SFX">
+							<ShortName>amb_scatter_vent_rattle_01.wav</ShortName>
+							<Path>SFX\amb_scatter_vent_rattle_01_73E79EE3.wem</Path>
+						</File>
+						<File Id="613107408" Language="SFX">
+							<ShortName>amb_scatter_fazerblast_scifi_10.wav</ShortName>
+							<Path>SFX\amb_scatter_fazerblast_scifi_10_73E79EE3.wem</Path>
+						</File>
+						<File Id="622476968" Language="SFX">
+							<ShortName>amb_scatter_fazerblast_scifi_08.wav</ShortName>
+							<Path>SFX\amb_scatter_fazerblast_scifi_08_73E79EE3.wem</Path>
+						</File>
+						<File Id="623138316" Language="SFX">
+							<ShortName>sfx_burntrap_battle_scatter_whisper_03.wav</ShortName>
+							<Path>SFX\sfx_burntrap_battle_scatter_whisper_03_73E79EE3.wem</Path>
+						</File>
+						<File Id="635038837" Language="SFX">
+							<ShortName>sfx_burntrap_battle_scatter_whisper_06.wav</ShortName>
+							<Path>SFX\sfx_burntrap_battle_scatter_whisper_06_73E79EE3.wem</Path>
+						</File>
+						<File Id="645278959" Language="SFX">
+							<ShortName>amb_scatter_building_creak_07.wav</ShortName>
+							<Path>SFX\amb_scatter_building_creak_07_73E79EE3.wem</Path>
+						</File>
+						<File Id="664133838" Language="SFX">
+							<ShortName>amb_scatter_fazerblast_scifi_14.wav</ShortName>
+							<Path>SFX\amb_scatter_fazerblast_scifi_14_73E79EE3.wem</Path>
+						</File>
+						<File Id="667274851" Language="SFX">
+							<ShortName>amb_scatter_rat_scurry_06.wav</ShortName>
+							<Path>SFX\amb_scatter_rat_scurry_06_73E79EE3.wem</Path>
+						</File>
+						<File Id="677907379" Language="SFX">
+							<ShortName>amb_scatter_rat_squeak_01.wav</ShortName>
+							<Path>SFX\amb_scatter_rat_squeak_01_73E79EE3.wem</Path>
+						</File>
+						<File Id="685187044" Language="SFX">
+							<ShortName>amb_scatter_rat_scurry_01.wav</ShortName>
+							<Path>SFX\amb_scatter_rat_scurry_01_73E79EE3.wem</Path>
+						</File>
+						<File Id="713512378" Language="SFX">
+							<ShortName>amb_scatter_vent_rattle_03.wav</ShortName>
+							<Path>SFX\amb_scatter_vent_rattle_03_73E79EE3.wem</Path>
+						</File>
+						<File Id="714247561" Language="SFX">
+							<ShortName>amb_scatter_creepy_distant_tones_02.wav</ShortName>
+							<Path>SFX\amb_scatter_creepy_distant_tones_02_73E79EE3.wem</Path>
+						</File>
+						<File Id="715308967" Language="SFX">
+							<ShortName>amb_scatter_rat_scurry_05.wav</ShortName>
+							<Path>SFX\amb_scatter_rat_scurry_05_73E79EE3.wem</Path>
+						</File>
+						<File Id="736400634" Language="SFX">
+							<ShortName>amb_scatter_fazerblast_scifi_06.wav</ShortName>
+							<Path>SFX\amb_scatter_fazerblast_scifi_06_73E79EE3.wem</Path>
+						</File>
+						<File Id="760148389" Language="SFX">
+							<ShortName>amb_scatter_vent_rattle_dist_09.wav</ShortName>
+							<Path>SFX\amb_scatter_vent_rattle_dist_09_73E79EE3.wem</Path>
+						</File>
+						<File Id="766508878" Language="SFX">
+							<ShortName>amb_scatter_creepy_distant_tones_04.wav</ShortName>
+							<Path>SFX\amb_scatter_creepy_distant_tones_04_73E79EE3.wem</Path>
+						</File>
+						<File Id="794485047" Language="SFX">
+							<ShortName>sfx_burntrap_battle_scatter_whisper_04.wav</ShortName>
+							<Path>SFX\sfx_burntrap_battle_scatter_whisper_04_73E79EE3.wem</Path>
+						</File>
+						<File Id="797389575" Language="SFX">
+							<ShortName>amb_bed_arcade_scatter_01.wav</ShortName>
+							<Path>SFX\amb_bed_arcade_scatter_01_73E79EE3.wem</Path>
+						</File>
+						<File Id="799766507" Language="SFX">
+							<ShortName>amb_scatter_vent_rattle_dist_04.wav</ShortName>
+							<Path>SFX\amb_scatter_vent_rattle_dist_04_73E79EE3.wem</Path>
+						</File>
+						<File Id="801489894" Language="SFX">
+							<ShortName>amb_scatter_vent_rattle_dist_10.wav</ShortName>
+							<Path>SFX\amb_scatter_vent_rattle_dist_10_73E79EE3.wem</Path>
+						</File>
+						<File Id="814091225" Language="SFX">
+							<ShortName>amb_scatter_building_creak_03.wav</ShortName>
+							<Path>SFX\amb_scatter_building_creak_03_73E79EE3.wem</Path>
+						</File>
+						<File Id="846259348" Language="SFX">
+							<ShortName>amb_scatter_building_creak_02.wav</ShortName>
+							<Path>SFX\amb_scatter_building_creak_02_73E79EE3.wem</Path>
+						</File>
+						<File Id="853498257" Language="SFX">
+							<ShortName>sfx_burntrap_battle_scatter_swell_03.wav</ShortName>
+							<Path>SFX\sfx_burntrap_battle_scatter_swell_03_73E79EE3.wem</Path>
+						</File>
+						<File Id="859457939" Language="SFX">
+							<ShortName>amb_scatter_vent_rattle_dist_01.wav</ShortName>
+							<Path>SFX\amb_scatter_vent_rattle_dist_01_73E79EE3.wem</Path>
+						</File>
+						<File Id="860019812" Language="SFX">
+							<ShortName>amb_scatter_rat_squeak_03.wav</ShortName>
+							<Path>SFX\amb_scatter_rat_squeak_03_73E79EE3.wem</Path>
+						</File>
+						<File Id="864445739" Language="SFX">
+							<ShortName>amb_scatter_fazerblast_scifi_05.wav</ShortName>
+							<Path>SFX\amb_scatter_fazerblast_scifi_05_73E79EE3.wem</Path>
+						</File>
+						<File Id="876549931" Language="SFX">
+							<ShortName>amb_scatter_fazerblast_scifi_07.wav</ShortName>
+							<Path>SFX\amb_scatter_fazerblast_scifi_07_73E79EE3.wem</Path>
+						</File>
+						<File Id="884314761" Language="SFX">
+							<ShortName>amb_scatter_fazerblast_laser_shot_06.wav</ShortName>
+							<Path>SFX\amb_scatter_fazerblast_laser_shot_06_73E79EE3.wem</Path>
+						</File>
+						<File Id="893069385" Language="SFX">
+							<ShortName>amb_scatter_fazerblast_explosion_06  .wav</ShortName>
+							<Path>SFX\amb_scatter_fazerblast_explosion_06  _73E79EE3.wem</Path>
+						</File>
+						<File Id="918068974" Language="SFX">
+							<ShortName>amb_scatter_fazerblast_explosion_04  .wav</ShortName>
+							<Path>SFX\amb_scatter_fazerblast_explosion_04  _73E79EE3.wem</Path>
+						</File>
+						<File Id="926511399" Language="SFX">
+							<ShortName>amb_scatter_rat_squeak_08.wav</ShortName>
+							<Path>SFX\amb_scatter_rat_squeak_08_73E79EE3.wem</Path>
+						</File>
+						<File Id="934864617" Language="SFX">
+							<ShortName>amb_bed_arcade_scatter_06.wav</ShortName>
+							<Path>SFX\amb_bed_arcade_scatter_06_73E79EE3.wem</Path>
+						</File>
+						<File Id="958835260" Language="SFX">
+							<ShortName>amb_scatter_vent_rattle_04.wav</ShortName>
+							<Path>SFX\amb_scatter_vent_rattle_04_73E79EE3.wem</Path>
+						</File>
+						<File Id="968547256" Language="SFX">
+							<ShortName>amb_scatter_creepy_distant_tones_08.wav</ShortName>
+							<Path>SFX\amb_scatter_creepy_distant_tones_08_73E79EE3.wem</Path>
+						</File>
+						<File Id="973620541" Language="SFX">
+							<ShortName>amb_bed_arcade_scatter_02.wav</ShortName>
+							<Path>SFX\amb_bed_arcade_scatter_02_73E79EE3.wem</Path>
+						</File>
+						<File Id="981230654" Language="SFX">
+							<ShortName>amb_scatter_fazerblast_explosion_01  .wav</ShortName>
+							<Path>SFX\amb_scatter_fazerblast_explosion_01  _73E79EE3.wem</Path>
+						</File>
+						<File Id="994025865" Language="SFX">
+							<ShortName>sfx_burntrap_battle_scatter_chains_02.wav</ShortName>
+							<Path>SFX\sfx_burntrap_battle_scatter_chains_02_73E79EE3.wem</Path>
+						</File>
+						<File Id="996924003" Language="SFX">
+							<ShortName>amb_scatter_vent_rattle_dist_02.wav</ShortName>
+							<Path>SFX\amb_scatter_vent_rattle_dist_02_73E79EE3.wem</Path>
+						</File>
+						<File Id="998788935" Language="SFX">
+							<ShortName>amb_scatter_vent_rattle_05.wav</ShortName>
+							<Path>SFX\amb_scatter_vent_rattle_05_73E79EE3.wem</Path>
+						</File>
+						<File Id="1001513955" Language="SFX">
+							<ShortName>amb_scatter_fazerblast_scifi_11.wav</ShortName>
+							<Path>SFX\amb_scatter_fazerblast_scifi_11_73E79EE3.wem</Path>
+						</File>
+						<File Id="1021557576" Language="SFX">
+							<ShortName>amb_scatter_fazerblast_explosion_05  .wav</ShortName>
+							<Path>SFX\amb_scatter_fazerblast_explosion_05  _73E79EE3.wem</Path>
+						</File>
+						<File Id="1035261030" Language="SFX">
+							<ShortName>amb_scatter_vent_rattle_06.wav</ShortName>
+							<Path>SFX\amb_scatter_vent_rattle_06_73E79EE3.wem</Path>
+						</File>
+						<File Id="1038870177" Language="SFX">
+							<ShortName>sfx_burntrap_battle_scatter_laughter_demonic_02.wav</ShortName>
+							<Path>SFX\sfx_burntrap_battle_scatter_laughter_demonic_02_73E79EE3.wem</Path>
+						</File>
+						<File Id="1039986659" Language="SFX">
+							<ShortName>amb_bed_arcade_scatter_10.wav</ShortName>
+							<Path>SFX\amb_bed_arcade_scatter_10_73E79EE3.wem</Path>
+						</File>
+						<File Id="1042431212" Language="SFX">
+							<ShortName>amb_bed_arcade_scatter_05.wav</ShortName>
+							<Path>SFX\amb_bed_arcade_scatter_05_73E79EE3.wem</Path>
+						</File>
+						<File Id="1046249136" Language="SFX">
+							<ShortName>amb_scatter_rat_scurry_04.wav</ShortName>
+							<Path>SFX\amb_scatter_rat_scurry_04_73E79EE3.wem</Path>
+						</File>
+						<File Id="1046882748" Language="SFX">
+							<ShortName>sfx_burntrap_battle_scatter_whisper_02.wav</ShortName>
+							<Path>SFX\sfx_burntrap_battle_scatter_whisper_02_73E79EE3.wem</Path>
+						</File>
+						<File Id="1050749863" Language="SFX">
+							<ShortName>amb_scatter_fazerblast_explosion_03  .wav</ShortName>
+							<Path>SFX\amb_scatter_fazerblast_explosion_03  _73E79EE3.wem</Path>
+						</File>
+						<File Id="1059755806" Language="SFX">
+							<ShortName>amb_scatter_creepy_distant_tones_01.wav</ShortName>
+							<Path>SFX\amb_scatter_creepy_distant_tones_01_73E79EE3.wem</Path>
+						</File>
+						<File Id="1064794186" Language="SFX">
+							<ShortName>amb_scatter_rat_scurry_03.wav</ShortName>
+							<Path>SFX\amb_scatter_rat_scurry_03_73E79EE3.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{B6BC9253-1224-4B14-AB8E-B6F509B260CF}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{83BE0A70-3B2A-4542-B0E8-6FD34B797F70}">
+							<Media>
+								<File Id="382757064"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{66C0BC0C-5323-426A-A563-CA52320D7D45}">
+							<Media>
+								<File Id="18505594"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{01523547-F55D-4E1F-98A8-6246B617EBDC}">
+							<Media>
+								<File Id="353616234"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{D8CF2EE6-F353-4758-AE04-3E8F648FD44A}">
+							<Media>
+								<File Id="203887681"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{0400EABC-C7CB-4C0E-9B26-599252523A73}">
+							<Media>
+								<File Id="428394806"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{E4B9A543-1722-46BA-8E8D-CB104FB0405F}">
+							<Media>
+								<File Id="687254579"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{BD33C16F-2BE6-4848-A7E7-FCBAC3C6047B}">
+							<Media>
+								<File Id="167192512"/>
+								<File Id="1030061520"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{93B742C9-1190-44ED-91CF-050EC991906C}">
+							<Media>
+								<File Id="88129184"/>
+								<File Id="944800501"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{2B9E802E-7F8A-423D-AB18-5B836C69BE8E}">
+							<Media>
+								<File Id="195949870"/>
+								<File Id="210030003"/>
+								<File Id="265373475"/>
+								<File Id="398638301"/>
+								<File Id="424836572"/>
+								<File Id="479844391"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{68DEA104-ADBC-4969-A056-DF75ACFE3BE7}">
+							<Children>
+								<SwitchContainer SwitchValue="{5BBF64C1-0EC3-42CC-9A4E-321CED0B6488}">
+									<Children>
+										<SwitchContainer SwitchValue="{1A050232-0BBB-4F95-BA51-BEE33DFB9FC3}">
+											<Children>
+												<SwitchContainer SwitchValue="{CE158441-2FCF-4F32-8E2F-5D65350D1A58}">
+													<Children>
+														<SwitchContainer SwitchValue="{89AF7AF1-C1BC-4389-9568-56AC5DB886FB}">
+															<Children>
+																<SwitchContainer SwitchValue="{BE16A625-037B-4240-8262-CE7615A9F03F}">
+																	<Children>
+																		<SwitchContainer SwitchValue="{152ACCB6-4835-4476-8D50-8F056DB0A42B}">
+																			<Children>
+																				<SwitchContainer SwitchValue="{E655D95B-27E6-4188-A2B7-DFCBFAE1D8E2}">
+																					<Media>
+																						<File Id="195949870"/>
+																						<File Id="210030003"/>
+																						<File Id="265373475"/>
+																						<File Id="398638301"/>
+																						<File Id="424836572"/>
+																						<File Id="479844391"/>
+																					</Media>
+																				</SwitchContainer>
+																			</Children>
+																		</SwitchContainer>
+																	</Children>
+																</SwitchContainer>
+															</Children>
+														</SwitchContainer>
+													</Children>
+												</SwitchContainer>
+											</Children>
+										</SwitchContainer>
+									</Children>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{3AA84DC4-3A5A-43F6-8799-A89C7CB87E1A}">
+							<Children>
+								<SwitchContainer SwitchValue="{1D6ECFF4-4876-406B-BA2E-B0456C33418C}">
+									<Children>
+										<SwitchContainer SwitchValue="{7918A14B-32ED-4505-93D0-1E3D1C3DA2F6}">
+											<Children>
+												<SwitchContainer SwitchValue="{CE158441-2FCF-4F32-8E2F-5D65350D1A58}">
+													<Children>
+														<SwitchContainer SwitchValue="{89AF7AF1-C1BC-4389-9568-56AC5DB886FB}">
+															<Children>
+																<SwitchContainer SwitchValue="{BE16A625-037B-4240-8262-CE7615A9F03F}">
+																	<Children>
+																		<SwitchContainer SwitchValue="{152ACCB6-4835-4476-8D50-8F056DB0A42B}">
+																			<Children>
+																				<SwitchContainer SwitchValue="{E655D95B-27E6-4188-A2B7-DFCBFAE1D8E2}">
+																					<Media>
+																						<File Id="4774520"/>
+																						<File Id="182812435"/>
+																						<File Id="261268630"/>
+																						<File Id="399784184"/>
+																						<File Id="409248377"/>
+																						<File Id="607519481"/>
+																						<File Id="941630968"/>
+																					</Media>
+																				</SwitchContainer>
+																			</Children>
+																		</SwitchContainer>
+																	</Children>
+																</SwitchContainer>
+															</Children>
+														</SwitchContainer>
+													</Children>
+												</SwitchContainer>
+											</Children>
+										</SwitchContainer>
+									</Children>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{3AA84DC4-3A5A-43F6-8799-A89C7CB87E1A}">
+							<Children>
+								<SwitchContainer SwitchValue="{1D6ECFF4-4876-406B-BA2E-B0456C33418C}">
+									<Children>
+										<SwitchContainer SwitchValue="{8B213B82-6CBD-42DE-9811-2ADF11829D12}">
+											<Children>
+												<SwitchContainer SwitchValue="{F18EA73A-7253-41B6-A81F-34D4CF04DA54}">
+													<Children>
+														<SwitchContainer SwitchValue="{89AF7AF1-C1BC-4389-9568-56AC5DB886FB}">
+															<Children>
+																<SwitchContainer SwitchValue="{BE16A625-037B-4240-8262-CE7615A9F03F}">
+																	<Children>
+																		<SwitchContainer SwitchValue="{152ACCB6-4835-4476-8D50-8F056DB0A42B}">
+																			<Children>
+																				<SwitchContainer SwitchValue="{E655D95B-27E6-4188-A2B7-DFCBFAE1D8E2}">
+																					<Media>
+																						<File Id="303142234"/>
+																						<File Id="356151568"/>
+																						<File Id="528654806"/>
+																						<File Id="660316843"/>
+																						<File Id="932532575"/>
+																					</Media>
+																				</SwitchContainer>
+																			</Children>
+																		</SwitchContainer>
+																	</Children>
+																</SwitchContainer>
+															</Children>
+														</SwitchContainer>
+													</Children>
+												</SwitchContainer>
+											</Children>
+										</SwitchContainer>
+									</Children>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{3AA84DC4-3A5A-43F6-8799-A89C7CB87E1A}">
+							<Children>
+								<SwitchContainer SwitchValue="{E817642D-2F80-45DF-94B1-0769AE7A07C3}">
+									<Children>
+										<SwitchContainer SwitchValue="{1A050232-0BBB-4F95-BA51-BEE33DFB9FC3}">
+											<Children>
+												<SwitchContainer SwitchValue="{CE158441-2FCF-4F32-8E2F-5D65350D1A58}">
+													<Children>
+														<SwitchContainer SwitchValue="{89AF7AF1-C1BC-4389-9568-56AC5DB886FB}">
+															<Children>
+																<SwitchContainer SwitchValue="{BE16A625-037B-4240-8262-CE7615A9F03F}">
+																	<Children>
+																		<SwitchContainer SwitchValue="{152ACCB6-4835-4476-8D50-8F056DB0A42B}">
+																			<Children>
+																				<SwitchContainer SwitchValue="{E655D95B-27E6-4188-A2B7-DFCBFAE1D8E2}">
+																					<Media>
+																						<File Id="195949870"/>
+																						<File Id="210030003"/>
+																						<File Id="265373475"/>
+																						<File Id="398638301"/>
+																						<File Id="424836572"/>
+																						<File Id="479844391"/>
+																					</Media>
+																				</SwitchContainer>
+																			</Children>
+																		</SwitchContainer>
+																	</Children>
+																</SwitchContainer>
+															</Children>
+														</SwitchContainer>
+													</Children>
+												</SwitchContainer>
+											</Children>
+										</SwitchContainer>
+									</Children>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{D2C85226-1437-447E-96A3-F5A9099350DC}">
+							<Children>
+								<SwitchContainer SwitchValue="{5BBF64C1-0EC3-42CC-9A4E-321CED0B6488}">
+									<Children>
+										<SwitchContainer SwitchValue="{1A050232-0BBB-4F95-BA51-BEE33DFB9FC3}">
+											<Children>
+												<SwitchContainer SwitchValue="{E0FECEFF-742F-4DA9-81BE-E17160CBB639}">
+													<Children>
+														<SwitchContainer SwitchValue="{89AF7AF1-C1BC-4389-9568-56AC5DB886FB}">
+															<Children>
+																<SwitchContainer SwitchValue="{5CD7FF04-EB2C-49F3-A1E1-38ED9AE3878E}">
+																	<Children>
+																		<SwitchContainer SwitchValue="{5A4C1700-5A32-4B90-8AEF-00961B13C7B0}">
+																			<Children>
+																				<SwitchContainer SwitchValue="{E655D95B-27E6-4188-A2B7-DFCBFAE1D8E2}">
+																					<Media>
+																						<File Id="303142234"/>
+																						<File Id="356151568"/>
+																						<File Id="528654806"/>
+																						<File Id="660316843"/>
+																						<File Id="932532575"/>
+																					</Media>
+																				</SwitchContainer>
+																			</Children>
+																		</SwitchContainer>
+																	</Children>
+																</SwitchContainer>
+															</Children>
+														</SwitchContainer>
+													</Children>
+												</SwitchContainer>
+											</Children>
+										</SwitchContainer>
+									</Children>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{3AA84DC4-3A5A-43F6-8799-A89C7CB87E1A}">
+							<Children>
+								<SwitchContainer SwitchValue="{1D6ECFF4-4876-406B-BA2E-B0456C33418C}">
+									<Children>
+										<SwitchContainer SwitchValue="{8B213B82-6CBD-42DE-9811-2ADF11829D12}">
+											<Children>
+												<SwitchContainer SwitchValue="{8D121287-03D1-4E28-A510-2A3379169BDB}">
+													<Children>
+														<SwitchContainer SwitchValue="{89AF7AF1-C1BC-4389-9568-56AC5DB886FB}">
+															<Children>
+																<SwitchContainer SwitchValue="{BE16A625-037B-4240-8262-CE7615A9F03F}">
+																	<Children>
+																		<SwitchContainer SwitchValue="{152ACCB6-4835-4476-8D50-8F056DB0A42B}">
+																			<Children>
+																				<SwitchContainer SwitchValue="{E655D95B-27E6-4188-A2B7-DFCBFAE1D8E2}">
+																					<Media>
+																						<File Id="303142234"/>
+																						<File Id="356151568"/>
+																						<File Id="528654806"/>
+																						<File Id="660316843"/>
+																						<File Id="932532575"/>
+																					</Media>
+																				</SwitchContainer>
+																			</Children>
+																		</SwitchContainer>
+																	</Children>
+																</SwitchContainer>
+															</Children>
+														</SwitchContainer>
+													</Children>
+												</SwitchContainer>
+											</Children>
+										</SwitchContainer>
+									</Children>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{3AA84DC4-3A5A-43F6-8799-A89C7CB87E1A}">
+							<Children>
+								<SwitchContainer SwitchValue="{1D6ECFF4-4876-406B-BA2E-B0456C33418C}">
+									<Children>
+										<SwitchContainer SwitchValue="{8B213B82-6CBD-42DE-9811-2ADF11829D12}">
+											<Children>
+												<SwitchContainer SwitchValue="{999CF01F-45B4-467B-9DD6-51789AA50743}">
+													<Children>
+														<SwitchContainer SwitchValue="{89AF7AF1-C1BC-4389-9568-56AC5DB886FB}">
+															<Children>
+																<SwitchContainer SwitchValue="{BE16A625-037B-4240-8262-CE7615A9F03F}">
+																	<Children>
+																		<SwitchContainer SwitchValue="{152ACCB6-4835-4476-8D50-8F056DB0A42B}">
+																			<Children>
+																				<SwitchContainer SwitchValue="{E655D95B-27E6-4188-A2B7-DFCBFAE1D8E2}">
+																					<Media>
+																						<File Id="303142234"/>
+																						<File Id="356151568"/>
+																						<File Id="528654806"/>
+																						<File Id="660316843"/>
+																						<File Id="932532575"/>
+																					</Media>
+																				</SwitchContainer>
+																			</Children>
+																		</SwitchContainer>
+																	</Children>
+																</SwitchContainer>
+															</Children>
+														</SwitchContainer>
+													</Children>
+												</SwitchContainer>
+											</Children>
+										</SwitchContainer>
+									</Children>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{3AA84DC4-3A5A-43F6-8799-A89C7CB87E1A}">
+							<Children>
+								<SwitchContainer SwitchValue="{1D6ECFF4-4876-406B-BA2E-B0456C33418C}">
+									<Children>
+										<SwitchContainer SwitchValue="{8B213B82-6CBD-42DE-9811-2ADF11829D12}">
+											<Children>
+												<SwitchContainer SwitchValue="{ED27D60B-D060-4E69-B550-A95CD0DE53B7}">
+													<Children>
+														<SwitchContainer SwitchValue="{2F1051CE-2A78-4F87-824F-D106367F2285}">
+															<Children>
+																<SwitchContainer SwitchValue="{DC8468B3-5344-44BA-A93C-5F4C93159C26}">
+																	<Children>
+																		<SwitchContainer SwitchValue="{152ACCB6-4835-4476-8D50-8F056DB0A42B}">
+																			<Children/>
+																		</SwitchContainer>
+																	</Children>
+																</SwitchContainer>
+															</Children>
+														</SwitchContainer>
+													</Children>
+												</SwitchContainer>
+											</Children>
+										</SwitchContainer>
+									</Children>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{3AA84DC4-3A5A-43F6-8799-A89C7CB87E1A}">
+							<Children>
+								<SwitchContainer SwitchValue="{1D6ECFF4-4876-406B-BA2E-B0456C33418C}">
+									<Children>
+										<SwitchContainer SwitchValue="{8B213B82-6CBD-42DE-9811-2ADF11829D12}">
+											<Children>
+												<SwitchContainer SwitchValue="{ED27D60B-D060-4E69-B550-A95CD0DE53B7}">
+													<Children>
+														<SwitchContainer SwitchValue="{2F1051CE-2A78-4F87-824F-D106367F2285}">
+															<Children>
+																<SwitchContainer SwitchValue="{B8425F00-D3AD-4DF2-B47C-EB908B0D4008}">
+																	<Children>
+																		<SwitchContainer SwitchValue="{152ACCB6-4835-4476-8D50-8F056DB0A42B}">
+																			<Children/>
+																		</SwitchContainer>
+																	</Children>
+																</SwitchContainer>
+															</Children>
+														</SwitchContainer>
+													</Children>
+												</SwitchContainer>
+											</Children>
+										</SwitchContainer>
+									</Children>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{D2C85226-1437-447E-96A3-F5A9099350DC}">
+							<Children>
+								<SwitchContainer SwitchValue="{5BBF64C1-0EC3-42CC-9A4E-321CED0B6488}">
+									<Children>
+										<SwitchContainer SwitchValue="{1A050232-0BBB-4F95-BA51-BEE33DFB9FC3}">
+											<Children>
+												<SwitchContainer SwitchValue="{CE158441-2FCF-4F32-8E2F-5D65350D1A58}">
+													<Children>
+														<SwitchContainer SwitchValue="{89AF7AF1-C1BC-4389-9568-56AC5DB886FB}">
+															<Children>
+																<SwitchContainer SwitchValue="{5CD7FF04-EB2C-49F3-A1E1-38ED9AE3878E}">
+																	<Children>
+																		<SwitchContainer SwitchValue="{5A4C1700-5A32-4B90-8AEF-00961B13C7B0}">
+																			<Children>
+																				<SwitchContainer SwitchValue="{74687117-83E8-468F-8FF1-C58FFF88B2AC}">
+																					<Media>
+																						<File Id="4774520"/>
+																						<File Id="182812435"/>
+																						<File Id="261268630"/>
+																						<File Id="399784184"/>
+																						<File Id="409248377"/>
+																						<File Id="607519481"/>
+																						<File Id="941630968"/>
+																					</Media>
+																				</SwitchContainer>
+																			</Children>
+																		</SwitchContainer>
+																	</Children>
+																</SwitchContainer>
+															</Children>
+														</SwitchContainer>
+													</Children>
+												</SwitchContainer>
+											</Children>
+										</SwitchContainer>
+									</Children>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{D2C85226-1437-447E-96A3-F5A9099350DC}">
+							<Children>
+								<SwitchContainer SwitchValue="{5BBF64C1-0EC3-42CC-9A4E-321CED0B6488}">
+									<Children>
+										<SwitchContainer SwitchValue="{1A050232-0BBB-4F95-BA51-BEE33DFB9FC3}">
+											<Children>
+												<SwitchContainer SwitchValue="{B5430FEF-5B29-43EF-B7C6-3AA65CC4ABC6}">
+													<Children>
+														<SwitchContainer SwitchValue="{89AF7AF1-C1BC-4389-9568-56AC5DB886FB}">
+															<Children>
+																<SwitchContainer SwitchValue="{5CD7FF04-EB2C-49F3-A1E1-38ED9AE3878E}">
+																	<Children>
+																		<SwitchContainer SwitchValue="{5A4C1700-5A32-4B90-8AEF-00961B13C7B0}">
+																			<Children>
+																				<SwitchContainer SwitchValue="{B9CA0F30-AE9F-4437-8B15-AFB7052857F9}">
+																					<Media>
+																						<File Id="640084798"/>
+																					</Media>
+																				</SwitchContainer>
+																			</Children>
+																		</SwitchContainer>
+																	</Children>
+																</SwitchContainer>
+															</Children>
+														</SwitchContainer>
+													</Children>
+												</SwitchContainer>
+											</Children>
+										</SwitchContainer>
+									</Children>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{3AA84DC4-3A5A-43F6-8799-A89C7CB87E1A}">
+							<Children>
+								<SwitchContainer SwitchValue="{1D6ECFF4-4876-406B-BA2E-B0456C33418C}">
+									<Children>
+										<SwitchContainer SwitchValue="{8B213B82-6CBD-42DE-9811-2ADF11829D12}">
+											<Children>
+												<SwitchContainer SwitchValue="{0A95387D-FA7A-4963-B030-DBCC10CB65A2}">
+													<Children>
+														<SwitchContainer SwitchValue="{89AF7AF1-C1BC-4389-9568-56AC5DB886FB}">
+															<Children>
+																<SwitchContainer SwitchValue="{BE16A625-037B-4240-8262-CE7615A9F03F}">
+																	<Children>
+																		<SwitchContainer SwitchValue="{152ACCB6-4835-4476-8D50-8F056DB0A42B}">
+																			<Children>
+																				<SwitchContainer SwitchValue="{E655D95B-27E6-4188-A2B7-DFCBFAE1D8E2}">
+																					<Media>
+																						<File Id="303142234"/>
+																						<File Id="356151568"/>
+																						<File Id="528654806"/>
+																						<File Id="660316843"/>
+																						<File Id="932532575"/>
+																					</Media>
+																				</SwitchContainer>
+																			</Children>
+																		</SwitchContainer>
+																	</Children>
+																</SwitchContainer>
+															</Children>
+														</SwitchContainer>
+													</Children>
+												</SwitchContainer>
+											</Children>
+										</SwitchContainer>
+									</Children>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{65D891E7-B6FE-462B-AAC8-A6C6EFB7CF23}">
+							<Media>
+								<File Id="899906322"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{4186CC10-F15E-4545-B32B-31A41571A93E}">
+							<Media>
+								<File Id="135469669"/>
+								<File Id="300285640"/>
+								<File Id="350371066"/>
+								<File Id="589646314"/>
+								<File Id="713512378"/>
+								<File Id="958835260"/>
+								<File Id="998788935"/>
+								<File Id="1034071094"/>
+								<File Id="1035261030"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{C033718A-88D7-4BE0-A702-ADEF38B6F43A}">
+							<Media>
+								<File Id="124212340"/>
+								<File Id="149566871"/>
+								<File Id="223207379"/>
+								<File Id="261047177"/>
+								<File Id="321274211"/>
+								<File Id="330897424"/>
+								<File Id="331547781"/>
+								<File Id="416854716"/>
+								<File Id="461809207"/>
+								<File Id="510131700"/>
+								<File Id="520886849"/>
+								<File Id="567763668"/>
+								<File Id="667274851"/>
+								<File Id="677907379"/>
+								<File Id="685187044"/>
+								<File Id="715308967"/>
+								<File Id="860019812"/>
+								<File Id="879279102"/>
+								<File Id="926511399"/>
+								<File Id="1046249136"/>
+								<File Id="1064794186"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{5AEFCEFC-1758-487F-8022-665B454A8C16}">
+							<Media>
+								<File Id="90927421"/>
+								<File Id="124212340"/>
+								<File Id="149566871"/>
+								<File Id="223207379"/>
+								<File Id="261047177"/>
+								<File Id="321274211"/>
+								<File Id="330897424"/>
+								<File Id="331547781"/>
+								<File Id="416854716"/>
+								<File Id="461809207"/>
+								<File Id="510131700"/>
+								<File Id="520886849"/>
+								<File Id="567763668"/>
+								<File Id="667274851"/>
+								<File Id="677907379"/>
+								<File Id="685187044"/>
+								<File Id="715308967"/>
+								<File Id="860019812"/>
+								<File Id="926511399"/>
+								<File Id="1046249136"/>
+								<File Id="1064794186"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{59520E08-8C31-4007-B460-D3CDA718B285}">
+							<Media>
+								<File Id="124212340"/>
+								<File Id="149566871"/>
+								<File Id="223207379"/>
+								<File Id="261047177"/>
+								<File Id="293428169"/>
+								<File Id="321274211"/>
+								<File Id="330897424"/>
+								<File Id="331547781"/>
+								<File Id="416854716"/>
+								<File Id="461809207"/>
+								<File Id="510131700"/>
+								<File Id="520886849"/>
+								<File Id="567763668"/>
+								<File Id="667274851"/>
+								<File Id="677907379"/>
+								<File Id="685187044"/>
+								<File Id="715308967"/>
+								<File Id="860019812"/>
+								<File Id="926511399"/>
+								<File Id="1046249136"/>
+								<File Id="1064794186"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{79FAF395-10AB-454B-A4DD-8E95F07D45E7}">
+							<Media>
+								<File Id="36848844"/>
+								<File Id="95052827"/>
+								<File Id="118829501"/>
+								<File Id="124212340"/>
+								<File Id="223207379"/>
+								<File Id="261047177"/>
+								<File Id="321274211"/>
+								<File Id="404805867"/>
+								<File Id="415373315"/>
+								<File Id="520886849"/>
+								<File Id="582615472"/>
+								<File Id="602344161"/>
+								<File Id="677907379"/>
+								<File Id="714247561"/>
+								<File Id="766508878"/>
+								<File Id="860019812"/>
+								<File Id="926511399"/>
+								<File Id="968547256"/>
+								<File Id="1059755806"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{B962288E-674A-452E-8418-0441B4CDB85E}">
+							<Media>
+								<File Id="4419820"/>
+								<File Id="36848844"/>
+								<File Id="42487648"/>
+								<File Id="55820231"/>
+								<File Id="57192397"/>
+								<File Id="65242670"/>
+								<File Id="95052827"/>
+								<File Id="97638054"/>
+								<File Id="118829501"/>
+								<File Id="137504301"/>
+								<File Id="146244556"/>
+								<File Id="190000658"/>
+								<File Id="196781195"/>
+								<File Id="230071187"/>
+								<File Id="235857474"/>
+								<File Id="287307512"/>
+								<File Id="346006551"/>
+								<File Id="356822006"/>
+								<File Id="404805867"/>
+								<File Id="406070553"/>
+								<File Id="411969286"/>
+								<File Id="415373315"/>
+								<File Id="430298600"/>
+								<File Id="582615472"/>
+								<File Id="645278959"/>
+								<File Id="714247561"/>
+								<File Id="760148389"/>
+								<File Id="766508878"/>
+								<File Id="797389575"/>
+								<File Id="799766507"/>
+								<File Id="801489894"/>
+								<File Id="814091225"/>
+								<File Id="846259348"/>
+								<File Id="859457939"/>
+								<File Id="934864617"/>
+								<File Id="968547256"/>
+								<File Id="973620541"/>
+								<File Id="996924003"/>
+								<File Id="1039986659"/>
+								<File Id="1042431212"/>
+								<File Id="1059755806"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{3799B468-8C64-40A7-A2DE-081DAB923FE2}">
+							<Media>
+								<File Id="36848844"/>
+								<File Id="65242670"/>
+								<File Id="95052827"/>
+								<File Id="118829501"/>
+								<File Id="190000658"/>
+								<File Id="196781195"/>
+								<File Id="230071187"/>
+								<File Id="287307512"/>
+								<File Id="356822006"/>
+								<File Id="403042850"/>
+								<File Id="404805867"/>
+								<File Id="415373315"/>
+								<File Id="582615472"/>
+								<File Id="714247561"/>
+								<File Id="760148389"/>
+								<File Id="766508878"/>
+								<File Id="799766507"/>
+								<File Id="801489894"/>
+								<File Id="859457939"/>
+								<File Id="968547256"/>
+								<File Id="996924003"/>
+								<File Id="1059755806"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{B6A30A85-14DC-465F-835A-4FE081ADAD86}">
+							<Media>
+								<File Id="35577993"/>
+								<File Id="36848844"/>
+								<File Id="57192397"/>
+								<File Id="65242670"/>
+								<File Id="95052827"/>
+								<File Id="97638054"/>
+								<File Id="118829501"/>
+								<File Id="137504301"/>
+								<File Id="190000658"/>
+								<File Id="196781195"/>
+								<File Id="230071187"/>
+								<File Id="287307512"/>
+								<File Id="356822006"/>
+								<File Id="404805867"/>
+								<File Id="406070553"/>
+								<File Id="415373315"/>
+								<File Id="430298600"/>
+								<File Id="582615472"/>
+								<File Id="645278959"/>
+								<File Id="714247561"/>
+								<File Id="760148389"/>
+								<File Id="766508878"/>
+								<File Id="799766507"/>
+								<File Id="801489894"/>
+								<File Id="814091225"/>
+								<File Id="846259348"/>
+								<File Id="859457939"/>
+								<File Id="968547256"/>
+								<File Id="996924003"/>
+								<File Id="1059755806"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{27659D0D-886C-4C6E-9D7B-4F91C00095DD}">
+							<DefaultSwitchValue>{42D310CA-130B-4372-9C79-D626BDC1EE81}</DefaultSwitchValue>
+							<Media>
+								<File Id="36848844"/>
+								<File Id="57192397"/>
+								<File Id="95052827"/>
+								<File Id="97638054"/>
+								<File Id="118829501"/>
+								<File Id="137504301"/>
+								<File Id="404805867"/>
+								<File Id="406070553"/>
+								<File Id="415373315"/>
+								<File Id="430298600"/>
+								<File Id="520403724"/>
+								<File Id="582615472"/>
+								<File Id="645278959"/>
+								<File Id="714247561"/>
+								<File Id="766508878"/>
+								<File Id="814091225"/>
+								<File Id="846259348"/>
+								<File Id="968547256"/>
+								<File Id="1059755806"/>
+							</Media>
+							<Children>
+								<SwitchContainer SwitchValue="{42D310CA-130B-4372-9C79-D626BDC1EE81}">
+									<Media>
+										<File Id="970301755"/>
+									</Media>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{785F9557-1782-4559-90F8-F147A1EFCB67}">
+							<Media>
+								<File Id="36848844"/>
+								<File Id="57192397"/>
+								<File Id="65242670"/>
+								<File Id="95052827"/>
+								<File Id="97167646"/>
+								<File Id="97638054"/>
+								<File Id="118829501"/>
+								<File Id="137504301"/>
+								<File Id="190000658"/>
+								<File Id="196781195"/>
+								<File Id="230071187"/>
+								<File Id="287307512"/>
+								<File Id="356822006"/>
+								<File Id="404805867"/>
+								<File Id="406070553"/>
+								<File Id="415373315"/>
+								<File Id="430298600"/>
+								<File Id="432184972"/>
+								<File Id="501166377"/>
+								<File Id="582615472"/>
+								<File Id="645278959"/>
+								<File Id="714247561"/>
+								<File Id="760148389"/>
+								<File Id="766508878"/>
+								<File Id="799766507"/>
+								<File Id="801489894"/>
+								<File Id="814091225"/>
+								<File Id="846259348"/>
+								<File Id="859457939"/>
+								<File Id="968547256"/>
+								<File Id="996924003"/>
+								<File Id="1059755806"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{883581B3-0B74-45A9-A7E7-F633A55E386F}">
+							<Media>
+								<File Id="36848844"/>
+								<File Id="57192397"/>
+								<File Id="65242670"/>
+								<File Id="95052827"/>
+								<File Id="97638054"/>
+								<File Id="118829501"/>
+								<File Id="137504301"/>
+								<File Id="158812380"/>
+								<File Id="190000658"/>
+								<File Id="196781195"/>
+								<File Id="230071187"/>
+								<File Id="287307512"/>
+								<File Id="356822006"/>
+								<File Id="404805867"/>
+								<File Id="406070553"/>
+								<File Id="415373315"/>
+								<File Id="430298600"/>
+								<File Id="582615472"/>
+								<File Id="645278959"/>
+								<File Id="714247561"/>
+								<File Id="740494179"/>
+								<File Id="760148389"/>
+								<File Id="766508878"/>
+								<File Id="799766507"/>
+								<File Id="801489894"/>
+								<File Id="814091225"/>
+								<File Id="846259348"/>
+								<File Id="859457939"/>
+								<File Id="955368986"/>
+								<File Id="968547256"/>
+								<File Id="996924003"/>
+								<File Id="1059755806"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{AF02570E-D85D-49F8-A1B5-94E9091045D3}">
+							<Media>
+								<File Id="57192397"/>
+								<File Id="65242670"/>
+								<File Id="97638054"/>
+								<File Id="137504301"/>
+								<File Id="190000658"/>
+								<File Id="196781195"/>
+								<File Id="230071187"/>
+								<File Id="287307512"/>
+								<File Id="356822006"/>
+								<File Id="401638408"/>
+								<File Id="404177992"/>
+								<File Id="406070553"/>
+								<File Id="430298600"/>
+								<File Id="482152285"/>
+								<File Id="645278959"/>
+								<File Id="760148389"/>
+								<File Id="799766507"/>
+								<File Id="801489894"/>
+								<File Id="814091225"/>
+								<File Id="846259348"/>
+								<File Id="859457939"/>
+								<File Id="996924003"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{ECDD25DB-5CDD-4F29-A41D-1F700D2F0DC4}">
+							<Media>
+								<File Id="36848844"/>
+								<File Id="95052827"/>
+								<File Id="118829501"/>
+								<File Id="124212340"/>
+								<File Id="223207379"/>
+								<File Id="261047177"/>
+								<File Id="304571109"/>
+								<File Id="321274211"/>
+								<File Id="404805867"/>
+								<File Id="415373315"/>
+								<File Id="520886849"/>
+								<File Id="582615472"/>
+								<File Id="677907379"/>
+								<File Id="714247561"/>
+								<File Id="766508878"/>
+								<File Id="860019812"/>
+								<File Id="926511399"/>
+								<File Id="968547256"/>
+								<File Id="1059755806"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{FABC175F-9037-4A60-90A8-ACB545C22821}">
+							<Media>
+								<File Id="541318484"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{AB151350-F2E9-4C4C-A776-C7F8BA9B7779}">
+							<Media>
+								<File Id="57192397"/>
+								<File Id="65242670"/>
+								<File Id="97638054"/>
+								<File Id="137504301"/>
+								<File Id="190000658"/>
+								<File Id="196781195"/>
+								<File Id="230071187"/>
+								<File Id="287307512"/>
+								<File Id="356822006"/>
+								<File Id="406070553"/>
+								<File Id="415786504"/>
+								<File Id="430298600"/>
+								<File Id="645278959"/>
+								<File Id="760148389"/>
+								<File Id="799766507"/>
+								<File Id="801489894"/>
+								<File Id="814091225"/>
+								<File Id="846259348"/>
+								<File Id="859457939"/>
+								<File Id="996924003"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{4088EF9D-1775-45BD-B56D-9519842607A9}">
+							<Media>
+								<File Id="36848844"/>
+								<File Id="65242670"/>
+								<File Id="95052827"/>
+								<File Id="118829501"/>
+								<File Id="190000658"/>
+								<File Id="196781195"/>
+								<File Id="230071187"/>
+								<File Id="280203766"/>
+								<File Id="287307512"/>
+								<File Id="356822006"/>
+								<File Id="404805867"/>
+								<File Id="415373315"/>
+								<File Id="582615472"/>
+								<File Id="714247561"/>
+								<File Id="760148389"/>
+								<File Id="766508878"/>
+								<File Id="799766507"/>
+								<File Id="801489894"/>
+								<File Id="859457939"/>
+								<File Id="968547256"/>
+								<File Id="996924003"/>
+								<File Id="1059755806"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{34A1BF15-CB3E-4228-95A0-94142C120336}">
+							<Media>
+								<File Id="324763610"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{761DE1B6-556B-4A0D-BB0C-6EEBC1C2E5C5}">
+							<Media>
+								<File Id="36848844"/>
+								<File Id="57192397"/>
+								<File Id="65242670"/>
+								<File Id="95052827"/>
+								<File Id="97638054"/>
+								<File Id="118829501"/>
+								<File Id="137504301"/>
+								<File Id="190000658"/>
+								<File Id="196781195"/>
+								<File Id="230071187"/>
+								<File Id="287307512"/>
+								<File Id="342682125"/>
+								<File Id="356822006"/>
+								<File Id="404805867"/>
+								<File Id="406070553"/>
+								<File Id="415373315"/>
+								<File Id="430298600"/>
+								<File Id="582615472"/>
+								<File Id="645278959"/>
+								<File Id="714247561"/>
+								<File Id="760148389"/>
+								<File Id="766508878"/>
+								<File Id="799766507"/>
+								<File Id="801489894"/>
+								<File Id="814091225"/>
+								<File Id="846259348"/>
+								<File Id="859457939"/>
+								<File Id="968547256"/>
+								<File Id="996924003"/>
+								<File Id="1059755806"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{EFCAF7B5-90D2-4E0A-8FBD-9501E21AB2A0}">
+							<Media>
+								<File Id="36848844"/>
+								<File Id="95052827"/>
+								<File Id="118829501"/>
+								<File Id="124212340"/>
+								<File Id="223207379"/>
+								<File Id="261047177"/>
+								<File Id="321274211"/>
+								<File Id="330897424"/>
+								<File Id="404805867"/>
+								<File Id="415373315"/>
+								<File Id="479944199"/>
+								<File Id="520886849"/>
+								<File Id="582615472"/>
+								<File Id="667274851"/>
+								<File Id="677907379"/>
+								<File Id="685187044"/>
+								<File Id="714247561"/>
+								<File Id="715308967"/>
+								<File Id="766508878"/>
+								<File Id="860019812"/>
+								<File Id="926511399"/>
+								<File Id="968547256"/>
+								<File Id="1046249136"/>
+								<File Id="1059755806"/>
+								<File Id="1064794186"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{EE75BAA3-50FE-46E5-93AA-CB05AFD99FA7}">
+							<Media>
+								<File Id="57192397"/>
+								<File Id="65242670"/>
+								<File Id="97638054"/>
+								<File Id="137504301"/>
+								<File Id="190000658"/>
+								<File Id="196781195"/>
+								<File Id="230071187"/>
+								<File Id="287307512"/>
+								<File Id="356822006"/>
+								<File Id="406070553"/>
+								<File Id="415786504"/>
+								<File Id="430298600"/>
+								<File Id="645278959"/>
+								<File Id="760148389"/>
+								<File Id="799766507"/>
+								<File Id="801489894"/>
+								<File Id="814091225"/>
+								<File Id="846259348"/>
+								<File Id="859457939"/>
+								<File Id="996924003"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{20528700-42FA-4E6B-8C48-F5AB57E84957}">
+							<Media>
+								<File Id="36848844"/>
+								<File Id="57192397"/>
+								<File Id="65242670"/>
+								<File Id="90927421"/>
+								<File Id="95052827"/>
+								<File Id="97638054"/>
+								<File Id="118829501"/>
+								<File Id="137504301"/>
+								<File Id="190000658"/>
+								<File Id="196781195"/>
+								<File Id="230071187"/>
+								<File Id="287307512"/>
+								<File Id="356822006"/>
+								<File Id="404805867"/>
+								<File Id="406070553"/>
+								<File Id="415373315"/>
+								<File Id="430298600"/>
+								<File Id="582615472"/>
+								<File Id="645278959"/>
+								<File Id="714247561"/>
+								<File Id="760148389"/>
+								<File Id="766508878"/>
+								<File Id="799766507"/>
+								<File Id="801489894"/>
+								<File Id="814091225"/>
+								<File Id="846259348"/>
+								<File Id="859457939"/>
+								<File Id="968547256"/>
+								<File Id="996924003"/>
+								<File Id="1059755806"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{17A3C324-E299-4577-9A3F-6A846702053E}">
+							<Media>
+								<File Id="694164331"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{67C130D8-349A-456D-A343-F2AA6EC26C7F}">
+							<Media>
+								<File Id="525849610"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{5A486922-16D9-4DB1-B5FA-491B8C93DD08}">
+							<Media>
+								<File Id="36848844"/>
+								<File Id="95052827"/>
+								<File Id="118829501"/>
+								<File Id="124212340"/>
+								<File Id="223207379"/>
+								<File Id="261047177"/>
+								<File Id="321274211"/>
+								<File Id="404805867"/>
+								<File Id="415373315"/>
+								<File Id="430059074"/>
+								<File Id="520886849"/>
+								<File Id="582615472"/>
+								<File Id="677907379"/>
+								<File Id="714247561"/>
+								<File Id="766508878"/>
+								<File Id="860019812"/>
+								<File Id="926511399"/>
+								<File Id="968547256"/>
+								<File Id="1059755806"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{EC418A30-FF12-48AA-9E69-C43723E69BAE}">
+							<Media>
+								<File Id="44284415"/>
+								<File Id="57192397"/>
+								<File Id="65242670"/>
+								<File Id="97638054"/>
+								<File Id="137504301"/>
+								<File Id="190000658"/>
+								<File Id="196781195"/>
+								<File Id="230071187"/>
+								<File Id="287307512"/>
+								<File Id="356822006"/>
+								<File Id="406070553"/>
+								<File Id="430298600"/>
+								<File Id="645278959"/>
+								<File Id="760148389"/>
+								<File Id="799766507"/>
+								<File Id="801489894"/>
+								<File Id="814091225"/>
+								<File Id="846259348"/>
+								<File Id="859457939"/>
+								<File Id="996924003"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{F5D35036-E5F3-4C61-9DDB-0DD2A0FB01B9}">
+							<Media>
+								<File Id="5566507"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{D137A913-4386-4282-9997-EE969DEF9071}">
+							<Media>
+								<File Id="394183574"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{AB07D13E-A602-4A3B-A483-11E9B5E344A1}">
+							<Media>
+								<File Id="924014621"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{88D55456-7F00-4771-84F7-ABEE406578FD}">
+							<Media>
+								<File Id="49391178"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{E21215DE-D390-46A7-A992-53972F3F8BA3}">
+							<Media>
+								<File Id="984893968"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{E5B94F58-629F-4EC5-ACAD-44ED49FFBF06}">
+							<Media>
+								<File Id="645928945"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{CD7C2922-BEB8-4F80-A708-61777A71B20F}">
+							<Media>
+								<File Id="160532204"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{1B6D4D44-01E6-4ED0-B230-BE2D4FAAB5D1}">
+							<Media>
+								<File Id="76895975"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{309135F8-4ABE-4394-BDC6-D5ABA3E02108}">
+							<Media>
+								<File Id="616111508"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{3C8E15F5-D666-403C-A445-519B79F1561A}">
+							<DefaultSwitchValue>{CE158441-2FCF-4F32-8E2F-5D65350D1A58}</DefaultSwitchValue>
+							<Media>
+								<File Id="154615203"/>
+							</Media>
+							<Children>
+								<SwitchContainer SwitchValue="{B5430FEF-5B29-43EF-B7C6-3AA65CC4ABC6}">
+									<Media>
+										<File Id="47407807"/>
+										<File Id="539977649"/>
+										<File Id="542598189"/>
+										<File Id="893069385"/>
+										<File Id="918068974"/>
+										<File Id="981230654"/>
+										<File Id="1021557576"/>
+										<File Id="1050749863"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{B5430FEF-5B29-43EF-B7C6-3AA65CC4ABC6}">
+									<Media>
+										<File Id="1725162"/>
+										<File Id="5192674"/>
+										<File Id="24566803"/>
+										<File Id="236818988"/>
+										<File Id="308157771"/>
+										<File Id="443306173"/>
+										<File Id="579318980"/>
+										<File Id="884314761"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{B5430FEF-5B29-43EF-B7C6-3AA65CC4ABC6}">
+									<Media>
+										<File Id="89516616"/>
+										<File Id="271197897"/>
+										<File Id="275775575"/>
+										<File Id="361145721"/>
+										<File Id="429811077"/>
+										<File Id="483502545"/>
+										<File Id="547747242"/>
+										<File Id="613107408"/>
+										<File Id="622476968"/>
+										<File Id="664133838"/>
+										<File Id="736400634"/>
+										<File Id="864445739"/>
+										<File Id="876549931"/>
+										<File Id="1001513955"/>
+									</Media>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{39E07A7C-98C7-4D39-AD9E-2B568FE25232}">
+							<Media>
+								<File Id="208577171"/>
+								<File Id="697418104"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{7054D320-B1A1-43EF-AFB8-641BC1D86C22}">
+							<Media>
+								<File Id="486651948"/>
+								<File Id="697418104"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{64414668-38A5-4C35-A4A9-2900B4D9D3B0}">
+							<Media>
+								<File Id="149566871"/>
+								<File Id="331547781"/>
+								<File Id="416854716"/>
+								<File Id="461809207"/>
+								<File Id="510131700"/>
+								<File Id="567763668"/>
+								<File Id="879279102"/>
+								<File Id="941150323"/>
+								<File Id="985352350"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{D6EDFE2F-3878-4FAA-9F7C-20C5F807894F}">
+							<Media>
+								<File Id="26972198"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{5208606E-F501-499E-9BA9-956A7F080575}">
+							<Media>
+								<File Id="9324021"/>
+								<File Id="14914351"/>
+								<File Id="35577993"/>
+								<File Id="36848844"/>
+								<File Id="51480796"/>
+								<File Id="60012710"/>
+								<File Id="65242670"/>
+								<File Id="94996535"/>
+								<File Id="95052827"/>
+								<File Id="118829501"/>
+								<File Id="176827935"/>
+								<File Id="190000658"/>
+								<File Id="196781195"/>
+								<File Id="230071187"/>
+								<File Id="267346039"/>
+								<File Id="287307512"/>
+								<File Id="356822006"/>
+								<File Id="395906127"/>
+								<File Id="404805867"/>
+								<File Id="405032276"/>
+								<File Id="415373315"/>
+								<File Id="582615472"/>
+								<File Id="588757099"/>
+								<File Id="623138316"/>
+								<File Id="635038837"/>
+								<File Id="714247561"/>
+								<File Id="760148389"/>
+								<File Id="766508878"/>
+								<File Id="794485047"/>
+								<File Id="799766507"/>
+								<File Id="801489894"/>
+								<File Id="853498257"/>
+								<File Id="859457939"/>
+								<File Id="968547256"/>
+								<File Id="994025865"/>
+								<File Id="996924003"/>
+								<File Id="1038870177"/>
+								<File Id="1046882748"/>
+								<File Id="1059755806"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+					<ActionPostEvent>
+						<ActionPostEventEntry Id="2245136575" Name="Stop_SFX_EnvironmentalAmbiences" ObjectPath="\Events\Default Work Unit\AmbiencesStreaming\Stop_SFX_EnvironmentalAmbiences" GUID="{65AE826C-B5A9-4598-8E6C-809878BF1F1D}"/>
+					</ActionPostEvent>
+					<ActionSetState>
+						<ActionSetStateEntry Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\LOCATION_MUSIC\None" GUID="{14EB62F1-4430-4476-9BF7-EBC6BD601194}"/>
+					</ActionSetState>
+					<AuxBusSends>
+						<AuxBus Id="80803695" Name="REV_Utilidor_Large" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_Utilidor_Large" GUID="{E8694A30-6FA4-41D2-BB9D-54B9385A1929}"/>
+						<AuxBus Id="785966131" Name="REV_Room_Tiled_Large" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_Room_Tiled_Large" GUID="{98312720-E17A-4F74-ADD2-41CA3A3098A5}"/>
+						<AuxBus Id="800671367" Name="REV_Room_Tiled_Medium" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_Room_Tiled_Medium" GUID="{FF545A96-B5D2-4444-8AA0-6FB2FCFC444C}"/>
+						<AuxBus Id="2308966851" Name="REV_Room_Tiled_Huge" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_Room_Tiled_Huge" GUID="{3A9A014C-C501-447D-BCC2-94CE55171076}"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="4178610829" Name="Play_SFX_MiniGolf_Ambiences" ObjectPath="\Events\Default Work Unit\AmbiencesStreaming\Play_SFX_MiniGolf_Ambiences" GUID="{87822C82-B84C-4677-895D-DE0DED69ADA7}" DurationType="Infinite">
+					<ReferencedStreamedFiles>
+						<File Id="35577993" Language="SFX">
+							<ShortName>amb_bed_dark_hallway.wav</ShortName>
+							<Path>SFX\amb_bed_dark_hallway_F585A561.wem</Path>
+						</File>
+						<File Id="97167646" Language="SFX">
+							<ShortName>amb_general_neonSigns_large_01.wav</ShortName>
+							<Path>SFX\amb_general_neonSigns_large_01_F585A561.wem</Path>
+						</File>
+						<File Id="136113411" Language="SFX">
+							<ShortName>sfx_minigame_golf_amb_bed_huge_mechanical_01.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_amb_bed_huge_mechanical_01_F585A561.wem</Path>
+						</File>
+						<File Id="432184972" Language="SFX">
+							<ShortName>amb_general_neonSigns_large_02.wav</ShortName>
+							<Path>SFX\amb_general_neonSigns_large_02_F585A561.wem</Path>
+						</File>
+						<File Id="463703524" Language="SFX">
+							<ShortName>sfx_minigame_golf_amb_bed_jungle_night_01.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_amb_bed_jungle_night_01_F585A561.wem</Path>
+						</File>
+						<File Id="501166377" Language="SFX">
+							<ShortName>amb_general_neonSigns_large_03.wav</ShortName>
+							<Path>SFX\amb_general_neonSigns_large_03_F585A561.wem</Path>
+						</File>
+						<File Id="520403724" Language="SFX">
+							<ShortName>amb_bed_daycare.wav</ShortName>
+							<Path>SFX\amb_bed_daycare_F585A561.wem</Path>
+						</File>
+						<File Id="602344161" Language="SFX">
+							<ShortName>amb_bed_kitchen_small.wav</ShortName>
+							<Path>SFX\amb_bed_kitchen_small_F585A561.wem</Path>
+						</File>
+						<File Id="970301755" Language="SFX">
+							<ShortName>amb_bed_daycare_lights_on.wav</ShortName>
+							<Path>SFX\amb_bed_daycare_lights_on_F585A561.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="36848844" Language="SFX">
+							<ShortName>amb_scatter_creepy_distant_tones_06.wav</ShortName>
+							<Path>SFX\amb_scatter_creepy_distant_tones_06_73E79EE3.wem</Path>
+						</File>
+						<File Id="57192397" Language="SFX">
+							<ShortName>amb_scatter_building_creak_06.wav</ShortName>
+							<Path>SFX\amb_scatter_building_creak_06_73E79EE3.wem</Path>
+						</File>
+						<File Id="65242670" Language="SFX">
+							<ShortName>amb_scatter_vent_rattle_dist_07.wav</ShortName>
+							<Path>SFX\amb_scatter_vent_rattle_dist_07_73E79EE3.wem</Path>
+						</File>
+						<File Id="95052827" Language="SFX">
+							<ShortName>amb_scatter_creepy_distant_tones_09.wav</ShortName>
+							<Path>SFX\amb_scatter_creepy_distant_tones_09_73E79EE3.wem</Path>
+						</File>
+						<File Id="97638054" Language="SFX">
+							<ShortName>amb_scatter_building_creak_08.wav</ShortName>
+							<Path>SFX\amb_scatter_building_creak_08_73E79EE3.wem</Path>
+						</File>
+						<File Id="118829501" Language="SFX">
+							<ShortName>amb_scatter_creepy_distant_tones_07.wav</ShortName>
+							<Path>SFX\amb_scatter_creepy_distant_tones_07_73E79EE3.wem</Path>
+						</File>
+						<File Id="124212340" Language="SFX">
+							<ShortName>amb_scatter_rat_squeak_04.wav</ShortName>
+							<Path>SFX\amb_scatter_rat_squeak_04_73E79EE3.wem</Path>
+						</File>
+						<File Id="137504301" Language="SFX">
+							<ShortName>amb_scatter_building_creak_05.wav</ShortName>
+							<Path>SFX\amb_scatter_building_creak_05_73E79EE3.wem</Path>
+						</File>
+						<File Id="149566871" Language="SFX">
+							<ShortName>amb_scatter_pipe_drip_06.wav</ShortName>
+							<Path>SFX\amb_scatter_pipe_drip_06_73E79EE3.wem</Path>
+						</File>
+						<File Id="190000658" Language="SFX">
+							<ShortName>amb_scatter_vent_rattle_dist_08.wav</ShortName>
+							<Path>SFX\amb_scatter_vent_rattle_dist_08_73E79EE3.wem</Path>
+						</File>
+						<File Id="196781195" Language="SFX">
+							<ShortName>amb_scatter_vent_rattle_dist_05.wav</ShortName>
+							<Path>SFX\amb_scatter_vent_rattle_dist_05_73E79EE3.wem</Path>
+						</File>
+						<File Id="223207379" Language="SFX">
+							<ShortName>amb_scatter_rat_squeak_02.wav</ShortName>
+							<Path>SFX\amb_scatter_rat_squeak_02_73E79EE3.wem</Path>
+						</File>
+						<File Id="230071187" Language="SFX">
+							<ShortName>amb_scatter_vent_rattle_dist_03.wav</ShortName>
+							<Path>SFX\amb_scatter_vent_rattle_dist_03_73E79EE3.wem</Path>
+						</File>
+						<File Id="261047177" Language="SFX">
+							<ShortName>amb_scatter_rat_squeak_07.wav</ShortName>
+							<Path>SFX\amb_scatter_rat_squeak_07_73E79EE3.wem</Path>
+						</File>
+						<File Id="287307512" Language="SFX">
+							<ShortName>amb_scatter_vent_rattle_dist_06.wav</ShortName>
+							<Path>SFX\amb_scatter_vent_rattle_dist_06_73E79EE3.wem</Path>
+						</File>
+						<File Id="321274211" Language="SFX">
+							<ShortName>amb_scatter_rat_squeak_06.wav</ShortName>
+							<Path>SFX\amb_scatter_rat_squeak_06_73E79EE3.wem</Path>
+						</File>
+						<File Id="331547781" Language="SFX">
+							<ShortName>amb_scatter_pipe_drip_01.wav</ShortName>
+							<Path>SFX\amb_scatter_pipe_drip_01_73E79EE3.wem</Path>
+						</File>
+						<File Id="356822006" Language="SFX">
+							<ShortName>amb_scatter_vent_rattle_dist_11.wav</ShortName>
+							<Path>SFX\amb_scatter_vent_rattle_dist_11_73E79EE3.wem</Path>
+						</File>
+						<File Id="404805867" Language="SFX">
+							<ShortName>amb_scatter_creepy_distant_tones_03.wav</ShortName>
+							<Path>SFX\amb_scatter_creepy_distant_tones_03_73E79EE3.wem</Path>
+						</File>
+						<File Id="406070553" Language="SFX">
+							<ShortName>amb_scatter_building_creak_04.wav</ShortName>
+							<Path>SFX\amb_scatter_building_creak_04_73E79EE3.wem</Path>
+						</File>
+						<File Id="415373315" Language="SFX">
+							<ShortName>amb_scatter_creepy_distant_tones_05.wav</ShortName>
+							<Path>SFX\amb_scatter_creepy_distant_tones_05_73E79EE3.wem</Path>
+						</File>
+						<File Id="416854716" Language="SFX">
+							<ShortName>amb_scatter_pipe_drip_03.wav</ShortName>
+							<Path>SFX\amb_scatter_pipe_drip_03_73E79EE3.wem</Path>
+						</File>
+						<File Id="430298600" Language="SFX">
+							<ShortName>amb_scatter_building_creak_01.wav</ShortName>
+							<Path>SFX\amb_scatter_building_creak_01_73E79EE3.wem</Path>
+						</File>
+						<File Id="461809207" Language="SFX">
+							<ShortName>amb_scatter_pipe_drip_05.wav</ShortName>
+							<Path>SFX\amb_scatter_pipe_drip_05_73E79EE3.wem</Path>
+						</File>
+						<File Id="510131700" Language="SFX">
+							<ShortName>amb_scatter_pipe_drip_04.wav</ShortName>
+							<Path>SFX\amb_scatter_pipe_drip_04_73E79EE3.wem</Path>
+						</File>
+						<File Id="520886849" Language="SFX">
+							<ShortName>amb_scatter_rat_squeak_05.wav</ShortName>
+							<Path>SFX\amb_scatter_rat_squeak_05_73E79EE3.wem</Path>
+						</File>
+						<File Id="567763668" Language="SFX">
+							<ShortName>amb_scatter_pipe_drip_02.wav</ShortName>
+							<Path>SFX\amb_scatter_pipe_drip_02_73E79EE3.wem</Path>
+						</File>
+						<File Id="582615472" Language="SFX">
+							<ShortName>amb_scatter_creepy_distant_tones_10.wav</ShortName>
+							<Path>SFX\amb_scatter_creepy_distant_tones_10_73E79EE3.wem</Path>
+						</File>
+						<File Id="645278959" Language="SFX">
+							<ShortName>amb_scatter_building_creak_07.wav</ShortName>
+							<Path>SFX\amb_scatter_building_creak_07_73E79EE3.wem</Path>
+						</File>
+						<File Id="677907379" Language="SFX">
+							<ShortName>amb_scatter_rat_squeak_01.wav</ShortName>
+							<Path>SFX\amb_scatter_rat_squeak_01_73E79EE3.wem</Path>
+						</File>
+						<File Id="714247561" Language="SFX">
+							<ShortName>amb_scatter_creepy_distant_tones_02.wav</ShortName>
+							<Path>SFX\amb_scatter_creepy_distant_tones_02_73E79EE3.wem</Path>
+						</File>
+						<File Id="760148389" Language="SFX">
+							<ShortName>amb_scatter_vent_rattle_dist_09.wav</ShortName>
+							<Path>SFX\amb_scatter_vent_rattle_dist_09_73E79EE3.wem</Path>
+						</File>
+						<File Id="766508878" Language="SFX">
+							<ShortName>amb_scatter_creepy_distant_tones_04.wav</ShortName>
+							<Path>SFX\amb_scatter_creepy_distant_tones_04_73E79EE3.wem</Path>
+						</File>
+						<File Id="799766507" Language="SFX">
+							<ShortName>amb_scatter_vent_rattle_dist_04.wav</ShortName>
+							<Path>SFX\amb_scatter_vent_rattle_dist_04_73E79EE3.wem</Path>
+						</File>
+						<File Id="801489894" Language="SFX">
+							<ShortName>amb_scatter_vent_rattle_dist_10.wav</ShortName>
+							<Path>SFX\amb_scatter_vent_rattle_dist_10_73E79EE3.wem</Path>
+						</File>
+						<File Id="814091225" Language="SFX">
+							<ShortName>amb_scatter_building_creak_03.wav</ShortName>
+							<Path>SFX\amb_scatter_building_creak_03_73E79EE3.wem</Path>
+						</File>
+						<File Id="846259348" Language="SFX">
+							<ShortName>amb_scatter_building_creak_02.wav</ShortName>
+							<Path>SFX\amb_scatter_building_creak_02_73E79EE3.wem</Path>
+						</File>
+						<File Id="859457939" Language="SFX">
+							<ShortName>amb_scatter_vent_rattle_dist_01.wav</ShortName>
+							<Path>SFX\amb_scatter_vent_rattle_dist_01_73E79EE3.wem</Path>
+						</File>
+						<File Id="860019812" Language="SFX">
+							<ShortName>amb_scatter_rat_squeak_03.wav</ShortName>
+							<Path>SFX\amb_scatter_rat_squeak_03_73E79EE3.wem</Path>
+						</File>
+						<File Id="926511399" Language="SFX">
+							<ShortName>amb_scatter_rat_squeak_08.wav</ShortName>
+							<Path>SFX\amb_scatter_rat_squeak_08_73E79EE3.wem</Path>
+						</File>
+						<File Id="968547256" Language="SFX">
+							<ShortName>amb_scatter_creepy_distant_tones_08.wav</ShortName>
+							<Path>SFX\amb_scatter_creepy_distant_tones_08_73E79EE3.wem</Path>
+						</File>
+						<File Id="996924003" Language="SFX">
+							<ShortName>amb_scatter_vent_rattle_dist_02.wav</ShortName>
+							<Path>SFX\amb_scatter_vent_rattle_dist_02_73E79EE3.wem</Path>
+						</File>
+						<File Id="1059755806" Language="SFX">
+							<ShortName>amb_scatter_creepy_distant_tones_01.wav</ShortName>
+							<Path>SFX\amb_scatter_creepy_distant_tones_01_73E79EE3.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{770143BE-59A3-44BE-B713-7B4F9DBF190B}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{F3117110-CB12-4EEF-A82E-8B54188E73C8}">
+							<Media>
+								<File Id="35577993"/>
+								<File Id="36848844"/>
+								<File Id="57192397"/>
+								<File Id="65242670"/>
+								<File Id="95052827"/>
+								<File Id="97638054"/>
+								<File Id="118829501"/>
+								<File Id="137504301"/>
+								<File Id="190000658"/>
+								<File Id="196781195"/>
+								<File Id="230071187"/>
+								<File Id="287307512"/>
+								<File Id="356822006"/>
+								<File Id="404805867"/>
+								<File Id="406070553"/>
+								<File Id="415373315"/>
+								<File Id="430298600"/>
+								<File Id="582615472"/>
+								<File Id="645278959"/>
+								<File Id="714247561"/>
+								<File Id="760148389"/>
+								<File Id="766508878"/>
+								<File Id="799766507"/>
+								<File Id="801489894"/>
+								<File Id="814091225"/>
+								<File Id="846259348"/>
+								<File Id="859457939"/>
+								<File Id="968547256"/>
+								<File Id="996924003"/>
+								<File Id="1059755806"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{154BB585-5C5A-4284-82C3-33B58499DE2A}">
+							<Media>
+								<File Id="36848844"/>
+								<File Id="57192397"/>
+								<File Id="65242670"/>
+								<File Id="95052827"/>
+								<File Id="97638054"/>
+								<File Id="118829501"/>
+								<File Id="136113411"/>
+								<File Id="137504301"/>
+								<File Id="149566871"/>
+								<File Id="190000658"/>
+								<File Id="196781195"/>
+								<File Id="230071187"/>
+								<File Id="287307512"/>
+								<File Id="331547781"/>
+								<File Id="356822006"/>
+								<File Id="404805867"/>
+								<File Id="406070553"/>
+								<File Id="415373315"/>
+								<File Id="416854716"/>
+								<File Id="430298600"/>
+								<File Id="461809207"/>
+								<File Id="510131700"/>
+								<File Id="567763668"/>
+								<File Id="582615472"/>
+								<File Id="645278959"/>
+								<File Id="714247561"/>
+								<File Id="760148389"/>
+								<File Id="766508878"/>
+								<File Id="799766507"/>
+								<File Id="801489894"/>
+								<File Id="814091225"/>
+								<File Id="846259348"/>
+								<File Id="859457939"/>
+								<File Id="968547256"/>
+								<File Id="996924003"/>
+								<File Id="1059755806"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{FDF06864-5FD5-42AF-8B54-2239B63399FC}">
+							<Media>
+								<File Id="463703524"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{C2449EC8-3D0E-4AAD-9AE4-95C87D765104}">
+							<Media>
+								<File Id="36848844"/>
+								<File Id="57192397"/>
+								<File Id="65242670"/>
+								<File Id="95052827"/>
+								<File Id="97167646"/>
+								<File Id="97638054"/>
+								<File Id="118829501"/>
+								<File Id="137504301"/>
+								<File Id="190000658"/>
+								<File Id="196781195"/>
+								<File Id="230071187"/>
+								<File Id="287307512"/>
+								<File Id="356822006"/>
+								<File Id="404805867"/>
+								<File Id="406070553"/>
+								<File Id="415373315"/>
+								<File Id="430298600"/>
+								<File Id="432184972"/>
+								<File Id="501166377"/>
+								<File Id="582615472"/>
+								<File Id="645278959"/>
+								<File Id="714247561"/>
+								<File Id="760148389"/>
+								<File Id="766508878"/>
+								<File Id="799766507"/>
+								<File Id="801489894"/>
+								<File Id="814091225"/>
+								<File Id="846259348"/>
+								<File Id="859457939"/>
+								<File Id="968547256"/>
+								<File Id="996924003"/>
+								<File Id="1059755806"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{ED0104AC-C5A9-4EDB-ABCC-757303250444}">
+							<Media>
+								<File Id="36848844"/>
+								<File Id="95052827"/>
+								<File Id="118829501"/>
+								<File Id="124212340"/>
+								<File Id="223207379"/>
+								<File Id="261047177"/>
+								<File Id="321274211"/>
+								<File Id="404805867"/>
+								<File Id="415373315"/>
+								<File Id="520886849"/>
+								<File Id="582615472"/>
+								<File Id="602344161"/>
+								<File Id="677907379"/>
+								<File Id="714247561"/>
+								<File Id="766508878"/>
+								<File Id="860019812"/>
+								<File Id="926511399"/>
+								<File Id="968547256"/>
+								<File Id="1059755806"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{79369603-663E-4524-8BF2-C85E4AFD03F9}">
+							<DefaultSwitchValue>{42D310CA-130B-4372-9C79-D626BDC1EE81}</DefaultSwitchValue>
+							<Media>
+								<File Id="36848844"/>
+								<File Id="57192397"/>
+								<File Id="95052827"/>
+								<File Id="97638054"/>
+								<File Id="118829501"/>
+								<File Id="137504301"/>
+								<File Id="404805867"/>
+								<File Id="406070553"/>
+								<File Id="415373315"/>
+								<File Id="430298600"/>
+								<File Id="520403724"/>
+								<File Id="582615472"/>
+								<File Id="645278959"/>
+								<File Id="714247561"/>
+								<File Id="766508878"/>
+								<File Id="814091225"/>
+								<File Id="846259348"/>
+								<File Id="968547256"/>
+								<File Id="1059755806"/>
+							</Media>
+							<Children>
+								<SwitchContainer SwitchValue="{42D310CA-130B-4372-9C79-D626BDC1EE81}">
+									<Media>
+										<File Id="970301755"/>
+									</Media>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+					</SwitchContainers>
+					<AuxBusSends>
+						<AuxBus Id="80803695" Name="REV_Utilidor_Large" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_Utilidor_Large" GUID="{E8694A30-6FA4-41D2-BB9D-54B9385A1929}"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="2817380788" Name="Play_Tension_Gord_02_ChicaFizzyFaz" ObjectPath="\Events\Default Work Unit\AmbiencesStreaming\Play_Tension_Gord_02_ChicaFizzyFaz" GUID="{5B894C88-9DA8-420C-960C-7C151D855177}" DurationType="Infinite">
+					<ReferencedStreamedFiles>
+						<File Id="334526789" Language="SFX">
+							<ShortName>FNAF_SB_tension2_int1_lp.wav</ShortName>
+							<Path>SFX\FNAF_SB_tension2_int1_lp_F585A561.wem</Path>
+						</File>
+						<File Id="768036597" Language="SFX">
+							<ShortName>FNAF_SB_tension2_int2_lp.wav</ShortName>
+							<Path>SFX\FNAF_SB_tension2_int2_lp_F585A561.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<ActionSetState>
+						<ActionSetStateEntry Id="58138747" Name="active" ObjectPath="\States\atmosphere_music\hour3_chicaFizzyFaz\active" GUID="{D68295B0-8466-41E4-A360-95F8E4C04555}"/>
+					</ActionSetState>
+				</Event>
+				<Event Id="419583455" Name="Play_Tension_Gord_02_MontyBossBattle" ObjectPath="\Events\Default Work Unit\AmbiencesStreaming\Play_Tension_Gord_02_MontyBossBattle" GUID="{DA793725-0510-4361-86F7-CA427E53CA26}" DurationType="Infinite">
+					<ReferencedStreamedFiles>
+						<File Id="296638591" Language="SFX">
+							<ShortName>FNAF_SB_tension2_int3_lp.wav</ShortName>
+							<Path>SFX\FNAF_SB_tension2_int3_lp_F585A561.wem</Path>
+						</File>
+						<File Id="334526789" Language="SFX">
+							<ShortName>FNAF_SB_tension2_int1_lp.wav</ShortName>
+							<Path>SFX\FNAF_SB_tension2_int1_lp_F585A561.wem</Path>
+						</File>
+						<File Id="768036597" Language="SFX">
+							<ShortName>FNAF_SB_tension2_int2_lp.wav</ShortName>
+							<Path>SFX\FNAF_SB_tension2_int2_lp_F585A561.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+				<Event Id="3779312778" Name="Play_Tension_Gord_02_RoxyBossBattle" ObjectPath="\Events\Default Work Unit\AmbiencesStreaming\Play_Tension_Gord_02_RoxyBossBattle" GUID="{FCAC054E-99D3-4548-80A7-CD26AF2D8741}" DurationType="Infinite">
+					<ReferencedStreamedFiles>
+						<File Id="296638591" Language="SFX">
+							<ShortName>FNAF_SB_tension2_int3_lp.wav</ShortName>
+							<Path>SFX\FNAF_SB_tension2_int3_lp_F585A561.wem</Path>
+						</File>
+						<File Id="334526789" Language="SFX">
+							<ShortName>FNAF_SB_tension2_int1_lp.wav</ShortName>
+							<Path>SFX\FNAF_SB_tension2_int1_lp_F585A561.wem</Path>
+						</File>
+						<File Id="768036597" Language="SFX">
+							<ShortName>FNAF_SB_tension2_int2_lp.wav</ShortName>
+							<Path>SFX\FNAF_SB_tension2_int2_lp_F585A561.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+				<Event Id="786840796" Name="Play_Tension_Gord_02_RoxyPrizeCounterPostCinematic" ObjectPath="\Events\Default Work Unit\AmbiencesStreaming\Play_Tension_Gord_02_RoxyPrizeCounterPostCinematic" GUID="{7DC6CB55-363A-4577-8B2A-1528B24D72BD}" DurationType="Infinite">
+					<ReferencedStreamedFiles>
+						<File Id="334526789" Language="SFX">
+							<ShortName>FNAF_SB_tension2_int1_lp.wav</ShortName>
+							<Path>SFX\FNAF_SB_tension2_int1_lp_F585A561.wem</Path>
+						</File>
+						<File Id="768036597" Language="SFX">
+							<ShortName>FNAF_SB_tension2_int2_lp.wav</ShortName>
+							<Path>SFX\FNAF_SB_tension2_int2_lp_F585A561.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<ActionSetState>
+						<ActionSetStateEntry Id="1381183024" Name="roxyEncounter" ObjectPath="\States\atmosphere_music\hour3_prizeCounterPostOG\roxyEncounter" GUID="{8F2FB38A-73E9-4DB2-A267-047FDDC6C816}"/>
+					</ActionSetState>
+				</Event>
+				<Event Id="1867787466" Name="Play_Tension_Gord_02_StaffBot" ObjectPath="\Events\Default Work Unit\AmbiencesStreaming\Play_Tension_Gord_02_StaffBot" GUID="{BA217949-478F-4DA9-981A-D7594926AC1D}" DurationType="Infinite">
+					<ReferencedStreamedFiles>
+						<File Id="334526789" Language="SFX">
+							<ShortName>FNAF_SB_tension2_int1_lp.wav</ShortName>
+							<Path>SFX\FNAF_SB_tension2_int1_lp_F585A561.wem</Path>
+						</File>
+						<File Id="768036597" Language="SFX">
+							<ShortName>FNAF_SB_tension2_int2_lp.wav</ShortName>
+							<Path>SFX\FNAF_SB_tension2_int2_lp_F585A561.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<ActionSetState>
+						<ActionSetStateEntry Id="250639526" Name="alerted" ObjectPath="\States\Default Work Unit\staffbot_alert\alerted" GUID="{D3946843-6532-4774-BEBC-FC8051AD0604}"/>
+					</ActionSetState>
+				</Event>
+				<Event Id="451983678" Name="Play_Tension_Gord_03_chicaKitchenOffice" ObjectPath="\Events\Default Work Unit\AmbiencesStreaming\Play_Tension_Gord_03_chicaKitchenOffice" GUID="{63C92260-1143-4534-8DF4-26BDFE2B2A33}" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1172472742" Name="Play_Tension_Gord_03_LMM" ObjectPath="\Events\Default Work Unit\AmbiencesStreaming\Play_Tension_Gord_03_LMM" GUID="{3F9E7AD9-A71B-4373-858D-0DF57C15F292}" DurationType="Infinite">
+					<ReferencedStreamedFiles>
+						<File Id="150867116" Language="SFX">
+							<ShortName>FNAF_SB_tension3_int2_lp.wav</ShortName>
+							<Path>SFX\FNAF_SB_tension3_int2_lp_F585A561.wem</Path>
+						</File>
+						<File Id="419584621" Language="SFX">
+							<ShortName>FNAF_SB_tension3_int3_lp.wav</ShortName>
+							<Path>SFX\FNAF_SB_tension3_int3_lp_F585A561.wem</Path>
+						</File>
+						<File Id="1013781223" Language="SFX">
+							<ShortName>FNAF_SB_tension3_int1_lp.wav</ShortName>
+							<Path>SFX\FNAF_SB_tension3_int1_lp_F585A561.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+				<Event Id="2467071860" Name="Play_TensionSystem_AttackLayers" ObjectPath="\Events\Default Work Unit\AmbiencesStreaming\Play_TensionSystem_AttackLayers" GUID="{8B0FAC86-E43B-411D-93F1-84571D7097DA}" DurationType="Infinite">
+					<ReferencedStreamedFiles>
+						<File Id="767556103" Language="SFX">
+							<ShortName>FNAF_SB_tension1_int2_lp.wav</ShortName>
+							<Path>SFX\FNAF_SB_tension1_int2_lp_F585A561.wem</Path>
+						</File>
+						<File Id="1006775899" Language="SFX">
+							<ShortName>FNAF_SB_tension1_int1_lp.wav</ShortName>
+							<Path>SFX\FNAF_SB_tension1_int1_lp_F585A561.wem</Path>
+						</File>
+						<File Id="1035395745" Language="SFX">
+							<ShortName>FNAF_SB_tension1_int3_lp.wav</ShortName>
+							<Path>SFX\FNAF_SB_tension1_int3_lp_F585A561.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<DefaultSwitchValue>{D6106A0E-81FB-48D0-A49B-EB63FD8B9F38}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{D6106A0E-81FB-48D0-A49B-EB63FD8B9F38}">
+							<Media>
+								<File Id="767556103"/>
+								<File Id="1006775899"/>
+								<File Id="1035395745"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+					<ActionSetState>
+						<ActionSetStateEntry Id="180661997" Name="attack" ObjectPath="\States\Default Work Unit\animatronic_attack\attack" GUID="{D6106A0E-81FB-48D0-A49B-EB63FD8B9F38}"/>
+					</ActionSetState>
+				</Event>
+				<Event Id="2810353848" Name="Play_VannyAttackTension" ObjectPath="\Events\Default Work Unit\Play_VannyAttackTension" GUID="{A0D1CAFB-B132-4E89-8E3F-805FE9F47444}" DurationType="Infinite">
+					<ReferencedStreamedFiles>
+						<File Id="767556103" Language="SFX">
+							<ShortName>FNAF_SB_tension1_int2_lp.wav</ShortName>
+							<Path>SFX\FNAF_SB_tension1_int2_lp_F585A561.wem</Path>
+						</File>
+						<File Id="1006775899" Language="SFX">
+							<ShortName>FNAF_SB_tension1_int1_lp.wav</ShortName>
+							<Path>SFX\FNAF_SB_tension1_int1_lp_F585A561.wem</Path>
+						</File>
+						<File Id="1035395745" Language="SFX">
+							<ShortName>FNAF_SB_tension1_int3_lp.wav</ShortName>
+							<Path>SFX\FNAF_SB_tension1_int3_lp_F585A561.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+				<Event Id="2245136575" Name="Stop_SFX_EnvironmentalAmbiences" ObjectPath="\Events\Default Work Unit\AmbiencesStreaming\Stop_SFX_EnvironmentalAmbiences" GUID="{65AE826C-B5A9-4598-8E6C-809878BF1F1D}" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4222580035" Name="Stop_SFX_MiniGolf_Ambiences" ObjectPath="\Events\Default Work Unit\AmbiencesStreaming\Stop_SFX_MiniGolf_Ambiences" GUID="{84769D83-BA89-4187-845C-0926B66FCF8C}" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2492480086" Name="Stop_Tension_Gord_02_ChicaFizzyFaz" ObjectPath="\Events\Default Work Unit\AmbiencesStreaming\Stop_Tension_Gord_02_ChicaFizzyFaz" GUID="{574B875E-B249-4B05-9297-0512771C98B0}" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000">
+					<ActionSetState>
+						<ActionSetStateEntry Id="748895195" Name="None" ObjectPath="\States\atmosphere_music\hour3_chicaFizzyFaz\None" GUID="{4EDFC11F-2A41-4B7B-969A-CF046386F1F9}"/>
+					</ActionSetState>
+				</Event>
+				<Event Id="1576556217" Name="Stop_Tension_Gord_02_MontyBossBattle" ObjectPath="\Events\Default Work Unit\AmbiencesStreaming\Stop_Tension_Gord_02_MontyBossBattle" GUID="{96EAAECA-1CEE-4752-ACBF-36D56020EEC1}" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3667137744" Name="Stop_Tension_Gord_02_RoxyBossBattle" ObjectPath="\Events\Default Work Unit\AmbiencesStreaming\Stop_Tension_Gord_02_RoxyBossBattle" GUID="{8D974108-CCBF-4090-80BC-A98C89AFCE45}" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2097290022" Name="Stop_Tension_Gord_02_RoxyPrizeCounterPostCinematic" ObjectPath="\Events\Default Work Unit\AmbiencesStreaming\Stop_Tension_Gord_02_RoxyPrizeCounterPostCinematic" GUID="{6011453A-194E-433B-A971-3C43D73BB3CF}" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000">
+					<ActionSetState>
+						<ActionSetStateEntry Id="748895195" Name="None" ObjectPath="\States\atmosphere_music\hour3_prizeCounterPostOG\None" GUID="{B9CA0F30-AE9F-4437-8B15-AFB7052857F9}"/>
+					</ActionSetState>
+				</Event>
+				<Event Id="540335944" Name="Stop_Tension_Gord_02_StaffBot" ObjectPath="\Events\Default Work Unit\AmbiencesStreaming\Stop_Tension_Gord_02_StaffBot" GUID="{58B8E9FD-1029-4EB3-9BBB-2FEF5C7DB804}" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000">
+					<ActionSetState>
+						<ActionSetStateEntry Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\staffbot_alert\None" GUID="{1994CD44-10E7-48BC-B713-4A814F2FD3DC}"/>
+					</ActionSetState>
+				</Event>
+				<Event Id="969432764" Name="Stop_Tension_Gord_03_chicaKitchenOffice" ObjectPath="\Events\Default Work Unit\AmbiencesStreaming\Stop_Tension_Gord_03_chicaKitchenOffice" GUID="{6F335656-9D5D-456E-89D3-0AEE304B334F}" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3716108148" Name="Stop_Tension_Gord_03_LMM" ObjectPath="\Events\Default Work Unit\AmbiencesStreaming\Stop_Tension_Gord_03_LMM" GUID="{5F34A1C1-20F9-44A2-B7D6-C068F5458181}" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2975533622" Name="Stop_TensionSystem_AttackLayers" ObjectPath="\Events\Default Work Unit\AmbiencesStreaming\Stop_TensionSystem_AttackLayers" GUID="{21536D38-B19E-486E-822A-03FC6A33C6A9}" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000">
+					<ActionSetState>
+						<ActionSetStateEntry Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\animatronic_attack\None" GUID="{31592DE6-04A3-4563-BB6D-8F1948312C2C}"/>
+					</ActionSetState>
+				</Event>
+				<Event Id="420074922" Name="Stop_VannyAttackTension" ObjectPath="\Events\Default Work Unit\Stop_VannyAttackTension" GUID="{1D55AACB-F88E-4FCB-BFD0-30E22947E840}" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="11027689" Name="vanny_threat_level" ObjectPath="\Game Parameters\tension\vanny_threat_level" GUID="{5D72FBF5-2810-4A00-8989-60B45EE83CD9}"/>
+				<GameParameter Id="271889580" Name="golf_current_hole" ObjectPath="\Game Parameters\minigames\golf_current_hole" GUID="{B47FF34A-80E1-4790-8E00-C500FE21CF06}"/>
+				<GameParameter Id="2657385157" Name="dialogue_meter" ObjectPath="\Game Parameters\ducking\dialogue_meter" GUID="{C37E269F-E404-479E-B8EA-12F94D0699BF}"/>
+				<GameParameter Id="2978973357" Name="hour3_kitchen_timer" ObjectPath="\Game Parameters\hour3\hour3_kitchen_timer" GUID="{F85AEF57-E19E-4A23-86D9-9A69FDBA683D}"/>
+				<GameParameter Id="3240262508" Name="underground_phase" ObjectPath="\Game Parameters\overtime\underground_phase" GUID="{864BCC91-2843-400C-8571-E1D0BCACF972}"/>
+				<GameParameter Id="3643051029" Name="lmm_music_automation" ObjectPath="\Game Parameters\tension\lmm_music_automation" GUID="{37BD96B8-5E73-46B9-8B90-164E01340BEA}"/>
+				<GameParameter Id="3643127635" Name="daycare_generators_activated" ObjectPath="\Game Parameters\hour2\daycare_generators_activated" GUID="{188F95F4-D6C4-4051-8867-AD6CA49FA028}"/>
+				<GameParameter Id="3820641237" Name="AI_PROXIMITY" ObjectPath="\Game Parameters\tension\AI_PROXIMITY" GUID="{A39E443F-AF31-485C-A9C9-BF39B1617530}"/>
+				<GameParameter Id="3862137264" Name="pas_door_open_amount" ObjectPath="\Game Parameters\hour5\pas_door_open_amount" GUID="{2F0DF324-BD49-4D07-92DA-30EB9B64FCF4}"/>
+				<GameParameter Id="3927966044" Name="light_active" ObjectPath="\Game Parameters\Default Work Unit\light_active" GUID="{80E66D31-993A-4AC2-B967-8F37D0417586}"/>
+			</GameParameters>
+			<StateGroups>
+				<StateGroup Id="58138747" Name="active" ObjectPath="\States\atmosphere_music\hour3_chicaFizzyFaz\active" GUID="{D68295B0-8466-41E4-A360-95F8E4C04555}">
+					<States/>
+				</StateGroup>
+				<StateGroup Id="180661997" Name="attack" ObjectPath="\States\Default Work Unit\animatronic_attack\attack" GUID="{D6106A0E-81FB-48D0-A49B-EB63FD8B9F38}">
+					<States/>
+				</StateGroup>
+				<StateGroup Id="250639526" Name="alerted" ObjectPath="\States\Default Work Unit\staffbot_alert\alerted" GUID="{D3946843-6532-4774-BEBC-FC8051AD0604}">
+					<States/>
+				</StateGroup>
+				<StateGroup Id="511511205" Name="hour3_prizeCounterPostOG" ObjectPath="\States\atmosphere_music\hour3_prizeCounterPostOG" GUID="{E655D95B-27E6-4188-A2B7-DFCBFAE1D8E2}">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\atmosphere_music\hour3_prizeCounterPostOG\None" GUID="{B9CA0F30-AE9F-4437-8B15-AFB7052857F9}"/>
+						<State Id="58138747" Name="active" ObjectPath="\States\atmosphere_music\hour3_prizeCounterPostOG\active" GUID="{74687117-83E8-468F-8FF1-C58FFF88B2AC}"/>
+						<State Id="1381183024" Name="roxyEncounter" ObjectPath="\States\atmosphere_music\hour3_prizeCounterPostOG\roxyEncounter" GUID="{8F2FB38A-73E9-4DB2-A267-047FDDC6C816}"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="724292039" Name="hour1_lobbyMagnet" ObjectPath="\States\atmosphere_music\hour1_lobbyMagnet" GUID="{3AA84DC4-3A5A-43F6-8799-A89C7CB87E1A}">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\atmosphere_music\hour1_lobbyMagnet\None" GUID="{D2C85226-1437-447E-96A3-F5A9099350DC}"/>
+						<State Id="58138747" Name="active" ObjectPath="\States\atmosphere_music\hour1_lobbyMagnet\active" GUID="{68DEA104-ADBC-4969-A056-DF75ACFE3BE7}"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="733910165" Name="hour4_moonmanchase" ObjectPath="\States\atmosphere_music\hour4_moonmanchase" GUID="{152ACCB6-4835-4476-8D50-8F056DB0A42B}">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\atmosphere_music\hour4_moonmanchase\None" GUID="{5A4C1700-5A32-4B90-8AEF-00961B13C7B0}"/>
+						<State Id="58138747" Name="active" ObjectPath="\States\atmosphere_music\hour4_moonmanchase\active" GUID="{1B9D5348-A817-4CAB-9FA0-40DE8CCE75FB}"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\LOCATION_MUSIC\None" GUID="{14EB62F1-4430-4476-9BF7-EBC6BD601194}">
+					<States/>
+				</StateGroup>
+				<StateGroup Id="877642339" Name="cinematics" ObjectPath="\States\story_moments\cinematics" GUID="{2F1051CE-2A78-4F87-824F-D106367F2285}">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\story_moments\cinematics\None" GUID="{89AF7AF1-C1BC-4389-9568-56AC5DB886FB}"/>
+						<State Id="2646572446" Name="hour2_sunmanIntro" ObjectPath="\States\story_moments\cinematics\hour2_sunmanIntro" GUID="{29B2ECFC-03CC-41B9-B5C8-4FE31668F74B}"/>
+						<State Id="179926554" Name="hour2_sunmanCarryPlayer" ObjectPath="\States\story_moments\cinematics\hour2_sunmanCarryPlayer" GUID="{B739B328-1C4C-4924-978F-D34C213A5B6C}"/>
+						<State Id="710521474" Name="dumpBallsMonty" ObjectPath="\States\story_moments\cinematics\dumpBallsMonty" GUID="{444B85D8-6A79-45CB-8617-F367AA2CC6AE}"/>
+						<State Id="790502354" Name="stageLift" ObjectPath="\States\story_moments\cinematics\stageLift" GUID="{5F6520FE-17CF-428B-9935-A5DD630EB414}"/>
+						<State Id="3878647458" Name="hour3_elevatorTrap" ObjectPath="\States\story_moments\cinematics\hour3_elevatorTrap" GUID="{39AB1F1C-7CBF-43A8-96D9-073B0B3EA096}"/>
+						<State Id="1458317405" Name="montyBossBattleIntro" ObjectPath="\States\story_moments\cinematics\montyBossBattleIntro" GUID="{51862147-90AC-477C-AA9E-85F5269D9D6A}"/>
+						<State Id="2517651529" Name="hour1_firstAidDialogue" ObjectPath="\States\story_moments\cinematics\hour1_firstAidDialogue" GUID="{2814A50B-B0FB-4C12-AC4A-EBC0B06F09DE}"/>
+						<State Id="3730917311" Name="hour3_chicaKitchen" ObjectPath="\States\story_moments\cinematics\hour3_chicaKitchen" GUID="{5A355108-2318-4B22-956E-3EF33EDE35EC}"/>
+						<State Id="2513513052" Name="hour3_chicaKitchen_Static" ObjectPath="\States\story_moments\cinematics\hour3_chicaKitchen_Static" GUID="{A9C34F5D-2E80-42D2-93FC-400ECBDA0528}"/>
+						<State Id="2975896672" Name="hour1_introVideo" ObjectPath="\States\story_moments\cinematics\hour1_introVideo" GUID="{3A7EF184-C4DD-479C-8418-22160948096A}"/>
+						<State Id="2525860868" Name="hour1_afterIntroVideo" ObjectPath="\States\story_moments\cinematics\hour1_afterIntroVideo" GUID="{EC5AB432-8E4A-4724-853E-4B13CB113127}"/>
+						<State Id="3724300962" Name="hour1_startInFreddy" ObjectPath="\States\story_moments\cinematics\hour1_startInFreddy" GUID="{145624C6-740F-4F65-A6D9-CE33F55EC10D}"/>
+						<State Id="1029351162" Name="hour1_getOutOfFreddy" ObjectPath="\States\story_moments\cinematics\hour1_getOutOfFreddy" GUID="{79C393FD-327C-40E5-A33C-ED9A399CCDEA}"/>
+						<State Id="4286150249" Name="hour2_slideEnter" ObjectPath="\States\story_moments\cinematics\hour2_slideEnter" GUID="{BDC0B403-E8A0-403A-BFA7-293A12B3A5E1}"/>
+						<State Id="3516848363" Name="hour2_kickedOutOfDaycare" ObjectPath="\States\story_moments\cinematics\hour2_kickedOutOfDaycare" GUID="{D3E96BD9-357E-4C3C-9680-AFB2D136A777}"/>
+						<State Id="4006066345" Name="hour2_transitionToMoonMan" ObjectPath="\States\story_moments\cinematics\hour2_transitionToMoonMan" GUID="{9C989196-4232-4909-A1F0-9A9BB54AB973}"/>
+						<State Id="2968865688" Name="hour2_slideNoEntry" ObjectPath="\States\story_moments\cinematics\hour2_slideNoEntry" GUID="{5E3EEDC7-4C43-4915-AE2D-0DEC7727BFBD}"/>
+						<State Id="2424749623" Name="hour3_littleMusicManVent" ObjectPath="\States\story_moments\cinematics\hour3_littleMusicManVent" GUID="{62EECFE0-EDDF-430D-8599-3555F0B858FA}"/>
+						<State Id="4222242326" Name="hour4_mmattack" ObjectPath="\States\story_moments\cinematics\hour4_mmattack" GUID="{B0CAB390-A4E6-4244-A957-26F2689AF19A}"/>
+						<State Id="2939560893" Name="hour5_endoIntro" ObjectPath="\States\story_moments\cinematics\hour5_endoIntro" GUID="{7A38FD77-E71D-48F8-9030-1096454A7B55}"/>
+						<State Id="3422007485" Name="hour4_transitionToLostAndFound" ObjectPath="\States\story_moments\cinematics\hour4_transitionToLostAndFound" GUID="{AB1B5E38-36DA-4B49-B1A8-9A0D60EF710E}"/>
+						<State Id="2756657571" Name="hour4_lostAndFound" ObjectPath="\States\story_moments\cinematics\hour4_lostAndFound" GUID="{C21A0853-CA4F-4175-9643-60FF97F5818D}"/>
+						<State Id="1430576587" Name="hour1_vanessaWalksBy" ObjectPath="\States\story_moments\cinematics\hour1_vanessaWalksBy" GUID="{CE3B52EE-97CF-4B9D-A3E0-0F54775C3090}"/>
+						<State Id="2339442211" Name="hour1_walkToFirstAid" ObjectPath="\States\story_moments\cinematics\hour1_walkToFirstAid" GUID="{49A2F170-79FD-4D04-84FB-734603BDA8DA}"/>
+						<State Id="226153362" Name="chicaBossBattleIntro" ObjectPath="\States\story_moments\cinematics\chicaBossBattleIntro" GUID="{3980C2CF-573C-4A7E-8F7B-0B7A1F93F554}"/>
+						<State Id="2631564358" Name="roxyBossBattleIntro" ObjectPath="\States\story_moments\cinematics\roxyBossBattleIntro" GUID="{29092CB5-DF6C-488F-8C55-48F33E6118D8}"/>
+						<State Id="3200292227" Name="dumpBallsMonty_sloMo" ObjectPath="\States\story_moments\cinematics\dumpBallsMonty_sloMo" GUID="{D644BB33-3274-4BFB-B688-DD058831CBE1}"/>
+						<State Id="4098128287" Name="roxyBossBattleIntro_sloMo" ObjectPath="\States\story_moments\cinematics\roxyBossBattleIntro_sloMo" GUID="{AD353A00-2725-45A0-B197-27924F6C77ED}"/>
+						<State Id="4083394624" Name="burntrapBossBattleIntro" ObjectPath="\States\story_moments\cinematics\burntrapBossBattleIntro" GUID="{A5377C3F-F7F7-47F3-95E1-4CA0E636B409}"/>
+						<State Id="3707806325" Name="overtime_vannyIntro" ObjectPath="\States\story_moments\cinematics\overtime_vannyIntro" GUID="{595C9CF0-205D-423B-8869-79F5C6C22E5F}"/>
+						<State Id="2178279524" Name="overtime_endGame" ObjectPath="\States\story_moments\cinematics\overtime_endGame" GUID="{DD0D39F3-FB4C-4FCB-8FEC-F00AFCB1D16A}"/>
+						<State Id="440612544" Name="ending_gregoryInAlley" ObjectPath="\States\story_moments\cinematics\ending_gregoryInAlley" GUID="{94E8885B-806B-41C9-9385-4E317BA5F233}"/>
+						<State Id="2975652148" Name="ending_loadingDock" ObjectPath="\States\story_moments\cinematics\ending_loadingDock" GUID="{B6B52B10-9513-47F9-A1F1-468ABDF01F19}"/>
+						<State Id="2434794556" Name="ending_vip" ObjectPath="\States\story_moments\cinematics\ending_vip" GUID="{BA07521C-E8F2-4FF8-89D5-55B1845F4515}"/>
+						<State Id="1177990589" Name="ending_burntrap" ObjectPath="\States\story_moments\cinematics\ending_burntrap" GUID="{EA072BCC-43CF-4618-90EE-87C240CCFCBF}"/>
+						<State Id="2571510049" Name="ending_vannyDestroy" ObjectPath="\States\story_moments\cinematics\ending_vannyDestroy" GUID="{2D0328FB-E584-4AE8-8DDD-715FA7C8DF3A}"/>
+						<State Id="2632086901" Name="ending_vannyRedeem" ObjectPath="\States\story_moments\cinematics\ending_vannyRedeem" GUID="{028A6923-59D1-4CDB-AAC4-459A4C77282F}"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="1305376387" Name="hour3_chicaBathroom" ObjectPath="\States\atmosphere_music\hour3_chicaBathroom" GUID="{8B213B82-6CBD-42DE-9811-2ADF11829D12}">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\atmosphere_music\hour3_chicaBathroom\None" GUID="{1A050232-0BBB-4F95-BA51-BEE33DFB9FC3}"/>
+						<State Id="58138747" Name="active" ObjectPath="\States\atmosphere_music\hour3_chicaBathroom\active" GUID="{7918A14B-32ED-4505-93D0-1E3D1C3DA2F6}"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="1381183024" Name="roxyEncounter" ObjectPath="\States\atmosphere_music\hour3_prizeCounterPostOG\roxyEncounter" GUID="{8F2FB38A-73E9-4DB2-A267-047FDDC6C816}">
+					<States/>
+				</StateGroup>
+				<StateGroup Id="1475161877" Name="animatronic_attack" ObjectPath="\States\Default Work Unit\animatronic_attack" GUID="{38DBD6AB-EEF8-424F-8A14-4CB6F65863E7}">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\animatronic_attack\None" GUID="{31592DE6-04A3-4563-BB6D-8F1948312C2C}"/>
+						<State Id="180661997" Name="attack" ObjectPath="\States\Default Work Unit\animatronic_attack\attack" GUID="{D6106A0E-81FB-48D0-A49B-EB63FD8B9F38}"/>
+						<State Id="4208712191" Name="seeking" ObjectPath="\States\Default Work Unit\animatronic_attack\seeking" GUID="{F1B4D48E-1936-448B-BF4E-6A5B08545E40}"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="2095737386" Name="office_game" ObjectPath="\States\story_moments\office_game" GUID="{ED27D60B-D060-4E69-B550-A95CD0DE53B7}">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\story_moments\office_game\None" GUID="{CE158441-2FCF-4F32-8E2F-5D65350D1A58}"/>
+						<State Id="1586158131" Name="kitchen" ObjectPath="\States\story_moments\office_game\kitchen" GUID="{999CF01F-45B4-467B-9DD6-51789AA50743}"/>
+						<State Id="3538421602" Name="backstage" ObjectPath="\States\story_moments\office_game\backstage" GUID="{8D121287-03D1-4E28-A510-2A3379169BDB}"/>
+						<State Id="135588769" Name="prizeCounter" ObjectPath="\States\story_moments\office_game\prizeCounter" GUID="{E0FECEFF-742F-4DA9-81BE-E17160CBB639}"/>
+						<State Id="3341690334" Name="daycare" ObjectPath="\States\story_moments\office_game\daycare" GUID="{F18EA73A-7253-41B6-A81F-34D4CF04DA54}"/>
+						<State Id="3991556185" Name="fazerblast" ObjectPath="\States\story_moments\office_game\fazerblast" GUID="{B5430FEF-5B29-43EF-B7C6-3AA65CC4ABC6}"/>
+						<State Id="2470573081" Name="montyBossBattle" ObjectPath="\States\story_moments\office_game\montyBossBattle" GUID="{40BD6F7A-6BE4-48E8-9A1A-F7814BDE9C64}"/>
+						<State Id="1543687740" Name="underground" ObjectPath="\States\story_moments\office_game\underground" GUID="{0A95387D-FA7A-4963-B030-DBCC10CB65A2}"/>
+						<State Id="2852108392" Name="westArcade" ObjectPath="\States\story_moments\office_game\westArcade" GUID="{DC784023-B069-477D-BB7F-587634664CC1}"/>
+						<State Id="479909808" Name="roxyBossBattle" ObjectPath="\States\story_moments\office_game\roxyBossBattle" GUID="{8FDE1AA3-8D7D-4302-AD4D-2B1E59088085}"/>
+						<State Id="3505015852" Name="chicaBossBattle" ObjectPath="\States\story_moments\office_game\chicaBossBattle" GUID="{725286B7-E11E-4997-B870-7755A361E959}"/>
+						<State Id="1517441814" Name="vannyBossBattle" ObjectPath="\States\story_moments\office_game\vannyBossBattle" GUID="{F20A51C7-DBD1-4D12-90B4-369CDE09094E}"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="2456467480" Name="hour3_atriumExplore" ObjectPath="\States\atmosphere_music\hour3_atriumExplore" GUID="{1D6ECFF4-4876-406B-BA2E-B0456C33418C}">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\atmosphere_music\hour3_atriumExplore\None" GUID="{5BBF64C1-0EC3-42CC-9A4E-321CED0B6488}"/>
+						<State Id="58138747" Name="active" ObjectPath="\States\atmosphere_music\hour3_atriumExplore\active" GUID="{E817642D-2F80-45DF-94B1-0769AE7A07C3}"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="3896917229" Name="jumpscare_state" ObjectPath="\States\Default Work Unit\jumpscare_state" GUID="{BE16A625-037B-4240-8262-CE7615A9F03F}">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\jumpscare_state\None" GUID="{5CD7FF04-EB2C-49F3-A1E1-38ED9AE3878E}"/>
+						<State Id="351483260" Name="jumpscare_active" ObjectPath="\States\Default Work Unit\jumpscare_state\jumpscare_active" GUID="{DC8468B3-5344-44BA-A93C-5F4C93159C26}"/>
+						<State Id="1432716332" Name="game_over" ObjectPath="\States\Default Work Unit\jumpscare_state\game_over" GUID="{B8425F00-D3AD-4DF2-B47C-EB908B0D4008}"/>
+						<State Id="2062658082" Name="nonlethal_jumpscare_active" ObjectPath="\States\Default Work Unit\jumpscare_state\nonlethal_jumpscare_active" GUID="{6701500F-9681-4C74-9CA8-02538A5F0E75}"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="4054184860" Name="LOCATION_MUSIC" ObjectPath="\States\Default Work Unit\LOCATION_MUSIC" GUID="{8D46F145-0AA6-43DA-8C87-4918BB52172E}">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\LOCATION_MUSIC\None" GUID="{14EB62F1-4430-4476-9BF7-EBC6BD601194}"/>
+						<State Id="2864353648" Name="MUS_FreddysTheme_Muzak" ObjectPath="\States\Default Work Unit\LOCATION_MUSIC\MUS_FreddysTheme_Muzak" GUID="{0400EABC-C7CB-4C0E-9B26-599252523A73}"/>
+						<State Id="1285837047" Name="MUS_FreddysTheme_Organ" ObjectPath="\States\Default Work Unit\LOCATION_MUSIC\MUS_FreddysTheme_Organ" GUID="{E4B9A543-1722-46BA-8E8D-CB104FB0405F}"/>
+						<State Id="1583389107" Name="MUS_FreddysTheme_80sSynth" ObjectPath="\States\Default Work Unit\LOCATION_MUSIC\MUS_FreddysTheme_80sSynth" GUID="{D8CF2EE6-F353-4758-AE04-3E8F648FD44A}"/>
+						<State Id="1825203175" Name="MUS_None" ObjectPath="\States\Default Work Unit\LOCATION_MUSIC\MUS_None" GUID="{9F72CA6D-DEAA-478F-AD3F-1DE963C02A21}"/>
+						<State Id="1218694439" Name="MUS_FazerblastJam" ObjectPath="\States\Default Work Unit\LOCATION_MUSIC\MUS_FazerblastJam" GUID="{B0F6D216-DBE7-47E1-9F95-EFB7835527B9}"/>
+						<State Id="2442534611" Name="MUS_ElChips" ObjectPath="\States\Default Work Unit\LOCATION_MUSIC\MUS_ElChips" GUID="{01523547-F55D-4E1F-98A8-6246B617EBDC}"/>
+						<State Id="1573868719" Name="MUS_SpaceLobby" ObjectPath="\States\Default Work Unit\LOCATION_MUSIC\MUS_SpaceLobby" GUID="{93B742C9-1190-44ED-91CF-050EC991906C}"/>
+						<State Id="3351653077" Name="MUS_Arcade" ObjectPath="\States\Default Work Unit\LOCATION_MUSIC\MUS_Arcade" GUID="{83BE0A70-3B2A-4542-B0E8-6FD34B797F70}"/>
+						<State Id="4092072802" Name="MUS_Daycare" ObjectPath="\States\Default Work Unit\LOCATION_MUSIC\MUS_Daycare" GUID="{66C0BC0C-5323-426A-A563-CA52320D7D45}"/>
+						<State Id="1769899787" Name="MUS_GolfSwamp" ObjectPath="\States\Default Work Unit\LOCATION_MUSIC\MUS_GolfSwamp" GUID="{BD33C16F-2BE6-4848-A7E7-FCBAC3C6047B}"/>
+						<State Id="2269017259" Name="MUS_RoxyRaceway" ObjectPath="\States\Default Work Unit\LOCATION_MUSIC\MUS_RoxyRaceway" GUID="{2B9E802E-7F8A-423D-AB18-5B836C69BE8E}"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="4243984524" Name="lights_state" ObjectPath="\States\Default Work Unit\lights_state" GUID="{386CADBC-9D01-475A-9CA6-951E821AFFA0}">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\lights_state\None" GUID="{D9F5E6F2-550D-4834-B552-19C67ED607A7}"/>
+						<State Id="1063352154" Name="lights_on" ObjectPath="\States\Default Work Unit\lights_state\lights_on" GUID="{42D310CA-130B-4372-9C79-D626BDC1EE81}"/>
+						<State Id="409917040" Name="lights_off" ObjectPath="\States\Default Work Unit\lights_state\lights_off" GUID="{F40A69EE-712B-4016-84AE-1D2EA6728345}"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+			<SwitchGroups>
+				<SwitchGroup Id="271889580" Name="golf_current_hole" ObjectPath="\Switches\minigames\golf_current_hole" GUID="{BDEE9545-0D4C-4F6D-8493-F249E1A9DFA3}">
+					<Switches>
+						<Switch Id="846646257" Name="_1" ObjectPath="\Switches\minigames\golf_current_hole\_1" GUID="{770143BE-59A3-44BE-B713-7B4F9DBF190B}"/>
+						<Switch Id="846646258" Name="_2" ObjectPath="\Switches\minigames\golf_current_hole\_2" GUID="{F3117110-CB12-4EEF-A82E-8B54188E73C8}"/>
+						<Switch Id="846646259" Name="_3" ObjectPath="\Switches\minigames\golf_current_hole\_3" GUID="{F9CD4915-C135-44A5-A9F9-54B0858DF460}"/>
+						<Switch Id="846646260" Name="_4" ObjectPath="\Switches\minigames\golf_current_hole\_4" GUID="{154BB585-5C5A-4284-82C3-33B58499DE2A}"/>
+						<Switch Id="846646261" Name="_5" ObjectPath="\Switches\minigames\golf_current_hole\_5" GUID="{ED0104AC-C5A9-4EDB-ABCC-757303250444}"/>
+						<Switch Id="846646262" Name="_6" ObjectPath="\Switches\minigames\golf_current_hole\_6" GUID="{C2449EC8-3D0E-4AAD-9AE4-95C87D765104}"/>
+						<Switch Id="846646263" Name="_7" ObjectPath="\Switches\minigames\golf_current_hole\_7" GUID="{79369603-663E-4524-8BF2-C85E4AFD03F9}"/>
+						<Switch Id="846646264" Name="_8" ObjectPath="\Switches\minigames\golf_current_hole\_8" GUID="{FF82638D-A134-4B86-B53F-685D7C394977}"/>
+						<Switch Id="846646265" Name="_9" ObjectPath="\Switches\minigames\golf_current_hole\_9" GUID="{3E0D19B4-305C-43F4-A1B0-CCB1636544D7}"/>
+						<Switch Id="1644366931" Name="_10" ObjectPath="\Switches\minigames\golf_current_hole\_10" GUID="{FDF06864-5FD5-42AF-8B54-2239B63399FC}"/>
+						<Switch Id="1644366930" Name="_11" ObjectPath="\Switches\minigames\golf_current_hole\_11" GUID="{DFE04409-15D6-45DF-BCA1-14E1B808F201}"/>
+						<Switch Id="1644366929" Name="_12" ObjectPath="\Switches\minigames\golf_current_hole\_12" GUID="{6F6B2C42-DF63-4B9B-B8DF-8E890BE82B15}"/>
+						<Switch Id="1644366928" Name="_13" ObjectPath="\Switches\minigames\golf_current_hole\_13" GUID="{4C65F88C-9184-4B56-8584-B1F8F74F5ABD}"/>
+						<Switch Id="1644366935" Name="_14" ObjectPath="\Switches\minigames\golf_current_hole\_14" GUID="{4EF03B08-B6DD-4817-BD3A-885A2450D096}"/>
+						<Switch Id="1644366934" Name="_15" ObjectPath="\Switches\minigames\golf_current_hole\_15" GUID="{B0FAF742-91F5-4DBF-BF87-9CB7AFD49243}"/>
+						<Switch Id="1644366933" Name="_16" ObjectPath="\Switches\minigames\golf_current_hole\_16" GUID="{A69F67A0-090D-48AC-9585-D433916B2C36}"/>
+						<Switch Id="1644366932" Name="_17" ObjectPath="\Switches\minigames\golf_current_hole\_17" GUID="{CD1584DE-3823-43B2-B46C-55B3FBD97D75}"/>
+						<Switch Id="1644366939" Name="_18" ObjectPath="\Switches\minigames\golf_current_hole\_18" GUID="{F0E6FC13-4495-460C-AA0A-DE7C7562A480}"/>
+					</Switches>
+				</SwitchGroup>
+				<SwitchGroup Id="1176052424" Name="LOCATION" ObjectPath="\Switches\Default Work Unit\LOCATION" GUID="{89BB7F2D-2E2F-46F2-9D6E-B65B518FDC8C}">
+					<Switches>
+						<Switch Id="425497542" Name="AMB_Utilidor_Small" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_Utilidor_Small" GUID="{470640EF-2399-4E71-A2C9-7E62C40EA5FE}"/>
+						<Switch Id="1677516324" Name="AMB_Utilidor_Medium" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_Utilidor_Medium" GUID="{5AEFCEFC-1758-487F-8022-665B454A8C16}"/>
+						<Switch Id="847146884" Name="AMB_DarkHallway" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_DarkHallway" GUID="{B6A30A85-14DC-465F-835A-4FE081ADAD86}"/>
+						<Switch Id="2082126615" Name="AMB_Daycare" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_Daycare" GUID="{27659D0D-886C-4C6E-9D7B-4F91C00095DD}"/>
+						<Switch Id="1947258218" Name="AMB_Arcade" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_Arcade" GUID="{2B5FF8E0-5F84-4F3A-942B-181492A303F4}"/>
+						<Switch Id="1210962787" Name="AMB_WestArcade" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_WestArcade" GUID="{B962288E-674A-452E-8418-0441B4CDB85E}"/>
+						<Switch Id="3544653904" Name="AMB_MachineRoom" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_MachineRoom" GUID="{9B784750-1399-4DD4-9AB6-FDF909437D0C}"/>
+						<Switch Id="941127970" Name="AMB_ServerRoom" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_ServerRoom" GUID="{20528700-42FA-4E6B-8C48-F5AB57E84957}"/>
+						<Switch Id="79465641" Name="AMB_BowlingAlley" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_BowlingAlley" GUID="{1B6D4D44-01E6-4ED0-B230-BE2D4FAAB5D1}"/>
+						<Switch Id="1193195097" Name="AMB_FazerTag_Entrance" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_FazerTag_Entrance" GUID="{309135F8-4ABE-4394-BDC6-D5ABA3E02108}"/>
+						<Switch Id="91725792" Name="AMB_FazerTag" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_FazerTag" GUID="{3C8E15F5-D666-403C-A445-519B79F1561A}"/>
+						<Switch Id="4042100587" Name="AMB_Theatre" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_Theatre" GUID="{D6EDFE2F-3878-4FAA-9F7C-20C5F807894F}"/>
+						<Switch Id="539736153" Name="AMB_GatorGolf" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_GatorGolf" GUID="{39E07A7C-98C7-4D39-AD9E-2B568FE25232}"/>
+						<Switch Id="4096831364" Name="AMB_Atrium" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_Atrium" GUID="{785F9557-1782-4559-90F8-F147A1EFCB67}"/>
+						<Switch Id="2891383230" Name="AMB_Raceway" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_Raceway" GUID="{82BDE37C-CE4A-45C9-AF91-62912A6CDACE}"/>
+						<Switch Id="2981457343" Name="AMB_GeneralRoom_Medium" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_GeneralRoom_Medium" GUID="{AB151350-F2E9-4C4C-A776-C7F8BA9B7779}"/>
+						<Switch Id="36366712" Name="AMB_Catwalks" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_Catwalks" GUID="{C033718A-88D7-4BE0-A702-ADEF38B6F43A}"/>
+						<Switch Id="4078558067" Name="AMB_Silence" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_Silence" GUID="{A73BC528-1D0A-4262-B364-DA71355B0453}"/>
+						<Switch Id="3370757776" Name="AMB_Sewer" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_Sewer" GUID="{88D55456-7F00-4771-84F7-ABEE406578FD}"/>
+						<Switch Id="3408020807" Name="AMB_VentilationInside" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_VentilationInside" GUID="{4186CC10-F15E-4545-B32B-31A41571A93E}"/>
+						<Switch Id="650111602" Name="AMB_Kitchen" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_Kitchen" GUID="{79FAF395-10AB-454B-A4DD-8E95F07D45E7}"/>
+						<Switch Id="531749319" Name="AMB_GeneralRoom_Small" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_GeneralRoom_Small" GUID="{B6BC9253-1224-4B14-AB8E-B6F509B260CF}"/>
+						<Switch Id="467632346" Name="AMB_Utilidor_Large" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_Utilidor_Large" GUID="{923CF0BC-5516-4C07-816F-B33A77FFC3B0}"/>
+						<Switch Id="492663108" Name="AMB_Bathroom" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_Bathroom" GUID="{3799B468-8C64-40A7-A2DE-081DAB923FE2}"/>
+						<Switch Id="2720937478" Name="AMB_MontyBossBattle_Room" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_MontyBossBattle_Room" GUID="{65D891E7-B6FE-462B-AAC8-A6C6EFB7CF23}"/>
+						<Switch Id="496888105" Name="AMB_Stairwell" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_Stairwell" GUID="{59520E08-8C31-4007-B460-D3CDA718B285}"/>
+						<Switch Id="1969515167" Name="AMB_NeonRoom_Large" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_NeonRoom_Large" GUID="{6C7967BF-0F0F-40C6-A62A-920F2E3E4AD3}"/>
+						<Switch Id="3132542283" Name="AMB_NeonRoom_Medium" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_NeonRoom_Medium" GUID="{883581B3-0B74-45A9-A7E7-F633A55E386F}"/>
+						<Switch Id="1756845675" Name="AMB_NeonRoom_Small" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_NeonRoom_Small" GUID="{AF02570E-D85D-49F8-A1B5-94E9091045D3}"/>
+						<Switch Id="2274461017" Name="AMB_FizzyFazVats" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_FizzyFazVats" GUID="{ECDD25DB-5CDD-4F29-A41D-1F700D2F0DC4}"/>
+						<Switch Id="2142159411" Name="AMB_GlamrockGifts" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_GlamrockGifts" GUID="{FABC175F-9037-4A60-90A8-ACB545C22821}"/>
+						<Switch Id="2162189253" Name="AMB_HardRoomSmall" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_HardRoomSmall" GUID="{8D6802CD-F914-4BDC-9A01-24E99D2B72A2}"/>
+						<Switch Id="1503326033" Name="AMB_LobbyCafe" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_LobbyCafe" GUID="{4088EF9D-1775-45BD-B56D-9519842607A9}"/>
+						<Switch Id="2706706902" Name="AMB_MechanicalRoom_Small" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_MechanicalRoom_Small" GUID="{34A1BF15-CB3E-4228-95A0-94142C120336}"/>
+						<Switch Id="3330513156" Name="AMB_Office_Medium" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_Office_Medium" GUID="{761DE1B6-556B-4A0D-BB0C-6EEBC1C2E5C5}"/>
+						<Switch Id="3605209298" Name="AMB_Docks" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_Docks" GUID="{EFCAF7B5-90D2-4E0A-8FBD-9501E21AB2A0}"/>
+						<Switch Id="1405399250" Name="AMB_RehearsalRoom" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_RehearsalRoom" GUID="{EE75BAA3-50FE-46E5-93AA-CB05AFD99FA7}"/>
+						<Switch Id="3729701050" Name="AMB_Closet_Small" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_Closet_Small" GUID="{17A3C324-E299-4577-9A3F-6A846702053E}"/>
+						<Switch Id="3668321683" Name="AMB_Freezer_Large" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_Freezer_Large" GUID="{67C130D8-349A-456D-A343-F2AA6EC26C7F}"/>
+						<Switch Id="3914933986" Name="AMB_Kitchen_Large" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_Kitchen_Large" GUID="{5A486922-16D9-4DB1-B5FA-491B8C93DD08}"/>
+						<Switch Id="3708322673" Name="AMB_Laundry_Large" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_Laundry_Large" GUID="{EC418A30-FF12-48AA-9E69-C43723E69BAE}"/>
+						<Switch Id="1872529209" Name="AMB_MontyGolf_Mechanical" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_MontyGolf_Mechanical" GUID="{F5D35036-E5F3-4C61-9DDB-0DD2A0FB01B9}"/>
+						<Switch Id="1014596549" Name="AMB_MontyGolf_TrippyHall" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_MontyGolf_TrippyHall" GUID="{D137A913-4386-4282-9997-EE969DEF9071}"/>
+						<Switch Id="436379097" Name="AMB_ParkingGarage" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_ParkingGarage" GUID="{AB07D13E-A602-4A3B-A483-11E9B5E344A1}"/>
+						<Switch Id="3382118788" Name="AMB_Sewer_Large" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_Sewer_Large" GUID="{DA0A0EB3-23AD-4C7B-B64C-3CD078D4FB3F}"/>
+						<Switch Id="1586341226" Name="AMB_Sewer_Medium" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_Sewer_Medium" GUID="{E21215DE-D390-46A7-A992-53972F3F8BA3}"/>
+						<Switch Id="2113904613" Name="AMB_Sewer_Tunnel" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_Sewer_Tunnel" GUID="{E5B94F58-629F-4EC5-ACAD-44ED49FFBF06}"/>
+						<Switch Id="2496195321" Name="AMB_Sinkhole" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_Sinkhole" GUID="{CD7C2922-BEB8-4F80-A708-61777A71B20F}"/>
+						<Switch Id="508266363" Name="AMB_GatorGolf_MedRoom" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_GatorGolf_MedRoom" GUID="{7054D320-B1A1-43EF-AFB8-641BC1D86C22}"/>
+						<Switch Id="1915693652" Name="AMB_pas_Dome" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_pas_Dome" GUID="{64414668-38A5-4C35-A4A9-2900B4D9D3B0}"/>
+						<Switch Id="4281687536" Name="AMB_Burntrap" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_Burntrap" GUID="{5208606E-F501-499E-9BA9-956A7F080575}"/>
+						<Switch Id="3207324726" Name="AMB_Fire" ObjectPath="\Switches\Default Work Unit\LOCATION\AMB_Fire" GUID="{F1C88DE0-0809-4F26-AF98-C68B62D205F9}"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

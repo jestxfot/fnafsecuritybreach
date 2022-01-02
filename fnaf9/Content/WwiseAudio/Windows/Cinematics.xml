@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>I:\Quarters\fnaf9\fnaf9_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>I:\Quarters\fnaf9\Content\WwiseAudio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>I:\Quarters\fnaf9\fnaf9_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="877642339" GUID="{231D537E-1E87-4293-A5C3-85BFA0347AB8}" Language="SFX" Hash="2784209437">
+			<ObjectPath>\SoundBanks\Default Work Unit\Cinematics</ObjectPath>
+			<ShortName>Cinematics</ShortName>
+			<Path>Cinematics.bnk</Path>
+			<IncludedEvents>
+				<Event Id="211747143" Name="Play_cine_burntrapEnding" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_burntrapEnding" GUID="{CAF3A63E-3952-4284-9BE8-6A67EB322B70}" DurationType="OneShot" DurationMin="206.567001" DurationMax="206.567001">
+					<ReferencedStreamedFiles>
+						<File Id="21717447" Language="SFX">
+							<ShortName>cine_burntrapEnding_preCred_mx_stem.wav</ShortName>
+							<Path>SFX\cine_burntrapEnding_preCred_mx_stem_73E79EE3.wem</Path>
+						</File>
+						<File Id="200766917" Language="SFX">
+							<ShortName>cine_burntrapEnding_postCred_mx_stem.wav</ShortName>
+							<Path>SFX\cine_burntrapEnding_postCred_mx_stem_73E79EE3.wem</Path>
+						</File>
+						<File Id="580151308" Language="SFX">
+							<ShortName>cine_burntrapEnding_preCred_sfx_stem.wav</ShortName>
+							<Path>SFX\cine_burntrapEnding_preCred_sfx_stem_73E79EE3.wem</Path>
+						</File>
+						<File Id="780964233" Language="SFX">
+							<ShortName>cine_burntrapEnding_postCred_sfx_stem.wav</ShortName>
+							<Path>SFX\cine_burntrapEnding_postCred_sfx_stem_73E79EE3.wem</Path>
+						</File>
+						<File Id="857320738" Language="SFX">
+							<ShortName>cine_credits_stem_mx_uncut.wav</ShortName>
+							<Path>SFX\cine_credits_stem_mx_uncut_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="21717447" Language="SFX">
+							<ShortName>cine_burntrapEnding_preCred_mx_stem.wav</ShortName>
+							<Path>SFX\cine_burntrapEnding_preCred_mx_stem_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+						<File Id="200766917" Language="SFX">
+							<ShortName>cine_burntrapEnding_postCred_mx_stem.wav</ShortName>
+							<Path>SFX\cine_burntrapEnding_postCred_mx_stem_73E79EE3.wem</Path>
+							<PrefetchSize>49744</PrefetchSize>
+						</File>
+						<File Id="580151308" Language="SFX">
+							<ShortName>cine_burntrapEnding_preCred_sfx_stem.wav</ShortName>
+							<Path>SFX\cine_burntrapEnding_preCred_sfx_stem_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+						<File Id="780964233" Language="SFX">
+							<ShortName>cine_burntrapEnding_postCred_sfx_stem.wav</ShortName>
+							<Path>SFX\cine_burntrapEnding_postCred_sfx_stem_73E79EE3.wem</Path>
+							<PrefetchSize>54064</PrefetchSize>
+						</File>
+						<File Id="857320738" Language="SFX">
+							<ShortName>cine_credits_stem_mx_uncut.wav</ShortName>
+							<Path>SFX\cine_credits_stem_mx_uncut_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2324979680" Name="Play_cine_burntrapIntro_stem_sfx_A" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_burntrapIntro_stem_sfx_A" GUID="{41B06FF8-D531-47AB-B522-D47C200C1217}" DurationType="OneShot" DurationMin="17.100000" DurationMax="17.100000">
+					<ReferencedStreamedFiles>
+						<File Id="62133997" Language="SFX">
+							<ShortName>cine_burntrapIntro_stem_sfx_A.wav</ShortName>
+							<Path>SFX\cine_burntrapIntro_stem_sfx_A_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="62133997" Language="SFX">
+							<ShortName>cine_burntrapIntro_stem_sfx_A.wav</ShortName>
+							<Path>SFX\cine_burntrapIntro_stem_sfx_A_73E79EE3.wem</Path>
+							<PrefetchSize>49744</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2324979683" Name="Play_cine_burntrapIntro_stem_sfx_B" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_burntrapIntro_stem_sfx_B" GUID="{09B3C14A-BB1D-427D-8A2F-E3240CBBDA72}" DurationType="OneShot" DurationMin="5.033333" DurationMax="5.033333">
+					<IncludedMemoryFiles>
+						<File Id="785743380" Language="SFX">
+							<ShortName>cine_burntrapIntro_stem_sfx_B.wav</ShortName>
+							<Path>SFX\cine_burntrapIntro_stem_sfx_B_73E79EE3.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2324979682" Name="Play_cine_burntrapIntro_stem_sfx_C" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_burntrapIntro_stem_sfx_C" GUID="{C6CD5CC2-FB69-450D-85DE-3A469B727A43}" DurationType="OneShot" DurationMin="4.533333" DurationMax="4.533333">
+					<IncludedMemoryFiles>
+						<File Id="836403338" Language="SFX">
+							<ShortName>cine_burntrapIntro_stem_sfx_C.wav</ShortName>
+							<Path>SFX\cine_burntrapIntro_stem_sfx_C_73E79EE3.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2324979685" Name="Play_cine_burntrapIntro_stem_sfx_D" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_burntrapIntro_stem_sfx_D" GUID="{96A6358A-C4B3-49F2-9FAB-16488FFADAF6}" DurationType="OneShot" DurationMin="10.833333" DurationMax="10.833333">
+					<ReferencedStreamedFiles>
+						<File Id="540147838" Language="SFX">
+							<ShortName>cine_burntrapIntro_stem_sfx_D.wav</ShortName>
+							<Path>SFX\cine_burntrapIntro_stem_sfx_D_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="540147838" Language="SFX">
+							<ShortName>cine_burntrapIntro_stem_sfx_D.wav</ShortName>
+							<Path>SFX\cine_burntrapIntro_stem_sfx_D_73E79EE3.wem</Path>
+							<PrefetchSize>49744</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2324979684" Name="Play_cine_burntrapIntro_stem_sfx_E" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_burntrapIntro_stem_sfx_E" GUID="{C1A62432-E746-4779-B323-FF87EDC9340B}" DurationType="OneShot" DurationMin="5.033333" DurationMax="5.033333">
+					<IncludedMemoryFiles>
+						<File Id="988248061" Language="SFX">
+							<ShortName>cine_burntrapIntro_stem_sfx_E.wav</ShortName>
+							<Path>SFX\cine_burntrapIntro_stem_sfx_E_73E79EE3.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2324979687" Name="Play_cine_burntrapIntro_stem_sfx_F" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_burntrapIntro_stem_sfx_F" GUID="{CDA28A80-4558-4540-8BA7-AC03D11EE2A6}" DurationType="OneShot" DurationMin="7.100000" DurationMax="7.100000">
+					<ReferencedStreamedFiles>
+						<File Id="637115063" Language="SFX">
+							<ShortName>cine_burntrapIntro_stem_sfx_F.wav</ShortName>
+							<Path>SFX\cine_burntrapIntro_stem_sfx_F_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="637115063" Language="SFX">
+							<ShortName>cine_burntrapIntro_stem_sfx_F.wav</ShortName>
+							<Path>SFX\cine_burntrapIntro_stem_sfx_F_73E79EE3.wem</Path>
+							<PrefetchSize>49744</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2324979686" Name="Play_cine_burntrapIntro_stem_sfx_G" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_burntrapIntro_stem_sfx_G" GUID="{4A5B63AF-C9E6-4861-952D-D676724D6C24}" DurationType="OneShot" DurationMin="9.666667" DurationMax="9.666667">
+					<ReferencedStreamedFiles>
+						<File Id="453561808" Language="SFX">
+							<ShortName>cine_burntrapIntro_stem_sfx_G.wav</ShortName>
+							<Path>SFX\cine_burntrapIntro_stem_sfx_G_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="453561808" Language="SFX">
+							<ShortName>cine_burntrapIntro_stem_sfx_G.wav</ShortName>
+							<Path>SFX\cine_burntrapIntro_stem_sfx_G_73E79EE3.wem</Path>
+							<PrefetchSize>49744</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2324979689" Name="Play_cine_burntrapIntro_stem_sfx_H" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_burntrapIntro_stem_sfx_H" GUID="{EFBBD2F7-EAB9-4C88-9E25-998AE95B2313}" DurationType="OneShot" DurationMin="7.866667" DurationMax="7.866667">
+					<ReferencedStreamedFiles>
+						<File Id="646734504" Language="SFX">
+							<ShortName>cine_burntrapIntro_stem_sfx_H.wav</ShortName>
+							<Path>SFX\cine_burntrapIntro_stem_sfx_H_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="646734504" Language="SFX">
+							<ShortName>cine_burntrapIntro_stem_sfx_H.wav</ShortName>
+							<Path>SFX\cine_burntrapIntro_stem_sfx_H_73E79EE3.wem</Path>
+							<PrefetchSize>49744</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3242597432" Name="Play_cine_chicaIntro_stem_sfx_A" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_chicaIntro_stem_sfx_A" GUID="{C1975243-F724-492E-B69C-F82B03D181D7}" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3242597435" Name="Play_cine_chicaIntro_stem_sfx_B" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_chicaIntro_stem_sfx_B" GUID="{C4071F3B-FA43-4230-A5C2-903739BD4937}" DurationType="OneShot" DurationMin="4.564542" DurationMax="4.564542">
+					<ReferencedStreamedFiles>
+						<File Id="785905381" Language="SFX">
+							<ShortName>cine_chicaIntro_stem_sfx_B.wav</ShortName>
+							<Path>SFX\cine_chicaIntro_stem_sfx_B_766ED0FA.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="785905381" Language="SFX">
+							<ShortName>cine_chicaIntro_stem_sfx_B.wav</ShortName>
+							<Path>SFX\cine_chicaIntro_stem_sfx_B_766ED0FA.wem</Path>
+							<PrefetchSize>49744</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3242597434" Name="Play_cine_chicaIntro_stem_sfx_C" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_chicaIntro_stem_sfx_C" GUID="{6E1EEA0E-E2A9-4A8D-82EF-86A887E7BC78}" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3242597437" Name="Play_cine_chicaIntro_stem_sfx_D" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_chicaIntro_stem_sfx_D" GUID="{6AEF52E9-FBE8-4095-82D8-A843D79BFEAD}" DurationType="OneShot" DurationMin="5.066667" DurationMax="5.066667">
+					<ReferencedStreamedFiles>
+						<File Id="258057600" Language="SFX">
+							<ShortName>cine_chicaIntro_stem_sfx_D.wav</ShortName>
+							<Path>SFX\cine_chicaIntro_stem_sfx_D_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="258057600" Language="SFX">
+							<ShortName>cine_chicaIntro_stem_sfx_D.wav</ShortName>
+							<Path>SFX\cine_chicaIntro_stem_sfx_D_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3242597436" Name="Play_cine_chicaIntro_stem_sfx_E" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_chicaIntro_stem_sfx_E" GUID="{26B8C8E8-65C0-4514-A96A-67071EBAD72F}" DurationType="OneShot" DurationMin="12.566667" DurationMax="12.566667">
+					<ReferencedStreamedFiles>
+						<File Id="556493950" Language="SFX">
+							<ShortName>cine_chicaIntro_stem_sfx_E.wav</ShortName>
+							<Path>SFX\cine_chicaIntro_stem_sfx_E_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="556493950" Language="SFX">
+							<ShortName>cine_chicaIntro_stem_sfx_E.wav</ShortName>
+							<Path>SFX\cine_chicaIntro_stem_sfx_E_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3242597439" Name="Play_cine_chicaIntro_stem_sfx_F" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_chicaIntro_stem_sfx_F" GUID="{5F6A985E-B495-4D26-9D26-52DD1C1C619B}" DurationType="OneShot" DurationMin="5.400000" DurationMax="5.400000">
+					<ReferencedStreamedFiles>
+						<File Id="313721052" Language="SFX">
+							<ShortName>cine_chicaIntro_stem_sfx_F.wav</ShortName>
+							<Path>SFX\cine_chicaIntro_stem_sfx_F_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="313721052" Language="SFX">
+							<ShortName>cine_chicaIntro_stem_sfx_F.wav</ShortName>
+							<Path>SFX\cine_chicaIntro_stem_sfx_F_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3242597438" Name="Play_cine_chicaIntro_stem_sfx_G" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_chicaIntro_stem_sfx_G" GUID="{31CD9F4A-B337-43AE-BBFB-FB6F5F14AEF1}" DurationType="OneShot" DurationMin="17.000000" DurationMax="17.000000">
+					<ReferencedStreamedFiles>
+						<File Id="422072612" Language="SFX">
+							<ShortName>cine_chicaIntro_stem_sfx_G.wav</ShortName>
+							<Path>SFX\cine_chicaIntro_stem_sfx_G_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="422072612" Language="SFX">
+							<ShortName>cine_chicaIntro_stem_sfx_G.wav</ShortName>
+							<Path>SFX\cine_chicaIntro_stem_sfx_G_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3242597425" Name="Play_cine_chicaIntro_stem_sfx_H" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_chicaIntro_stem_sfx_H" GUID="{3B8F0329-85D0-49C1-8493-DD57AE83A807}" DurationType="OneShot" DurationMin="17.033333" DurationMax="17.033333">
+					<ReferencedStreamedFiles>
+						<File Id="956290313" Language="SFX">
+							<ShortName>cine_chicaIntro_stem_sfx_H.wav</ShortName>
+							<Path>SFX\cine_chicaIntro_stem_sfx_H_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="956290313" Language="SFX">
+							<ShortName>cine_chicaIntro_stem_sfx_H.wav</ShortName>
+							<Path>SFX\cine_chicaIntro_stem_sfx_H_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3242597424" Name="Play_cine_chicaIntro_stem_sfx_I" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_chicaIntro_stem_sfx_I" GUID="{591F58C9-7C8B-4E16-8B92-45AAD6730E02}" DurationType="OneShot" DurationMin="9.932000" DurationMax="9.932000">
+					<ReferencedStreamedFiles>
+						<File Id="294594235" Language="SFX">
+							<ShortName>cine_chicaIntro_stem_sfx_I.wav</ShortName>
+							<Path>SFX\cine_chicaIntro_stem_sfx_I_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="294594235" Language="SFX">
+							<ShortName>cine_chicaIntro_stem_sfx_I.wav</ShortName>
+							<Path>SFX\cine_chicaIntro_stem_sfx_I_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3242597427" Name="Play_cine_chicaIntro_stem_sfx_J" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_chicaIntro_stem_sfx_J" GUID="{BEED4C73-3A78-47DE-8FAD-EB8A38E5C21D}" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2377070685" Name="Play_cine_fazerblastEnding" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_fazerblastEnding" GUID="{F3C169FD-2B88-44F8-BB6F-70B39ACFC424}" DurationType="OneShot" DurationMin="232.166672" DurationMax="232.166672">
+					<ReferencedStreamedFiles>
+						<File Id="170884649" Language="SFX">
+							<ShortName>cine_fazerblastEnding_preCred_sfx_stem.wav</ShortName>
+							<Path>SFX\cine_fazerblastEnding_preCred_sfx_stem_73E79EE3.wem</Path>
+						</File>
+						<File Id="337195051" Language="SFX">
+							<ShortName>cine_fazerblastEnding_preCred_mx_stem.wav</ShortName>
+							<Path>SFX\cine_fazerblastEnding_preCred_mx_stem_73E79EE3.wem</Path>
+						</File>
+						<File Id="607219713" Language="SFX">
+							<ShortName>cine_fazerblastEnding_postCred_sfx_stem.wav</ShortName>
+							<Path>SFX\cine_fazerblastEnding_postCred_sfx_stem_73E79EE3.wem</Path>
+						</File>
+						<File Id="757360568" Language="SFX">
+							<ShortName>mus_credits_sad.wav</ShortName>
+							<Path>SFX\mus_credits_sad_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="170884649" Language="SFX">
+							<ShortName>cine_fazerblastEnding_preCred_sfx_stem.wav</ShortName>
+							<Path>SFX\cine_fazerblastEnding_preCred_sfx_stem_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+						<File Id="337195051" Language="SFX">
+							<ShortName>cine_fazerblastEnding_preCred_mx_stem.wav</ShortName>
+							<Path>SFX\cine_fazerblastEnding_preCred_mx_stem_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+						<File Id="607219713" Language="SFX">
+							<ShortName>cine_fazerblastEnding_postCred_sfx_stem.wav</ShortName>
+							<Path>SFX\cine_fazerblastEnding_postCred_sfx_stem_73E79EE3.wem</Path>
+							<PrefetchSize>81064</PrefetchSize>
+						</File>
+						<File Id="757360568" Language="SFX">
+							<ShortName>mus_credits_sad.wav</ShortName>
+							<Path>SFX\mus_credits_sad_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1068246274" Name="Play_cine_freddyDisassembled" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_freddyDisassembled" GUID="{11489125-8092-46C6-9FF0-8E28008EACC3}" DurationType="OneShot" DurationMin="31.866667" DurationMax="31.866667">
+					<ReferencedStreamedFiles>
+						<File Id="378620368" Language="SFX">
+							<ShortName>cine_freddyDisassemble_mx_stem.wav</ShortName>
+							<Path>SFX\cine_freddyDisassemble_mx_stem_73E79EE3.wem</Path>
+						</File>
+						<File Id="888317886" Language="SFX">
+							<ShortName>cine_freddyDisassemble_sfx_stem.wav</ShortName>
+							<Path>SFX\cine_freddyDisassemble_sfx_stem_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="378620368" Language="SFX">
+							<ShortName>cine_freddyDisassemble_mx_stem.wav</ShortName>
+							<Path>SFX\cine_freddyDisassemble_mx_stem_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+						<File Id="888317886" Language="SFX">
+							<ShortName>cine_freddyDisassemble_sfx_stem.wav</ShortName>
+							<Path>SFX\cine_freddyDisassemble_sfx_stem_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2292631342" Name="Play_cine_gregoryInAlleyEnding" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_gregoryInAlleyEnding" GUID="{F36982DB-E64B-4759-AF3C-C69C71FEB3A7}" DurationType="OneShot" DurationMin="211.545898" DurationMax="211.545898">
+					<ReferencedStreamedFiles>
+						<File Id="327050900" Language="SFX">
+							<ShortName>cine_gregoryInAlley_mx_stem.wav</ShortName>
+							<Path>SFX\cine_gregoryInAlley_mx_stem_73E79EE3.wem</Path>
+						</File>
+						<File Id="832695295" Language="SFX">
+							<ShortName>cine_credits_stem_mx_longer.wav</ShortName>
+							<Path>SFX\cine_credits_stem_mx_longer_73E79EE3.wem</Path>
+						</File>
+						<File Id="950976404" Language="SFX">
+							<ShortName>cine_gregoryInAlley_sfx_stem.wav</ShortName>
+							<Path>SFX\cine_gregoryInAlley_sfx_stem_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="327050900" Language="SFX">
+							<ShortName>cine_gregoryInAlley_mx_stem.wav</ShortName>
+							<Path>SFX\cine_gregoryInAlley_mx_stem_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+						<File Id="832695295" Language="SFX">
+							<ShortName>cine_credits_stem_mx_longer.wav</ShortName>
+							<Path>SFX\cine_credits_stem_mx_longer_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+						<File Id="950976404" Language="SFX">
+							<ShortName>cine_gregoryInAlley_sfx_stem.wav</ShortName>
+							<Path>SFX\cine_gregoryInAlley_sfx_stem_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2385027828" Name="Play_cine_loadingDockEnding" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_loadingDockEnding" GUID="{39799DD0-88F2-470F-951E-9DB97AA430C2}" DurationType="OneShot" DurationMin="284.100342" DurationMax="284.100342">
+					<ReferencedStreamedFiles>
+						<File Id="243534328" Language="SFX">
+							<ShortName>cine_loadingDock_postCred_sfx_stem.wav</ShortName>
+							<Path>SFX\cine_loadingDock_postCred_sfx_stem_73E79EE3.wem</Path>
+						</File>
+						<File Id="583774864" Language="SFX">
+							<ShortName>cine_loadingDock_preCred_mx_stem.wav</ShortName>
+							<Path>SFX\cine_loadingDock_preCred_mx_stem_73E79EE3.wem</Path>
+						</File>
+						<File Id="695024293" Language="SFX">
+							<ShortName>cine_loadingDock_preCred_sfx_stem.wav</ShortName>
+							<Path>SFX\cine_loadingDock_preCred_sfx_stem_73E79EE3.wem</Path>
+						</File>
+						<File Id="832695295" Language="SFX">
+							<ShortName>cine_credits_stem_mx_longer.wav</ShortName>
+							<Path>SFX\cine_credits_stem_mx_longer_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="243534328" Language="SFX">
+							<ShortName>cine_loadingDock_postCred_sfx_stem.wav</ShortName>
+							<Path>SFX\cine_loadingDock_postCred_sfx_stem_73E79EE3.wem</Path>
+							<PrefetchSize>81064</PrefetchSize>
+						</File>
+						<File Id="583774864" Language="SFX">
+							<ShortName>cine_loadingDock_preCred_mx_stem.wav</ShortName>
+							<Path>SFX\cine_loadingDock_preCred_mx_stem_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+						<File Id="695024293" Language="SFX">
+							<ShortName>cine_loadingDock_preCred_sfx_stem.wav</ShortName>
+							<Path>SFX\cine_loadingDock_preCred_sfx_stem_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+						<File Id="832695295" Language="SFX">
+							<ShortName>cine_credits_stem_mx_longer.wav</ShortName>
+							<Path>SFX\cine_credits_stem_mx_longer_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2405991129" Name="Play_cine_montyIntro_stem_sfx_A" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_montyIntro_stem_sfx_A" GUID="{FEAA3EE3-D960-4E5B-AA3B-43035FF3CE56}" DurationType="OneShot" DurationMin="9.044833" DurationMax="9.044833">
+					<ReferencedStreamedFiles>
+						<File Id="216986409" Language="SFX">
+							<ShortName>cine_montyIntro_stem_sfx_A.wav</ShortName>
+							<Path>SFX\cine_montyIntro_stem_sfx_A_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="216986409" Language="SFX">
+							<ShortName>cine_montyIntro_stem_sfx_A.wav</ShortName>
+							<Path>SFX\cine_montyIntro_stem_sfx_A_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2405991130" Name="Play_cine_montyIntro_stem_sfx_B" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_montyIntro_stem_sfx_B" GUID="{C9392311-7CCC-48DC-80FB-A3ECECE02C44}" DurationType="OneShot" DurationMin="5.333333" DurationMax="5.333333">
+					<ReferencedStreamedFiles>
+						<File Id="651914974" Language="SFX">
+							<ShortName>cine_montyIntro_stem_sfx_B.wav</ShortName>
+							<Path>SFX\cine_montyIntro_stem_sfx_B_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="651914974" Language="SFX">
+							<ShortName>cine_montyIntro_stem_sfx_B.wav</ShortName>
+							<Path>SFX\cine_montyIntro_stem_sfx_B_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2405991131" Name="Play_cine_montyIntro_stem_sfx_C" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_montyIntro_stem_sfx_C" GUID="{DFB42A41-61DA-449A-88CD-C7464CADDBEE}" DurationType="OneShot" DurationMin="4.566667" DurationMax="4.566667">
+					<ReferencedStreamedFiles>
+						<File Id="561874433" Language="SFX">
+							<ShortName>cine_montyIntro_stem_sfx_C.wav</ShortName>
+							<Path>SFX\cine_montyIntro_stem_sfx_C_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="561874433" Language="SFX">
+							<ShortName>cine_montyIntro_stem_sfx_C.wav</ShortName>
+							<Path>SFX\cine_montyIntro_stem_sfx_C_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2405991132" Name="Play_cine_montyIntro_stem_sfx_D" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_montyIntro_stem_sfx_D" GUID="{5085E9AA-8E4F-41A1-8E22-48DB9C4BD56D}" DurationType="OneShot" DurationMin="5.033333" DurationMax="5.033333">
+					<ReferencedStreamedFiles>
+						<File Id="605326708" Language="SFX">
+							<ShortName>cine_montyIntro_stem_sfx_D.wav</ShortName>
+							<Path>SFX\cine_montyIntro_stem_sfx_D_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="605326708" Language="SFX">
+							<ShortName>cine_montyIntro_stem_sfx_D.wav</ShortName>
+							<Path>SFX\cine_montyIntro_stem_sfx_D_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="492809488" Name="Play_cine_montyOutro_stem_sfx_A" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_montyOutro_stem_sfx_A" GUID="{AC7DE60D-39F0-4F10-A5A9-4CF58FBD30C3}" DurationType="OneShot" DurationMin="8.600000" DurationMax="8.600000">
+					<ReferencedStreamedFiles>
+						<File Id="740168100" Language="SFX">
+							<ShortName>cine_montyOutro_stem_sfx_A.wav</ShortName>
+							<Path>SFX\cine_montyOutro_stem_sfx_A_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="740168100" Language="SFX">
+							<ShortName>cine_montyOutro_stem_sfx_A.wav</ShortName>
+							<Path>SFX\cine_montyOutro_stem_sfx_A_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="492809491" Name="Play_cine_montyOutro_stem_sfx_B" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_montyOutro_stem_sfx_B" GUID="{A844EC43-8961-4290-B57A-836394BFACB8}" DurationType="OneShot" DurationMin="9.800000" DurationMax="9.800000">
+					<ReferencedStreamedFiles>
+						<File Id="382276280" Language="SFX">
+							<ShortName>cine_montyOutro_stem_sfx_B.wav</ShortName>
+							<Path>SFX\cine_montyOutro_stem_sfx_B_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="382276280" Language="SFX">
+							<ShortName>cine_montyOutro_stem_sfx_B.wav</ShortName>
+							<Path>SFX\cine_montyOutro_stem_sfx_B_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="492809490" Name="Play_cine_montyOutro_stem_sfx_C" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_montyOutro_stem_sfx_C" GUID="{7D318361-1215-4FAC-BE66-62FA02E773DA}" DurationType="OneShot" DurationMin="5.000000" DurationMax="5.000000">
+					<ReferencedStreamedFiles>
+						<File Id="470141809" Language="SFX">
+							<ShortName>cine_montyOutro_stem_sfx_C.wav</ShortName>
+							<Path>SFX\cine_montyOutro_stem_sfx_C_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="470141809" Language="SFX">
+							<ShortName>cine_montyOutro_stem_sfx_C.wav</ShortName>
+							<Path>SFX\cine_montyOutro_stem_sfx_C_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="492809493" Name="Play_cine_montyOutro_stem_sfx_D" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_montyOutro_stem_sfx_D" GUID="{EEF3E6F5-BA01-444D-BA38-96E9FB40110F}" DurationType="OneShot" DurationMin="3.000000" DurationMax="3.000000">
+					<ReferencedStreamedFiles>
+						<File Id="1012213062" Language="SFX">
+							<ShortName>cine_montyOutro_stem_sfx_D.wav</ShortName>
+							<Path>SFX\cine_montyOutro_stem_sfx_D_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="1012213062" Language="SFX">
+							<ShortName>cine_montyOutro_stem_sfx_D.wav</ShortName>
+							<Path>SFX\cine_montyOutro_stem_sfx_D_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="492809492" Name="Play_cine_montyOutro_stem_sfx_E" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_montyOutro_stem_sfx_E" GUID="{A6A4E57D-530F-422D-85B9-26BCF62C49A4}" DurationType="OneShot" DurationMin="2.633333" DurationMax="2.633333">
+					<ReferencedStreamedFiles>
+						<File Id="993717348" Language="SFX">
+							<ShortName>cine_montyOutro_stem_sfx_E.wav</ShortName>
+							<Path>SFX\cine_montyOutro_stem_sfx_E_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="993717348" Language="SFX">
+							<ShortName>cine_montyOutro_stem_sfx_E.wav</ShortName>
+							<Path>SFX\cine_montyOutro_stem_sfx_E_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="492809495" Name="Play_cine_montyOutro_stem_sfx_F" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_montyOutro_stem_sfx_F" GUID="{6209EECC-D90A-4713-88D4-98EE6A230599}" DurationType="OneShot" DurationMin="11.866667" DurationMax="11.866667">
+					<ReferencedStreamedFiles>
+						<File Id="459948832" Language="SFX">
+							<ShortName>cine_montyOutro_stem_sfx_F.wav</ShortName>
+							<Path>SFX\cine_montyOutro_stem_sfx_F_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="459948832" Language="SFX">
+							<ShortName>cine_montyOutro_stem_sfx_F.wav</ShortName>
+							<Path>SFX\cine_montyOutro_stem_sfx_F_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3247835616" Name="Play_cine_newGame" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_newGame" GUID="{38512D63-5461-4EE2-BF35-C290B7E5F76C}" DurationType="OneShot" DurationMin="97.166664" DurationMax="97.166664">
+					<ReferencedStreamedFiles>
+						<File Id="904699848" Language="SFX">
+							<ShortName>cine_gameIntro_sfx_stem.wav</ShortName>
+							<Path>SFX\cine_gameIntro_sfx_stem_73E79EE3.wem</Path>
+						</File>
+						<File Id="1011856947" Language="SFX">
+							<ShortName>cine_gameIntro_mx_stem.wav</ShortName>
+							<Path>SFX\cine_gameIntro_mx_stem_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="904699848" Language="SFX">
+							<ShortName>cine_gameIntro_sfx_stem.wav</ShortName>
+							<Path>SFX\cine_gameIntro_sfx_stem_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+						<File Id="1011856947" Language="SFX">
+							<ShortName>cine_gameIntro_mx_stem.wav</ShortName>
+							<Path>SFX\cine_gameIntro_mx_stem_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="379488310" Name="Play_cine_roxyIntro_stem_sfx_A" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_roxyIntro_stem_sfx_A" GUID="{F8305F14-6C0F-4A96-A88A-4EEEE15874DD}" DurationType="OneShot" DurationMin="9.293709" DurationMax="9.293709">
+					<ReferencedStreamedFiles>
+						<File Id="907137808" Language="SFX">
+							<ShortName>cine_roxyIntro_stem_sfx_A.wav</ShortName>
+							<Path>SFX\cine_roxyIntro_stem_sfx_A_A6A16711.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="907137808" Language="SFX">
+							<ShortName>cine_roxyIntro_stem_sfx_A.wav</ShortName>
+							<Path>SFX\cine_roxyIntro_stem_sfx_A_A6A16711.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="379488309" Name="Play_cine_roxyIntro_stem_sfx_B" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_roxyIntro_stem_sfx_B" GUID="{89477665-FEA9-424E-8ECF-D91FFDD1A9B0}" DurationType="OneShot" DurationMin="5.900000" DurationMax="5.900000">
+					<ReferencedStreamedFiles>
+						<File Id="83068227" Language="SFX">
+							<ShortName>cine_roxyIntro_stem_sfx_B.wav</ShortName>
+							<Path>SFX\cine_roxyIntro_stem_sfx_B_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="83068227" Language="SFX">
+							<ShortName>cine_roxyIntro_stem_sfx_B.wav</ShortName>
+							<Path>SFX\cine_roxyIntro_stem_sfx_B_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="379488308" Name="Play_cine_roxyIntro_stem_sfx_C" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_roxyIntro_stem_sfx_C" GUID="{E47A6593-67F5-401D-8619-96C6253415B2}" DurationType="OneShot" DurationMin="6.066667" DurationMax="6.066667">
+					<ReferencedStreamedFiles>
+						<File Id="90388361" Language="SFX">
+							<ShortName>cine_roxyIntro_stem_sfx_C.wav</ShortName>
+							<Path>SFX\cine_roxyIntro_stem_sfx_C_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="90388361" Language="SFX">
+							<ShortName>cine_roxyIntro_stem_sfx_C.wav</ShortName>
+							<Path>SFX\cine_roxyIntro_stem_sfx_C_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="379488307" Name="Play_cine_roxyIntro_stem_sfx_D" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_roxyIntro_stem_sfx_D" GUID="{07F7ABBC-8854-41AA-A0A4-19EABC632177}" DurationType="OneShot" DurationMin="4.900000" DurationMax="4.900000">
+					<ReferencedStreamedFiles>
+						<File Id="994653205" Language="SFX">
+							<ShortName>cine_roxyIntro_stem_sfx_D.wav</ShortName>
+							<Path>SFX\cine_roxyIntro_stem_sfx_D_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="994653205" Language="SFX">
+							<ShortName>cine_roxyIntro_stem_sfx_D.wav</ShortName>
+							<Path>SFX\cine_roxyIntro_stem_sfx_D_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="379488306" Name="Play_cine_roxyIntro_stem_sfx_E" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_roxyIntro_stem_sfx_E" GUID="{D6FD7FD0-3CFF-4BB7-AC4E-6C3AB8B22F25}" DurationType="OneShot" DurationMin="4.466667" DurationMax="4.466667">
+					<ReferencedStreamedFiles>
+						<File Id="277221374" Language="SFX">
+							<ShortName>cine_roxyIntro_stem_sfx_E.wav</ShortName>
+							<Path>SFX\cine_roxyIntro_stem_sfx_E_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="277221374" Language="SFX">
+							<ShortName>cine_roxyIntro_stem_sfx_E.wav</ShortName>
+							<Path>SFX\cine_roxyIntro_stem_sfx_E_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="379488305" Name="Play_cine_roxyIntro_stem_sfx_F" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_roxyIntro_stem_sfx_F" GUID="{56CED815-A91F-45D1-B85C-055480F6242F}" DurationType="OneShot" DurationMin="8.432542" DurationMax="8.432542">
+					<ReferencedStreamedFiles>
+						<File Id="693105983" Language="SFX">
+							<ShortName>cine_roxyIntro_stem_sfx_F.wav</ShortName>
+							<Path>SFX\cine_roxyIntro_stem_sfx_F_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="693105983" Language="SFX">
+							<ShortName>cine_roxyIntro_stem_sfx_F.wav</ShortName>
+							<Path>SFX\cine_roxyIntro_stem_sfx_F_73E79EE3.wem</Path>
+							<PrefetchSize>49744</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="379488304" Name="Play_cine_roxyIntro_stem_sfx_G" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_roxyIntro_stem_sfx_G" GUID="{CAB43EBB-8F8F-477E-9777-17A695459EF8}" DurationType="OneShot" DurationMin="10.700000" DurationMax="10.700000">
+					<ReferencedStreamedFiles>
+						<File Id="984312447" Language="SFX">
+							<ShortName>cine_roxyIntro_stem_sfx_G.wav</ShortName>
+							<Path>SFX\cine_roxyIntro_stem_sfx_G_5BF034BA.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="984312447" Language="SFX">
+							<ShortName>cine_roxyIntro_stem_sfx_G.wav</ShortName>
+							<Path>SFX\cine_roxyIntro_stem_sfx_G_5BF034BA.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="379488319" Name="Play_cine_roxyIntro_stem_sfx_H" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_roxyIntro_stem_sfx_H" GUID="{D2A8DC4E-2429-45A2-B86D-BCF56A855259}" DurationType="OneShot" DurationMin="7.600000" DurationMax="7.600000">
+					<ReferencedStreamedFiles>
+						<File Id="869144295" Language="SFX">
+							<ShortName>cine_roxyIntro_stem_sfx_H.wav</ShortName>
+							<Path>SFX\cine_roxyIntro_stem_sfx_H_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="869144295" Language="SFX">
+							<ShortName>cine_roxyIntro_stem_sfx_H.wav</ShortName>
+							<Path>SFX\cine_roxyIntro_stem_sfx_H_73E79EE3.wem</Path>
+							<PrefetchSize>49744</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="379488318" Name="Play_cine_roxyIntro_stem_sfx_I" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_roxyIntro_stem_sfx_I" GUID="{214C6386-1834-41E9-8D70-84362D97A429}" DurationType="OneShot" DurationMin="14.233334" DurationMax="14.233334">
+					<ReferencedStreamedFiles>
+						<File Id="380880357" Language="SFX">
+							<ShortName>cine_roxyIntro_stem_sfx_I.wav</ShortName>
+							<Path>SFX\cine_roxyIntro_stem_sfx_I_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="380880357" Language="SFX">
+							<ShortName>cine_roxyIntro_stem_sfx_I.wav</ShortName>
+							<Path>SFX\cine_roxyIntro_stem_sfx_I_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="379488317" Name="Play_cine_roxyIntro_stem_sfx_J" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_roxyIntro_stem_sfx_J" GUID="{46E539BA-3768-42C6-B499-1C08591E8948}" DurationType="OneShot" DurationMin="11.633333" DurationMax="11.633333">
+					<ReferencedStreamedFiles>
+						<File Id="493173643" Language="SFX">
+							<ShortName>cine_roxyIntro_stem_sfx_J.wav</ShortName>
+							<Path>SFX\cine_roxyIntro_stem_sfx_J_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="493173643" Language="SFX">
+							<ShortName>cine_roxyIntro_stem_sfx_J.wav</ShortName>
+							<Path>SFX\cine_roxyIntro_stem_sfx_J_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="379488316" Name="Play_cine_roxyIntro_stem_sfx_K" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_roxyIntro_stem_sfx_K" GUID="{9A8F659F-142E-4602-8D41-48E69289598E}" DurationType="OneShot" DurationMin="7.900000" DurationMax="7.900000">
+					<ReferencedStreamedFiles>
+						<File Id="674597996" Language="SFX">
+							<ShortName>cine_roxyIntro_stem_sfx_K.wav</ShortName>
+							<Path>SFX\cine_roxyIntro_stem_sfx_K_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="674597996" Language="SFX">
+							<ShortName>cine_roxyIntro_stem_sfx_K.wav</ShortName>
+							<Path>SFX\cine_roxyIntro_stem_sfx_K_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1506973849" Name="Play_cine_vannyRedeemEnding" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_vannyRedeemEnding" GUID="{36B1477F-B032-4042-8B38-95362EA313E4}" DurationType="OneShot" DurationMin="227.199997" DurationMax="227.199997">
+					<ReferencedStreamedFiles>
+						<File Id="521912896" Language="SFX">
+							<ShortName>cine_vannyRedeemed_postCred_mx_stem.wav</ShortName>
+							<Path>SFX\cine_vannyRedeemed_postCred_mx_stem_73E79EE3.wem</Path>
+						</File>
+						<File Id="538485710" Language="SFX">
+							<ShortName>cine_vannyRedeemed_postCred_sfx_stem.wav</ShortName>
+							<Path>SFX\cine_vannyRedeemed_postCred_sfx_stem_73E79EE3.wem</Path>
+						</File>
+						<File Id="577312035" Language="SFX">
+							<ShortName>cine_vannyRedeemed_preCred_sfx_stem.wav</ShortName>
+							<Path>SFX\cine_vannyRedeemed_preCred_sfx_stem_73E79EE3.wem</Path>
+						</File>
+						<File Id="757360568" Language="SFX">
+							<ShortName>mus_credits_sad.wav</ShortName>
+							<Path>SFX\mus_credits_sad_73E79EE3.wem</Path>
+						</File>
+						<File Id="813228047" Language="SFX">
+							<ShortName>cine_vannyRedeemed_preCred_mx_stem.wav</ShortName>
+							<Path>SFX\cine_vannyRedeemed_preCred_mx_stem_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="521912896" Language="SFX">
+							<ShortName>cine_vannyRedeemed_postCred_mx_stem.wav</ShortName>
+							<Path>SFX\cine_vannyRedeemed_postCred_mx_stem_73E79EE3.wem</Path>
+							<PrefetchSize>49744</PrefetchSize>
+						</File>
+						<File Id="538485710" Language="SFX">
+							<ShortName>cine_vannyRedeemed_postCred_sfx_stem.wav</ShortName>
+							<Path>SFX\cine_vannyRedeemed_postCred_sfx_stem_73E79EE3.wem</Path>
+							<PrefetchSize>54064</PrefetchSize>
+						</File>
+						<File Id="577312035" Language="SFX">
+							<ShortName>cine_vannyRedeemed_preCred_sfx_stem.wav</ShortName>
+							<Path>SFX\cine_vannyRedeemed_preCred_sfx_stem_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+						<File Id="757360568" Language="SFX">
+							<ShortName>mus_credits_sad.wav</ShortName>
+							<Path>SFX\mus_credits_sad_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+						<File Id="813228047" Language="SFX">
+							<ShortName>cine_vannyRedeemed_preCred_mx_stem.wav</ShortName>
+							<Path>SFX\cine_vannyRedeemed_preCred_mx_stem_73E79EE3.wem</Path>
+							<PrefetchSize>49744</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3906871484" Name="Play_cine_vipEnding" ObjectPath="\Events\Default Work Unit\Cinematics\Play_cine_vipEnding" GUID="{8CA334F2-A506-4C79-9242-B1D77936C025}" DurationType="OneShot" DurationMin="304.099670" DurationMax="304.099670">
+					<ReferencedStreamedFiles>
+						<File Id="72997979" Language="SFX">
+							<ShortName>cine_vipEnding_postCred_mx_stem.wav</ShortName>
+							<Path>SFX\cine_vipEnding_postCred_mx_stem_73E79EE3.wem</Path>
+						</File>
+						<File Id="209074964" Language="SFX">
+							<ShortName>cine_vipEnding_preCred_mx_stem.wav</ShortName>
+							<Path>SFX\cine_vipEnding_preCred_mx_stem_73E79EE3.wem</Path>
+						</File>
+						<File Id="256353092" Language="SFX">
+							<ShortName>cine_vipEnding_postCred_sfx_stem.wav</ShortName>
+							<Path>SFX\cine_vipEnding_postCred_sfx_stem_73E79EE3.wem</Path>
+						</File>
+						<File Id="541623159" Language="SFX">
+							<ShortName>cine_vipEnding_preCred_sfx_stem.wav</ShortName>
+							<Path>SFX\cine_vipEnding_preCred_sfx_stem_73E79EE3.wem</Path>
+						</File>
+						<File Id="832695295" Language="SFX">
+							<ShortName>cine_credits_stem_mx_longer.wav</ShortName>
+							<Path>SFX\cine_credits_stem_mx_longer_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="72997979" Language="SFX">
+							<ShortName>cine_vipEnding_postCred_mx_stem.wav</ShortName>
+							<Path>SFX\cine_vipEnding_postCred_mx_stem_73E79EE3.wem</Path>
+							<PrefetchSize>49744</PrefetchSize>
+						</File>
+						<File Id="209074964" Language="SFX">
+							<ShortName>cine_vipEnding_preCred_mx_stem.wav</ShortName>
+							<Path>SFX\cine_vipEnding_preCred_mx_stem_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+						<File Id="256353092" Language="SFX">
+							<ShortName>cine_vipEnding_postCred_sfx_stem.wav</ShortName>
+							<Path>SFX\cine_vipEnding_postCred_sfx_stem_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+						<File Id="541623159" Language="SFX">
+							<ShortName>cine_vipEnding_preCred_sfx_stem.wav</ShortName>
+							<Path>SFX\cine_vipEnding_preCred_sfx_stem_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+						<File Id="832695295" Language="SFX">
+							<ShortName>cine_credits_stem_mx_longer.wav</ShortName>
+							<Path>SFX\cine_credits_stem_mx_longer_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3354835104" Name="Play_mus_cine_burntrapintro" ObjectPath="\Events\Default Work Unit\Cinematics\Play_mus_cine_burntrapintro" GUID="{E2D41D9C-FFDD-4090-9386-03F5B78D92CA}" DurationType="OneShot" DurationMin="54.500000" DurationMax="54.500000">
+					<ReferencedStreamedFiles>
+						<File Id="817256462" Language="SFX">
+							<ShortName>mus_cine_burntrapintro V1.wav</ShortName>
+							<Path>SFX\mus_cine_burntrapintro V1_73E79EE3.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="817256462" Language="SFX">
+							<ShortName>mus_cine_burntrapintro V1.wav</ShortName>
+							<Path>SFX\mus_cine_burntrapintro V1_73E79EE3.wem</Path>
+							<PrefetchSize>99352</PrefetchSize>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

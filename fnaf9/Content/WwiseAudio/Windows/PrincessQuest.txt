@@ -1,0 +1,175 @@
+Event	ID	Name			Wwise Object Path	Notes
+	48418603	Play_CAS_Boss_Voice_Glitched			\Default Work Unit\MiniGames\PrincessQuest\Play_CAS_Boss_Voice_Glitched	
+	64708924	Play_CAS_Boss_Laugh_Glitched			\Default Work Unit\MiniGames\PrincessQuest\Play_CAS_Boss_Laugh_Glitched	
+	68821872	Play_sfx_minigame_pq3_foxy_detection_stinger			\Default Work Unit\MiniGames\PrincessQuest\Play_sfx_minigame_pq3_foxy_detection_stinger	
+	72498980	Play_CAS_ContinueMusic			\Default Work Unit\MiniGames\PrincessQuest\Play_CAS_ContinueMusic	
+	87924011	Play_sfx_minigame_pq3_glitchDoor_open			\Default Work Unit\MiniGames\PrincessQuest\Play_sfx_minigame_pq3_glitchDoor_open	
+	95109097	Play_CAS_PuzzleSolve			\Default Work Unit\MiniGames\PrincessQuest\Play_CAS_PuzzleSolve	
+	107091980	Play_sfx_minigame_pq3_scream			\Default Work Unit\MiniGames\PrincessQuest\Play_sfx_minigame_pq3_scream	
+	128516275	Stop_CAS_Music_TitleTheme			\Default Work Unit\MiniGames\PrincessQuest\Stop_CAS_Music_TitleTheme	
+	169730441	Stop_BossRoom_Entry_Drone_Loop			\Default Work Unit\MiniGames\PrincessQuest\Stop_BossRoom_Entry_Drone_Loop	
+	210652919	Play_sfx_minigame_pqA2_torchPuzzle_complete			\Default Work Unit\MiniGames\PrincessQuest\Play_sfx_minigame_pqA2_torchPuzzle_complete	
+	289346553	Stop_Cought_in_a_Loop			\Default Work Unit\MiniGames\PrincessQuest\Stop_Cought_in_a_Loop	
+	500336410	Play_CAS_Enemy_Floater_Attach			\Default Work Unit\MiniGames\PrincessQuest\Play_CAS_Enemy_Floater_Attach	
+	620834308	Play_CAS_Interact_LockedWoodDoor			\Default Work Unit\MiniGames\PrincessQuest\Play_CAS_Interact_LockedWoodDoor	
+	636796998	Stop_sfx_minigame_pq3_foxy_walk_lp			\Default Work Unit\MiniGames\PrincessQuest\Stop_sfx_minigame_pq3_foxy_walk_lp	
+	729757764	Play_sfx_minigame_pq3_foxy_walk_lp			\Default Work Unit\MiniGames\PrincessQuest\Play_sfx_minigame_pq3_foxy_walk_lp	
+	819484058	Play_sfx_minigame_pq3_screenFade_whoosh			\Default Work Unit\MiniGames\PrincessQuest\Play_sfx_minigame_pq3_screenFade_whoosh	
+	894480714	Play_sfx_minigame_pq3_title_screen_glitch			\Default Work Unit\MiniGames\PrincessQuest\Play_sfx_minigame_pq3_title_screen_glitch	
+	899435171	Play_sfx_minigame_pqA2_bipedalBunny_attack			\Default Work Unit\MiniGames\PrincessQuest\Play_sfx_minigame_pqA2_bipedalBunny_attack	
+	921006247	Play_Cought_in_a_Loop			\Default Work Unit\MiniGames\PrincessQuest\Play_Cought_in_a_Loop	
+	925641111	Play_CAS_Ambience_Thunder			\Default Work Unit\MiniGames\PrincessQuest\Play_CAS_Ambience_Thunder	
+	1029647517	Play_CAS_Music_TitleTheme			\Default Work Unit\MiniGames\PrincessQuest\Play_CAS_Music_TitleTheme	
+	1115722696	Play_BossRoom_Reveal			\Default Work Unit\MiniGames\PrincessQuest\Play_BossRoom_Reveal	
+	1262263989	Stop_sfx_minigame_pq3_foxy_idle_mech_lp			\Default Work Unit\MiniGames\PrincessQuest\Stop_sfx_minigame_pq3_foxy_idle_mech_lp	
+	1464107125	Play_sfx_minigame_pq3_stageCurtains_open			\Default Work Unit\MiniGames\PrincessQuest\Play_sfx_minigame_pq3_stageCurtains_open	
+	1472935422	Play_sfx_minigame_pq3_conveyorBelt_lp			\Default Work Unit\MiniGames\PrincessQuest\Play_sfx_minigame_pq3_conveyorBelt_lp	
+	1538274859	Play_CAS_Enemy_Floater_Shriek			\Default Work Unit\MiniGames\PrincessQuest\Play_CAS_Enemy_Floater_Shriek	
+	1551565791	Play_CAS_Enemy_Floater_Breath			\Default Work Unit\MiniGames\PrincessQuest\Play_CAS_Enemy_Floater_Breath	
+	1568545507	Play_sfx_minigame_pqA2_bipedalBunny_death			\Default Work Unit\MiniGames\PrincessQuest\Play_sfx_minigame_pqA2_bipedalBunny_death	
+	1590659455	Play_sfx_minigame_pqA2_torchPuzzle_rotate			\Default Work Unit\MiniGames\PrincessQuest\Play_sfx_minigame_pqA2_torchPuzzle_rotate	
+	1615652854	Play_CAS_Interact_LockedStoneDoor			\Default Work Unit\MiniGames\PrincessQuest\Play_CAS_Interact_LockedStoneDoor	
+	1649935892	Play_CAS_FootStep_Stone			\Default Work Unit\MiniGames\PrincessQuest\Play_CAS_FootStep_Stone	
+	1757164396	Play_CAS_Glitches_Loop			\Default Work Unit\MiniGames\PrincessQuest\Play_CAS_Glitches_Loop	
+	1757471963	Play_sfx_minigame_pq3_amb_bed_bunker			\Default Work Unit\MiniGames\PrincessQuest\Play_sfx_minigame_pq3_amb_bed_bunker	
+	1779041130	Play_sfx_minigame_pq3_glitchChest_open			\Default Work Unit\MiniGames\PrincessQuest\Play_sfx_minigame_pq3_glitchChest_open	
+	1823011201	Play_CAS_Interact_TreasureChest			\Default Work Unit\MiniGames\PrincessQuest\Play_CAS_Interact_TreasureChest	
+	1843365517	Play_CAS_Enemy_Floater_StuckLoop			\Default Work Unit\MiniGames\PrincessQuest\Play_CAS_Enemy_Floater_StuckLoop	
+	1854041684	Play_CAS_Boss_Outro_Impact			\Default Work Unit\MiniGames\PrincessQuest\Play_CAS_Boss_Outro_Impact	
+	1913625211	Play_sfx_minigame_pqA2_amb_bed_cave_med_lp			\Default Work Unit\MiniGames\PrincessQuest\Play_sfx_minigame_pqA2_amb_bed_cave_med_lp	
+	1976491528	Play_BossRoom_Reveal_Drone_Loop			\Default Work Unit\MiniGames\PrincessQuest\Play_BossRoom_Reveal_Drone_Loop	
+	2088807651	Play_CAS_PlayerDeath			\Default Work Unit\MiniGames\PrincessQuest\Play_CAS_PlayerDeath	
+	2144582206	Stop_sfx_minigame_pq3_glitchDoor_idle_lp			\Default Work Unit\MiniGames\PrincessQuest\Stop_sfx_minigame_pq3_glitchDoor_idle_lp	
+	2164405297	Play_CAS_Get_SmallItem			\Default Work Unit\MiniGames\PrincessQuest\Play_CAS_Get_SmallItem	
+	2297962926	Play_CAS_Interact_WoodDoor			\Default Work Unit\MiniGames\PrincessQuest\Play_CAS_Interact_WoodDoor	
+	2404899814	Play_sfx_minigame_pq3_glitchChest_lp			\Default Work Unit\MiniGames\PrincessQuest\Play_sfx_minigame_pq3_glitchChest_lp	
+	2471681660	Play_sfx_minigame_pqA2_spider_mvmt_lp			\Default Work Unit\MiniGames\PrincessQuest\Play_sfx_minigame_pqA2_spider_mvmt_lp	
+	2498269162	Play_CAS_Torch			\Default Work Unit\MiniGames\PrincessQuest\Play_CAS_Torch	
+	2507510106	Stop_BossRoom_Reveal_Drone_Loop			\Default Work Unit\MiniGames\PrincessQuest\Stop_BossRoom_Reveal_Drone_Loop	
+	2554429421	Play_sfx_minigame_pqA2_sword_swing			\Default Work Unit\MiniGames\PrincessQuest\Play_sfx_minigame_pqA2_sword_swing	
+	2586631529	Play_sfx_minigame_pqA2_cyclopsBunny_death			\Default Work Unit\MiniGames\PrincessQuest\Play_sfx_minigame_pqA2_cyclopsBunny_death	
+	2619149195	Play_sfx_minigame_pqA2_spider_death			\Default Work Unit\MiniGames\PrincessQuest\Play_sfx_minigame_pqA2_spider_death	
+	2637679676	Play_sfx_minigame_pqA2_spider_shoot			\Default Work Unit\MiniGames\PrincessQuest\Play_sfx_minigame_pqA2_spider_shoot	
+	2649473802	Play_sfx_minigame_pq3_door_openClose			\Default Work Unit\MiniGames\PrincessQuest\Play_sfx_minigame_pq3_door_openClose	
+	2683675573	Play_CAS_Ambience_Rain			\Default Work Unit\MiniGames\PrincessQuest\Play_CAS_Ambience_Rain	
+	2767284428	Stop_sfx_minigame_pq3_conveyorBelt_lp			\Default Work Unit\MiniGames\PrincessQuest\Stop_sfx_minigame_pq3_conveyorBelt_lp	
+	2932247325	Stop_sfx_minigame_pqA2_amb_bed_cave_med_lp			\Default Work Unit\MiniGames\PrincessQuest\Stop_sfx_minigame_pqA2_amb_bed_cave_med_lp	
+	3109520428	Play_sfx_minigame_pqA2_enemy_dematerialize			\Default Work Unit\MiniGames\PrincessQuest\Play_sfx_minigame_pqA2_enemy_dematerialize	
+	3163311294	Stop_sfx_minigame_pqA2_spider_mvmt_lp			\Default Work Unit\MiniGames\PrincessQuest\Stop_sfx_minigame_pqA2_spider_mvmt_lp	
+	3171189505	Play_sfx_minigame_pqA2_amb_emitter_mushrooms_lp			\Default Work Unit\MiniGames\PrincessQuest\Play_sfx_minigame_pqA2_amb_emitter_mushrooms_lp	
+	3319552108	Play_2_POP			\Default Work Unit\Play_2_POP	
+	3389829200	Play_sfx_minigame_pq3_glitchDoor_idle_lp			\Default Work Unit\MiniGames\PrincessQuest\Play_sfx_minigame_pq3_glitchDoor_idle_lp	
+	3440945104	Play_CAS_Enemy_Floater_Release			\Default Work Unit\MiniGames\PrincessQuest\Play_CAS_Enemy_Floater_Release	
+	3441035556	Play_CAS_PlayerDamage			\Default Work Unit\MiniGames\PrincessQuest\Play_CAS_PlayerDamage	
+	3637918828	Play_CAS_Interact_StoneDoor			\Default Work Unit\MiniGames\PrincessQuest\Play_CAS_Interact_StoneDoor	
+	3726842003	Play_BossRoom_Entry_Drone_Loop			\Default Work Unit\MiniGames\PrincessQuest\Play_BossRoom_Entry_Drone_Loop	
+	3862462095	Play_sfx_minigame_pqA2_enemy_hit			\Default Work Unit\MiniGames\PrincessQuest\Play_sfx_minigame_pqA2_enemy_hit	
+	3866227317	Play_CAS_Enemy_Walker_SFX			\Default Work Unit\MiniGames\PrincessQuest\Play_CAS_Enemy_Walker_SFX	
+	3904018380	Stop_sfx_minigame_pq3_glitchChest_lp			\Default Work Unit\MiniGames\PrincessQuest\Stop_sfx_minigame_pq3_glitchChest_lp	
+	3907517543	Play_sfx_minigame_pq3_foxy_idle_mech_lp			\Default Work Unit\MiniGames\PrincessQuest\Play_sfx_minigame_pq3_foxy_idle_mech_lp	
+	3973285595	Play_sfx_minigame_pqA2_spider_orb_hitPlayer			\Default Work Unit\MiniGames\PrincessQuest\Play_sfx_minigame_pqA2_spider_orb_hitPlayer	
+	4287464518	Play_sfx_minigame_pqA2_torch_extinguish			\Default Work Unit\MiniGames\PrincessQuest\Play_sfx_minigame_pqA2_torch_extinguish	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	1319473216	pq_glitch_effect			\minigames\pq_glitch_effect	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	7995150	CAS_Glitches_Loop	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Glitches_Loop_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Glitches_Loop		300388
+	14674906	sfx_minigame_pqA2_sword_swing_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pqA2_sword_swing_03_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ2\sfx_minigame_pqA2_sword_swing\sfx_minigame_pqA2_sword_swing_03		2283
+	17964017	sfx_minigame_pq3_foxy_idle_mech_lp	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pq3_foxy_idle_mech_lp_90870865.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ3\foxyLoop\sfx_minigame_pq3_foxy_idle_mech_lp		129672
+	23439430	2_POP	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\2_POP_73E79EE3.wem		\Actor-Mixer Hierarchy\UI\2_POP		496
+	27194213	CAS_Ambience_Thunder_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Ambience_Thunder_03_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Ambience_Thunder\CAS_Ambience_Thunder_03		62128
+	28025061	sfx_minigame_pqA2_spider_orb_hitPlayer	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pqA2_spider_orb_hitPlayer_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ2\sfx_minigame_pqA2_spider_orb_hitPlayer		4612
+	35816291	CAS_Enemy_Walker_SFX_06	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Enemy_Walker_SFX_06_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Enemy_Walker_SFX\CAS_Enemy_Walker_SFX_06		16752
+	35829823	sfx_minigame_pqA2_spider_shoot	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pqA2_spider_shoot_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ2\sfx_minigame_pqA2_spider_shoot		8303
+	39031159	sfx_minigame_pqA2_enemy_hit_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pqA2_enemy_hit_03_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ2\sfx_minigame_pqA2_enemy_hit\sfx_minigame_pqA2_enemy_hit_03		3548
+	59132169	sfx_minigame_pqA2_cyclopsBunny_death	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pqA2_cyclopsBunny_death_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ2\sfx_minigame_pqA2_cyclopsBunny_death		21837
+	125128764	sfx_minigame_pq3_screenFade_whoosh	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pq3_screenFade_whoosh_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ3\sfx_minigame_pq3_screenFade_whoosh		20746
+	135718914	sfx_minigame_pq3_glitchDoor_open	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pq3_glitchDoor_open_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ3\sfx_minigame_pq3_glitchDoor_open		14644
+	142434441	CAS_Ambience_Thunder_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Ambience_Thunder_02_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Ambience_Thunder\CAS_Ambience_Thunder_02		39115
+	149894756	CAS_PlayerDeath	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_PlayerDeath_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_PlayerDeath		104960
+	149974807	sfx_minigame_pqA2_sword_swing_04	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pqA2_sword_swing_04_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ2\sfx_minigame_pqA2_sword_swing\sfx_minigame_pqA2_sword_swing_04		2188
+	151333673	CAS_Enemy_Walker_SFX_12	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Enemy_Walker_SFX_12_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Enemy_Walker_SFX\CAS_Enemy_Walker_SFX_12		40614
+	165196257	sfx_minigame_pq3_glitchDoor_idle_lp	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pq3_glitchDoor_idle_lp_90870865.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ3\sfx_minigame_pq3_glitchDoor_idle_lp		99091
+	186972983	CAS_FootStep_Stone_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_FootStep_Stone_02_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_FootStep_Stone\CAS_FootStep_Stone_02		13617
+	191053572	sfx_minigame_pqA2_torchPuzzle_rotate	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pqA2_torchPuzzle_rotate_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ2\sfx_minigame_pqA2_torchPuzzle_rotate		10355
+	221221469	CAS_Enemy_Floater_Breath_11	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Enemy_Floater_Breath_11_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Enemy_Floater_Breath\CAS_Enemy_Floater_Breath_11		106231
+	221624755	BossRoom_Reveal_Drone_Loop	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\BossRoom_Reveal_Drone_Loop_90870865.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\BossRoom_Reveal_Drone_Loop		128357
+	230997757	sfx_minigame_pq3_foxy_detection_stinger	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pq3_foxy_detection_stinger_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ3\sfx_minigame_pq3_foxy_detection_stinger		19576
+	250341319	CAS_Enemy_Floater_Release	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Enemy_Floater_Release_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Enemy_Floater_Release		7373
+	255872520	CAS_Boss_Outro_Impact	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Boss_Outro_Impact_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Boss_Outro_Impact		122377
+	268546956	CAS_FootStep_Stone_04	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_FootStep_Stone_04_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_FootStep_Stone\CAS_FootStep_Stone_04		13637
+	283709887	CAS_Enemy_Floater_Breath_05	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Enemy_Floater_Breath_05_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Enemy_Floater_Breath\CAS_Enemy_Floater_Breath_05		101036
+	316606485	CAS_Get_SmallItem	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Get_SmallItem_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Get_SmallItem		37637
+	317076310	CAS_Interact_WoodDoor	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Interact_WoodDoor_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Interact_WoodDoor		30496
+	324744177	CAS_Enemy_Walker_SFX_10	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Enemy_Walker_SFX_10_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Enemy_Walker_SFX\CAS_Enemy_Walker_SFX_10		38854
+	345181219	CAS_Boss_Laugh_Glitched	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Boss_Laugh_Glitched_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Boss_Laugh_Glitched		185900
+	348906407	CAS_PlayerDamage	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_PlayerDamage_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_PlayerDamage		31890
+	369795008	sfx_minigame_pqA2_bipedalBunny_death	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pqA2_bipedalBunny_death_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ2\sfx_minigame_pqA2_bipedalBunny_death		28283
+	374409303	CAS_Enemy_Walker_SFX_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Enemy_Walker_SFX_03_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Enemy_Walker_SFX\CAS_Enemy_Walker_SFX_03		40507
+	378485996	sfx_minigame_pqA2_spider_death	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pqA2_spider_death_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ2\sfx_minigame_pqA2_spider_death		5905
+	379656877	CAS_Interact_LockedStoneDoor	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Interact_LockedStoneDoor_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Interact_LockedStoneDoor		17455
+	394893299	sfx_minigame_pqA2_sword_swing_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pqA2_sword_swing_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ2\sfx_minigame_pqA2_sword_swing\sfx_minigame_pqA2_sword_swing_01		2303
+	418052709	CAS_Enemy_Floater_StuckLoop_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Enemy_Floater_StuckLoop_02_90870865.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Enemy_Floater_StuckLoop_02		102443
+	424720190	CAS_Enemy_Floater_Attach	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Enemy_Floater_Attach_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Enemy_Floater_Attach		21475
+	438810697	CAS_Interact_TreasureChest	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Interact_TreasureChest_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Interact_TreasureChest		15002
+	458806278	sfx_minigame_pqA2_torch_extinguish	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pqA2_torch_extinguish_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ2\sfx_minigame_pqA2_torch_extinguish		10879
+	459865434	CAS_Enemy_Floater_Breath_13	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Enemy_Floater_Breath_13_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Enemy_Floater_Breath\CAS_Enemy_Floater_Breath_13		102616
+	477418006	CAS_Enemy_Walker_SFX_09	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Enemy_Walker_SFX_09_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Enemy_Walker_SFX\CAS_Enemy_Walker_SFX_09		15218
+	478762052	CAS_PuzzleSolve	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_PuzzleSolve_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_PuzzleSolve		51282
+	482482555	CAS_Enemy_Floater_Breath_04	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Enemy_Floater_Breath_04_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Enemy_Floater_Breath\CAS_Enemy_Floater_Breath_04		69686
+	491713617	sfx_minigame_pqA2_spider_mvmt_lp	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pqA2_spider_mvmt_lp_90870865.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ2\sfx_minigame_pqA2_spider_mvmt_lp		130484
+	499673702	CAS_Enemy_Floater_Breath_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Enemy_Floater_Breath_03_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Enemy_Floater_Breath\CAS_Enemy_Floater_Breath_03		107088
+	505622890	BossRoom_Entry_Drone_Loop	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\BossRoom_Entry_Drone_Loop_90870865.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\BossRoom_Entry_Drone_Loop		461197
+	509078021	sfx_minigame_pq3_glitchChest_open	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pq3_glitchChest_open_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ3\sfx_minigame_pq3_glitchChest_open		38684
+	520084986	CAS_Enemy_Walker_SFX_07	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Enemy_Walker_SFX_07_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Enemy_Walker_SFX\CAS_Enemy_Walker_SFX_07		38497
+	521850559	sfx_minigame_pqA2_torchPuzzle_complete	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pqA2_torchPuzzle_complete_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ2\sfx_minigame_pqA2_torchPuzzle_complete		20877
+	547148774	CAS_Enemy_Floater_Breath_09	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Enemy_Floater_Breath_09_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Enemy_Floater_Breath\CAS_Enemy_Floater_Breath_09		130869
+	581747031	CAS_Enemy_Floater_Breath_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Enemy_Floater_Breath_02_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Enemy_Floater_Breath\CAS_Enemy_Floater_Breath_02		54284
+	582307248	CAS_Enemy_Floater_Shriek	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Enemy_Floater_Shriek_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Enemy_Floater_Shriek		35117
+	596480600	sfx_minigame_pqA2_amb_bed_cave_med_lp	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pqA2_amb_bed_cave_med_lp_90870865.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ2\sfx_minigame_pqA2_amb_bed_cave_med_lp		133805
+	615591304	CAS_Enemy_Floater_Breath_07	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Enemy_Floater_Breath_07_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Enemy_Floater_Breath\CAS_Enemy_Floater_Breath_07		120300
+	618946940	sfx_minigame_pq3_foxy_walk_lp	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pq3_foxy_walk_lp_90870865.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ3\foxyLoop\sfx_minigame_pq3_foxy_walk_lp		69109
+	634727910	CAS_Enemy_Floater_Breath_12	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Enemy_Floater_Breath_12_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Enemy_Floater_Breath\CAS_Enemy_Floater_Breath_12		71494
+	638132460	sfx_minigame_pq3_title_screen_glitch_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pq3_title_screen_glitch_02_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ3\sfx_minigame_pq3_title_screen_glitch\sfx_minigame_pq3_title_screen_glitch_02		19316
+	643154211	CAS_Enemy_Walker_SFX_05	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Enemy_Walker_SFX_05_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Enemy_Walker_SFX\CAS_Enemy_Walker_SFX_05		47772
+	654614427	CAS_Enemy_Floater_Breath_08	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Enemy_Floater_Breath_08_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Enemy_Floater_Breath\CAS_Enemy_Floater_Breath_08		85100
+	656112729	CAS_Enemy_Walker_SFX_11	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Enemy_Walker_SFX_11_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Enemy_Walker_SFX\CAS_Enemy_Walker_SFX_11		23542
+	681876093	CAS_Interact_StoneDoor	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Interact_StoneDoor_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Interact_StoneDoor		19071
+	691189916	sfx_minigame_pqA2_amb_emitter_mushrooms_lp_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pqA2_amb_emitter_mushrooms_lp_03_90870865.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ2\sfx_minigame_pqA2_amb_emitter_mushrooms_lp\sfx_minigame_pqA2_amb_emitter_mushrooms_lp_03		177877
+	694011388	CAS_Ambience_Thunder_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Ambience_Thunder_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Ambience_Thunder\CAS_Ambience_Thunder_01		43723
+	696725782	sfx_minigame_pqA2_enemy_hit_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pqA2_enemy_hit_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ2\sfx_minigame_pqA2_enemy_hit\sfx_minigame_pqA2_enemy_hit_01		2493
+	710885366	sfx_minigame_pq3_stageCurtains_open	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pq3_stageCurtains_open_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ3\sfx_minigame_pq3_stageCurtains_open		6778
+	718480375	CAS_Enemy_Walker_SFX_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Enemy_Walker_SFX_02_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Enemy_Walker_SFX\CAS_Enemy_Walker_SFX_02		70964
+	719430081	CAS_Enemy_Floater_Breath_06	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Enemy_Floater_Breath_06_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Enemy_Floater_Breath\CAS_Enemy_Floater_Breath_06		67815
+	731903787	sfx_minigame_pqA2_amb_emitter_mushrooms_lp_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pqA2_amb_emitter_mushrooms_lp_01_90870865.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ2\sfx_minigame_pqA2_amb_emitter_mushrooms_lp\sfx_minigame_pqA2_amb_emitter_mushrooms_lp_01		94604
+	742161428	sfx_minigame_pq3_scream	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pq3_scream_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ3\sfx_minigame_pq3_scream		70841
+	750505703	sfx_minigame_pq3_title_screen_glitch_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pq3_title_screen_glitch_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ3\sfx_minigame_pq3_title_screen_glitch\sfx_minigame_pq3_title_screen_glitch_01		19487
+	776657268	sfx_minigame_pqA2_enemy_hit_04	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pqA2_enemy_hit_04_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ2\sfx_minigame_pqA2_enemy_hit\sfx_minigame_pqA2_enemy_hit_04		2926
+	784220636	sfx_minigame_pqA2_bipedalBunny_attack	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pqA2_bipedalBunny_attack_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ2\sfx_minigame_pqA2_bipedalBunny_attack		7547
+	788887849	CAS_FootStep_Stone_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_FootStep_Stone_03_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_FootStep_Stone\CAS_FootStep_Stone_03		13191
+	788912586	CAS_Enemy_Walker_SFX_08	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Enemy_Walker_SFX_08_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Enemy_Walker_SFX\CAS_Enemy_Walker_SFX_08		43464
+	790292932	BossRoom_Reveal	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\BossRoom_Reveal_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\BossRoom_Reveal		71929
+	795843891	CAS_Enemy_Walker_SFX_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Enemy_Walker_SFX_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Enemy_Walker_SFX\CAS_Enemy_Walker_SFX_01		19596
+	800392623	sfx_minigame_pq3_door_openClose	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pq3_door_openClose_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ3\sfx_minigame_pq3_door_openClose		12908
+	834914283	CAS_Enemy_Floater_Breath_10	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Enemy_Floater_Breath_10_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Enemy_Floater_Breath\CAS_Enemy_Floater_Breath_10		68652
+	912208829	CAS_Torch	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Torch_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Torch		6191
+	916255416	sfx_minigame_pqA2_enemy_hit_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pqA2_enemy_hit_02_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ2\sfx_minigame_pqA2_enemy_hit\sfx_minigame_pqA2_enemy_hit_02		2647
+	923575653	CAS_Interact_LockedWoodDoor	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Interact_LockedWoodDoor_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Interact_LockedWoodDoor		33276
+	924950128	CAS_Enemy_Floater_Breath_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Enemy_Floater_Breath_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Enemy_Floater_Breath\CAS_Enemy_Floater_Breath_01		162422
+	942095022	sfx_minigame_pq3_glitchChest_lp	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pq3_glitchChest_lp_90870865.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ3\sfx_minigame_pq3_glitchChest_lp		102796
+	960721370	CAS_Enemy_Walker_SFX_04	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Enemy_Walker_SFX_04_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Enemy_Walker_SFX\CAS_Enemy_Walker_SFX_04		17564
+	967974961	CAS_Boss_Voice_Glitched	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Boss_Voice_Glitched_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Boss_Voice_Glitched		321790
+	974225670	sfx_minigame_pq3_conveyorBelt_lp	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pq3_conveyorBelt_lp_90870865.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ3\sfx_minigame_pq3_conveyorBelt_lp		78978
+	1009120977	sfx_minigame_pqA2_enemy_dematerialize	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pqA2_enemy_dematerialize_01_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ2\sfx_minigame_pqA2_enemy_dematerialize		16844
+	1056435880	sfx_minigame_pqA2_sword_swing_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pqA2_sword_swing_02_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ2\sfx_minigame_pqA2_sword_swing\sfx_minigame_pqA2_sword_swing_02		2342
+	1060273638	sfx_minigame_pq3_title_screen_glitch_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pq3_title_screen_glitch_03_F32062C7.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ3\sfx_minigame_pq3_title_screen_glitch\sfx_minigame_pq3_title_screen_glitch_03		19877
+	1066344962	sfx_minigame_pqA2_amb_emitter_mushrooms_lp_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pqA2_amb_emitter_mushrooms_lp_02_90870865.wem		\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ2\sfx_minigame_pqA2_amb_emitter_mushrooms_lp\sfx_minigame_pqA2_amb_emitter_mushrooms_lp_02		98265
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	29075957	Cought_in_a_Loop	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\Cought_in_a_Loop_90870865.wem	29075957.wem	\Actor-Mixer Hierarchy\Minigames\PrincessQuest\Cought_in_a_Loop	
+	505239583	CAS_Ambience_Rain	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Ambience_Rain_90870865.wem	505239583.wem	\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Ambience_Rain	
+	739730639	sfx_minigame_pq3_amb_bed_bunker	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_minigame_pq3_amb_bed_bunker_90870865.wem	739730639.wem	\Actor-Mixer Hierarchy\Minigames\PrincessQuest\PQ3\sfx_minigame_pq3_amb_bed_bunker	
+	773165517	CAS_Music_TitleTheme	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_Music_TitleTheme_90870865.wem	773165517.wem	\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_Music_TitleTheme	
+	994243654	CAS_ContinueMusic	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\CAS_ContinueMusic_90870865.wem	994243654.wem	\Actor-Mixer Hierarchy\Minigames\PrincessQuest\CAS_ContinueMusic	
+

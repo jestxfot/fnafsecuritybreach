@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>I:\Quarters\fnaf9\fnaf9_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>I:\Quarters\fnaf9\Content\WwiseAudio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>I:\Quarters\fnaf9\fnaf9_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="2823808769" GUID="{D2B2CB27-F872-4D4B-8AF6-3F00CA029E0F}" Language="SFX" Hash="3010462128">
+			<ObjectPath>\SoundBanks\Default Work Unit\MiniGames</ObjectPath>
+			<ShortName>MiniGames</ShortName>
+			<Path>MiniGames.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1819477743" Name="Play_BB_Balloon_Get_01" ObjectPath="\Events\Default Work Unit\MiniGames\BalloonBoy\Play_BB_Balloon_Get_01" GUID="{1E973CBF-FDA2-4DF7-8687-99920EB3B01B}" DurationType="OneShot" DurationMin="0.273787" DurationMax="0.273787">
+					<IncludedMemoryFiles>
+						<File Id="649887777" Language="SFX">
+							<ShortName>BB_Balloon_Get_01.WAV</ShortName>
+							<Path>SFX\BB_Balloon_Get_01_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1819477740" Name="Play_BB_Balloon_Get_02" ObjectPath="\Events\Default Work Unit\MiniGames\BalloonBoy\Play_BB_Balloon_Get_02" GUID="{716CD293-B95A-4E6D-949F-5FBB5C8E5B24}" DurationType="OneShot" DurationMin="0.293991" DurationMax="0.293991">
+					<IncludedMemoryFiles>
+						<File Id="584797845" Language="SFX">
+							<ShortName>BB_Balloon_Get_02.WAV</ShortName>
+							<Path>SFX\BB_Balloon_Get_02_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1819477741" Name="Play_BB_Balloon_Get_03" ObjectPath="\Events\Default Work Unit\MiniGames\BalloonBoy\Play_BB_Balloon_Get_03" GUID="{28ACE00A-54C9-482B-A719-F33BE8A7C879}" DurationType="OneShot" DurationMin="0.575170" DurationMax="0.575170">
+					<IncludedMemoryFiles>
+						<File Id="635013717" Language="SFX">
+							<ShortName>BB_Balloon_Get_03.WAV</ShortName>
+							<Path>SFX\BB_Balloon_Get_03_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="855298741" Name="Play_BB_Crack" ObjectPath="\Events\Default Work Unit\MiniGames\BalloonBoy\Play_BB_Crack" GUID="{CFE8D28F-3E9B-4B46-9004-26C97FCAAB62}" DurationType="OneShot" DurationMin="0.363537" DurationMax="0.363537">
+					<IncludedMemoryFiles>
+						<File Id="1058842680" Language="SFX">
+							<ShortName>BB_Ouch.WAV</ShortName>
+							<Path>SFX\BB_Ouch_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4193342138" Name="Play_BB_Damage" ObjectPath="\Events\Default Work Unit\MiniGames\BalloonBoy\Play_BB_Damage" GUID="{802FF2F6-EA8D-4A7F-8FBD-6D56BDF9CBA2}" DurationType="OneShot" DurationMin="0.359909" DurationMax="0.359909">
+					<IncludedMemoryFiles>
+						<File Id="325551066" Language="SFX">
+							<ShortName>BB_BalloonBoyHit.WAV</ShortName>
+							<Path>SFX\BB_BalloonBoyHit_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3108199889" Name="Play_BB_Death" ObjectPath="\Events\Default Work Unit\MiniGames\BalloonBoy\Play_BB_Death" GUID="{317D5263-F0C9-4F06-8C5C-9A742DD58AD3}" DurationType="OneShot" DurationMin="2.250000" DurationMax="2.250000">
+					<IncludedMemoryFiles>
+						<File Id="530346220" Language="SFX">
+							<ShortName>BB_Death.WAV</ShortName>
+							<Path>SFX\BB_Death_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3843530281" Name="Play_BB_Jump" ObjectPath="\Events\Default Work Unit\MiniGames\BalloonBoy\Play_BB_Jump" GUID="{03269A89-5BD1-46B5-96E9-4C9B534E490C}" DurationType="OneShot" DurationMin="0.239093" DurationMax="0.239093">
+					<IncludedMemoryFiles>
+						<File Id="314636237" Language="SFX">
+							<ShortName>BB_Balloon_Wump.WAV</ShortName>
+							<Path>SFX\BB_Balloon_Wump_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2048239221" Name="Play_BB_Pickup" ObjectPath="\Events\Default Work Unit\MiniGames\BalloonBoy\Play_BB_Pickup" GUID="{08B2781D-2688-4F44-87D9-EEA05FD028F1}" DurationType="OneShot" DurationMin="0.604758" DurationMax="0.626085">
+					<IncludedMemoryFiles>
+						<File Id="166916969" Language="SFX">
+							<ShortName>BB_BalloonBoyCoinGet.WAV</ShortName>
+							<Path>SFX\BB_BalloonBoyCoinGet_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="363190361" Name="Play_BB_ScorePickup" ObjectPath="\Events\Default Work Unit\MiniGames\BalloonBoy\Play_BB_ScorePickup" GUID="{B86343FD-BC5D-4DC5-B777-97B3A568F7BE}" DurationType="OneShot" DurationMin="0.604758" DurationMax="0.626085">
+					<IncludedMemoryFiles>
+						<File Id="166916969" Language="SFX">
+							<ShortName>BB_BalloonBoyCoinGet.WAV</ShortName>
+							<Path>SFX\BB_BalloonBoyCoinGet_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="433964055" Name="Play_BB_SoundTrack" ObjectPath="\Events\Default Work Unit\MiniGames\BalloonBoy\Play_BB_SoundTrack" GUID="{4EA130D2-844B-495C-AE8D-CC00E83373F8}" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="427950478" Language="SFX">
+							<ShortName>BB_Purple_Smasher.WAV</ShortName>
+							<Path>SFX\BB_Purple_Smasher_F585A561.wem</Path>
+						</File>
+						<File Id="631062037" Language="SFX">
+							<ShortName>BB_Static_Loop.WAV</ShortName>
+							<Path>SFX\BB_Static_Loop_F585A561.wem</Path>
+						</File>
+						<File Id="829305080" Language="SFX">
+							<ShortName>BB_PurpleSmasher_Glitched.WAV</ShortName>
+							<Path>SFX\BB_PurpleSmasher_Glitched_F585A561.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{04C9AB97-4023-43EB-A23F-CFFD5354AF11}">
+							<Media>
+								<File Id="427950478"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{2DFECC09-C326-42C8-AAC6-0946D5ED6DCE}">
+							<Media>
+								<File Id="427950478"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{853667E1-1308-4289-99CF-AB263CE7A5E4}">
+							<Media>
+								<File Id="631062037"/>
+								<File Id="829305080"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+					<ActionSetState>
+						<ActionSetStateEntry Id="1160234136" Name="Normal" ObjectPath="\States\Default Work Unit\BB_SOUNDTRACK\Normal" GUID="{2DFECC09-C326-42C8-AAC6-0946D5ED6DCE}"/>
+					</ActionSetState>
+				</Event>
+				<Event Id="2559352954" Name="Play_BB_Tada_Highscore" ObjectPath="\Events\Default Work Unit\MiniGames\BalloonBoy\Play_BB_Tada_Highscore" GUID="{BB931A9F-AFAB-46CD-B482-FB0CCE31FADA}" DurationType="OneShot" DurationMin="2.556395" DurationMax="2.556395">
+					<IncludedMemoryFiles>
+						<File Id="288280504" Language="SFX">
+							<ShortName>BB_Tada_NewHighScore.WAV</ShortName>
+							<Path>SFX\BB_Tada_NewHighScore_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1888357842" Name="Play_BB_Tada_Loop" ObjectPath="\Events\Default Work Unit\MiniGames\BalloonBoy\Play_BB_Tada_Loop" GUID="{76781A09-7D14-4E37-A3FF-5EB0D2A05DA0}" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="776593002" Language="SFX">
+							<ShortName>BB_SquareWave_01.WAV</ShortName>
+							<Path>SFX\BB_SquareWave_01_90870865.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2537645289" Name="Play_BB_Tada_Normal" ObjectPath="\Events\Default Work Unit\MiniGames\BalloonBoy\Play_BB_Tada_Normal" GUID="{14A79BC0-6911-4D07-88E3-EE8DA5A1C8D6}" DurationType="OneShot" DurationMin="0.875011" DurationMax="0.875011">
+					<IncludedMemoryFiles>
+						<File Id="1000316319" Language="SFX">
+							<ShortName>BB_Tada.WAV</ShortName>
+							<Path>SFX\BB_Tada_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1765237267" Name="Play_GG_BallBounce_LastBounce" ObjectPath="\Events\Default Work Unit\MiniGames\GatorGolf\Play_GG_BallBounce_LastBounce" GUID="{100F903E-0DDF-4175-BB12-BB6AF3027215}" DurationType="OneShot" DurationMin="0.608396" DurationMax="0.798333">
+					<IncludedMemoryFiles>
+						<File Id="198432248" Language="SFX">
+							<ShortName>sfx_gg_golf_bounce_02.wav</ShortName>
+							<Path>SFX\sfx_gg_golf_bounce_02_F32062C7.wem</Path>
+						</File>
+						<File Id="513747771" Language="SFX">
+							<ShortName>sfx_gg_golf_bounce_05.wav</ShortName>
+							<Path>SFX\sfx_gg_golf_bounce_05_F32062C7.wem</Path>
+						</File>
+						<File Id="571223936" Language="SFX">
+							<ShortName>sfx_gg_golf_bounce_06.wav</ShortName>
+							<Path>SFX\sfx_gg_golf_bounce_06_F32062C7.wem</Path>
+						</File>
+						<File Id="588472086" Language="SFX">
+							<ShortName>sfx_gg_golf_bounce_04.wav</ShortName>
+							<Path>SFX\sfx_gg_golf_bounce_04_F32062C7.wem</Path>
+						</File>
+						<File Id="1015100796" Language="SFX">
+							<ShortName>sfx_gg_golf_bounce_03.wav</ShortName>
+							<Path>SFX\sfx_gg_golf_bounce_03_F32062C7.wem</Path>
+						</File>
+						<File Id="1055297141" Language="SFX">
+							<ShortName>sfx_gg_golf_bounce_01.wav</ShortName>
+							<Path>SFX\sfx_gg_golf_bounce_01_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="991074340" Name="Play_GG_BallBounce_Once" ObjectPath="\Events\Default Work Unit\MiniGames\GatorGolf\Play_GG_BallBounce_Once" GUID="{FB3912F2-A7B1-4786-B0E8-530D04103A0E}" DurationType="OneShot" DurationMin="0.197545" DurationMax="0.293687">
+					<IncludedMemoryFiles>
+						<File Id="60797065" Language="SFX">
+							<ShortName>sfx_gg_golf_bounce_01.wav</ShortName>
+							<Path>SFX\sfx_gg_golf_bounce_01_30439D80.wem</Path>
+						</File>
+						<File Id="275022491" Language="SFX">
+							<ShortName>sfx_gg_golf_bounce_03.wav</ShortName>
+							<Path>SFX\sfx_gg_golf_bounce_03_A184A660.wem</Path>
+						</File>
+						<File Id="369689451" Language="SFX">
+							<ShortName>sfx_gg_golf_bounce_05.wav</ShortName>
+							<Path>SFX\sfx_gg_golf_bounce_05_543C8515.wem</Path>
+						</File>
+						<File Id="548241771" Language="SFX">
+							<ShortName>sfx_gg_golf_bounce_04.wav</ShortName>
+							<Path>SFX\sfx_gg_golf_bounce_04_639251EC.wem</Path>
+						</File>
+						<File Id="729666568" Language="SFX">
+							<ShortName>sfx_gg_golf_bounce_06.wav</ShortName>
+							<Path>SFX\sfx_gg_golf_bounce_06_EBA48808.wem</Path>
+						</File>
+						<File Id="883723325" Language="SFX">
+							<ShortName>sfx_gg_golf_bounce_02.wav</ShortName>
+							<Path>SFX\sfx_gg_golf_bounce_02_CA0CEDD0.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4194030438" Name="Play_GG_BallHitsWall" ObjectPath="\Events\Default Work Unit\MiniGames\GatorGolf\Play_GG_BallHitsWall" GUID="{B10CD50B-4EC0-4BEA-84B8-7BCDB8E251CA}" DurationType="OneShot" DurationMin="0.475052" DurationMax="0.709239">
+					<IncludedMemoryFiles>
+						<File Id="19525001" Language="SFX">
+							<ShortName>sfx_gg_golf_wallhit_06.wav</ShortName>
+							<Path>SFX\sfx_gg_golf_wallhit_06_F32062C7.wem</Path>
+						</File>
+						<File Id="350731907" Language="SFX">
+							<ShortName>sfx_gg_golf_wallhit_04.wav</ShortName>
+							<Path>SFX\sfx_gg_golf_wallhit_04_F32062C7.wem</Path>
+						</File>
+						<File Id="527582547" Language="SFX">
+							<ShortName>sfx_gg_golf_wallhit_01.wav</ShortName>
+							<Path>SFX\sfx_gg_golf_wallhit_01_F32062C7.wem</Path>
+						</File>
+						<File Id="538175999" Language="SFX">
+							<ShortName>sfx_gg_golf_wallhit_05.wav</ShortName>
+							<Path>SFX\sfx_gg_golf_wallhit_05_F32062C7.wem</Path>
+						</File>
+						<File Id="904478750" Language="SFX">
+							<ShortName>sfx_gg_golf_wallhit_02.wav</ShortName>
+							<Path>SFX\sfx_gg_golf_wallhit_02_F32062C7.wem</Path>
+						</File>
+						<File Id="910533189" Language="SFX">
+							<ShortName>sfx_gg_golf_wallhit_03.wav</ShortName>
+							<Path>SFX\sfx_gg_golf_wallhit_03_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2514561578" Name="Play_GG_InCup" ObjectPath="\Events\Default Work Unit\MiniGames\GatorGolf\Play_GG_InCup" GUID="{8ED6599D-77EE-4AA3-9436-BB6B270403CB}" DurationType="OneShot" DurationMin="1.115354" DurationMax="1.426521">
+					<IncludedMemoryFiles>
+						<File Id="49756882" Language="SFX">
+							<ShortName>sfx_gg_golf_incup_02.wav</ShortName>
+							<Path>SFX\sfx_gg_golf_incup_02_F32062C7.wem</Path>
+						</File>
+						<File Id="740738604" Language="SFX">
+							<ShortName>sfx_gg_golf_incup_01.wav</ShortName>
+							<Path>SFX\sfx_gg_golf_incup_01_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="93868345" Name="Play_GG_Strike_Heavy" ObjectPath="\Events\Default Work Unit\MiniGames\GatorGolf\Play_GG_Strike_Heavy" GUID="{0452F93B-8AEF-4F5B-89E7-922DD5649404}" DurationType="OneShot" DurationMin="1.271500" DurationMax="1.403896">
+					<IncludedMemoryFiles>
+						<File Id="151699836" Language="SFX">
+							<ShortName>sfx_gg_golf_strike_04.wav</ShortName>
+							<Path>SFX\sfx_gg_golf_strike_04_F32062C7.wem</Path>
+						</File>
+						<File Id="658008159" Language="SFX">
+							<ShortName>sfx_gg_golf_roll_03.wav</ShortName>
+							<Path>SFX\sfx_gg_golf_roll_03_F32062C7.wem</Path>
+						</File>
+						<File Id="672017179" Language="SFX">
+							<ShortName>sfx_gg_golf_roll_01.wav</ShortName>
+							<Path>SFX\sfx_gg_golf_roll_01_F32062C7.wem</Path>
+						</File>
+						<File Id="683621460" Language="SFX">
+							<ShortName>sfx_gg_golf_strike_05.wav</ShortName>
+							<Path>SFX\sfx_gg_golf_strike_05_F32062C7.wem</Path>
+						</File>
+						<File Id="780366724" Language="SFX">
+							<ShortName>sfx_gg_golf_strike_07.wav</ShortName>
+							<Path>SFX\sfx_gg_golf_strike_07_F32062C7.wem</Path>
+						</File>
+						<File Id="1056550956" Language="SFX">
+							<ShortName>sfx_gg_golf_roll_02.wav</ShortName>
+							<Path>SFX\sfx_gg_golf_roll_02_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="709082776" Name="Play_GG_Strike_Light" ObjectPath="\Events\Default Work Unit\MiniGames\GatorGolf\Play_GG_Strike_Light" GUID="{03DA9BFA-CAD8-4B3F-A594-0264A8C41688}" DurationType="OneShot" DurationMin="1.171500" DurationMax="1.303896">
+					<IncludedMemoryFiles>
+						<File Id="160426992" Language="SFX">
+							<ShortName>sfx_gg_golf_strike_02.wav</ShortName>
+							<Path>SFX\sfx_gg_golf_strike_02_F32062C7.wem</Path>
+						</File>
+						<File Id="235576188" Language="SFX">
+							<ShortName>sfx_gg_golf_strike_01.wav</ShortName>
+							<Path>SFX\sfx_gg_golf_strike_01_F32062C7.wem</Path>
+						</File>
+						<File Id="379245340" Language="SFX">
+							<ShortName>sfx_gg_golf_strike_03.wav</ShortName>
+							<Path>SFX\sfx_gg_golf_strike_03_F32062C7.wem</Path>
+						</File>
+						<File Id="658008159" Language="SFX">
+							<ShortName>sfx_gg_golf_roll_03.wav</ShortName>
+							<Path>SFX\sfx_gg_golf_roll_03_F32062C7.wem</Path>
+						</File>
+						<File Id="672017179" Language="SFX">
+							<ShortName>sfx_gg_golf_roll_01.wav</ShortName>
+							<Path>SFX\sfx_gg_golf_roll_01_F32062C7.wem</Path>
+						</File>
+						<File Id="1056550956" Language="SFX">
+							<ShortName>sfx_gg_golf_roll_02.wav</ShortName>
+							<Path>SFX\sfx_gg_golf_roll_02_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="107559365" Name="Play_LazerTagGun_Shoot_2D" ObjectPath="\Events\Default Work Unit\MiniGames\LazerTag\Play_LazerTagGun_Shoot_2D" GUID="{42F3E236-C891-4012-97E6-7083B06C1EDF}" DurationType="OneShot" DurationMin="0.862386" DurationMax="1.044274">
+					<IncludedMemoryFiles>
+						<File Id="51316734" Language="SFX">
+							<ShortName>sfx_fazerblast_shot_player_05.wav</ShortName>
+							<Path>SFX\sfx_fazerblast_shot_player_05_9441A322.wem</Path>
+						</File>
+						<File Id="320740920" Language="SFX">
+							<ShortName>sfx_fazerblast_shot_player_02.wav</ShortName>
+							<Path>SFX\sfx_fazerblast_shot_player_02_9441A322.wem</Path>
+						</File>
+						<File Id="350552949" Language="SFX">
+							<ShortName>sfx_fazerblast_shot_player_01.wav</ShortName>
+							<Path>SFX\sfx_fazerblast_shot_player_01_9441A322.wem</Path>
+						</File>
+						<File Id="722599845" Language="SFX">
+							<ShortName>sfx_fazerblast_shot_player_03.wav</ShortName>
+							<Path>SFX\sfx_fazerblast_shot_player_03_9441A322.wem</Path>
+						</File>
+						<File Id="729804541" Language="SFX">
+							<ShortName>sfx_fazerblast_shot_player_04.wav</ShortName>
+							<Path>SFX\sfx_fazerblast_shot_player_04_9441A322.wem</Path>
+						</File>
+						<File Id="852574916" Language="SFX">
+							<ShortName>sfx_fazerblast_shot_player_06.wav</ShortName>
+							<Path>SFX\sfx_fazerblast_shot_player_06_9441A322.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="90781802" Name="Play_LazerTagGun_Shoot_3D" ObjectPath="\Events\Default Work Unit\MiniGames\LazerTag\Play_LazerTagGun_Shoot_3D" GUID="{B44C79DB-D484-4D07-97A5-F249830BFB72}" MaxAttenuation="5000.000000" DurationType="OneShot" DurationMin="0.796352" DurationMax="1.044274">
+					<IncludedMemoryFiles>
+						<File Id="22994013" Language="SFX">
+							<ShortName>sfx_fazerblast_shot_enemy_02.wav</ShortName>
+							<Path>SFX\sfx_fazerblast_shot_enemy_02_9441A322.wem</Path>
+						</File>
+						<File Id="839347981" Language="SFX">
+							<ShortName>sfx_fazerblast_shot_enemy_05.wav</ShortName>
+							<Path>SFX\sfx_fazerblast_shot_enemy_05_9441A322.wem</Path>
+						</File>
+						<File Id="927411389" Language="SFX">
+							<ShortName>sfx_fazerblast_shot_enemy_01.wav</ShortName>
+							<Path>SFX\sfx_fazerblast_shot_enemy_01_9441A322.wem</Path>
+						</File>
+						<File Id="931648028" Language="SFX">
+							<ShortName>sfx_fazerblast_shot_enemy_03.wav</ShortName>
+							<Path>SFX\sfx_fazerblast_shot_enemy_03_9441A322.wem</Path>
+						</File>
+						<File Id="961543533" Language="SFX">
+							<ShortName>sfx_fazerblast_shot_enemy_04.wav</ShortName>
+							<Path>SFX\sfx_fazerblast_shot_enemy_04_9441A322.wem</Path>
+						</File>
+						<File Id="1044536712" Language="SFX">
+							<ShortName>sfx_fazerblast_shot_enemy_06.wav</ShortName>
+							<Path>SFX\sfx_fazerblast_shot_enemy_06_9441A322.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1271110762" Name="Play_MINI_GOLF_INTRO___FINAL___09_10_21" ObjectPath="\Events\Default Work Unit\MusicStreaming\Play_MINI_GOLF_INTRO___FINAL___09_10_21" GUID="{38FB013A-C01B-4C07-8808-721E1FBA38FC}" DurationType="OneShot" DurationMin="66.004753" DurationMax="66.004753">
+					<IncludedMemoryFiles>
+						<File Id="1056413595" Language="SFX">
+							<ShortName>MINI GOLF INTRO - FINAL - 09-10-21.wav</ShortName>
+							<Path>SFX\MINI GOLF INTRO - FINAL - 09-10-21_F585A561.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2846616430" Name="Play_sfx_minigame_chicaFF_glitchMode_lp" ObjectPath="\Events\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_sfx_minigame_chicaFF_glitchMode_lp" GUID="{86CA90F1-7BE4-4176-B462-6A4B9B96A901}" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="502019467" Language="SFX">
+							<ShortName>sfx_minigame_chicaFF_glitchMode_lp.wav</ShortName>
+							<Path>SFX\sfx_minigame_chicaFF_glitchMode_lp_90870865.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1247650314" Name="Play_sfx_minigame_chicaFF_orb_explode" ObjectPath="\Events\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_sfx_minigame_chicaFF_orb_explode" GUID="{188678E5-6127-4F36-B049-5EAAC4F29A82}" DurationType="OneShot" DurationMin="1.750000" DurationMax="1.750000">
+					<IncludedMemoryFiles>
+						<File Id="266719381" Language="SFX">
+							<ShortName>sfx_minigame_chicaFF_orb_explode.wav</ShortName>
+							<Path>SFX\sfx_minigame_chicaFF_orb_explode_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1582427352" Name="Play_sfx_minigame_chicaFF_orb_shoot" ObjectPath="\Events\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_sfx_minigame_chicaFF_orb_shoot" GUID="{E11EA693-5F3B-41DA-BE18-4F681589C972}" DurationType="OneShot" DurationMin="0.196463" DurationMax="0.196463">
+					<IncludedMemoryFiles>
+						<File Id="223629444" Language="SFX">
+							<ShortName>sfx_minigame_chicaFF_orb_shoot.wav</ShortName>
+							<Path>SFX\sfx_minigame_chicaFF_orb_shoot_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2863667920" Name="Play_sfx_minigame_chicaFF_orb_spawn" ObjectPath="\Events\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_sfx_minigame_chicaFF_orb_spawn" GUID="{0AA1F4DB-2568-4417-9B74-88A0CF41C769}" DurationType="OneShot" DurationMin="4.000000" DurationMax="4.000000">
+					<IncludedMemoryFiles>
+						<File Id="591900130" Language="SFX">
+							<ShortName>sfx_minigame_chicaFF_orb_spawn.wav</ShortName>
+							<Path>SFX\sfx_minigame_chicaFF_orb_spawn_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="292711976" Name="Play_sfx_minigame_chicaFF_wave_begin" ObjectPath="\Events\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_sfx_minigame_chicaFF_wave_begin" GUID="{5B458246-0AC5-4CDF-BE3E-FF135327622D}" DurationType="OneShot" DurationMin="3.000000" DurationMax="3.000000">
+					<IncludedMemoryFiles>
+						<File Id="517733352" Language="SFX">
+							<ShortName>sfx_minigame_chicaFF_wave_begin.wav</ShortName>
+							<Path>SFX\sfx_minigame_chicaFF_wave_begin_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4007896767" Name="Play_sfx_minigame_chicaFF_weaponPickup_spin_lp" ObjectPath="\Events\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_sfx_minigame_chicaFF_weaponPickup_spin_lp" GUID="{29083D6C-13E6-41BB-A7FC-6E2F2220F552}" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="427350112" Language="SFX">
+							<ShortName>sfx_minigame_chicaFF_weaponPickup_spin_lp.wav</ShortName>
+							<Path>SFX\sfx_minigame_chicaFF_weaponPickup_spin_lp_90870865.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1735243809" Name="Play_sfx_minigame_golf_ball_bounce_hard" ObjectPath="\Events\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_ball_bounce_hard" GUID="{0E25C0C6-6A59-4AA0-A30C-91EAE021A09B}" MaxAttenuation="3000.000000" DurationType="OneShot" DurationMin="0.364335" DurationMax="0.386000">
+					<IncludedMemoryFiles>
+						<File Id="78329469" Language="SFX">
+							<ShortName>sfx_minigame_golf_ball_bounce_hard_02.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_ball_bounce_hard_02_F32062C7.wem</Path>
+						</File>
+						<File Id="129352437" Language="SFX">
+							<ShortName>sfx_minigame_golf_ball_bounce_hard_05.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_ball_bounce_hard_05_F32062C7.wem</Path>
+						</File>
+						<File Id="170396304" Language="SFX">
+							<ShortName>sfx_minigame_golf_ball_bounce_hard_03.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_ball_bounce_hard_03_F32062C7.wem</Path>
+						</File>
+						<File Id="217146883" Language="SFX">
+							<ShortName>sfx_minigame_golf_ball_bounce_hard_06.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_ball_bounce_hard_06_F32062C7.wem</Path>
+						</File>
+						<File Id="324815176" Language="SFX">
+							<ShortName>sfx_minigame_golf_ball_bounce_hard_04.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_ball_bounce_hard_04_F32062C7.wem</Path>
+						</File>
+						<File Id="927679779" Language="SFX">
+							<ShortName>sfx_minigame_golf_ball_bounce_hard_01.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_ball_bounce_hard_01_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2985898637" Name="Play_sfx_minigame_golf_ball_bounce_thud" ObjectPath="\Events\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_ball_bounce_thud" GUID="{EAFECE87-2501-4492-AE36-7DA09692419A}" MaxAttenuation="3000.000000" DurationType="OneShot" DurationMin="0.364335" DurationMax="0.386000">
+					<IncludedMemoryFiles>
+						<File Id="280352623" Language="SFX">
+							<ShortName>sfx_minigame_golf_ball_bounce_thud_02.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_ball_bounce_thud_02_F32062C7.wem</Path>
+						</File>
+						<File Id="313063676" Language="SFX">
+							<ShortName>sfx_minigame_golf_ball_bounce_thud_05.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_ball_bounce_thud_05_F32062C7.wem</Path>
+						</File>
+						<File Id="314321956" Language="SFX">
+							<ShortName>sfx_minigame_golf_ball_bounce_thud_01.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_ball_bounce_thud_01_F32062C7.wem</Path>
+						</File>
+						<File Id="325581931" Language="SFX">
+							<ShortName>sfx_minigame_golf_ball_bounce_thud_06.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_ball_bounce_thud_06_F32062C7.wem</Path>
+						</File>
+						<File Id="906686062" Language="SFX">
+							<ShortName>sfx_minigame_golf_ball_bounce_thud_04.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_ball_bounce_thud_04_F32062C7.wem</Path>
+						</File>
+						<File Id="933778385" Language="SFX">
+							<ShortName>sfx_minigame_golf_ball_bounce_thud_03.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_ball_bounce_thud_03_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="675479966" Name="Play_sfx_minigame_golf_ball_water_splash" ObjectPath="\Events\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_ball_water_splash" GUID="{CC34850E-7EA7-446E-A19E-C7C1FE85B087}" MaxAttenuation="3000.000000" DurationType="OneShot" DurationMin="1.092984" DurationMax="1.286628">
+					<IncludedMemoryFiles>
+						<File Id="145778107" Language="SFX">
+							<ShortName>sfx_minigame_golf_ball_water_splash_04.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_ball_water_splash_04_F32062C7.wem</Path>
+						</File>
+						<File Id="233048311" Language="SFX">
+							<ShortName>sfx_minigame_golf_ball_water_splash_01.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_ball_water_splash_01_F32062C7.wem</Path>
+						</File>
+						<File Id="292983833" Language="SFX">
+							<ShortName>sfx_minigame_golf_ball_water_splash_05.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_ball_water_splash_05_F32062C7.wem</Path>
+						</File>
+						<File Id="558357644" Language="SFX">
+							<ShortName>sfx_minigame_golf_ball_water_splash_02.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_ball_water_splash_02_F32062C7.wem</Path>
+						</File>
+						<File Id="722184854" Language="SFX">
+							<ShortName>sfx_minigame_golf_ball_water_splash_03.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_ball_water_splash_03_F32062C7.wem</Path>
+						</File>
+						<File Id="1057575502" Language="SFX">
+							<ShortName>sfx_minigame_golf_ball_water_splash_06.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_ball_water_splash_06_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2714482474" Name="Play_sfx_minigame_golf_balloonboy_animatronic_move" ObjectPath="\Events\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_balloonboy_animatronic_move" GUID="{C988AF77-7A57-4E25-9E10-D69ED0BFF1C7}" MaxAttenuation="30000.000000" DurationType="OneShot" DurationMin="1.700181" DurationMax="1.801279">
+					<IncludedMemoryFiles>
+						<File Id="435014946" Language="SFX">
+							<ShortName>sfx_minigame_golf_balloonboy_animatronic_move_02.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_balloonboy_animatronic_move_02_F32062C7.wem</Path>
+						</File>
+						<File Id="552550994" Language="SFX">
+							<ShortName>sfx_minigame_golf_balloonboy_animatronic_move_03.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_balloonboy_animatronic_move_03_F32062C7.wem</Path>
+						</File>
+						<File Id="733700712" Language="SFX">
+							<ShortName>sfx_minigame_golf_balloonboy_animatronic_move_05.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_balloonboy_animatronic_move_05_F32062C7.wem</Path>
+						</File>
+						<File Id="814007782" Language="SFX">
+							<ShortName>sfx_minigame_golf_balloonboy_animatronic_move_01.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_balloonboy_animatronic_move_01_F32062C7.wem</Path>
+						</File>
+						<File Id="994089262" Language="SFX">
+							<ShortName>sfx_minigame_golf_balloonboy_animatronic_move_04.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_balloonboy_animatronic_move_04_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1585358622" Name="Play_sfx_minigame_golf_cupcake_swing" ObjectPath="\Events\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_cupcake_swing" GUID="{365BE7F0-DC75-47DF-8004-3CF8E562E51A}" MaxAttenuation="7500.000000" DurationType="OneShot" DurationMin="4.857660" DurationMax="5.146511">
+					<IncludedMemoryFiles>
+						<File Id="392207614" Language="SFX">
+							<ShortName>sfx_minigame_golf_cupcake_swing_03.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_cupcake_swing_03_F32062C7.wem</Path>
+						</File>
+						<File Id="558458708" Language="SFX">
+							<ShortName>sfx_minigame_golf_cupcake_swing_04.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_cupcake_swing_04_F32062C7.wem</Path>
+						</File>
+						<File Id="652362799" Language="SFX">
+							<ShortName>sfx_minigame_golf_cupcake_swing_01.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_cupcake_swing_01_F32062C7.wem</Path>
+						</File>
+						<File Id="742012947" Language="SFX">
+							<ShortName>sfx_minigame_golf_cupcake_swing_02.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_cupcake_swing_02_F32062C7.wem</Path>
+						</File>
+						<File Id="991605482" Language="SFX">
+							<ShortName>sfx_minigame_golf_cupcake_swing_05.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_cupcake_swing_05_F32062C7.wem</Path>
+						</File>
+						<File Id="1069755821" Language="SFX">
+							<ShortName>sfx_minigame_golf_cupcake_swing_06.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_cupcake_swing_06_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2237217501" Name="Play_sfx_minigame_golf_emitter_vent_fan" ObjectPath="\Events\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_emitter_vent_fan" GUID="{D0E6A0A4-7239-48CE-932B-5BB9268859B1}" MaxAttenuation="15000.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="459856607" Language="SFX">
+							<ShortName>amb_emitter_vent_fan_01.wav</ShortName>
+							<Path>SFX\amb_emitter_vent_fan_01_90870865.wem</Path>
+						</File>
+						<File Id="514683044" Language="SFX">
+							<ShortName>amb_emitter_vent_fan_03.wav</ShortName>
+							<Path>SFX\amb_emitter_vent_fan_03_90870865.wem</Path>
+						</File>
+						<File Id="1001038376" Language="SFX">
+							<ShortName>amb_emitter_vent_fan_02.wav</ShortName>
+							<Path>SFX\amb_emitter_vent_fan_02_90870865.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2410157573" Name="Play_sfx_minigame_golf_introWhoosh" ObjectPath="\Events\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_introWhoosh" GUID="{0AD4587D-B171-4C55-89BC-F80DF892FCE4}" DurationType="OneShot" DurationMin="8.000000" DurationMax="8.000000">
+					<IncludedMemoryFiles>
+						<File Id="335554055" Language="SFX">
+							<ShortName>sfx_minigame_golf_introWhoosh_01.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_introWhoosh_01_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="595728240" Name="Play_sfx_minigame_golf_large_gear_spin_lp" ObjectPath="\Events\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_large_gear_spin_lp" GUID="{A0DF517E-AB15-4B08-8BCE-939F28947152}" MaxAttenuation="3000.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="408508456" Language="SFX">
+							<ShortName>sfx_minigame_golf_large_gear_spin_lp_01.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_large_gear_spin_lp_01_90870865.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2339077932" Name="Play_sfx_minigame_golf_monitor_static_large" ObjectPath="\Events\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_monitor_static_large" GUID="{77E29713-3892-45CD-A695-CC34507DBC68}" MaxAttenuation="12000.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="121417644" Language="SFX">
+							<ShortName>sfx_general_monitor_static_st_03.wav</ShortName>
+							<Path>SFX\sfx_general_monitor_static_st_03_90870865.wem</Path>
+						</File>
+						<File Id="646220317" Language="SFX">
+							<ShortName>sfx_general_monitor_static_st_01.wav</ShortName>
+							<Path>SFX\sfx_general_monitor_static_st_01_90870865.wem</Path>
+						</File>
+						<File Id="691583279" Language="SFX">
+							<ShortName>sfx_general_monitor_static_st_02.wav</ShortName>
+							<Path>SFX\sfx_general_monitor_static_st_02_90870865.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="872754152" Name="Play_sfx_minigame_golf_monty_head_move_down" ObjectPath="\Events\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_monty_head_move_down" GUID="{7BB5FDBE-1967-449B-8EF0-21DB660A85D3}" MaxAttenuation="3000.000000" DurationType="OneShot" DurationMin="1.768805" DurationMax="1.873984">
+					<IncludedMemoryFiles>
+						<File Id="201442833" Language="SFX">
+							<ShortName>sfx_minigame_golf_monty_head_move_down_04.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_monty_head_move_down_04_F32062C7.wem</Path>
+						</File>
+						<File Id="316547620" Language="SFX">
+							<ShortName>sfx_minigame_golf_monty_head_move_down_03.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_monty_head_move_down_03_F32062C7.wem</Path>
+						</File>
+						<File Id="317044086" Language="SFX">
+							<ShortName>sfx_minigame_golf_monty_head_move_down_01.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_monty_head_move_down_01_F32062C7.wem</Path>
+						</File>
+						<File Id="527367324" Language="SFX">
+							<ShortName>sfx_minigame_golf_monty_head_move_down_02.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_monty_head_move_down_02_F32062C7.wem</Path>
+						</File>
+						<File Id="576963846" Language="SFX">
+							<ShortName>sfx_minigame_golf_monty_head_move_down_05.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_monty_head_move_down_05_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3255134123" Name="Play_sfx_minigame_golf_monty_head_move_up" ObjectPath="\Events\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_monty_head_move_up" GUID="{C60684D5-5528-46A6-ABD3-FC4209F56C27}" MaxAttenuation="3000.000000" DurationType="OneShot" DurationMin="1.396583" DurationMax="1.479628">
+					<IncludedMemoryFiles>
+						<File Id="646693073" Language="SFX">
+							<ShortName>sfx_minigame_golf_monty_head_move_up_04.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_monty_head_move_up_04_F32062C7.wem</Path>
+						</File>
+						<File Id="748848076" Language="SFX">
+							<ShortName>sfx_minigame_golf_monty_head_move_up_05.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_monty_head_move_up_05_F32062C7.wem</Path>
+						</File>
+						<File Id="807327811" Language="SFX">
+							<ShortName>sfx_minigame_golf_monty_head_move_up_02.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_monty_head_move_up_02_F32062C7.wem</Path>
+						</File>
+						<File Id="914362276" Language="SFX">
+							<ShortName>sfx_minigame_golf_monty_head_move_up_03.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_monty_head_move_up_03_F32062C7.wem</Path>
+						</File>
+						<File Id="932662049" Language="SFX">
+							<ShortName>sfx_minigame_golf_monty_head_move_up_01.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_monty_head_move_up_01_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2942961818" Name="Play_sfx_minigame_golf_pneumaticPlatform_move" ObjectPath="\Events\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_pneumaticPlatform_move" GUID="{A10A1BE4-55FD-4A31-9075-484D5CBA71C6}" MaxAttenuation="20000.000000" DurationType="OneShot" DurationMin="3.400362" DurationMax="3.602558">
+					<IncludedMemoryFiles>
+						<File Id="15308588" Language="SFX">
+							<ShortName>sfx_minigame_golf_pneumaticPlatform_move_04.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_pneumaticPlatform_move_04_F32062C7.wem</Path>
+						</File>
+						<File Id="501531330" Language="SFX">
+							<ShortName>sfx_minigame_golf_pneumaticPlatform_move_06.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_pneumaticPlatform_move_06_F32062C7.wem</Path>
+						</File>
+						<File Id="564491400" Language="SFX">
+							<ShortName>sfx_minigame_golf_pneumaticPlatform_move_05.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_pneumaticPlatform_move_05_F32062C7.wem</Path>
+						</File>
+						<File Id="770931113" Language="SFX">
+							<ShortName>sfx_minigame_golf_pneumaticPlatform_move_03.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_pneumaticPlatform_move_03_F32062C7.wem</Path>
+						</File>
+						<File Id="776502931" Language="SFX">
+							<ShortName>sfx_minigame_golf_pneumaticPlatform_move_02.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_pneumaticPlatform_move_02_F32062C7.wem</Path>
+						</File>
+						<File Id="807650844" Language="SFX">
+							<ShortName>sfx_minigame_golf_pneumaticPlatform_move_01.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_pneumaticPlatform_move_01_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3068653380" Name="Play_sfx_minigame_golf_pneumaticPlatform_move_finish" ObjectPath="\Events\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_pneumaticPlatform_move_finish" GUID="{4F1AA90D-EB13-40D4-972C-90DCA8F8D8CB}" MaxAttenuation="20000.000000" DurationType="OneShot" DurationMin="4.371894" DurationMax="4.631860">
+					<IncludedMemoryFiles>
+						<File Id="293921756" Language="SFX">
+							<ShortName>sfx_minigame_golf_pneumaticPlatform_move_finish_02.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_pneumaticPlatform_move_finish_02_F32062C7.wem</Path>
+						</File>
+						<File Id="422618892" Language="SFX">
+							<ShortName>sfx_minigame_golf_pneumaticPlatform_move_finish_03.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_pneumaticPlatform_move_finish_03_F32062C7.wem</Path>
+						</File>
+						<File Id="566642683" Language="SFX">
+							<ShortName>sfx_minigame_golf_pneumaticPlatform_move_finish_01.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_pneumaticPlatform_move_finish_01_F32062C7.wem</Path>
+						</File>
+						<File Id="977046008" Language="SFX">
+							<ShortName>sfx_minigame_golf_pneumaticPlatform_move_finish_04.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_pneumaticPlatform_move_finish_04_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2973832907" Name="Play_sfx_minigame_golf_putt_interact_power_tick" ObjectPath="\Events\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_putt_interact_power_tick" GUID="{D1F1B052-A0F1-4EB8-BEEC-A3BA5F9EE115}" DurationType="OneShot" DurationMin="0.093741" DurationMax="0.093741">
+					<IncludedMemoryFiles>
+						<File Id="715213573" Language="SFX">
+							<ShortName>sfx_minigame_golf_putt_interact_power_tick_01.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_putt_interact_power_tick_01_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3158179766" Name="Play_sfx_minigame_golf_putt_interact_start" ObjectPath="\Events\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_putt_interact_start" GUID="{554B045F-66A1-404C-A19A-0AB22DCCF964}" DurationType="OneShot" DurationMin="0.111678" DurationMax="0.111678">
+					<IncludedMemoryFiles>
+						<File Id="762121799" Language="SFX">
+							<ShortName>sfx_minigame_golf_putt_interact_start_01.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_putt_interact_start_01_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="691860075" Name="Play_sfx_minigame_golf_spinningCakePlatform_lp" ObjectPath="\Events\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_spinningCakePlatform_lp" GUID="{4DA99A17-40C2-4CF7-A68E-4E3C5294119B}" MaxAttenuation="10000.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="776888692" Language="SFX">
+							<ShortName>sfx_minigame_golf_spinningPlatform_lp_01.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_spinningPlatform_lp_01_90870865.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="91096959" Name="Play_sfx_minigame_golf_spinningPlatform_lp" ObjectPath="\Events\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_spinningPlatform_lp" GUID="{AAC707E7-4A81-4F5F-9E8F-076961A5D822}" MaxAttenuation="3000.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="776888692" Language="SFX">
+							<ShortName>sfx_minigame_golf_spinningPlatform_lp_01.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_spinningPlatform_lp_01_90870865.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1683990454" Name="Play_sfx_minigame_golf_sting_birdie" ObjectPath="\Events\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_sting_birdie" GUID="{4076065A-54E7-4C02-AD5A-97811A25EA5B}" DurationType="OneShot" DurationMin="3.500000" DurationMax="3.500000">
+					<IncludedMemoryFiles>
+						<File Id="575609017" Language="SFX">
+							<ShortName>sfx_minigame_golf_sting_birdie_01.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_sting_birdie_01_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3961279397" Name="Play_sfx_minigame_golf_sting_bogey" ObjectPath="\Events\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_sting_bogey" GUID="{F4A76456-69C3-48D3-8084-DAE75CD97D4F}" DurationType="OneShot" DurationMin="3.500000" DurationMax="3.500000">
+					<IncludedMemoryFiles>
+						<File Id="628653248" Language="SFX">
+							<ShortName>sfx_minigame_golf_sting_bogey_01.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_sting_bogey_01_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2162267940" Name="Play_sfx_minigame_golf_sting_doubleBogey" ObjectPath="\Events\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_sting_doubleBogey" GUID="{177EE13A-8C20-4908-99E6-5CAE822161D4}" DurationType="OneShot" DurationMin="3.500000" DurationMax="3.500000">
+					<IncludedMemoryFiles>
+						<File Id="556525397" Language="SFX">
+							<ShortName>sfx_minigame_golf_sting_doubleBogey_01.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_sting_doubleBogey_01_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="886505935" Name="Play_sfx_minigame_golf_sting_eagle" ObjectPath="\Events\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_sting_eagle" GUID="{9EBBB2FA-270A-4F50-8C75-9886208D23E6}" DurationType="OneShot" DurationMin="3.500000" DurationMax="3.500000">
+					<IncludedMemoryFiles>
+						<File Id="647305969" Language="SFX">
+							<ShortName>sfx_minigame_golf_sting_eagle_01.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_sting_eagle_01_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="832037579" Name="Play_sfx_minigame_golf_sting_outOfBounds" ObjectPath="\Events\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_sting_outOfBounds" GUID="{1FA6A1DD-4D42-4DE1-947C-6E960B7D51BA}" DurationType="OneShot" DurationMin="2.750000" DurationMax="2.750000">
+					<IncludedMemoryFiles>
+						<File Id="164617683" Language="SFX">
+							<ShortName>sfx_minigame_golf_sting_outOfBounds_01.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_sting_outOfBounds_01_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1506074226" Name="Play_sfx_minigame_golf_sting_par" ObjectPath="\Events\Default Work Unit\MiniGames\GatorGolf\Play_sfx_minigame_golf_sting_par" GUID="{A7C4A2F5-7BE4-4A55-A12A-061AB0A1A189}" DurationType="OneShot" DurationMin="3.500000" DurationMax="3.500000">
+					<IncludedMemoryFiles>
+						<File Id="169619437" Language="SFX">
+							<ShortName>sfx_minigame_golf_sting_par_01.wav</ShortName>
+							<Path>SFX\sfx_minigame_golf_sting_par_01_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2771256" Name="Play_TSS_Coin" ObjectPath="\Events\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_TSS_Coin" GUID="{952E8CF8-F9DD-4693-9015-9D8EB441D5DB}" DurationType="OneShot" DurationMin="1.500000" DurationMax="1.500000">
+					<IncludedMemoryFiles>
+						<File Id="103948900" Language="SFX">
+							<ShortName>TSS_Coin.WAV</ShortName>
+							<Path>SFX\TSS_Coin_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="661961071" Name="Play_TSS_Door" ObjectPath="\Events\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_TSS_Door" GUID="{83D23507-56B0-45BA-868D-2A9BD32962E4}" DurationType="OneShot" DurationMin="1.478639" DurationMax="1.478639">
+					<IncludedMemoryFiles>
+						<File Id="838199559" Language="SFX">
+							<ShortName>TSS_Door.WAV</ShortName>
+							<Path>SFX\TSS_Door_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2071329455" Name="Play_TSS_DoorClosed" ObjectPath="\Events\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_TSS_DoorClosed" GUID="{DE78A93F-79DE-4FD1-B9DA-975388EB5ADA}" DurationType="OneShot" DurationMin="0.448458" DurationMax="0.448458">
+					<IncludedMemoryFiles>
+						<File Id="460335791" Language="SFX">
+							<ShortName>TSS_DoorClosed.WAV</ShortName>
+							<Path>SFX\TSS_DoorClosed_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1445606971" Name="Play_TSS_DoorOpen" ObjectPath="\Events\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_TSS_DoorOpen" GUID="{FA72859F-5B30-4F45-A79D-14DE5268C4F1}" DurationType="OneShot" DurationMin="0.510952" DurationMax="0.510952">
+					<IncludedMemoryFiles>
+						<File Id="248382991" Language="SFX">
+							<ShortName>TSS_DoorOpen.WAV</ShortName>
+							<Path>SFX\TSS_DoorOpen_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1028681193" Name="Play_TSS_HealthPickup" ObjectPath="\Events\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_TSS_HealthPickup" GUID="{05881482-18B5-4803-B45D-B855F9596652}" DurationType="OneShot" DurationMin="1.027596" DurationMax="1.027596">
+					<IncludedMemoryFiles>
+						<File Id="962064623" Language="SFX">
+							<ShortName>TSS_HealthPickup.WAV</ShortName>
+							<Path>SFX\TSS_HealthPickup_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3515778306" Name="Play_TSS_Hit" ObjectPath="\Events\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_TSS_Hit" GUID="{072F08F6-C176-42BD-96EC-CEAF173C04CF}" DurationType="OneShot" DurationMin="0.210930" DurationMax="0.210930">
+					<IncludedMemoryFiles>
+						<File Id="435504629" Language="SFX">
+							<ShortName>TSS_Hit.WAV</ShortName>
+							<Path>SFX\TSS_Hit_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="231119102" Name="Play_TSS_Pistol" ObjectPath="\Events\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_TSS_Pistol" GUID="{34B80A5F-4D79-4676-93A7-619F3DF740DF}" DurationType="OneShot" DurationMin="2.964376" DurationMax="2.964376">
+					<IncludedMemoryFiles>
+						<File Id="798652113" Language="SFX">
+							<ShortName>TSS_Pistol.WAV</ShortName>
+							<Path>SFX\TSS_Pistol_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3545390596" Name="Play_TSS_Pop" ObjectPath="\Events\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_TSS_Pop" GUID="{C5305810-CF2D-490D-93D7-72559769111A}" DurationType="OneShot" DurationMin="1.153628" DurationMax="1.153628">
+					<IncludedMemoryFiles>
+						<File Id="987645966" Language="SFX">
+							<ShortName>TSS_Pop.WAV</ShortName>
+							<Path>SFX\TSS_Pop_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1198689595" Name="Play_TSS_Shotgun" ObjectPath="\Events\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_TSS_Shotgun" GUID="{D39A384B-DC68-48E2-AF8B-FFD1C1520089}" DurationType="OneShot" DurationMin="0.624989" DurationMax="0.624989">
+					<IncludedMemoryFiles>
+						<File Id="799789990" Language="SFX">
+							<ShortName>TSS_Shotgun.WAV</ShortName>
+							<Path>SFX\TSS_Shotgun_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3608639990" Name="Play_TSS_Sniper_ChargeUP" ObjectPath="\Events\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_TSS_Sniper_ChargeUP" GUID="{44B1F575-BA05-4BC9-850F-ED0A3BF0CFF5}" DurationType="OneShot" DurationMin="0.249478" DurationMax="0.249478">
+					<IncludedMemoryFiles>
+						<File Id="638239015" Language="SFX">
+							<ShortName>TSS_Sniper_ChargeUP.WAV</ShortName>
+							<Path>SFX\TSS_Sniper_ChargeUP_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2034834847" Name="Play_TSS_Sniper_ChargeUP_Loop" ObjectPath="\Events\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_TSS_Sniper_ChargeUP_Loop" GUID="{4FD2E074-6E91-44CC-8C2F-CB27130B8BF2}" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="802976491" Language="SFX">
+							<ShortName>TSS_Sniper_ChargeUP_Loop.WAV</ShortName>
+							<Path>SFX\TSS_Sniper_ChargeUP_Loop_90870865.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2133541053" Name="Play_TSS_Sniper_Shot" ObjectPath="\Events\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_TSS_Sniper_Shot" GUID="{09D95070-8718-4CFC-ACEE-B645E7A92696}" DurationType="OneShot" DurationMin="2.849478" DurationMax="2.849478">
+					<IncludedMemoryFiles>
+						<File Id="497865329" Language="SFX">
+							<ShortName>TSS_Sniper_Shot.WAV</ShortName>
+							<Path>SFX\TSS_Sniper_Shot_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3342177919" Name="Play_TSS_WeaponPickup" ObjectPath="\Events\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Play_TSS_WeaponPickup" GUID="{E9D246E7-A16C-4DAC-A5E7-28B02804AAD1}" DurationType="OneShot" DurationMin="4.452245" DurationMax="4.452245">
+					<IncludedMemoryFiles>
+						<File Id="312397935" Language="SFX">
+							<ShortName>TSS_WeaponPickup.WAV</ShortName>
+							<Path>SFX\TSS_WeaponPickup_F32062C7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4142814872" Name="Stop_BB_Tada_Highscore" ObjectPath="\Events\Default Work Unit\MiniGames\BalloonBoy\Stop_BB_Tada_Highscore" GUID="{0F3ADA42-9EF3-484E-B7D4-0E8E7A003CBB}" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1742125688" Name="Stop_BB_Tada_Loop" ObjectPath="\Events\Default Work Unit\MiniGames\BalloonBoy\Stop_BB_Tada_Loop" GUID="{F82382A4-837A-4DBA-BC17-06D00441061E}" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="428487280" Name="Stop_MINI_GOLF_INTRO___FINAL___09_10_21" ObjectPath="\Events\Default Work Unit\MusicStreaming\Stop_MINI_GOLF_INTRO___FINAL___09_10_21" GUID="{222480F8-4357-42A5-BCA5-8839BC555736}" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1135134960" Name="Stop_sfx_minigame_chicaFF_glitchMode_lp" ObjectPath="\Events\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Stop_sfx_minigame_chicaFF_glitchMode_lp" GUID="{BD40964A-12EE-4426-BACF-3B914DEA6041}" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="809182345" Name="Stop_sfx_minigame_chicaFF_weaponPickup_spin_lp" ObjectPath="\Events\Default Work Unit\MiniGames\ChicaFeedingFrenzy\Stop_sfx_minigame_chicaFF_weaponPickup_spin_lp" GUID="{E4CC3326-AAB3-4E56-844F-2F48A119CC12}" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="194271666" Name="BB_Jump_PitchMultiplier" ObjectPath="\Game Parameters\Default Work Unit\BB_Jump_PitchMultiplier" GUID="{2BA14870-3A38-4A6D-8BC9-E4E602755123}"/>
+				<GameParameter Id="1384576038" Name="BB_Tada_PitchMultiplier" ObjectPath="\Game Parameters\Default Work Unit\BB_Tada_PitchMultiplier" GUID="{52E43D44-86AF-4610-AEDB-6E60F9931F62}"/>
+				<GameParameter Id="1437246667" Name="azimuth" ObjectPath="\Game Parameters\bind_to_parameters\azimuth" GUID="{BD6BD805-D680-4F3D-8319-350A45DDD2D8}"/>
+				<GameParameter Id="2988174415" Name="BB_Static_VolumeLevel" ObjectPath="\Game Parameters\Default Work Unit\BB_Static_VolumeLevel" GUID="{337A0768-7416-475D-9F1D-764E2CFC1DEA}"/>
+				<GameParameter Id="3530583335" Name="PHYSICS_IMPACT_VALUE" ObjectPath="\Game Parameters\Default Work Unit\PHYSICS_IMPACT_VALUE" GUID="{CD9A714A-9606-43A6-BCF7-A98AB07F2372}"/>
+				<GameParameter Id="4285804331" Name="golf_putt_power" ObjectPath="\Game Parameters\minigames\golf_putt_power" GUID="{F3E7A345-083F-40DB-AFB3-91A7C9352F4A}"/>
+			</GameParameters>
+			<StateGroups>
+				<StateGroup Id="1160234136" Name="Normal" ObjectPath="\States\Default Work Unit\BB_SOUNDTRACK\Normal" GUID="{2DFECC09-C326-42C8-AAC6-0946D5ED6DCE}">
+					<States/>
+				</StateGroup>
+				<StateGroup Id="2873259978" Name="BB_SOUNDTRACK" ObjectPath="\States\Default Work Unit\BB_SOUNDTRACK" GUID="{E21D5937-20DC-45D5-B981-65E61CFF158A}">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\BB_SOUNDTRACK\None" GUID="{04C9AB97-4023-43EB-A23F-CFFD5354AF11}"/>
+						<State Id="1160234136" Name="Normal" ObjectPath="\States\Default Work Unit\BB_SOUNDTRACK\Normal" GUID="{2DFECC09-C326-42C8-AAC6-0946D5ED6DCE}"/>
+						<State Id="606143337" Name="Glitched" ObjectPath="\States\Default Work Unit\BB_SOUNDTRACK\Glitched" GUID="{853667E1-1308-4289-99CF-AB263CE7A5E4}"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

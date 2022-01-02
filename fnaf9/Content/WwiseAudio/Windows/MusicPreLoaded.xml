@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>I:\Quarters\fnaf9\fnaf9_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>I:\Quarters\fnaf9\Content\WwiseAudio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>I:\Quarters\fnaf9\fnaf9_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="1785312750" GUID="{ED9E9054-8FC7-482F-BB07-AFB4DC29B63C}" Language="SFX" Hash="1492467827">
+			<ObjectPath>\SoundBanks\Default Work Unit\MusicPreLoaded</ObjectPath>
+			<ShortName>MusicPreLoaded</ShortName>
+			<Path>MusicPreLoaded.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3457487211" Name="Play_FNAF9_LazertagJam_v01" ObjectPath="\Events\Default Work Unit\MusicPreLoaded\Play_FNAF9_LazertagJam_v01" GUID="{3398EEC0-AED9-4088-BCD9-1DD5D87298B2}" DurationType="Infinite">
+					<ReferencedStreamedFiles>
+						<File Id="203887681" Language="SFX">
+							<ShortName>Freddy Main Theme - Elevator 3 VG-1 - 05-04-21.wav</ShortName>
+							<Path>SFX\Freddy Main Theme - Elevator 3 VG-1 - 05-04-21_F585A561.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<AuxBusSends>
+						<AuxBus Id="785966131" Name="REV_Room_Tiled_Large" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_Room_Tiled_Large" GUID="{98312720-E17A-4F74-ADD2-41CA3A3098A5}"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="211406414" Name="Play_Lazertag_Track_05_Mono" ObjectPath="\Events\Default Work Unit\MusicPreLoaded\Play_Lazertag_Track_05_Mono" GUID="{F5B9C22C-2FA8-426F-A18B-277AA74A82F6}" DurationType="Infinite">
+					<ReferencedStreamedFiles>
+						<File Id="373579009" Language="SFX">
+							<ShortName>Music\Lazertag_Track_05_Mono.WAV</ShortName>
+							<Path>SFX\Music\Lazertag_Track_05_Mono_F585A561.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+				<Event Id="317753323" Name="Play_Lazertag_Track_06" ObjectPath="\Events\Default Work Unit\MusicPreLoaded\Play_Lazertag_Track_06" GUID="{C5284411-BE09-4553-838F-91E8698E66C3}" DurationType="Infinite">
+					<ReferencedStreamedFiles>
+						<File Id="239512236" Language="SFX">
+							<ShortName>Music\Lazertag_Track_06.WAV</ShortName>
+							<Path>SFX\Music\Lazertag_Track_06_F585A561.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+				<Event Id="2626548589" Name="Play_Lazertag_Track_06_END" ObjectPath="\Events\Default Work Unit\MusicPreLoaded\Play_Lazertag_Track_06_END" GUID="{D7A36BE9-554F-4874-9686-71F7EDEBFDC0}" DurationType="OneShot" DurationMin="2.874240" DurationMax="2.874240">
+					<IncludedMemoryFiles>
+						<File Id="695985475" Language="SFX">
+							<ShortName>Music\Lazertag_Track_06_END.WAV</ShortName>
+							<Path>SFX\Music\Lazertag_Track_06_END_73E79EE3.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1389178297" Name="Play_LMM_crank_loop" ObjectPath="\Events\Default Work Unit\Character\LittleMusicMan\Play_LMM_crank_loop" GUID="{ECFE8D8A-B5DB-45FD-A76B-DFC929854273}" MaxAttenuation="3000.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="1020235957" Language="SFX">
+							<ShortName>07 PRIZE BOX - Theme A - FULL.wav</ShortName>
+							<Path>SFX\07 PRIZE BOX - Theme A - FULL_F585A561.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1728790430" Name="Play_LMM_crank_loop_emitter" ObjectPath="\Events\Default Work Unit\Character\LittleMusicMan\Play_LMM_crank_loop_emitter" GUID="{A398D3E9-D2D4-4975-A06E-4C68A8422D30}" MaxAttenuation="3000.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="1020235957" Language="SFX">
+							<ShortName>07 PRIZE BOX - Theme A - FULL.wav</ShortName>
+							<Path>SFX\07 PRIZE BOX - Theme A - FULL_F585A561.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<AuxBusSends>
+						<AuxBus Id="2863267506" Name="REV_VentilationSystem_Inside" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_VentilationSystem_Inside" GUID="{4EE776A9-59FB-4D96-90A3-F84B48321F24}"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="1655735719" Name="Play_LMM_intro" ObjectPath="\Events\Default Work Unit\Character\LittleMusicMan\Play_LMM_intro" GUID="{D58D5DF1-BC55-4C6F-A55F-99D5E2E06465}" MaxAttenuation="3000.000000" DurationType="OneShot" DurationMin="6.653062" DurationMax="6.653062">
+					<IncludedMemoryFiles>
+						<File Id="1028406428" Language="SFX">
+							<ShortName>07 PRIZE BOX - Theme B - Question.wav</ShortName>
+							<Path>SFX\07 PRIZE BOX - Theme B - Question_F585A561.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<AuxBusSends>
+						<AuxBus Id="2863267506" Name="REV_VentilationSystem_Inside" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_VentilationSystem_Inside" GUID="{4EE776A9-59FB-4D96-90A3-F84B48321F24}"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="3090866678" Name="Play_mus_LMM_vent" ObjectPath="\Events\Default Work Unit\MusicStreaming\Play_mus_LMM_vent" GUID="{F1750E93-EB18-49F1-B887-817D4842ED19}" DurationType="Infinite">
+					<ReferencedStreamedFiles>
+						<File Id="296638591" Language="SFX">
+							<ShortName>FNAF_SB_tension2_int3_lp.wav</ShortName>
+							<Path>SFX\FNAF_SB_tension2_int3_lp_F585A561.wem</Path>
+						</File>
+						<File Id="334526789" Language="SFX">
+							<ShortName>FNAF_SB_tension2_int1_lp.wav</ShortName>
+							<Path>SFX\FNAF_SB_tension2_int1_lp_F585A561.wem</Path>
+						</File>
+						<File Id="768036597" Language="SFX">
+							<ShortName>FNAF_SB_tension2_int2_lp.wav</ShortName>
+							<Path>SFX\FNAF_SB_tension2_int2_lp_F585A561.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+				<Event Id="1132167677" Name="Play_mus_prizebox_crank_01" ObjectPath="\Events\Default Work Unit\MusicPreLoaded\Play_mus_prizebox_crank_01" GUID="{1783E48E-5C17-474A-83C3-6704CA259842}" DurationType="OneShot" DurationMin="12.687083" DurationMax="12.687083">
+					<IncludedMemoryFiles>
+						<File Id="325333268" Language="SFX">
+							<ShortName>07 PRIZE BOX - Suspense A.wav</ShortName>
+							<Path>SFX\07 PRIZE BOX - Suspense A_3F9CC4E9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1132167678" Name="Play_mus_prizebox_crank_02" ObjectPath="\Events\Default Work Unit\MusicPreLoaded\Play_mus_prizebox_crank_02" GUID="{AE9621AC-B76B-4719-845F-A86A0DCFEABF}" DurationType="OneShot" DurationMin="16.616917" DurationMax="16.616917">
+					<IncludedMemoryFiles>
+						<File Id="989746242" Language="SFX">
+							<ShortName>07 PRIZE BOX - Suspense B.wav</ShortName>
+							<Path>SFX\07 PRIZE BOX - Suspense B_3F9CC4E9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1132167679" Name="Play_mus_prizebox_crank_03" ObjectPath="\Events\Default Work Unit\MusicPreLoaded\Play_mus_prizebox_crank_03" GUID="{6F0F1051-A3B1-4896-997D-E28037A8BC46}" DurationType="OneShot" DurationMin="15.572687" DurationMax="15.572687">
+					<IncludedMemoryFiles>
+						<File Id="699743812" Language="SFX">
+							<ShortName>07 PRIZE BOX - Suspense C.wav</ShortName>
+							<Path>SFX\07 PRIZE BOX - Suspense C_3F9CC4E9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1132167672" Name="Play_mus_prizebox_crank_04" ObjectPath="\Events\Default Work Unit\MusicPreLoaded\Play_mus_prizebox_crank_04" GUID="{DC5B1E3A-9479-4A8F-8AA0-A22E00E3E5BC}" DurationType="OneShot" DurationMin="14.219125" DurationMax="14.219125">
+					<IncludedMemoryFiles>
+						<File Id="890925627" Language="SFX">
+							<ShortName>07 PRIZE BOX - Suspense D.wav</ShortName>
+							<Path>SFX\07 PRIZE BOX - Suspense D_3F9CC4E9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1132167673" Name="Play_mus_prizebox_crank_05" ObjectPath="\Events\Default Work Unit\MusicPreLoaded\Play_mus_prizebox_crank_05" GUID="{51D15C8A-DBBF-47D6-BAE6-9E2A0049BDBF}" DurationType="OneShot" DurationMin="14.768021" DurationMax="14.768021">
+					<IncludedMemoryFiles>
+						<File Id="525731764" Language="SFX">
+							<ShortName>07 PRIZE BOX - Suspense E.wav</ShortName>
+							<Path>SFX\07 PRIZE BOX - Suspense E_3F9CC4E9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1132167674" Name="Play_mus_prizebox_crank_06" ObjectPath="\Events\Default Work Unit\MusicPreLoaded\Play_mus_prizebox_crank_06" GUID="{11CFEC45-478A-445F-88B0-19C1C7B5E43F}" DurationType="OneShot" DurationMin="12.325667" DurationMax="12.325667">
+					<IncludedMemoryFiles>
+						<File Id="385141504" Language="SFX">
+							<ShortName>07 PRIZE BOX - Suspense F.wav</ShortName>
+							<Path>SFX\07 PRIZE BOX - Suspense F_3F9CC4E9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1132167675" Name="Play_mus_prizebox_crank_07" ObjectPath="\Events\Default Work Unit\MusicPreLoaded\Play_mus_prizebox_crank_07" GUID="{44287C23-44AE-46AD-9D81-707E53F31B96}" DurationType="OneShot" DurationMin="12.578771" DurationMax="12.578771">
+					<IncludedMemoryFiles>
+						<File Id="840266686" Language="SFX">
+							<ShortName>07 PRIZE BOX - Suspense G.wav</ShortName>
+							<Path>SFX\07 PRIZE BOX - Suspense G_3F9CC4E9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1132167668" Name="Play_mus_prizebox_crank_08" ObjectPath="\Events\Default Work Unit\MusicPreLoaded\Play_mus_prizebox_crank_08" GUID="{08743D6F-FD28-49A1-B6A4-061A1CA8053D}" DurationType="OneShot" DurationMin="14.287146" DurationMax="14.287146">
+					<IncludedMemoryFiles>
+						<File Id="864001668" Language="SFX">
+							<ShortName>07 PRIZE BOX - Suspense H.wav</ShortName>
+							<Path>SFX\07 PRIZE BOX - Suspense H_3F9CC4E9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2461150520" Name="Play_silence_b" ObjectPath="\Events\Default Work Unit\MusicPreLoaded\Play_silence_b" GUID="{57F09CAA-B482-43EB-A2A7-2601EF95A254}" DurationType="OneShot" DurationMin="0.406997" DurationMax="0.406997">
+					<IncludedMemoryFiles>
+						<File Id="248385849" Language="SFX">
+							<ShortName>07 PRIZE BOX - Theme C - Statement.wav</ShortName>
+							<Path>SFX\07 PRIZE BOX - Theme C - Statement_F585A561.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2947736428" Name="Play_Supernova_Journey" ObjectPath="\Events\Default Work Unit\MusicPreLoaded\Play_Supernova_Journey" GUID="{F3373C46-E05C-4BB4-B783-120EE79D81FF}" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="43778918" Name="Play_Supernova_JourneyB" ObjectPath="\Events\Default Work Unit\MusicPreLoaded\Play_Supernova_JourneyB" GUID="{DDFC3A2A-0AD2-45F1-BFCD-DB64AD69D4FE}" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2768373303" Name="Play_Termination_Sequence_Regrets" ObjectPath="\Events\Default Work Unit\MusicPreLoaded\Play_Termination_Sequence_Regrets" GUID="{85FA184E-869F-4089-A8BF-5951AB282D74}" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4180658423" Name="Play_Termination_Sequence_RegretsB" ObjectPath="\Events\Default Work Unit\MusicPreLoaded\Play_Termination_Sequence_RegretsB" GUID="{0DE75146-FEE0-4264-8F11-A8F2B1D9A23C}" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="111357607" Name="Stop_LMM_crank_loop" ObjectPath="\Events\Default Work Unit\Character\LittleMusicMan\Stop_LMM_crank_loop" GUID="{68601989-3A42-417C-8EA2-14DE7BB1B558}" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3206200308" Name="Stop_LMM_crank_loop_emitter" ObjectPath="\Events\Default Work Unit\Character\LittleMusicMan\Stop_LMM_crank_loop_emitter" GUID="{991606E8-AF4F-422D-8DE6-655FA966ECCF}" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1101808264" Name="Stop_mus_LMM_vent" ObjectPath="\Events\Default Work Unit\MusicStreaming\Stop_mus_LMM_vent" GUID="{F06AF41B-01A8-4875-9964-78CEC8AE1CF0}" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="11027689" Name="vanny_threat_level" ObjectPath="\Game Parameters\tension\vanny_threat_level" GUID="{5D72FBF5-2810-4A00-8989-60B45EE83CD9}"/>
+				<GameParameter Id="183903552" Name="occlusion" ObjectPath="\Game Parameters\bind_to_parameters\occlusion" GUID="{8D5CD7F0-0D05-416B-83A8-C86EB18CF773}"/>
+				<GameParameter Id="1437246667" Name="azimuth" ObjectPath="\Game Parameters\bind_to_parameters\azimuth" GUID="{BD6BD805-D680-4F3D-8319-350A45DDD2D8}"/>
+				<GameParameter Id="3820641237" Name="AI_PROXIMITY" ObjectPath="\Game Parameters\tension\AI_PROXIMITY" GUID="{A39E443F-AF31-485C-A9C9-BF39B1617530}"/>
+				<GameParameter Id="3927966044" Name="light_active" ObjectPath="\Game Parameters\Default Work Unit\light_active" GUID="{80E66D31-993A-4AC2-B967-8F37D0417586}"/>
+			</GameParameters>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

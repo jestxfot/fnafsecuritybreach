@@ -1,0 +1,503 @@
+Event	ID	Name			Wwise Object Path	Notes
+	65756193	FREDDY_00121a			\Default Work Unit\Dialogue\Freddy\FREDDY_00121a	
+	116088984	FREDDY_00122a			\Default Work Unit\Dialogue\Freddy\FREDDY_00122a	
+	216754698	FREDDY_00128a			\Default Work Unit\Dialogue\Freddy\FREDDY_00128a	
+	517547292	OutsideFreddy			\Default Work Unit\General\_States\OutsideFreddy	
+	518604875	FREDDY_00130a			\Default Work Unit\Dialogue\Freddy\FREDDY_00130a	
+	563200048	FREDDY_00175b_02			\Default Work Unit\Dialogue\Freddy\FREDDY_00175b_02	
+	563200049	FREDDY_00175b_03			\Default Work Unit\Dialogue\Freddy\FREDDY_00175b_03	
+	563200051	FREDDY_00175b_01			\Default Work Unit\Dialogue\Freddy\FREDDY_00175b_01	
+	709520409	FREDDY_00024a			\Default Work Unit\Dialogue\Freddy\FREDDY_00024a	
+	726298218	FREDDY_00025a			\Default Work Unit\Dialogue\Freddy\FREDDY_00025a	
+	760000425	FREDDY_00037a			\Default Work Unit\Dialogue\Freddy\FREDDY_00037a	
+	827111030	FREDDY_00033b			\Default Work Unit\Dialogue\Freddy\FREDDY_00033b	
+	1291814496	FREDDY_00060			\Default Work Unit\Dialogue\Freddy\FREDDY_00060	
+	1291814497	FREDDY_00061			\Default Work Unit\Dialogue\Freddy\FREDDY_00061	
+	1291814498	FREDDY_00062			\Default Work Unit\Dialogue\Freddy\FREDDY_00062	
+	1291814499	FREDDY_00063			\Default Work Unit\Dialogue\Freddy\FREDDY_00063	
+	1291814500	FREDDY_00064			\Default Work Unit\Dialogue\Freddy\FREDDY_00064	
+	1291814501	FREDDY_00065			\Default Work Unit\Dialogue\Freddy\FREDDY_00065	
+	1291814502	FREDDY_00066			\Default Work Unit\Dialogue\Freddy\FREDDY_00066	
+	1291814503	FREDDY_00067			\Default Work Unit\Dialogue\Freddy\FREDDY_00067	
+	1291814504	FREDDY_00068			\Default Work Unit\Dialogue\Freddy\FREDDY_00068	
+	1291814505	FREDDY_00069			\Default Work Unit\Dialogue\Freddy\FREDDY_00069	
+	1308592080	FREDDY_00073			\Default Work Unit\Dialogue\Freddy\FREDDY_00073	
+	1308592081	FREDDY_00072			\Default Work Unit\Dialogue\Freddy\FREDDY_00072	
+	1308592082	FREDDY_00071			\Default Work Unit\Dialogue\Freddy\FREDDY_00071	
+	1308592083	FREDDY_00070			\Default Work Unit\Dialogue\Freddy\FREDDY_00070	
+	1308592084	FREDDY_00077			\Default Work Unit\Dialogue\Freddy\FREDDY_00077	
+	1308592085	FREDDY_00076			\Default Work Unit\Dialogue\Freddy\FREDDY_00076	
+	1308592086	FREDDY_00075			\Default Work Unit\Dialogue\Freddy\FREDDY_00075	
+	1308592087	FREDDY_00074			\Default Work Unit\Dialogue\Freddy\FREDDY_00074	
+	1308592090	FREDDY_00079			\Default Work Unit\Dialogue\Freddy\FREDDY_00079	
+	1308592091	FREDDY_00078			\Default Work Unit\Dialogue\Freddy\FREDDY_00078	
+	1325369664	FREDDY_00046			\Default Work Unit\Dialogue\Freddy\FREDDY_00046	
+	1325369665	FREDDY_00047			\Default Work Unit\Dialogue\Freddy\FREDDY_00047	
+	1325369666	FREDDY_00044			\Default Work Unit\Dialogue\Freddy\FREDDY_00044	
+	1325369667	FREDDY_00045			\Default Work Unit\Dialogue\Freddy\FREDDY_00045	
+	1325369668	FREDDY_00042			\Default Work Unit\Dialogue\Freddy\FREDDY_00042	
+	1325369669	FREDDY_00043			\Default Work Unit\Dialogue\Freddy\FREDDY_00043	
+	1325369670	FREDDY_00040			\Default Work Unit\Dialogue\Freddy\FREDDY_00040	
+	1325369671	FREDDY_00041			\Default Work Unit\Dialogue\Freddy\FREDDY_00041	
+	1325369678	FREDDY_00048			\Default Work Unit\Dialogue\Freddy\FREDDY_00048	
+	1325369679	FREDDY_00049			\Default Work Unit\Dialogue\Freddy\FREDDY_00049	
+	1342147376	FREDDY_00059			\Default Work Unit\Dialogue\Freddy\FREDDY_00059	
+	1342147377	FREDDY_00058			\Default Work Unit\Dialogue\Freddy\FREDDY_00058	
+	1342147384	FREDDY_00051			\Default Work Unit\Dialogue\Freddy\FREDDY_00051	
+	1342147385	FREDDY_00050			\Default Work Unit\Dialogue\Freddy\FREDDY_00050	
+	1342147386	FREDDY_00053			\Default Work Unit\Dialogue\Freddy\FREDDY_00053	
+	1342147387	FREDDY_00052			\Default Work Unit\Dialogue\Freddy\FREDDY_00052	
+	1342147388	FREDDY_00055			\Default Work Unit\Dialogue\Freddy\FREDDY_00055	
+	1342147389	FREDDY_00054			\Default Work Unit\Dialogue\Freddy\FREDDY_00054	
+	1342147390	FREDDY_00057			\Default Work Unit\Dialogue\Freddy\FREDDY_00057	
+	1342147391	FREDDY_00056			\Default Work Unit\Dialogue\Freddy\FREDDY_00056	
+	1342294416	FREDDY_00190			\Default Work Unit\Dialogue\Freddy\FREDDY_00190	
+	1342294417	FREDDY_00191			\Default Work Unit\Dialogue\Freddy\FREDDY_00191	
+	1342294418	FREDDY_00192			\Default Work Unit\Dialogue\Freddy\FREDDY_00192	
+	1342294419	FREDDY_00193			\Default Work Unit\Dialogue\Freddy\FREDDY_00193	
+	1342294420	FREDDY_00194			\Default Work Unit\Dialogue\Freddy\FREDDY_00194	
+	1342294421	FREDDY_00195			\Default Work Unit\Dialogue\Freddy\FREDDY_00195	
+	1342294422	FREDDY_00196			\Default Work Unit\Dialogue\Freddy\FREDDY_00196	
+	1342294423	FREDDY_00197			\Default Work Unit\Dialogue\Freddy\FREDDY_00197	
+	1342294424	FREDDY_00198			\Default Work Unit\Dialogue\Freddy\FREDDY_00198	
+	1342294425	FREDDY_00199			\Default Work Unit\Dialogue\Freddy\FREDDY_00199	
+	1358924964	FREDDY_00028			\Default Work Unit\Dialogue\Freddy\FREDDY_00028	
+	1358924965	FREDDY_00029			\Default Work Unit\Dialogue\Freddy\FREDDY_00029	
+	1358924968	FREDDY_00024			\Default Work Unit\Dialogue\Freddy\FREDDY_00024	
+	1358924969	FREDDY_00025			\Default Work Unit\Dialogue\Freddy\FREDDY_00025	
+	1358924970	FREDDY_00026			\Default Work Unit\Dialogue\Freddy\FREDDY_00026	
+	1358924971	FREDDY_00027			\Default Work Unit\Dialogue\Freddy\FREDDY_00027	
+	1358924972	FREDDY_00020			\Default Work Unit\Dialogue\Freddy\FREDDY_00020	
+	1358924973	FREDDY_00021			\Default Work Unit\Dialogue\Freddy\FREDDY_00021	
+	1358924974	FREDDY_00022			\Default Work Unit\Dialogue\Freddy\FREDDY_00022	
+	1358924975	FREDDY_00023			\Default Work Unit\Dialogue\Freddy\FREDDY_00023	
+	1359072000	FREDDY_00183			\Default Work Unit\Dialogue\Freddy\FREDDY_00183	
+	1359072001	FREDDY_00182			\Default Work Unit\Dialogue\Freddy\FREDDY_00182	
+	1359072002	FREDDY_00181			\Default Work Unit\Dialogue\Freddy\FREDDY_00181	
+	1359072003	FREDDY_00180			\Default Work Unit\Dialogue\Freddy\FREDDY_00180	
+	1359072004	FREDDY_00187			\Default Work Unit\Dialogue\Freddy\FREDDY_00187	
+	1359072005	FREDDY_00186			\Default Work Unit\Dialogue\Freddy\FREDDY_00186	
+	1359072006	FREDDY_00185			\Default Work Unit\Dialogue\Freddy\FREDDY_00185	
+	1359072007	FREDDY_00184			\Default Work Unit\Dialogue\Freddy\FREDDY_00184	
+	1359072010	FREDDY_00189			\Default Work Unit\Dialogue\Freddy\FREDDY_00189	
+	1359072011	FREDDY_00188			\Default Work Unit\Dialogue\Freddy\FREDDY_00188	
+	1375702550	FREDDY_00039			\Default Work Unit\Dialogue\Freddy\FREDDY_00039	
+	1375702551	FREDDY_00038			\Default Work Unit\Dialogue\Freddy\FREDDY_00038	
+	1375702552	FREDDY_00037			\Default Work Unit\Dialogue\Freddy\FREDDY_00037	
+	1375702553	FREDDY_00036			\Default Work Unit\Dialogue\Freddy\FREDDY_00036	
+	1375702554	FREDDY_00035			\Default Work Unit\Dialogue\Freddy\FREDDY_00035	
+	1375702555	FREDDY_00034			\Default Work Unit\Dialogue\Freddy\FREDDY_00034	
+	1375702556	FREDDY_00033			\Default Work Unit\Dialogue\Freddy\FREDDY_00033	
+	1375702557	FREDDY_00032			\Default Work Unit\Dialogue\Freddy\FREDDY_00032	
+	1375702558	FREDDY_00031			\Default Work Unit\Dialogue\Freddy\FREDDY_00031	
+	1375702559	FREDDY_00030			\Default Work Unit\Dialogue\Freddy\FREDDY_00030	
+	1392480240	FREDDY_00002			\Default Work Unit\Dialogue\Freddy\FREDDY_00002	
+	1392480241	FREDDY_00003			\Default Work Unit\Dialogue\Freddy\FREDDY_00003	
+	1392480243	FREDDY_00001			\Default Work Unit\Dialogue\Freddy\FREDDY_00001	
+	1392480244	FREDDY_00006			\Default Work Unit\Dialogue\Freddy\FREDDY_00006	
+	1392480245	FREDDY_00007			\Default Work Unit\Dialogue\Freddy\FREDDY_00007	
+	1392480246	FREDDY_00004			\Default Work Unit\Dialogue\Freddy\FREDDY_00004	
+	1392480247	FREDDY_00005			\Default Work Unit\Dialogue\Freddy\FREDDY_00005	
+	1392480250	FREDDY_00008			\Default Work Unit\Dialogue\Freddy\FREDDY_00008	
+	1392480251	FREDDY_00009			\Default Work Unit\Dialogue\Freddy\FREDDY_00009	
+	1409257824	FREDDY_00015			\Default Work Unit\Dialogue\Freddy\FREDDY_00015	
+	1409257825	FREDDY_00014			\Default Work Unit\Dialogue\Freddy\FREDDY_00014	
+	1409257826	FREDDY_00017			\Default Work Unit\Dialogue\Freddy\FREDDY_00017	
+	1409257827	FREDDY_00016			\Default Work Unit\Dialogue\Freddy\FREDDY_00016	
+	1409257828	FREDDY_00011			\Default Work Unit\Dialogue\Freddy\FREDDY_00011	
+	1409257829	FREDDY_00010			\Default Work Unit\Dialogue\Freddy\FREDDY_00010	
+	1409257830	FREDDY_00013			\Default Work Unit\Dialogue\Freddy\FREDDY_00013	
+	1409257831	FREDDY_00012			\Default Work Unit\Dialogue\Freddy\FREDDY_00012	
+	1409257836	FREDDY_00019			\Default Work Unit\Dialogue\Freddy\FREDDY_00019	
+	1409257837	FREDDY_00018			\Default Work Unit\Dialogue\Freddy\FREDDY_00018	
+	1476515328	FREDDY_00118			\Default Work Unit\Dialogue\Freddy\FREDDY_00118	
+	1476515329	FREDDY_00119			\Default Work Unit\Dialogue\Freddy\FREDDY_00119	
+	1476515336	FREDDY_00110			\Default Work Unit\Dialogue\Freddy\FREDDY_00110	
+	1476515337	FREDDY_00111			\Default Work Unit\Dialogue\Freddy\FREDDY_00111	
+	1476515338	FREDDY_00112			\Default Work Unit\Dialogue\Freddy\FREDDY_00112	
+	1476515339	FREDDY_00113			\Default Work Unit\Dialogue\Freddy\FREDDY_00113	
+	1476515340	FREDDY_00114			\Default Work Unit\Dialogue\Freddy\FREDDY_00114	
+	1476515341	FREDDY_00115			\Default Work Unit\Dialogue\Freddy\FREDDY_00115	
+	1476515342	FREDDY_00116			\Default Work Unit\Dialogue\Freddy\FREDDY_00116	
+	1476515343	FREDDY_00117			\Default Work Unit\Dialogue\Freddy\FREDDY_00117	
+	1493293042	FREDDY_00109			\Default Work Unit\Dialogue\Freddy\FREDDY_00109	
+	1493293043	FREDDY_00108			\Default Work Unit\Dialogue\Freddy\FREDDY_00108	
+	1493293048	FREDDY_00103			\Default Work Unit\Dialogue\Freddy\FREDDY_00103	
+	1493293049	FREDDY_00102			\Default Work Unit\Dialogue\Freddy\FREDDY_00102	
+	1493293050	FREDDY_00101			\Default Work Unit\Dialogue\Freddy\FREDDY_00101	
+	1493293051	FREDDY_00100			\Default Work Unit\Dialogue\Freddy\FREDDY_00100	
+	1493293052	FREDDY_00107			\Default Work Unit\Dialogue\Freddy\FREDDY_00107	
+	1493293053	FREDDY_00106			\Default Work Unit\Dialogue\Freddy\FREDDY_00106	
+	1493293054	FREDDY_00105			\Default Work Unit\Dialogue\Freddy\FREDDY_00105	
+	1493293055	FREDDY_00104			\Default Work Unit\Dialogue\Freddy\FREDDY_00104	
+	1510070630	FREDDY_00138			\Default Work Unit\Dialogue\Freddy\FREDDY_00138	
+	1510070631	FREDDY_00139			\Default Work Unit\Dialogue\Freddy\FREDDY_00139	
+	1510070632	FREDDY_00136			\Default Work Unit\Dialogue\Freddy\FREDDY_00136	
+	1510070633	FREDDY_00137			\Default Work Unit\Dialogue\Freddy\FREDDY_00137	
+	1510070634	FREDDY_00134			\Default Work Unit\Dialogue\Freddy\FREDDY_00134	
+	1510070635	FREDDY_00135			\Default Work Unit\Dialogue\Freddy\FREDDY_00135	
+	1510070636	FREDDY_00132			\Default Work Unit\Dialogue\Freddy\FREDDY_00132	
+	1510070637	FREDDY_00133			\Default Work Unit\Dialogue\Freddy\FREDDY_00133	
+	1510070638	FREDDY_00130			\Default Work Unit\Dialogue\Freddy\FREDDY_00130	
+	1510070639	FREDDY_00131			\Default Work Unit\Dialogue\Freddy\FREDDY_00131	
+	1526701154	FREDDY_00088			\Default Work Unit\Dialogue\Freddy\FREDDY_00088	
+	1526701155	FREDDY_00089			\Default Work Unit\Dialogue\Freddy\FREDDY_00089	
+	1526701160	FREDDY_00082			\Default Work Unit\Dialogue\Freddy\FREDDY_00082	
+	1526701161	FREDDY_00083			\Default Work Unit\Dialogue\Freddy\FREDDY_00083	
+	1526701162	FREDDY_00080			\Default Work Unit\Dialogue\Freddy\FREDDY_00080	
+	1526701163	FREDDY_00081			\Default Work Unit\Dialogue\Freddy\FREDDY_00081	
+	1526701164	FREDDY_00086			\Default Work Unit\Dialogue\Freddy\FREDDY_00086	
+	1526701165	FREDDY_00087			\Default Work Unit\Dialogue\Freddy\FREDDY_00087	
+	1526701166	FREDDY_00084			\Default Work Unit\Dialogue\Freddy\FREDDY_00084	
+	1526701167	FREDDY_00085			\Default Work Unit\Dialogue\Freddy\FREDDY_00085	
+	1526848192	FREDDY_00121			\Default Work Unit\Dialogue\Freddy\FREDDY_00121	
+	1526848193	FREDDY_00120			\Default Work Unit\Dialogue\Freddy\FREDDY_00120	
+	1526848194	FREDDY_00123			\Default Work Unit\Dialogue\Freddy\FREDDY_00123	
+	1526848195	FREDDY_00122			\Default Work Unit\Dialogue\Freddy\FREDDY_00122	
+	1526848196	FREDDY_00125			\Default Work Unit\Dialogue\Freddy\FREDDY_00125	
+	1526848197	FREDDY_00124			\Default Work Unit\Dialogue\Freddy\FREDDY_00124	
+	1526848198	FREDDY_00127			\Default Work Unit\Dialogue\Freddy\FREDDY_00127	
+	1526848199	FREDDY_00126			\Default Work Unit\Dialogue\Freddy\FREDDY_00126	
+	1526848200	FREDDY_00129			\Default Work Unit\Dialogue\Freddy\FREDDY_00129	
+	1526848201	FREDDY_00128			\Default Work Unit\Dialogue\Freddy\FREDDY_00128	
+	1543478740	FREDDY_00099			\Default Work Unit\Dialogue\Freddy\FREDDY_00099	
+	1543478741	FREDDY_00098			\Default Work Unit\Dialogue\Freddy\FREDDY_00098	
+	1543478744	FREDDY_00095			\Default Work Unit\Dialogue\Freddy\FREDDY_00095	
+	1543478745	FREDDY_00094			\Default Work Unit\Dialogue\Freddy\FREDDY_00094	
+	1543478747	FREDDY_00096			\Default Work Unit\Dialogue\Freddy\FREDDY_00096	
+	1543478748	FREDDY_00091			\Default Work Unit\Dialogue\Freddy\FREDDY_00091	
+	1543478749	FREDDY_00090			\Default Work Unit\Dialogue\Freddy\FREDDY_00090	
+	1543478750	FREDDY_00093			\Default Work Unit\Dialogue\Freddy\FREDDY_00093	
+	1543478751	FREDDY_00092			\Default Work Unit\Dialogue\Freddy\FREDDY_00092	
+	1543625904	FREDDY_00154			\Default Work Unit\Dialogue\Freddy\FREDDY_00154	
+	1543625905	FREDDY_00155			\Default Work Unit\Dialogue\Freddy\FREDDY_00155	
+	1543625906	FREDDY_00156			\Default Work Unit\Dialogue\Freddy\FREDDY_00156	
+	1543625907	FREDDY_00157			\Default Work Unit\Dialogue\Freddy\FREDDY_00157	
+	1543625916	FREDDY_00158			\Default Work Unit\Dialogue\Freddy\FREDDY_00158	
+	1543625917	FREDDY_00159			\Default Work Unit\Dialogue\Freddy\FREDDY_00159	
+	1560403488	FREDDY_00147			\Default Work Unit\Dialogue\Freddy\FREDDY_00147	
+	1560403489	FREDDY_00146			\Default Work Unit\Dialogue\Freddy\FREDDY_00146	
+	1560403490	FREDDY_00145			\Default Work Unit\Dialogue\Freddy\FREDDY_00145	
+	1560403491	FREDDY_00144			\Default Work Unit\Dialogue\Freddy\FREDDY_00144	
+	1560403492	FREDDY_00143			\Default Work Unit\Dialogue\Freddy\FREDDY_00143	
+	1560403493	FREDDY_00142			\Default Work Unit\Dialogue\Freddy\FREDDY_00142	
+	1560403494	FREDDY_00141			\Default Work Unit\Dialogue\Freddy\FREDDY_00141	
+	1560403495	FREDDY_00140			\Default Work Unit\Dialogue\Freddy\FREDDY_00140	
+	1560403503	FREDDY_00148			\Default Work Unit\Dialogue\Freddy\FREDDY_00148	
+	1577181074	FREDDY_00178			\Default Work Unit\Dialogue\Freddy\FREDDY_00178	
+	1577181075	FREDDY_00179			\Default Work Unit\Dialogue\Freddy\FREDDY_00179	
+	1577181080	FREDDY_00172			\Default Work Unit\Dialogue\Freddy\FREDDY_00172	
+	1577181081	FREDDY_00173			\Default Work Unit\Dialogue\Freddy\FREDDY_00173	
+	1577181082	FREDDY_00170			\Default Work Unit\Dialogue\Freddy\FREDDY_00170	
+	1577181083	FREDDY_00171			\Default Work Unit\Dialogue\Freddy\FREDDY_00171	
+	1577181084	FREDDY_00176			\Default Work Unit\Dialogue\Freddy\FREDDY_00176	
+	1577181085	FREDDY_00177			\Default Work Unit\Dialogue\Freddy\FREDDY_00177	
+	1577181086	FREDDY_00174			\Default Work Unit\Dialogue\Freddy\FREDDY_00174	
+	1593958660	FREDDY_00169			\Default Work Unit\Dialogue\Freddy\FREDDY_00169	
+	1593958661	FREDDY_00168			\Default Work Unit\Dialogue\Freddy\FREDDY_00168	
+	1593958664	FREDDY_00165			\Default Work Unit\Dialogue\Freddy\FREDDY_00165	
+	1593958665	FREDDY_00164			\Default Work Unit\Dialogue\Freddy\FREDDY_00164	
+	1593958666	FREDDY_00167			\Default Work Unit\Dialogue\Freddy\FREDDY_00167	
+	1593958667	FREDDY_00166			\Default Work Unit\Dialogue\Freddy\FREDDY_00166	
+	1593958668	FREDDY_00161			\Default Work Unit\Dialogue\Freddy\FREDDY_00161	
+	1593958669	FREDDY_00160			\Default Work Unit\Dialogue\Freddy\FREDDY_00160	
+	1593958670	FREDDY_00163			\Default Work Unit\Dialogue\Freddy\FREDDY_00163	
+	1593958671	FREDDY_00162			\Default Work Unit\Dialogue\Freddy\FREDDY_00162	
+	2245022219	FREDDY_00193b			\Default Work Unit\Dialogue\Freddy\FREDDY_00193b	
+	2381361869	FREDDY_00143a			\Default Work Unit\Dialogue\Freddy\FREDDY_00143a	
+	2398286516	FREDDY_00178b			\Default Work Unit\Dialogue\Freddy\FREDDY_00178b	
+	2429723184	FREDDY_00188a			\Default Work Unit\Dialogue\Freddy\FREDDY_00188a	
+	2452657056	FREDDY_00175_02			\Default Work Unit\Dialogue\Freddy\FREDDY_00175_02	
+	2452657059	FREDDY_00175_01			\Default Work Unit\Dialogue\Freddy\FREDDY_00175_01	
+	2482321710	FREDDY_00169b			\Default Work Unit\Dialogue\Freddy\FREDDY_00169b	
+	2537589458	FREDDY_00061a			\Default Work Unit\Dialogue\Freddy\FREDDY_00061a	
+	2549432314	FREDDY_00165b			\Default Work Unit\Dialogue\Freddy\FREDDY_00165b	
+	2565077099	FREDDY_00116a			\Default Work Unit\Dialogue\Freddy\FREDDY_00116a	
+	2571291665	FREDDY_00073a			\Default Work Unit\Dialogue\Freddy\FREDDY_00073a	
+	2582840389	FREDDY_00177b			\Default Work Unit\Dialogue\Freddy\FREDDY_00177b	
+	2622610385	FREDDY_00014b			\Default Work Unit\Dialogue\Freddy\FREDDY_00014b	
+	2671810345	FREDDY_00069b			\Default Work Unit\Dialogue\Freddy\FREDDY_00069b	
+	2671810346	FREDDY_00069a			\Default Work Unit\Dialogue\Freddy\FREDDY_00069a	
+	2722437459	FREDDY_00040a			\Default Work Unit\Dialogue\Freddy\FREDDY_00040a	
+	2908962805	FREDDY_00087b			\Default Work Unit\Dialogue\Freddy\FREDDY_00087b	
+	2942665013	FREDDY_00091a			\Default Work Unit\Dialogue\Freddy\FREDDY_00091a	
+	2942665014	FREDDY_00091b			\Default Work Unit\Dialogue\Freddy\FREDDY_00091b	
+	2942665015	FREDDY_00091c			\Default Work Unit\Dialogue\Freddy\FREDDY_00091c	
+	3338286592	FREDDY_00200			\Default Work Unit\Dialogue\Freddy\FREDDY_00200	
+	3338286593	FREDDY_00201			\Default Work Unit\Dialogue\Freddy\FREDDY_00201	
+	3338286594	FREDDY_00202			\Default Work Unit\Dialogue\Freddy\FREDDY_00202	
+	3338286595	FREDDY_00203			\Default Work Unit\Dialogue\Freddy\FREDDY_00203	
+	3338286596	FREDDY_00204			\Default Work Unit\Dialogue\Freddy\FREDDY_00204	
+	3338286597	FREDDY_00205			\Default Work Unit\Dialogue\Freddy\FREDDY_00205	
+	3338286598	FREDDY_00206			\Default Work Unit\Dialogue\Freddy\FREDDY_00206	
+	3338286599	FREDDY_00207			\Default Work Unit\Dialogue\Freddy\FREDDY_00207	
+	3338286600	FREDDY_00208			\Default Work Unit\Dialogue\Freddy\FREDDY_00208	
+	3338286601	FREDDY_00209			\Default Work Unit\Dialogue\Freddy\FREDDY_00209	
+	3355064304	FREDDY_00213			\Default Work Unit\Dialogue\Freddy\FREDDY_00213	
+	3355064305	FREDDY_00212			\Default Work Unit\Dialogue\Freddy\FREDDY_00212	
+	3355064306	FREDDY_00211			\Default Work Unit\Dialogue\Freddy\FREDDY_00211	
+	3355064307	FREDDY_00210			\Default Work Unit\Dialogue\Freddy\FREDDY_00210	
+	3355064308	FREDDY_00217			\Default Work Unit\Dialogue\Freddy\FREDDY_00217	
+	3355064310	FREDDY_00215			\Default Work Unit\Dialogue\Freddy\FREDDY_00215	
+	3355064311	FREDDY_00214			\Default Work Unit\Dialogue\Freddy\FREDDY_00214	
+	3355064314	FREDDY_00219			\Default Work Unit\Dialogue\Freddy\FREDDY_00219	
+	3355064315	FREDDY_00218			\Default Work Unit\Dialogue\Freddy\FREDDY_00218	
+	3371841888	FREDDY_00226			\Default Work Unit\Dialogue\Freddy\FREDDY_00226	
+	3371841889	FREDDY_00227			\Default Work Unit\Dialogue\Freddy\FREDDY_00227	
+	3371841890	FREDDY_00224			\Default Work Unit\Dialogue\Freddy\FREDDY_00224	
+	3371841891	FREDDY_00225			\Default Work Unit\Dialogue\Freddy\FREDDY_00225	
+	3371841892	FREDDY_00222			\Default Work Unit\Dialogue\Freddy\FREDDY_00222	
+	3371841893	FREDDY_00223			\Default Work Unit\Dialogue\Freddy\FREDDY_00223	
+	3371841894	FREDDY_00220			\Default Work Unit\Dialogue\Freddy\FREDDY_00220	
+	3371841895	FREDDY_00221			\Default Work Unit\Dialogue\Freddy\FREDDY_00221	
+	3371841902	FREDDY_00228			\Default Work Unit\Dialogue\Freddy\FREDDY_00228	
+	3371841903	FREDDY_00229			\Default Work Unit\Dialogue\Freddy\FREDDY_00229	
+	3388619472	FREDDY_00239			\Default Work Unit\Dialogue\Freddy\FREDDY_00239	
+	3388619473	FREDDY_00238			\Default Work Unit\Dialogue\Freddy\FREDDY_00238	
+	3388619480	FREDDY_00231			\Default Work Unit\Dialogue\Freddy\FREDDY_00231	
+	3388619481	FREDDY_00230			\Default Work Unit\Dialogue\Freddy\FREDDY_00230	
+	3388619482	FREDDY_00233			\Default Work Unit\Dialogue\Freddy\FREDDY_00233	
+	3388619483	FREDDY_00232			\Default Work Unit\Dialogue\Freddy\FREDDY_00232	
+	3388619484	FREDDY_00235			\Default Work Unit\Dialogue\Freddy\FREDDY_00235	
+	3388619485	FREDDY_00234			\Default Work Unit\Dialogue\Freddy\FREDDY_00234	
+	3388619486	FREDDY_00237			\Default Work Unit\Dialogue\Freddy\FREDDY_00237	
+	3388619487	FREDDY_00236			\Default Work Unit\Dialogue\Freddy\FREDDY_00236	
+	3405397064	FREDDY_00244			\Default Work Unit\Dialogue\Freddy\FREDDY_00244	
+	3405397065	FREDDY_00245			\Default Work Unit\Dialogue\Freddy\FREDDY_00245	
+	3405397066	FREDDY_00246			\Default Work Unit\Dialogue\Freddy\FREDDY_00246	
+	3405397067	FREDDY_00247			\Default Work Unit\Dialogue\Freddy\FREDDY_00247	
+	3405397068	FREDDY_00240			\Default Work Unit\Dialogue\Freddy\FREDDY_00240	
+	3405397069	FREDDY_00241			\Default Work Unit\Dialogue\Freddy\FREDDY_00241	
+	3405397070	FREDDY_00242			\Default Work Unit\Dialogue\Freddy\FREDDY_00242	
+	3405397071	FREDDY_00243			\Default Work Unit\Dialogue\Freddy\FREDDY_00243	
+	3505039414	FREDDY_00235b			\Default Work Unit\Dialogue\Freddy\FREDDY_00235b	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	183903552	occlusion			\bind_to_parameters\occlusion	
+	313769113	occlusion_counter			\utility\occlusion_counter	
+	3298513196	freddy_voicebox_installed			\Default Work Unit\freddy_voicebox_installed	
+	3436536763	GREGORY_OUTSIDE_FREDDY			\Default Work Unit\GREGORY_OUTSIDE_FREDDY	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	494262	FREDDY_00175b_03	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00175b_03_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00175b_03		12768
+	1777838	FREDDY_00005_myStomach_Pref1	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00005_myStomach_Pref1_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00005_myStomach_Pref1		91597
+	3379807	FREDDY_00066_IfYouGetThisMessage	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00066_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00066_IfYouGetThisMessage		192872
+	15488524	FREDDY_00235b_pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00235b_pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00235b_pref		98752
+	18558732	FREDDY_00245	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00245_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00245		174329
+	25219787	FREDDY_00116_pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00116_pref_989BC6CD.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheMonitors\FREDDY_00116_pref		233445
+	31763915	FREDDY_00051_goodNews_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00051_goodNews_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00051_goodNews_Pref		37583
+	39612243	FREDDY_00124	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00124_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00124		217646
+	39987261	FREDDY_00198	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00198_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00198		120159
+	49969760	FREDDY_00211	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00211_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00211		108543
+	53242097	vo_freddy_00087_thoseAre_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00087_thoseAre_Pref_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\vo_freddy_00087_thoseAre_Pref		25796
+	54222393	vo_freddy_00091_doNot_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00091_doNot_Pref_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\vo_freddy_00091_doNot_Pref		90737
+	59206083	FREDDY_00070_GregoryWhatDidYouDo	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00070_989BC6CD.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheMonitors\FREDDY_00070_GregoryWhatDidYouDo		111321
+	59934956	FREDDY_00164	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00164_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00164		22602
+	60776904	FREDDY_00191	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00191_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00191		183472
+	62690500	vo_freddy_00062_iMust_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00062_iMust_Pref_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\vo_freddy_00062_iMust_Pref		139981
+	64609453	vo_freddy_00017_ohYou_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00017_ohYou_Pref_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\vo_freddy_00017_ohYou_Pref		136057
+	65013005	FREDDY_00225	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00225_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00225		147069
+	65551257	FREDDY_00239	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00239_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00239		87177
+	69203323	FREDDY_00076	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00076_989BC6CD.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheMonitors\FREDDY_00076		13032
+	69952481	FREDDY_00026_officerVanessa_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00026_officerVanessa_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00026_officerVanessa_Pref		43257
+	70482432	FREDDY_00025a	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00025a_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00025a		68511
+	73067706	FREDDY_00203	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00203_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00203		84500
+	82061272	FREDDY_00184	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00184_C0B400CB.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromInsideTheBooth\FREDDY_00184		43041
+	83799411	FREDDY_00081	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00081_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00081		233641
+	88207621	FREDDY_00233	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00233_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00233		123437
+	94569303	FREDDY_00240	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00240_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00240		21735
+	100622888	FREDDY_00009_whoWho_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00009_whoWho_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00009_whoWho_Pref		40379
+	100952316	FREDDY_00229	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00229_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00229		129743
+	101995261	FREDDY_00188	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00188_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00188		32749
+	113577248	FREDDY_00206	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00206_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00206		54922
+	118914181	FREDDY_00223	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00223_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00223		68817
+	120179458	FREDDY_00170	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00170_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00170		34617
+	125868464	FREDDY_00156	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00156_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00156		91934
+	133740555	FREDDY_00117	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00117_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00117		152384
+	144679643	FREDDY_00241	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00241_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00241		103367
+	146358089	vo_freddy_00087b	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00087b_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\vo_freddy_00087b		118417
+	154531238	FREDDY_00234	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00234_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00234		40938
+	159319445	FREDDY_00049_iAmNot_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00049_iAmNot_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00049_iAmNot_Pref		13980
+	170722481	FREDDY_00205	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00205_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00205		123948
+	174107838	vo_freddy_00038_iAm_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00038_iAm_Pref_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\vo_freddy_00038_iAm_Pref		72477
+	176273750	vo_freddy_00090_theyAre_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00090_theyAre_Pref_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\vo_freddy_00090_theyAre_Pref		89028
+	179592362	FREDDY_00175_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00175_02_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00175_02		28396
+	183539935	FREDDY_00194	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00194_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00194		52517
+	186525827	vo_freddy_00088_wellDone_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00088_wellDone_Pref_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\vo_freddy_00088_wellDone_Pref		128359
+	188659081	FREDDY_00218	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00218_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00218		109242
+	189034135	FREDDY_00175_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00175_01_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00175_01		54915
+	192974286	FREDDY_00020_iKnow_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00020_iKnow_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00020_iKnow_Pref		45495
+	201652041	FREDDY_00232	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00232_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00232		47499
+	204764899	FREDDY_00199	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00199_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00199		27653
+	205385301	FREDDY_00122	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00122_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00122		336923
+	209793905	FREDDY_00116a_pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00116a_pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00116a_pref		35271
+	217611705	FREDDY_0004	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_0004_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_0004		20767
+	227223272	FREDDY_00123	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00123_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00123		37443
+	230443212	FREDDY_00226	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00226_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00226		114116
+	244823181	FREDDY_00008_gregoryI_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00008_gregoryI_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00008_gregoryI_Pref		115861
+	248102780	FREDDY_00230	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00230_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00230		182185
+	252247897	FREDDY_00214	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00214_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00214		46061
+	252573233	FREDDY_00052_doNot_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00052_doNot_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00052_doNot_Pref		113999
+	261751284	FREDDY_00128_pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00128_pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00128_pref		60373
+	263784591	vo_freddy_00041_thatIs_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00041_thatIs_Pref_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\vo_freddy_00041_thatIs_Pref		73921
+	265741485	FREDDY_00015_wellDone_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00015_wellDone_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00015_wellDone_Pref		106484
+	267282470	FREDDY_00187	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00187_C0B400CB.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromInsideTheBooth\FREDDY_00187		28823
+	267301980	vo_freddy_00028_iSaid_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00028_iSaid_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\vo_freddy_00028_iSaid_Pref		43460
+	267875522	FREDDY_00127	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00127_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00127		79853
+	267963889	FREDDY_00171_pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00171_pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00171_pref		57064
+	280708303	vo_freddy_00092_allDone_Alt	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00092_allDone_Alt_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\vo_freddy_00092_allDone_Alt		76292
+	289551774	FREDDY_00069b	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00069b_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00069b		75457
+	290904864	vo_freddy_00036_howUnfortunate_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00036_howUnfortunate_Pref_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\vo_freddy_00036_howUnfortunate_Pref		227750
+	305478850	FREDDY_00030_correctFazer_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00030_correctFazer_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00030_correctFazer_Pref		164916
+	307390567	FREDDY_00201	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00201_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00201		14657
+	312871631	vo_freddy_00042_gregoryI_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00042_gregoryI_Pref_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\vo_freddy_00042_gregoryI_Pref		84494
+	336240918	FREDDY_00215	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00215_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00215		126575
+	336683922	FREDDY_00178b	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00178b_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00178b		177593
+	338448853	FREDDY_00061a	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00061a_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00061a		39574
+	344469244	FREDDY_00080	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00080_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00080		121252
+	349519316	FREDDY_00067_ThereYouAre	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00067_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00067_ThereYouAre		197188
+	353802358	FREDDY_00118	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00118_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00118		49890
+	366046952	FREDDY_00043_gregoryJump_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00043_gregoryJump_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00043_gregoryJump_Pref		48768
+	371774621	FREDDY_00246	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00246_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00246		78828
+	372118541	FREDDY_00073a	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00073a_989BC6CD.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheMonitors\FREDDY_00073a		120676
+	386831295	FREDDY_00039	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00039_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00039		99925
+	392746216	FREDDY_00189	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00189_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00189		90658
+	394722695	FREDDY_00105	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00105_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00105		80933
+	395202244	FREDDY_00235	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00235_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00235		106134
+	395462957	FREDDY_00178	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00178_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00178		158207
+	395719137	FREDDY_00013_iAm_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00013_iAm_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00013_iAm_Pref		24929
+	401458958	FREDDY_00019_wayTo_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00019_wayTo_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00019_wayTo_Pref		48647
+	405396460	FREDDY_00021_thereIs_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00021_thereIs_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00021_thereIs_Pref		126046
+	419845548	FREDDY_00200	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00200_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00200		16774
+	421414259	FREDDY_00085	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00085_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00085		111685
+	423318015	FREDDY_00075	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00075_989BC6CD.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheMonitors\FREDDY_00075		9775
+	427404343	FREDDY_00094	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00094_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00094		71702
+	432731326	FREDDY_00157	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00157_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00157		117600
+	439430680	FREDDY_00192	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00192_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00192		97654
+	440045764	FREDDY_00163	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00163_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00163		15361
+	440624974	sfx_freddy_alert_gregoryInjured	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_freddy_alert_gregoryInjured_73E79EE3.wem		\Actor-Mixer Hierarchy\Characters\CharacterSFX_2D\FreddySFX\sfx_freddy_alert_gregoryInjured		31176
+	442600770	FREDDY_00083	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00083_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00083		58773
+	442955456	FREDDY_00188a	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00188a_C0B400CB.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromInsideTheBooth\FREDDY_00188a		46763
+	447041234	vo_freddy_00054_gregoryI_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00054_gregoryI_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\vo_freddy_00054_gregoryI_Pref		194760
+	447534867	FREDDY_00185	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00185_C0B400CB.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromInsideTheBooth\FREDDY_00185		76879
+	450081826	vo_freddy_00086_doYou_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00086_doYou_Pref_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\vo_freddy_00086_doYou_Pref		28741
+	451095352	FREDDY_00065_GregoryGregory	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00065_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00065_GregoryGregory		34335
+	456460735	FREDDY_00064_GetToTheElevator	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00064_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00064_GetToTheElevator		42590
+	470289262	FREDDY_00068_HelpMeGetToParts	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00068_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00068_HelpMeGetToParts		65284
+	478115912	vo_freddy_00033_doNot_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00033_doNot_Pref_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\vo_freddy_00033_doNot_Pref		63935
+	484521471	FREDDY_00122a	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00122a_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00122a		38739
+	487771424	FREDDY_00243	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00243_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00243		67148
+	488569427	FREDDY_00003_downWhere_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00003_downWhere_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00003_downWhere_Pref		12890
+	492038681	FREDDY_00196	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00196_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00196		114677
+	494199889	FREDDY_00209	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00209_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00209		110840
+	498703526	FREDDY_00106	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00106_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00106		94752
+	503985181	FREDDY_00168	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00168_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00168		25909
+	513042648	FREDDY_00182	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00182_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00182		37190
+	517037705	FREDDY_00231	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00231_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00231		47300
+	517886016	FREDDY_00195	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00195_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00195		94092
+	518084070	FREDDY_00190	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00190_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00190		81252
+	523458147	FREDDY_00242	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00242_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00242		144627
+	528628684	FREDDY_00027_iApologize_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00027_iApologize_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00027_iApologize_Pref		16357
+	531552891	FREDDY_00204	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00204_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00204		45856
+	538467259	vo_freddy_00056_itLooks_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00056_itLooks_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\vo_freddy_00056_itLooks_Pref		83399
+	541833628	FREDDY_00237	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00237_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00237		63499
+	549179580	vo_freddy_00093_goTo_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00093_goTo_Pref_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\vo_freddy_00093_goTo_Pref		53449
+	553066580	FREDDY_00165b	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00165b_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00165b		12404
+	562651387	vo_freddy_00032_wellDone_Pref1	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00032_wellDone_Pref1_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\vo_freddy_00032_wellDone_Pref1		226415
+	564014005	FREDDY_00053_weShould_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00053_weShould_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00053_weShould_Pref		59855
+	566795557	FREDDY_00073	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00073_989BC6CD.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheMonitors\FREDDY_00073		114044
+	571874633	FREDDY_00101	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00101_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00101		99395
+	576346234	FREDDY_00221	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00221_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00221		35509
+	582810577	FREDDY_00069_ItsDownUnderTheMainStage	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00069_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00069_ItsDownUnderTheMainStage		137816
+	585921520	FREDDY_00077	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00077_989BC6CD.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheMonitors\FREDDY_00077		17799
+	592250424	FREDDY_00072	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00072_989BC6CD.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheMonitors\FREDDY_00072		119151
+	599843661	FREDDY_00244	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00244_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00244		33418
+	601361414	FREDDY_00219	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00219_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00219		63015
+	601498234	FREDDY_00247_pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00247_pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00247_pref		54684
+	604074073	FREDDY_00228	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00228_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00228		163805
+	605948670	FREDDY_00181_pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00181_pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00181_pref		66253
+	606079772	vo_freddy_00060_maybeYou_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00060_maybeYou_Pref_AB96B9D3.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\vo_freddy_00060_maybeYou_Pref		15286
+	606118381	sfx_freddy_alert_outOfPower	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_freddy_alert_outOfPower_73E79EE3.wem		\Actor-Mixer Hierarchy\Characters\CharacterSFX_3D\Freddy\sfx_freddy_alert_outOfPower		70200
+	606587127	FREDDY_00100	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00100_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00100		73726
+	613566427	FREDDY_00079	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00079_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00079		11672
+	632707707	FREDDY_00046_gregoryWhere_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00046_gregoryWhere_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00046_gregoryWhere_Pref		22302
+	633170125	vo_freddy_00063_youFound_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00063_youFound_Pref_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\vo_freddy_00063_youFound_Pref		189976
+	634191018	FREDDY_00208	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00208_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00208		46954
+	644445361	FREDDY_00011_whyNot_Pref1	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00011_whyNot_Pref1_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00011_whyNot_Pref1		9276
+	648649759	FREDDY_00128a	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00128a_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00128a		19781
+	655623433	FREDDY_00238	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00238_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00238		56275
+	663527186	FREDDY_00069a	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00069a_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00069a		148903
+	671093277	FREDDY_00001_showtimeAlready_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00001_showtimeAlready_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00001_showtimeAlready_Pref		73842
+	673230535	FREDDY_00202	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00202_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00202		20662
+	677149231	FREDDY_00082	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00082_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00082		88339
+	683503263	FREDDY_00167	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00167_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00167		35720
+	691595699	FREDDY_00160	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00160_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00160		21491
+	696959872	FREDDY_00110	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00110_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00110		17520
+	699079112	FREDDY_00012_takeThis_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00012_takeThis_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00012_takeThis_Pref		41786
+	700053346	FREDDY_00175b_01	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00175b_01_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00175b_01		17528
+	708173131	FREDDY_00159	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00159_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00159		40583
+	715160584	FREDDY_00023_doNot_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00023_doNot_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00023_doNot_Pref		165456
+	717187887	FREDDY_00048_noI_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00048_noI_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00048_noI_Pref		77961
+	723562431	FREDDY_00037a	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00037a_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00037a		90029
+	736691881	FREDDY_00109	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00109_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00109		93130
+	736775210	vo_freddy_00035_thoseBoxes_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00035_thoseBoxes_Pref_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\vo_freddy_00035_thoseBoxes_Pref		170274
+	739975390	FREDDY_00207	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00207_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00207		53048
+	745047889	FREDDY_00175b_02	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00175b_02_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00175b_02		11724
+	750131337	FREDDY_00154	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00154_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00154		112435
+	754709750	FREDDY_00010_thatIs_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00010_thatIs_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00010_thatIs_Pref		33117
+	754882173	FREDDY_00165	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00165_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00165		8020
+	769295572	FREDDY_00007_scanningComplete_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00007_scanningComplete_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00007_scanningComplete_Pref		76960
+	769300858	FREDDY_00047_thatIs_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00047_thatIs_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00047_thatIs_Pref		54968
+	769916864	FREDDY_00212	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00212_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00212		88237
+	778809022	FREDDY_00217	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00217_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00217		123390
+	780366732	FREDDY_00222	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00222_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00222		35439
+	815108573	FREDDY_00193	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00193_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00193		13265
+	823840480	vo_freddy_00059_howUnfortunate_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00059_howUnfortunate_Pref_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\vo_freddy_00059_howUnfortunate_Pref		102877
+	832180445	vo_freddy_00057_wellDone_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00057_wellDone_Pref_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\vo_freddy_00057_wellDone_Pref		80614
+	848584346	FREDDY_00022_iAm_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00022_iAm_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00022_iAm_Pref		96366
+	852184479	FREDDY_00179	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_179_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00179		112966
+	856477577	FREDDY_00024a	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00024a_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00024a		21165
+	858177600	FREDDY_00227	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00227_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00227		37004
+	869271092	FREDDY_00074	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00074_989BC6CD.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheMonitors\FREDDY_00074		27317
+	872691749	FREDDY_00002_whoSaid_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00002_whoSaid_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00002_whoSaid_Pref		10711
+	880173777	FREDDY_00111	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00111_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00111		16746
+	880330147	FREDDY_00210	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00210_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00210		84047
+	884773931	FREDDY_00183_pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00183_pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00183_pref		54486
+	885292644	FREDDY_00078	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00078_989BC6CD.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheMonitors\FREDDY_00078		17064
+	886414995	FREDDY_00197	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00197_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00197		158977
+	886581380	FREDDY_00177b	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00177_alt_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00177b		109214
+	892583749	vo_freddy_00018_goodJob_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00018_goodJob_Pref_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\vo_freddy_00018_goodJob_Pref		36827
+	892784415	FREDDY_00104	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00104_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00104		42992
+	895490281	FREDDY_00050_iDo_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00050_iDo_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00050_iDo_Pref		77824
+	895622501	FREDDY_00044_goUpstairs_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00044_goUpstairs_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00044_goUpstairs_Pref		56571
+	911794348	FREDDY_00014b	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00014b_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00014b		175875
+	913619021	FREDDY_00107	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00107_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00107		13832
+	913786803	sfx_freddy_alert_connectionError	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\sfx_freddy_alert_connectionError_73E79EE3.wem		\Actor-Mixer Hierarchy\Characters\CharacterSFX_3D\Freddy\sfx_freddy_alert_connectionError		46692
+	915767930	FREDDY_00161_pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00161_pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00161_pref		87195
+	919650321	FREDDY_00169b	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00169b_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00169b		46712
+	920220681	FREDDY_00006_thereYou_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00006_thereYou_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00006_thereYou_Pref		14863
+	934603526	FREDDY_00186	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00186_C0B400CB.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromInsideTheBooth\FREDDY_00186		69088
+	935166013	FREDDY_00220	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00220_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00220		103806
+	938951856	FREDDY_00236	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00236_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00236		229518
+	942120919	FREDDY_00155	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00155_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00155		38104
+	957233778	FREDDY_00031_iAmTerribly_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00031_iAmTerribly_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00031_iAmTerribly_Pref		158578
+	978910986	FREDDY_00016_thereIs_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00016_thereIs_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00016_thereIs_Pref		40495
+	984073114	FREDDY_00125	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00125_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00125		35379
+	989449991	vo_freddy_00089_howUnfortunate_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00089_howUnfortunate_Pref_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\vo_freddy_00089_howUnfortunate_Pref		120760
+	991041313	FREDDY_00162	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00162_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00162		21177
+	995934908	FREDDY_00033b	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00033b_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\FREDDY_00033b		124308
+	999929718	vo_freddy_00040a_tryThatTerrible_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00040a_tryThatTerrible_Pref_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\vo_freddy_00040a_tryThatTerrible_Pref		29653
+	1002789941	FREDDY_00224	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00224_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00224		44490
+	1006791723	FREDDY_00084	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00084_C0B400CB.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromInsideTheBooth\FREDDY_00084		22791
+	1015521567	vo_freddy_00034_yourFaz_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00034_yourFaz_Pref_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\vo_freddy_00034_yourFaz_Pref		64294
+	1017383175	FREDDY_00108	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00108_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00108		88248
+	1030420697	FREDDY_00045_weAre_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00045_weAre_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00045_weAre_Pref		179790
+	1043566479	vo_freddy_00037_iWonder_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00037_iWonder_Pref_541FA035.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheFazwatch\vo_freddy_00037_iWonder_Pref		34598
+	1046001248	FREDDY_00180	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00180_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00180		55414
+	1051713149	FREDDY_00158	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00158_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00158		35095
+	1054010931	vo_freddy_00055_itAppears_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00055_itAppears_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\vo_freddy_00055_itAppears_Pref		70419
+	1060069831	FREDDY_00071	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00071_989BC6CD.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_FromTheMonitors\FREDDY_00071		26726
+	1063226533	FREDDY_00213	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00213_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00213		88621
+	1068553089	FREDDY_00029_weAre_Pref	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\vo_freddy_00029_weAre_Pref_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00029_weAre_Pref		70551
+	1068571676	FREDDY_00115	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\FREDDY_00115_FEE0369F.wem		\Actor-Mixer Hierarchy\Dialogue\Dialogue3D\FreddyVO\Freddy_SpeakingNormally_OutsideFreddy\FREDDY_00115		314747
+

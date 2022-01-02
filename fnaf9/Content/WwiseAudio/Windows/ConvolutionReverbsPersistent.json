@@ -1,0 +1,574 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "140",
+  "RootPaths": {
+   "ProjectRoot": "I:\\Quarters\\fnaf9\\fnaf9_WwiseProject\\",
+   "SourceFilesRoot": "I:\\Quarters\\fnaf9\\fnaf9_WwiseProject\\.cache\\Windows\\",
+   "SoundBanksRoot": "I:\\Quarters\\fnaf9\\Content\\WwiseAudio\\Windows\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "I:\\Quarters\\fnaf9\\fnaf9_WwiseProject\\GeneratedSoundBanks\\Windows"
+  },
+  "SoundBanks": [
+   {
+    "Id": "1009401651",
+    "GUID": "{3C2A3F33-3F33-1F33-3333-333333333333}",
+    "Language": "SFX",
+    "Hash": "694638274",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\ConvolutionReverbsPersistent",
+    "ShortName": "ConvolutionReverbsPersistent",
+    "Path": "ConvolutionReverbsPersistent.bnk",
+    "IncludedAuxBusses": [
+     {
+      "Id": "80803695",
+      "Name": "REV_Utilidor_Large",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Reverbs\\REV_Utilidor_Large",
+      "GUID": "{E8694A30-6FA4-41D2-BB9D-54B9385A1929}"
+     },
+     {
+      "Id": "785966131",
+      "Name": "REV_Room_Tiled_Large",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Reverbs\\REV_Room_Tiled_Large",
+      "GUID": "{98312720-E17A-4F74-ADD2-41CA3A3098A5}"
+     },
+     {
+      "Id": "800671367",
+      "Name": "REV_Room_Tiled_Medium",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Reverbs\\REV_Room_Tiled_Medium",
+      "GUID": "{FF545A96-B5D2-4444-8AA0-6FB2FCFC444C}"
+     },
+     {
+      "Id": "1385744622",
+      "Name": "REV_Stairwell",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Reverbs\\REV_Stairwell",
+      "GUID": "{5270CF69-104B-454A-93AC-CA2F01228BA4}"
+     },
+     {
+      "Id": "1414510339",
+      "Name": "REV_Room_Carpeted_Large",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Reverbs\\REV_Room_Carpeted_Large",
+      "GUID": "{6F22D324-B356-4AC7-B10C-3A1733FB71AE}"
+     },
+     {
+      "Id": "1599389307",
+      "Name": "REV_Utilidor_Small",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Reverbs\\REV_Utilidor_Small",
+      "GUID": "{6B239B3E-503B-4947-8DA1-4A48DCF89757}"
+     },
+     {
+      "Id": "1994179471",
+      "Name": "REV_Room_Carpeted_Small",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Reverbs\\REV_Room_Carpeted_Small",
+      "GUID": "{FD3398E9-D040-4C04-A976-E2217A8E7474}"
+     },
+     {
+      "Id": "2089533112",
+      "Name": "REV_SewerTunnels",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Reverbs\\REV_SewerTunnels",
+      "GUID": "{42F592DE-4568-4D92-8A93-167F9A698990}"
+     },
+     {
+      "Id": "2133230327",
+      "Name": "REV_Room_Carpeted_Medium",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Reverbs\\REV_Room_Carpeted_Medium",
+      "GUID": "{5F2BE9CC-49C0-46AA-8760-B757BF86F597}"
+     },
+     {
+      "Id": "2308966851",
+      "Name": "REV_Room_Tiled_Huge",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Reverbs\\REV_Room_Tiled_Huge",
+      "GUID": "{3A9A014C-C501-447D-BCC2-94CE55171076}"
+     },
+     {
+      "Id": "2441671103",
+      "Name": "REV_Room_Tiled_Small",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Reverbs\\REV_Room_Tiled_Small",
+      "GUID": "{49E7652B-1CB4-4D33-8FC3-157D2F40408C}"
+     },
+     {
+      "Id": "2863267506",
+      "Name": "REV_VentilationSystem_Inside",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Reverbs\\REV_VentilationSystem_Inside",
+      "GUID": "{4EE776A9-59FB-4D96-90A3-F84B48321F24}"
+     },
+     {
+      "Id": "3730192026",
+      "Name": "REV_PlasticTube_Inside",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Reverbs\\REV_PlasticTube_Inside",
+      "GUID": "{B0D62E9C-1FEC-4AD0-8B81-85DEF50266D1}"
+     },
+     {
+      "Id": "4197593147",
+      "Name": "REV_Utilidor_Medium",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Reverbs\\REV_Utilidor_Medium",
+      "GUID": "{F1EE962B-00F1-4CC8-9C0B-347B6FE98422}"
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "2233966363",
+      "Name": "uservolume_master",
+      "ObjectPath": "\\Game Parameters\\utility\\uservolume_master",
+      "GUID": "{044FC82F-E1BE-47A8-930D-5B74E2DF6BC0}"
+     }
+    ],
+    "StateGroups": [
+     {
+      "Id": "18731126",
+      "Name": "inside_freddy",
+      "ObjectPath": "\\States\\Default Work Unit\\inside_freddy",
+      "GUID": "{6E9F540D-56A9-47A8-A312-AE9300CA9A86}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\inside_freddy\\None",
+        "GUID": "{CB9C0FD8-2EEA-46A1-8E77-3C9B992C0E19}"
+       },
+       {
+        "Id": "3553349781",
+        "Name": "inside",
+        "ObjectPath": "\\States\\Default Work Unit\\inside_freddy\\inside",
+        "GUID": "{FFD5FAC7-5098-4376-B333-A659A09DAA52}"
+       },
+       {
+        "Id": "438105790",
+        "Name": "outside",
+        "ObjectPath": "\\States\\Default Work Unit\\inside_freddy\\outside",
+        "GUID": "{AFB84C4B-5D33-46E3-A0F0-88CF0F7E7979}"
+       }
+      ]
+     },
+     {
+      "Id": "877642339",
+      "Name": "cinematics",
+      "ObjectPath": "\\States\\story_moments\\cinematics",
+      "GUID": "{2F1051CE-2A78-4F87-824F-D106367F2285}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\None",
+        "GUID": "{89AF7AF1-C1BC-4389-9568-56AC5DB886FB}"
+       },
+       {
+        "Id": "2646572446",
+        "Name": "hour2_sunmanIntro",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\hour2_sunmanIntro",
+        "GUID": "{29B2ECFC-03CC-41B9-B5C8-4FE31668F74B}"
+       },
+       {
+        "Id": "179926554",
+        "Name": "hour2_sunmanCarryPlayer",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\hour2_sunmanCarryPlayer",
+        "GUID": "{B739B328-1C4C-4924-978F-D34C213A5B6C}"
+       },
+       {
+        "Id": "710521474",
+        "Name": "dumpBallsMonty",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\dumpBallsMonty",
+        "GUID": "{444B85D8-6A79-45CB-8617-F367AA2CC6AE}"
+       },
+       {
+        "Id": "790502354",
+        "Name": "stageLift",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\stageLift",
+        "GUID": "{5F6520FE-17CF-428B-9935-A5DD630EB414}"
+       },
+       {
+        "Id": "3878647458",
+        "Name": "hour3_elevatorTrap",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\hour3_elevatorTrap",
+        "GUID": "{39AB1F1C-7CBF-43A8-96D9-073B0B3EA096}"
+       },
+       {
+        "Id": "1458317405",
+        "Name": "montyBossBattleIntro",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\montyBossBattleIntro",
+        "GUID": "{51862147-90AC-477C-AA9E-85F5269D9D6A}"
+       },
+       {
+        "Id": "2517651529",
+        "Name": "hour1_firstAidDialogue",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\hour1_firstAidDialogue",
+        "GUID": "{2814A50B-B0FB-4C12-AC4A-EBC0B06F09DE}"
+       },
+       {
+        "Id": "3730917311",
+        "Name": "hour3_chicaKitchen",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\hour3_chicaKitchen",
+        "GUID": "{5A355108-2318-4B22-956E-3EF33EDE35EC}"
+       },
+       {
+        "Id": "2513513052",
+        "Name": "hour3_chicaKitchen_Static",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\hour3_chicaKitchen_Static",
+        "GUID": "{A9C34F5D-2E80-42D2-93FC-400ECBDA0528}"
+       },
+       {
+        "Id": "2975896672",
+        "Name": "hour1_introVideo",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\hour1_introVideo",
+        "GUID": "{3A7EF184-C4DD-479C-8418-22160948096A}"
+       },
+       {
+        "Id": "2525860868",
+        "Name": "hour1_afterIntroVideo",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\hour1_afterIntroVideo",
+        "GUID": "{EC5AB432-8E4A-4724-853E-4B13CB113127}"
+       },
+       {
+        "Id": "3724300962",
+        "Name": "hour1_startInFreddy",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\hour1_startInFreddy",
+        "GUID": "{145624C6-740F-4F65-A6D9-CE33F55EC10D}"
+       },
+       {
+        "Id": "1029351162",
+        "Name": "hour1_getOutOfFreddy",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\hour1_getOutOfFreddy",
+        "GUID": "{79C393FD-327C-40E5-A33C-ED9A399CCDEA}"
+       },
+       {
+        "Id": "4286150249",
+        "Name": "hour2_slideEnter",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\hour2_slideEnter",
+        "GUID": "{BDC0B403-E8A0-403A-BFA7-293A12B3A5E1}"
+       },
+       {
+        "Id": "3516848363",
+        "Name": "hour2_kickedOutOfDaycare",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\hour2_kickedOutOfDaycare",
+        "GUID": "{D3E96BD9-357E-4C3C-9680-AFB2D136A777}"
+       },
+       {
+        "Id": "4006066345",
+        "Name": "hour2_transitionToMoonMan",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\hour2_transitionToMoonMan",
+        "GUID": "{9C989196-4232-4909-A1F0-9A9BB54AB973}"
+       },
+       {
+        "Id": "2968865688",
+        "Name": "hour2_slideNoEntry",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\hour2_slideNoEntry",
+        "GUID": "{5E3EEDC7-4C43-4915-AE2D-0DEC7727BFBD}"
+       },
+       {
+        "Id": "2424749623",
+        "Name": "hour3_littleMusicManVent",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\hour3_littleMusicManVent",
+        "GUID": "{62EECFE0-EDDF-430D-8599-3555F0B858FA}"
+       },
+       {
+        "Id": "4222242326",
+        "Name": "hour4_mmattack",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\hour4_mmattack",
+        "GUID": "{B0CAB390-A4E6-4244-A957-26F2689AF19A}"
+       },
+       {
+        "Id": "2939560893",
+        "Name": "hour5_endoIntro",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\hour5_endoIntro",
+        "GUID": "{7A38FD77-E71D-48F8-9030-1096454A7B55}"
+       },
+       {
+        "Id": "3422007485",
+        "Name": "hour4_transitionToLostAndFound",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\hour4_transitionToLostAndFound",
+        "GUID": "{AB1B5E38-36DA-4B49-B1A8-9A0D60EF710E}"
+       },
+       {
+        "Id": "2756657571",
+        "Name": "hour4_lostAndFound",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\hour4_lostAndFound",
+        "GUID": "{C21A0853-CA4F-4175-9643-60FF97F5818D}"
+       },
+       {
+        "Id": "1430576587",
+        "Name": "hour1_vanessaWalksBy",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\hour1_vanessaWalksBy",
+        "GUID": "{CE3B52EE-97CF-4B9D-A3E0-0F54775C3090}"
+       },
+       {
+        "Id": "2339442211",
+        "Name": "hour1_walkToFirstAid",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\hour1_walkToFirstAid",
+        "GUID": "{49A2F170-79FD-4D04-84FB-734603BDA8DA}"
+       },
+       {
+        "Id": "226153362",
+        "Name": "chicaBossBattleIntro",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\chicaBossBattleIntro",
+        "GUID": "{3980C2CF-573C-4A7E-8F7B-0B7A1F93F554}"
+       },
+       {
+        "Id": "2631564358",
+        "Name": "roxyBossBattleIntro",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\roxyBossBattleIntro",
+        "GUID": "{29092CB5-DF6C-488F-8C55-48F33E6118D8}"
+       },
+       {
+        "Id": "3200292227",
+        "Name": "dumpBallsMonty_sloMo",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\dumpBallsMonty_sloMo",
+        "GUID": "{D644BB33-3274-4BFB-B688-DD058831CBE1}"
+       },
+       {
+        "Id": "4098128287",
+        "Name": "roxyBossBattleIntro_sloMo",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\roxyBossBattleIntro_sloMo",
+        "GUID": "{AD353A00-2725-45A0-B197-27924F6C77ED}"
+       },
+       {
+        "Id": "4083394624",
+        "Name": "burntrapBossBattleIntro",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\burntrapBossBattleIntro",
+        "GUID": "{A5377C3F-F7F7-47F3-95E1-4CA0E636B409}"
+       },
+       {
+        "Id": "3707806325",
+        "Name": "overtime_vannyIntro",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\overtime_vannyIntro",
+        "GUID": "{595C9CF0-205D-423B-8869-79F5C6C22E5F}"
+       },
+       {
+        "Id": "2178279524",
+        "Name": "overtime_endGame",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\overtime_endGame",
+        "GUID": "{DD0D39F3-FB4C-4FCB-8FEC-F00AFCB1D16A}"
+       },
+       {
+        "Id": "440612544",
+        "Name": "ending_gregoryInAlley",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\ending_gregoryInAlley",
+        "GUID": "{94E8885B-806B-41C9-9385-4E317BA5F233}"
+       },
+       {
+        "Id": "2975652148",
+        "Name": "ending_loadingDock",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\ending_loadingDock",
+        "GUID": "{B6B52B10-9513-47F9-A1F1-468ABDF01F19}"
+       },
+       {
+        "Id": "2434794556",
+        "Name": "ending_vip",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\ending_vip",
+        "GUID": "{BA07521C-E8F2-4FF8-89D5-55B1845F4515}"
+       },
+       {
+        "Id": "1177990589",
+        "Name": "ending_burntrap",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\ending_burntrap",
+        "GUID": "{EA072BCC-43CF-4618-90EE-87C240CCFCBF}"
+       },
+       {
+        "Id": "2571510049",
+        "Name": "ending_vannyDestroy",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\ending_vannyDestroy",
+        "GUID": "{2D0328FB-E584-4AE8-8DDD-715FA7C8DF3A}"
+       },
+       {
+        "Id": "2632086901",
+        "Name": "ending_vannyRedeem",
+        "ObjectPath": "\\States\\story_moments\\cinematics\\ending_vannyRedeem",
+        "GUID": "{028A6923-59D1-4CDB-AAC4-459A4C77282F}"
+       }
+      ]
+     },
+     {
+      "Id": "1475161877",
+      "Name": "animatronic_attack",
+      "ObjectPath": "\\States\\Default Work Unit\\animatronic_attack",
+      "GUID": "{38DBD6AB-EEF8-424F-8A14-4CB6F65863E7}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\animatronic_attack\\None",
+        "GUID": "{31592DE6-04A3-4563-BB6D-8F1948312C2C}"
+       },
+       {
+        "Id": "180661997",
+        "Name": "attack",
+        "ObjectPath": "\\States\\Default Work Unit\\animatronic_attack\\attack",
+        "GUID": "{D6106A0E-81FB-48D0-A49B-EB63FD8B9F38}"
+       },
+       {
+        "Id": "4208712191",
+        "Name": "seeking",
+        "ObjectPath": "\\States\\Default Work Unit\\animatronic_attack\\seeking",
+        "GUID": "{F1B4D48E-1936-448B-BF4E-6A5B08545E40}"
+       }
+      ]
+     },
+     {
+      "Id": "3336199605",
+      "Name": "paused_state",
+      "ObjectPath": "\\States\\Default Work Unit\\paused_state",
+      "GUID": "{FDAC7DCB-9AA2-4579-B75D-CBF5A631A5E3}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\paused_state\\None",
+        "GUID": "{6BB6F89F-C3B2-4AC7-9197-403000E22F3B}"
+       },
+       {
+        "Id": "319258907",
+        "Name": "paused",
+        "ObjectPath": "\\States\\Default Work Unit\\paused_state\\paused",
+        "GUID": "{321A0DC2-B8DB-4B47-BE7C-72E8E58C5F92}"
+       },
+       {
+        "Id": "1365518790",
+        "Name": "unpaused",
+        "ObjectPath": "\\States\\Default Work Unit\\paused_state\\unpaused",
+        "GUID": "{BBE7106C-D443-4F9A-AF9F-2B84AB590D37}"
+       }
+      ]
+     },
+     {
+      "Id": "3342860265",
+      "Name": "hour1_corridorChase",
+      "ObjectPath": "\\States\\story_moments\\hour1_corridorChase",
+      "GUID": "{F9EA3556-BFD5-4331-BF85-65F1A7887056}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\story_moments\\hour1_corridorChase\\None",
+        "GUID": "{5661A65F-280B-4C06-AAFC-7F793493683C}"
+       },
+       {
+        "Id": "58138747",
+        "Name": "active",
+        "ObjectPath": "\\States\\story_moments\\hour1_corridorChase\\active",
+        "GUID": "{1ACD0B97-DB04-4879-86A6-DC63AA77FF37}"
+       }
+      ]
+     },
+     {
+      "Id": "3538823496",
+      "Name": "hiding",
+      "ObjectPath": "\\States\\Default Work Unit\\hiding",
+      "GUID": "{37225947-24BA-4AEF-AD11-05C4561AB76E}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\hiding\\None",
+        "GUID": "{8A7E9B34-6FB2-45FD-B7BA-A0B3ED7527FC}"
+       },
+       {
+        "Id": "4230341173",
+        "Name": "hiding_active",
+        "ObjectPath": "\\States\\Default Work Unit\\hiding\\hiding_active",
+        "GUID": "{3700EBF3-EE17-4B78-951D-2FFBC1F188CE}"
+       }
+      ]
+     },
+     {
+      "Id": "3683551463",
+      "Name": "fazwatch_state",
+      "ObjectPath": "\\States\\Default Work Unit\\fazwatch_state",
+      "GUID": "{AE2B836B-38C6-4E3C-9468-E5576D999F66}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\fazwatch_state\\None",
+        "GUID": "{2451983D-06E9-4AF2-82A7-815D4CBC52B2}"
+       },
+       {
+        "Id": "58138747",
+        "Name": "active",
+        "ObjectPath": "\\States\\Default Work Unit\\fazwatch_state\\active",
+        "GUID": "{0B519B23-9915-4AEF-8664-473F9A5153EC}"
+       }
+      ]
+     },
+     {
+      "Id": "3896917229",
+      "Name": "jumpscare_state",
+      "ObjectPath": "\\States\\Default Work Unit\\jumpscare_state",
+      "GUID": "{BE16A625-037B-4240-8262-CE7615A9F03F}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\jumpscare_state\\None",
+        "GUID": "{5CD7FF04-EB2C-49F3-A1E1-38ED9AE3878E}"
+       },
+       {
+        "Id": "351483260",
+        "Name": "jumpscare_active",
+        "ObjectPath": "\\States\\Default Work Unit\\jumpscare_state\\jumpscare_active",
+        "GUID": "{DC8468B3-5344-44BA-A93C-5F4C93159C26}"
+       },
+       {
+        "Id": "1432716332",
+        "Name": "game_over",
+        "ObjectPath": "\\States\\Default Work Unit\\jumpscare_state\\game_over",
+        "GUID": "{B8425F00-D3AD-4DF2-B47C-EB908B0D4008}"
+       },
+       {
+        "Id": "2062658082",
+        "Name": "nonlethal_jumpscare_active",
+        "ObjectPath": "\\States\\Default Work Unit\\jumpscare_state\\nonlethal_jumpscare_active",
+        "GUID": "{6701500F-9681-4C74-9CA8-02538A5F0E75}"
+       }
+      ]
+     },
+     {
+      "Id": "4040519518",
+      "Name": "mono_mode",
+      "ObjectPath": "\\States\\Default Work Unit\\mono_mode",
+      "GUID": "{0B673D49-26C6-4BCF-8703-90E6C9EB850A}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\mono_mode\\None",
+        "GUID": "{F7806441-0F6B-4DB4-BEE6-DE23F534774A}"
+       },
+       {
+        "Id": "58138747",
+        "Name": "active",
+        "ObjectPath": "\\States\\Default Work Unit\\mono_mode\\active",
+        "GUID": "{8D5AD634-A77F-4BAE-97F0-B6250EE2053F}"
+       }
+      ]
+     },
+     {
+      "Id": "4243984524",
+      "Name": "lights_state",
+      "ObjectPath": "\\States\\Default Work Unit\\lights_state",
+      "GUID": "{386CADBC-9D01-475A-9CA6-951E821AFFA0}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\lights_state\\None",
+        "GUID": "{D9F5E6F2-550D-4834-B552-19C67ED607A7}"
+       },
+       {
+        "Id": "1063352154",
+        "Name": "lights_on",
+        "ObjectPath": "\\States\\Default Work Unit\\lights_state\\lights_on",
+        "GUID": "{42D310CA-130B-4372-9C79-D626BDC1EE81}"
+       },
+       {
+        "Id": "409917040",
+        "Name": "lights_off",
+        "ObjectPath": "\\States\\Default Work Unit\\lights_state\\lights_off",
+        "GUID": "{F40A69EE-712B-4016-84AE-1D2EA6728345}"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

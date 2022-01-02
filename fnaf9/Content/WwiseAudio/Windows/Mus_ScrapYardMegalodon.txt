@@ -1,0 +1,7 @@
+Event	ID	Name			Wwise Object Path	Notes
+	638595977	Stop_mus_scrapYardMegalodon			\Default Work Unit\MusicStreaming\Stop_mus_scrapYardMegalodon	
+	2339397699	Play_mus_scrapYardMegalodon			\Default Work Unit\MusicStreaming\Play_mus_scrapYardMegalodon	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	1012990805	Scrap Yard Megalodon	I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\SFX\Scrap Yard Megalodon_F585A561.wem		\Interactive Music Hierarchy\ScottSongs\ScottSongs\mus_scrapYardMegalodon\Scrap Yard Megalodon\Scrap Yard Megalodon		6191704
+

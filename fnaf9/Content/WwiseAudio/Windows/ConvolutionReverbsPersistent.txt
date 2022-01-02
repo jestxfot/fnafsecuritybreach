@@ -1,0 +1,133 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	18731126	inside_freddy			\Default Work Unit\inside_freddy	
+	877642339	cinematics			\story_moments\cinematics	
+	1475161877	animatronic_attack			\Default Work Unit\animatronic_attack	
+	3336199605	paused_state			\Default Work Unit\paused_state	
+	3342860265	hour1_corridorChase			\story_moments\hour1_corridorChase	
+	3538823496	hiding			\Default Work Unit\hiding	
+	3683551463	fazwatch_state			\Default Work Unit\fazwatch_state	
+	3896917229	jumpscare_state			\Default Work Unit\jumpscare_state	
+	4040519518	mono_mode			\Default Work Unit\mono_mode	
+	4243984524	lights_state			\Default Work Unit\lights_state	
+
+State	ID	Name	State Group			Notes
+	438105790	outside	inside_freddy			
+	748895195	None	inside_freddy			
+	3553349781	inside	inside_freddy			
+	179926554	hour2_sunmanCarryPlayer	cinematics			
+	226153362	chicaBossBattleIntro	cinematics			
+	440612544	ending_gregoryInAlley	cinematics			
+	710521474	dumpBallsMonty	cinematics			
+	748895195	None	cinematics			
+	790502354	stageLift	cinematics			
+	1029351162	hour1_getOutOfFreddy	cinematics			
+	1177990589	ending_burntrap	cinematics			
+	1430576587	hour1_vanessaWalksBy	cinematics			
+	1458317405	montyBossBattleIntro	cinematics			
+	2178279524	overtime_endGame	cinematics			
+	2339442211	hour1_walkToFirstAid	cinematics			
+	2424749623	hour3_littleMusicManVent	cinematics			
+	2434794556	ending_vip	cinematics			
+	2513513052	hour3_chicaKitchen_Static	cinematics			
+	2517651529	hour1_firstAidDialogue	cinematics			
+	2525860868	hour1_afterIntroVideo	cinematics			
+	2571510049	ending_vannyDestroy	cinematics			
+	2631564358	roxyBossBattleIntro	cinematics			
+	2632086901	ending_vannyRedeem	cinematics			
+	2646572446	hour2_sunmanIntro	cinematics			
+	2756657571	hour4_lostAndFound	cinematics			
+	2939560893	hour5_endoIntro	cinematics			
+	2968865688	hour2_slideNoEntry	cinematics			
+	2975652148	ending_loadingDock	cinematics			
+	2975896672	hour1_introVideo	cinematics			
+	3200292227	dumpBallsMonty_sloMo	cinematics			
+	3422007485	hour4_transitionToLostAndFound	cinematics			
+	3516848363	hour2_kickedOutOfDaycare	cinematics			
+	3707806325	overtime_vannyIntro	cinematics			
+	3724300962	hour1_startInFreddy	cinematics			
+	3730917311	hour3_chicaKitchen	cinematics			
+	3878647458	hour3_elevatorTrap	cinematics			
+	4006066345	hour2_transitionToMoonMan	cinematics			
+	4083394624	burntrapBossBattleIntro	cinematics			
+	4098128287	roxyBossBattleIntro_sloMo	cinematics			
+	4222242326	hour4_mmattack	cinematics			
+	4286150249	hour2_slideEnter	cinematics			
+	180661997	attack	animatronic_attack			
+	748895195	None	animatronic_attack			
+	4208712191	seeking	animatronic_attack			
+	319258907	paused	paused_state			
+	748895195	None	paused_state			
+	1365518790	unpaused	paused_state			
+	58138747	active	hour1_corridorChase			
+	748895195	None	hour1_corridorChase			
+	748895195	None	hiding			
+	4230341173	hiding_active	hiding			
+	58138747	active	fazwatch_state			
+	748895195	None	fazwatch_state			
+	351483260	jumpscare_active	jumpscare_state			
+	748895195	None	jumpscare_state			
+	1432716332	game_over	jumpscare_state			
+	2062658082	nonlethal_jumpscare_active	jumpscare_state			
+	58138747	active	mono_mode			
+	748895195	None	mono_mode			
+	409917040	lights_off	lights_state			
+	748895195	None	lights_state			
+	1063352154	lights_on	lights_state			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	40990877	active	mono_mode	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix		
+	189542095	nonlethal_jumpscare_active	jumpscare_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs		
+	344582748	hour3_chicaKitchen_Static	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs		
+	486510816	paused	paused_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs		
+	686848485	active	hour1_corridorChase	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs		
+	745649976	seeking	animatronic_attack	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs		
+	822455050	jumpscare_active	jumpscare_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs		
+	865032793	attack	animatronic_attack	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs		
+	952525756	lights_off	lights_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs		
+	991873240	active	fazwatch_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs		
+	1014955808	hiding_active	hiding	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs		
+	1072714215	inside	inside_freddy	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs		
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	2233966363	uservolume_master			\utility\uservolume_master	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	336872259	DoesNotPause Bus			\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus	
+	2549681447	SurroundMix			\Default Work Unit\Master Audio Bus\SurroundMix	
+	3545700988	Reverbs			\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	80803695	REV_Utilidor_Large			\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_Utilidor_Large	
+	785966131	REV_Room_Tiled_Large			\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_Room_Tiled_Large	
+	800671367	REV_Room_Tiled_Medium			\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_Room_Tiled_Medium	
+	1385744622	REV_Stairwell			\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_Stairwell	
+	1414510339	REV_Room_Carpeted_Large			\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_Room_Carpeted_Large	
+	1599389307	REV_Utilidor_Small			\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_Utilidor_Small	
+	1994179471	REV_Room_Carpeted_Small			\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_Room_Carpeted_Small	
+	2089533112	REV_SewerTunnels			\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_SewerTunnels	
+	2133230327	REV_Room_Carpeted_Medium			\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_Room_Carpeted_Medium	
+	2308966851	REV_Room_Tiled_Huge			\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_Room_Tiled_Huge	
+	2441671103	REV_Room_Tiled_Small			\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_Room_Tiled_Small	
+	2863267506	REV_VentilationSystem_Inside			\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_VentilationSystem_Inside	
+	3730192026	REV_PlasticTube_Inside			\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_PlasticTube_Inside	
+	4197593147	REV_Utilidor_Medium			\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_Utilidor_Medium	
+
+Effect plug-ins	ID	Name	Type				Notes
+	4496003	Dirty_Washing_Machine	Wwise RoomVerb			
+	91523648	ShortMetallicSlap	Wwise Stereo Delay			
+	247799809	Ventilation_Inside	Wwise RoomVerb			
+	338647569	Room_Small_Tiled	Wwise RoomVerb			
+	734116685	Room_Tiled_Huge	Wwise RoomVerb			
+	986212803	VentilationDelay	Wwise Stereo Delay			
+	1115683185	Utilidor_Small	Wwise RoomVerb			
+	1159390747	Room_Medium_Tiled	Wwise RoomVerb			
+	1358075105	Utilidor_Medium	Wwise RoomVerb			
+	1655400308	Stairwell	Wwise RoomVerb			
+	2068262093	Room_Small_Carpeted	Wwise RoomVerb			
+	2662418867	Room_Medium_Carpeted	Wwise RoomVerb			
+	2808784349	Room_Tiled_Large	Wwise RoomVerb			
+	2877353705	Utilidor_Large	Wwise RoomVerb			
+	2921825765	Room_Large_Carpeted	Wwise RoomVerb			
+	2926115989	Sewer_Tunnels	Wwise RoomVerb			
+

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>I:\Quarters\fnaf9\fnaf9_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>I:\Quarters\fnaf9\fnaf9_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>I:\Quarters\fnaf9\Content\WwiseAudio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>I:\Quarters\fnaf9\fnaf9_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="2354070976" GUID="{7CA70231-7D10-4C3B-A825-63592BA50ECD}" Language="SFX" Hash="3003149697">
+			<ObjectPath>\SoundBanks\Default Work Unit\Mus_ScrapYardMegalodon</ObjectPath>
+			<ShortName>Mus_ScrapYardMegalodon</ShortName>
+			<Path>Mus_ScrapYardMegalodon.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2339397699" Name="Play_mus_scrapYardMegalodon" ObjectPath="\Events\Default Work Unit\Mus_ScrapYardMegalodon\Play_mus_scrapYardMegalodon" GUID="{D6D8CBEC-A2E0-4350-BE6C-ECB39FB518C1}" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="1012990805" Language="SFX">
+							<ShortName>Scrap Yard Megalodon.wav</ShortName>
+							<Path>SFX\Scrap Yard Megalodon_F585A561.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<ActionSetState>
+						<ActionSetStateEntry Id="58138747" Name="active" ObjectPath="\States\story_moments\hour1_corridorChase\active" GUID="{1ACD0B97-DB04-4879-86A6-DC63AA77FF37}"/>
+					</ActionSetState>
+				</Event>
+				<Event Id="638595977" Name="Stop_mus_scrapYardMegalodon" ObjectPath="\Events\Default Work Unit\Mus_ScrapYardMegalodon\Stop_mus_scrapYardMegalodon" GUID="{A76E73BC-81C1-4D70-8468-2E5197B2D988}" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000">
+					<ActionSetState>
+						<ActionSetStateEntry Id="748895195" Name="None" ObjectPath="\States\story_moments\hour1_corridorChase\None" GUID="{5661A65F-280B-4C06-AAFC-7F793493683C}"/>
+					</ActionSetState>
+				</Event>
+			</IncludedEvents>
+			<StateGroups>
+				<StateGroup Id="58138747" Name="active" ObjectPath="\States\story_moments\hour1_corridorChase\active" GUID="{1ACD0B97-DB04-4879-86A6-DC63AA77FF37}">
+					<States/>
+				</StateGroup>
+				<StateGroup Id="748895195" Name="None" ObjectPath="\States\story_moments\hour1_corridorChase\None" GUID="{5661A65F-280B-4C06-AAFC-7F793493683C}">
+					<States/>
+				</StateGroup>
+			</StateGroups>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

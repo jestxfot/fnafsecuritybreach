@@ -1,0 +1,1071 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "140",
+  "RootPaths": {
+   "ProjectRoot": "I:\\Quarters\\fnaf9\\fnaf9_WwiseProject\\",
+   "SourceFilesRoot": "I:\\Quarters\\fnaf9\\fnaf9_WwiseProject\\.cache\\Windows\\",
+   "SoundBanksRoot": "I:\\Quarters\\fnaf9\\Content\\WwiseAudio\\Windows\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "I:\\Quarters\\fnaf9\\fnaf9_WwiseProject\\GeneratedSoundBanks\\Windows"
+  },
+  "SoundBanks": [
+   {
+    "Id": "2314997666",
+    "GUID": "{2B9FE4B2-B4F3-41B8-A022-FD42281F93FB}",
+    "Language": "SFX",
+    "Hash": "3587962515",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\MusicStreaming",
+    "ShortName": "MusicStreaming",
+    "Path": "MusicStreaming.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "1514742834",
+      "Name": "Play_F9_Intro_Leadin",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Play_F9_Intro_Leadin",
+      "GUID": "{0758001A-720A-4FF8-84E8-17F808F2ED4E}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000"
+     },
+     {
+      "Id": "1718369076",
+      "Name": "Play_F9_IntroMusic_TEMP",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Play_F9_IntroMusic_TEMP",
+      "GUID": "{41017F42-42EE-4E6E-AEF0-67ED2751D67C}",
+      "DurationType": "Infinite",
+      "ReferencedStreamedFiles": [
+       {
+        "Id": "263837450",
+        "Language": "SFX",
+        "ShortName": "TITLE SCREEN - Echo-Clacks - LOOP AA.wav",
+        "Path": "SFX\\TITLE SCREEN - Echo-Clacks - LOOP AA_3D1D1BA5.wem"
+       },
+       {
+        "Id": "389663321",
+        "Language": "SFX",
+        "ShortName": "TITLE SCREEN - Waterfone - LOOP AA.wav",
+        "Path": "SFX\\TITLE SCREEN - Waterfone - LOOP AA_3D1D1BA5.wem"
+       },
+       {
+        "Id": "630033211",
+        "Language": "SFX",
+        "ShortName": "TITLE SCREEN - Wooo - LOOP AA.wav",
+        "Path": "SFX\\TITLE SCREEN - Wooo - LOOP AA_3D1D1BA5.wem"
+       },
+       {
+        "Id": "676298411",
+        "Language": "SFX",
+        "ShortName": "TITLE SCREEN - Buzz-Drip - LOOP AA.wav",
+        "Path": "SFX\\TITLE SCREEN - Buzz-Drip - LOOP AA_3D1D1BA5.wem"
+       },
+       {
+        "Id": "980660099",
+        "Language": "SFX",
+        "ShortName": "TITLE SCREEN - Music Box - LOOP AA.wav",
+        "Path": "SFX\\TITLE SCREEN - Music Box - LOOP AA_3D1D1BA5.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1271110762",
+      "Name": "Play_MINI_GOLF_INTRO___FINAL___09_10_21",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Play_MINI_GOLF_INTRO___FINAL___09_10_21",
+      "GUID": "{38FB013A-C01B-4C07-8808-721E1FBA38FC}",
+      "DurationType": "OneShot",
+      "DurationMin": "66.004753",
+      "DurationMax": "66.004753",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "1056413595",
+        "Language": "SFX",
+        "ShortName": "MINI GOLF INTRO - FINAL - 09-10-21.wav",
+        "Path": "SFX\\MINI GOLF INTRO - FINAL - 09-10-21_F585A561.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1418075832",
+      "Name": "Play_mus_Atmosphere2",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Play_mus_Atmosphere2",
+      "GUID": "{CCBD2E5B-C0CA-43F3-B7B6-23AA46B88A6A}",
+      "MaxAttenuation": "0.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000",
+      "ActionSetState": [
+       {
+        "Id": "58138747",
+        "Name": "active",
+        "ObjectPath": "\\States\\atmosphere_music\\hour1_lobbyMagnet\\active",
+        "GUID": "{68DEA104-ADBC-4969-A056-DF75ACFE3BE7}"
+       }
+      ]
+     },
+     {
+      "Id": "1910456559",
+      "Name": "Play_mus_chicasFeedingFrenzy",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Play_mus_chicasFeedingFrenzy",
+      "GUID": "{9BEC9BF3-A5C6-4702-A70D-594B165648EA}",
+      "DurationType": "Infinite",
+      "ReferencedStreamedFiles": [
+       {
+        "Id": "972835169",
+        "Language": "SFX",
+        "ShortName": "Concealed Coolness.wav",
+        "Path": "SFX\\Concealed Coolness_F585A561.wem"
+       }
+      ]
+     },
+     {
+      "Id": "973583313",
+      "Name": "Play_mus_DJMM_arcade",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Play_mus_DJMM_arcade",
+      "GUID": "{B6FFF0EA-6859-470E-AEC7-7EEF2DC328A7}",
+      "DurationType": "Infinite",
+      "ReferencedStreamedFiles": [
+       {
+        "Id": "268211433",
+        "Language": "SFX",
+        "ShortName": "DJ Music Man part 04 - 04-15-21.wav",
+        "Path": "SFX\\DJ Music Man part 04 - 04-15-21_F585A561.wem"
+       },
+       {
+        "Id": "389726121",
+        "Language": "SFX",
+        "ShortName": "DJ Music Man part 03 - 04-15-21.wav",
+        "Path": "SFX\\DJ Music Man part 03 - 04-15-21_F585A561.wem"
+       },
+       {
+        "Id": "631996518",
+        "Language": "SFX",
+        "ShortName": "DJ Music Man part 05 - 04-15-21.wav",
+        "Path": "SFX\\DJ Music Man part 05 - 04-15-21_F585A561.wem"
+       },
+       {
+        "Id": "706585598",
+        "Language": "SFX",
+        "ShortName": "DJ Music Man part FILL - 04-15-21.wav",
+        "Path": "SFX\\DJ Music Man part FILL - 04-15-21_F585A561.wem"
+       },
+       {
+        "Id": "986924068",
+        "Language": "SFX",
+        "ShortName": "DJ Music Man part 01 - 04-15-21.wav",
+        "Path": "SFX\\DJ Music Man part 01 - 04-15-21_F585A561.wem"
+       },
+       {
+        "Id": "1003347199",
+        "Language": "SFX",
+        "ShortName": "DJ Music Man part 06 - 04-15-21.wav",
+        "Path": "SFX\\DJ Music Man part 06 - 04-15-21_F585A561.wem"
+       },
+       {
+        "Id": "1004810230",
+        "Language": "SFX",
+        "ShortName": "DJ Music Man part 02 - 04-15-21.wav",
+        "Path": "SFX\\DJ Music Man part 02 - 04-15-21_F585A561.wem"
+       }
+      ],
+      "IncludedMemoryFiles": [
+       {
+        "Id": "268211433",
+        "Language": "SFX",
+        "ShortName": "DJ Music Man part 04 - 04-15-21.wav",
+        "Path": "SFX\\DJ Music Man part 04 - 04-15-21_F585A561.wem",
+        "PrefetchSize": "5032"
+       },
+       {
+        "Id": "389726121",
+        "Language": "SFX",
+        "ShortName": "DJ Music Man part 03 - 04-15-21.wav",
+        "Path": "SFX\\DJ Music Man part 03 - 04-15-21_F585A561.wem",
+        "PrefetchSize": "5032"
+       },
+       {
+        "Id": "631996518",
+        "Language": "SFX",
+        "ShortName": "DJ Music Man part 05 - 04-15-21.wav",
+        "Path": "SFX\\DJ Music Man part 05 - 04-15-21_F585A561.wem",
+        "PrefetchSize": "5032"
+       },
+       {
+        "Id": "706585598",
+        "Language": "SFX",
+        "ShortName": "DJ Music Man part FILL - 04-15-21.wav",
+        "Path": "SFX\\DJ Music Man part FILL - 04-15-21_F585A561.wem",
+        "PrefetchSize": "5032"
+       },
+       {
+        "Id": "986924068",
+        "Language": "SFX",
+        "ShortName": "DJ Music Man part 01 - 04-15-21.wav",
+        "Path": "SFX\\DJ Music Man part 01 - 04-15-21_F585A561.wem",
+        "PrefetchSize": "5032"
+       },
+       {
+        "Id": "1003347199",
+        "Language": "SFX",
+        "ShortName": "DJ Music Man part 06 - 04-15-21.wav",
+        "Path": "SFX\\DJ Music Man part 06 - 04-15-21_F585A561.wem",
+        "PrefetchSize": "5032"
+       },
+       {
+        "Id": "1004810230",
+        "Language": "SFX",
+        "ShortName": "DJ Music Man part 02 - 04-15-21.wav",
+        "Path": "SFX\\DJ Music Man part 02 - 04-15-21_F585A561.wem",
+        "PrefetchSize": "5032"
+       }
+      ],
+      "SwitchContainers": [
+       {
+        "SwitchValue": "{32F2CA02-7755-48F1-9DAF-8583715E0D1F}",
+        "Media": [
+         {
+          "Id": "986924068"
+         }
+        ]
+       },
+       {
+        "SwitchValue": "{67A19E25-829F-4927-853E-23A1ECB05E75}",
+        "Media": [
+         {
+          "Id": "1004810230"
+         }
+        ]
+       },
+       {
+        "SwitchValue": "{05ABCA32-3F11-4ABD-B17D-A520C71FB60B}",
+        "Media": [
+         {
+          "Id": "389726121"
+         }
+        ]
+       },
+       {
+        "SwitchValue": "{E55C572A-4083-4824-BAB3-28FA12391B77}",
+        "Media": [
+         {
+          "Id": "268211433"
+         },
+         {
+          "Id": "631996518"
+         }
+        ]
+       },
+       {
+        "SwitchValue": "{2E5FCFC3-1AD6-4457-9756-59C4C93193DF}",
+        "Media": [
+         {
+          "Id": "1003347199"
+         }
+        ]
+       },
+       {
+        "SwitchValue": "{096C7B82-2CBE-4C57-A6D8-319BFA5C429E}",
+        "Media": [
+         {
+          "Id": "268211433"
+         },
+         {
+          "Id": "631996518"
+         }
+        ]
+       }
+      ],
+      "ActionSetState": [
+       {
+        "Id": "58138747",
+        "Name": "active",
+        "ObjectPath": "\\States\\story_moments\\DJMM_music\\active",
+        "GUID": "{F3DB682B-A93F-4C1B-8E9C-2E6A5E78FAC6}"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "785966131",
+        "Name": "REV_Room_Tiled_Large",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Reverbs\\REV_Room_Tiled_Large",
+        "GUID": "{98312720-E17A-4F74-ADD2-41CA3A3098A5}"
+       }
+      ]
+     },
+     {
+      "Id": "2803195986",
+      "Name": "Play_mus_foreverAndEver_full",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Play_mus_foreverAndEver_full",
+      "GUID": "{53956A61-756B-434A-ADF0-8856F059889F}",
+      "MaxAttenuation": "3300.000000",
+      "DurationType": "Infinite",
+      "ReferencedStreamedFiles": [
+       {
+        "Id": "921169830",
+        "Language": "SFX",
+        "ShortName": "FOREVER AND EVER - Full Song - 11-04-21.wav",
+        "Path": "SFX\\FOREVER AND EVER - Full Song - 11-04-21_13C5A5C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1177805636",
+      "Name": "Play_mus_foreverAndEver_old",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Play_mus_foreverAndEver_old",
+      "GUID": "{6E4FED83-11B7-427D-838C-C9D229238F69}",
+      "MaxAttenuation": "3300.000000",
+      "DurationType": "Infinite",
+      "ReferencedStreamedFiles": [
+       {
+        "Id": "1059007789",
+        "Language": "SFX",
+        "ShortName": "FOREVER AND EVER - Full Song Old 45 - 11-04-21.wav",
+        "Path": "SFX\\FOREVER AND EVER - Full Song Old 45 - 11-04-21_13C5A5C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3130331750",
+      "Name": "Play_mus_FreddysFanfare_80sSynth",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Play_mus_FreddysFanfare_80sSynth",
+      "GUID": "{5A47DFA1-DB1D-4342-8F3A-C30509939458}",
+      "MaxAttenuation": "1500.000000",
+      "DurationType": "Infinite",
+      "ReferencedStreamedFiles": [
+       {
+        "Id": "203887681",
+        "Language": "SFX",
+        "ShortName": "Freddy Main Theme - Elevator 3 VG-1 - 05-04-21.wav",
+        "Path": "SFX\\Freddy Main Theme - Elevator 3 VG-1 - 05-04-21_F585A561.wem"
+       }
+      ]
+     },
+     {
+      "Id": "239250967",
+      "Name": "Play_mus_FreddysFanfare_80sSynth_elevator",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Play_mus_FreddysFanfare_80sSynth_elevator",
+      "GUID": "{C85D07F8-31F0-4234-AA67-112C6A307169}",
+      "MaxAttenuation": "1500.000000",
+      "DurationType": "Infinite",
+      "ReferencedStreamedFiles": [
+       {
+        "Id": "637643894",
+        "Language": "SFX",
+        "ShortName": "Freddy Main Theme - Elevator 3 VG-1 - 05-04-21.wav",
+        "Path": "SFX\\Freddy Main Theme - Elevator 3 VG-1 - 05-04-21_D0662435.wem"
+       }
+      ],
+      "ActionSetState": [
+       {
+        "Id": "58138747",
+        "Name": "active",
+        "ObjectPath": "\\States\\atmosphere_music\\elevator_music\\active",
+        "GUID": "{B43A7FD6-884E-4CC9-BDC8-181A1B38CCD5}"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1994179471",
+        "Name": "REV_Room_Carpeted_Small",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Reverbs\\REV_Room_Carpeted_Small",
+        "GUID": "{FD3398E9-D040-4C04-A976-E2217A8E7474}"
+       }
+      ]
+     },
+     {
+      "Id": "429560537",
+      "Name": "Play_mus_FreddysFanfare_80sSynth_elevator_sinkhole",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Play_mus_FreddysFanfare_80sSynth_elevator_sinkhole",
+      "GUID": "{FDD535A6-3678-488D-8FDB-4C752EFA0175}",
+      "MaxAttenuation": "1500.000000",
+      "DurationType": "Infinite",
+      "ReferencedStreamedFiles": [
+       {
+        "Id": "610368521",
+        "Language": "SFX",
+        "ShortName": "FreddyThemeChoppedScrewed.wav",
+        "Path": "SFX\\FreddyThemeChoppedScrewed_4491CC86.wem"
+       }
+      ],
+      "ActionSetState": [
+       {
+        "Id": "58138747",
+        "Name": "active",
+        "ObjectPath": "\\States\\atmosphere_music\\elevator_music\\active",
+        "GUID": "{B43A7FD6-884E-4CC9-BDC8-181A1B38CCD5}"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "1994179471",
+        "Name": "REV_Room_Carpeted_Small",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Reverbs\\REV_Room_Carpeted_Small",
+        "GUID": "{FD3398E9-D040-4C04-A976-E2217A8E7474}"
+       }
+      ]
+     },
+     {
+      "Id": "1408360131",
+      "Name": "Play_mus_FreddysFanfare_Muzak",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Play_mus_FreddysFanfare_Muzak",
+      "GUID": "{6FBF5482-1F1F-489B-9530-52C4AFF2973C}",
+      "DurationType": "Infinite",
+      "ReferencedStreamedFiles": [
+       {
+        "Id": "428394806",
+        "Language": "SFX",
+        "ShortName": "Freddy Main Theme - Elevator 1 BOSSA - 05-04-21.wav",
+        "Path": "SFX\\Freddy Main Theme - Elevator 1 BOSSA - 05-04-21_F585A561.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "785966131",
+        "Name": "REV_Room_Tiled_Large",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Reverbs\\REV_Room_Tiled_Large",
+        "GUID": "{98312720-E17A-4F74-ADD2-41CA3A3098A5}"
+       }
+      ]
+     },
+     {
+      "Id": "739692312",
+      "Name": "Play_mus_FreddysFanfare_Organ",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Play_mus_FreddysFanfare_Organ",
+      "GUID": "{9C46EDC1-02AD-4FC4-94C8-6DD4058CB88D}",
+      "MaxAttenuation": "1500.000000",
+      "DurationType": "Infinite",
+      "ReferencedStreamedFiles": [
+       {
+        "Id": "152122545",
+        "Language": "SFX",
+        "ShortName": "Freddy Main Theme - Elevator 2 SOLO ORGAN - 05-04-21.wav",
+        "Path": "SFX\\Freddy Main Theme - Elevator 2 SOLO ORGAN - 05-04-21_3D1D1BA5.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1389152978",
+      "Name": "Play_mus_FreddysTheme_HologramStage",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Play_mus_FreddysTheme_HologramStage",
+      "GUID": "{FC4B352D-4932-4D22-83BD-7B7B5B3B5DCB}",
+      "MaxAttenuation": "11000.000000",
+      "DurationType": "Infinite",
+      "ReferencedStreamedFiles": [
+       {
+        "Id": "675627666",
+        "Language": "SFX",
+        "ShortName": "Freddy Main Theme - 10-04-21 - Locked Radio Mix.wav",
+        "Path": "SFX\\Freddy Main Theme - 10-04-21 - Locked Radio Mix_F585A561.wem"
+       }
+      ],
+      "IncludedMemoryFiles": [
+       {
+        "Id": "675627666",
+        "Language": "SFX",
+        "ShortName": "Freddy Main Theme - 10-04-21 - Locked Radio Mix.wav",
+        "Path": "SFX\\Freddy Main Theme - 10-04-21 - Locked Radio Mix_F585A561.wem",
+        "PrefetchSize": "24904"
+       }
+      ],
+      "SwitchContainers": [
+       {
+        "SwitchValue": "{85D1AAE9-5C35-45EC-99FA-F938A9178C40}",
+        "Media": [
+         {
+          "Id": "675627666"
+         }
+        ]
+       },
+       {
+        "SwitchValue": "{10793003-612F-46B7-9E86-01B108D78673}",
+        "Media": [
+         {
+          "Id": "675627666"
+         }
+        ]
+       }
+      ],
+      "ActionSetState": [
+       {
+        "Id": "58138747",
+        "Name": "active",
+        "ObjectPath": "\\States\\story_moments\\hour4_stageThemeIntro\\active",
+        "GUID": "{2A95626A-9E04-4B1D-89A5-A94BD512F4E3}"
+       },
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\story_moments\\hour4_stageThemeIntro\\None",
+        "GUID": "{6D27606B-3BCD-4623-A8E9-1DF8B27D7D6E}"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "2308966851",
+        "Name": "REV_Room_Tiled_Huge",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SurroundMix\\DoesNotPause Bus\\Reverbs\\REV_Room_Tiled_Huge",
+        "GUID": "{3A9A014C-C501-447D-BCC2-94CE55171076}"
+       }
+      ]
+     },
+     {
+      "Id": "1120244337",
+      "Name": "Play_mus_hour3_AtriumExplore",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Play_mus_hour3_AtriumExplore",
+      "GUID": "{774844A5-C6D4-42A3-BAD2-5FE6A650FE55}",
+      "MaxAttenuation": "0.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000",
+      "ActionSetState": [
+       {
+        "Id": "58138747",
+        "Name": "active",
+        "ObjectPath": "\\States\\atmosphere_music\\hour3_atriumExplore\\active",
+        "GUID": "{E817642D-2F80-45DF-94B1-0769AE7A07C3}"
+       }
+      ]
+     },
+     {
+      "Id": "3228103830",
+      "Name": "Play_mus_hour3_ChicaBathroom",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Play_mus_hour3_ChicaBathroom",
+      "GUID": "{892F564B-BA59-44A3-832D-EADBEC16FF0C}",
+      "MaxAttenuation": "0.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000",
+      "ActionSetState": [
+       {
+        "Id": "58138747",
+        "Name": "active",
+        "ObjectPath": "\\States\\atmosphere_music\\hour3_chicaBathroom\\active",
+        "GUID": "{7918A14B-32ED-4505-93D0-1E3D1C3DA2F6}"
+       }
+      ]
+     },
+     {
+      "Id": "2258018844",
+      "Name": "Play_mus_hour3_PostPrizeCounter",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Play_mus_hour3_PostPrizeCounter",
+      "GUID": "{BFAE3D4B-D829-4290-8D7A-A61C2D65AB12}",
+      "MaxAttenuation": "0.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000",
+      "ActionSetState": [
+       {
+        "Id": "58138747",
+        "Name": "active",
+        "ObjectPath": "\\States\\atmosphere_music\\hour3_prizeCounterPostOG\\active",
+        "GUID": "{74687117-83E8-468F-8FF1-C58FFF88B2AC}"
+       }
+      ]
+     },
+     {
+      "Id": "3679325784",
+      "Name": "Play_mus_hour4_afterShowtime_moonman_tension",
+      "ObjectPath": "\\Events\\Default Work Unit\\Hours\\Hour4\\Play_mus_hour4_afterShowtime_moonman_tension",
+      "GUID": "{1540B962-7ADA-49A3-BBD0-BEB99C39479C}",
+      "DurationType": "Infinite",
+      "ReferencedStreamedFiles": [
+       {
+        "Id": "296638591",
+        "Language": "SFX",
+        "ShortName": "FNAF_SB_tension2_int3_lp.wav",
+        "Path": "SFX\\FNAF_SB_tension2_int3_lp_F585A561.wem"
+       },
+       {
+        "Id": "334526789",
+        "Language": "SFX",
+        "ShortName": "FNAF_SB_tension2_int1_lp.wav",
+        "Path": "SFX\\FNAF_SB_tension2_int1_lp_F585A561.wem"
+       },
+       {
+        "Id": "768036597",
+        "Language": "SFX",
+        "ShortName": "FNAF_SB_tension2_int2_lp.wav",
+        "Path": "SFX\\FNAF_SB_tension2_int2_lp_F585A561.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3090866678",
+      "Name": "Play_mus_LMM_vent",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Play_mus_LMM_vent",
+      "GUID": "{F1750E93-EB18-49F1-B887-817D4842ED19}",
+      "DurationType": "Infinite",
+      "ReferencedStreamedFiles": [
+       {
+        "Id": "296638591",
+        "Language": "SFX",
+        "ShortName": "FNAF_SB_tension2_int3_lp.wav",
+        "Path": "SFX\\FNAF_SB_tension2_int3_lp_F585A561.wem"
+       },
+       {
+        "Id": "334526789",
+        "Language": "SFX",
+        "ShortName": "FNAF_SB_tension2_int1_lp.wav",
+        "Path": "SFX\\FNAF_SB_tension2_int1_lp_F585A561.wem"
+       },
+       {
+        "Id": "768036597",
+        "Language": "SFX",
+        "ShortName": "FNAF_SB_tension2_int2_lp.wav",
+        "Path": "SFX\\FNAF_SB_tension2_int2_lp_F585A561.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3614092622",
+      "Name": "Play_mus_phantogeusia",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Play_mus_phantogeusia",
+      "GUID": "{FE354F7F-8B0E-4A6E-B507-3F9C6914E1C3}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000"
+     },
+     {
+      "Id": "1035189163",
+      "Name": "Play_mus_silence",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Play_mus_silence",
+      "GUID": "{5EE28104-76B9-4C5D-B85C-FF6693806DD1}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.219089",
+      "DurationMax": "0.219089",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "20204265",
+        "Language": "SFX",
+        "ShortName": "07 PRIZE BOX - Theme D - Closure.wav",
+        "Path": "SFX\\07 PRIZE BOX - Theme D - Closure_F585A561.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3224492330",
+      "Name": "Play_mus_snapGoesTheSfinalChord",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Play_mus_snapGoesTheSfinalChord",
+      "GUID": "{DDC67437-6F84-42C4-8C62-5A563867A0C9}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000"
+     },
+     {
+      "Id": "663513444",
+      "Name": "Play_mus_theNerveCutter",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Play_mus_theNerveCutter",
+      "GUID": "{D8E70A43-22E0-4A21-8541-C418FE07236B}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000"
+     },
+     {
+      "Id": "2102504521",
+      "Name": "Play_mus_titlescreen_buzzdrip",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Play_mus_titlescreen_buzzdrip",
+      "GUID": "{F1970ED3-F3C6-4CE3-B5A5-4FE130C89930}",
+      "DurationType": "Infinite",
+      "ReferencedStreamedFiles": [
+       {
+        "Id": "676298411",
+        "Language": "SFX",
+        "ShortName": "TITLE SCREEN - Buzz-Drip - LOOP AA.wav",
+        "Path": "SFX\\TITLE SCREEN - Buzz-Drip - LOOP AA_3D1D1BA5.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2824278704",
+      "Name": "Play_mus_titlescreen_echoclack",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Play_mus_titlescreen_echoclack",
+      "GUID": "{7F1372F3-E421-4F68-99B6-3FEC7B76493A}",
+      "DurationType": "Infinite",
+      "ReferencedStreamedFiles": [
+       {
+        "Id": "263837450",
+        "Language": "SFX",
+        "ShortName": "TITLE SCREEN - Echo-Clacks - LOOP AA.wav",
+        "Path": "SFX\\TITLE SCREEN - Echo-Clacks - LOOP AA_3D1D1BA5.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3219624011",
+      "Name": "Play_mus_titlescreen_musicbox",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Play_mus_titlescreen_musicbox",
+      "GUID": "{C5D6B351-E42A-487F-86DB-97D900968BFF}",
+      "DurationType": "Infinite",
+      "ReferencedStreamedFiles": [
+       {
+        "Id": "980660099",
+        "Language": "SFX",
+        "ShortName": "TITLE SCREEN - Music Box - LOOP AA.wav",
+        "Path": "SFX\\TITLE SCREEN - Music Box - LOOP AA_3D1D1BA5.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1894732136",
+      "Name": "Play_mus_titlescreen_waterphone",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Play_mus_titlescreen_waterphone",
+      "GUID": "{E999700F-ACDC-4FAF-8110-30BF65F51C73}",
+      "DurationType": "Infinite",
+      "ReferencedStreamedFiles": [
+       {
+        "Id": "389663321",
+        "Language": "SFX",
+        "ShortName": "TITLE SCREEN - Waterfone - LOOP AA.wav",
+        "Path": "SFX\\TITLE SCREEN - Waterfone - LOOP AA_3D1D1BA5.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2019130711",
+      "Name": "Play_mus_titlescreen_wooo",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Play_mus_titlescreen_wooo",
+      "GUID": "{D2C41689-7A73-4F43-8A52-0336CE9F4489}",
+      "DurationType": "Infinite",
+      "ReferencedStreamedFiles": [
+       {
+        "Id": "630033211",
+        "Language": "SFX",
+        "ShortName": "TITLE SCREEN - Wooo - LOOP AA.wav",
+        "Path": "SFX\\TITLE SCREEN - Wooo - LOOP AA_3D1D1BA5.wem"
+       }
+      ]
+     },
+     {
+      "Id": "428487280",
+      "Name": "Stop_MINI_GOLF_INTRO___FINAL___09_10_21",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Stop_MINI_GOLF_INTRO___FINAL___09_10_21",
+      "GUID": "{222480F8-4357-42A5-BCA5-8839BC555736}",
+      "MaxAttenuation": "0.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000"
+     },
+     {
+      "Id": "1315258658",
+      "Name": "Stop_mus_Atmosphere2",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Stop_mus_Atmosphere2",
+      "GUID": "{26F790D2-DB26-48EB-9A86-23B1C89EBE32}",
+      "MaxAttenuation": "0.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000",
+      "ActionSetState": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\atmosphere_music\\hour1_lobbyMagnet\\None",
+        "GUID": "{D2C85226-1437-447E-96A3-F5A9099350DC}"
+       }
+      ]
+     },
+     {
+      "Id": "2429112633",
+      "Name": "Stop_mus_chicasFeedingFrenzy",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Stop_mus_chicasFeedingFrenzy",
+      "GUID": "{A99B9FB8-87FA-4DC5-B03B-FF3761591DB0}",
+      "MaxAttenuation": "0.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000"
+     },
+     {
+      "Id": "916771563",
+      "Name": "Stop_mus_DJMM_arcade",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Stop_mus_DJMM_arcade",
+      "GUID": "{AF0D76B2-4128-4220-9EB6-CB47447C32F5}",
+      "MaxAttenuation": "0.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000",
+      "ActionSetState": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\story_moments\\DJMM_music\\None",
+        "GUID": "{7364262C-2A50-45F5-A58A-BA94BE1221AC}"
+       }
+      ]
+     },
+     {
+      "Id": "1431331473",
+      "Name": "Stop_mus_FreddysFanfare_80sSynth_elevator",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Stop_mus_FreddysFanfare_80sSynth_elevator",
+      "GUID": "{0C8BAD3B-BCFE-48DC-99AE-AB762AD8F854}",
+      "MaxAttenuation": "0.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000",
+      "ActionSetState": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\atmosphere_music\\elevator_music\\None",
+        "GUID": "{BC34EAE8-044C-4B6A-8A60-868654DAE47D}"
+       }
+      ]
+     },
+     {
+      "Id": "709504947",
+      "Name": "Stop_mus_FreddysFanfare_80sSynth_elevator_sinkhole",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Stop_mus_FreddysFanfare_80sSynth_elevator_sinkhole",
+      "GUID": "{BED74D11-D492-4651-AD37-462CBDC4B509}",
+      "MaxAttenuation": "0.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000",
+      "ActionSetState": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\atmosphere_music\\elevator_music\\None",
+        "GUID": "{BC34EAE8-044C-4B6A-8A60-868654DAE47D}"
+       }
+      ]
+     },
+     {
+      "Id": "1644216655",
+      "Name": "Stop_mus_hour3_AtriumExplore",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Stop_mus_hour3_AtriumExplore",
+      "GUID": "{B748A287-0141-45E1-B99D-08DA79016F39}",
+      "MaxAttenuation": "0.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000",
+      "ActionSetState": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\atmosphere_music\\hour3_atriumExplore\\None",
+        "GUID": "{5BBF64C1-0EC3-42CC-9A4E-321CED0B6488}"
+       }
+      ]
+     },
+     {
+      "Id": "701957048",
+      "Name": "Stop_mus_hour3_ChicaBathroom",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Stop_mus_hour3_ChicaBathroom",
+      "GUID": "{F83DB223-C5D0-4F2E-ACCE-93A934D400BD}",
+      "MaxAttenuation": "0.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000",
+      "ActionSetState": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\atmosphere_music\\hour3_chicaBathroom\\None",
+        "GUID": "{1A050232-0BBB-4F95-BA51-BEE33DFB9FC3}"
+       }
+      ]
+     },
+     {
+      "Id": "598258058",
+      "Name": "Stop_mus_hour3_PostPrizeCounter",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Stop_mus_hour3_PostPrizeCounter",
+      "GUID": "{A2BB244A-96B8-4187-8A93-CEC029BD4770}",
+      "MaxAttenuation": "0.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000",
+      "ActionSetState": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\atmosphere_music\\hour3_prizeCounterPostOG\\None",
+        "GUID": "{B9CA0F30-AE9F-4437-8B15-AFB7052857F9}"
+       }
+      ]
+     },
+     {
+      "Id": "4126594186",
+      "Name": "Stop_mus_hour4_afterShowtime_moonman_tension",
+      "ObjectPath": "\\Events\\Default Work Unit\\Hours\\Hour4\\Stop_mus_hour4_afterShowtime_moonman_tension",
+      "GUID": "{2646FEF9-BA12-4B0B-AF6C-50822DCBB104}",
+      "MaxAttenuation": "0.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000"
+     },
+     {
+      "Id": "1101808264",
+      "Name": "Stop_mus_LMM_vent",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Stop_mus_LMM_vent",
+      "GUID": "{F06AF41B-01A8-4875-9964-78CEC8AE1CF0}",
+      "MaxAttenuation": "0.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000"
+     },
+     {
+      "Id": "236725868",
+      "Name": "Stop_mus_phantogeusia",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Stop_mus_phantogeusia",
+      "GUID": "{35A66B7D-A7AC-47D6-84D0-6681C420F869}",
+      "MaxAttenuation": "0.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000"
+     },
+     {
+      "Id": "3125286452",
+      "Name": "Stop_mus_snapGoesTheSfinalChord",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Stop_mus_snapGoesTheSfinalChord",
+      "GUID": "{4EE8AC71-DB01-4643-BFE8-8CCB0AC7656C}",
+      "MaxAttenuation": "0.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000"
+     },
+     {
+      "Id": "2242531958",
+      "Name": "Stop_mus_theNerveCutter",
+      "ObjectPath": "\\Events\\Default Work Unit\\MusicStreaming\\Stop_mus_theNerveCutter",
+      "GUID": "{762B1C3A-C12E-4D07-A0D0-4ACE56D3F908}",
+      "MaxAttenuation": "0.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000"
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "11027689",
+      "Name": "vanny_threat_level",
+      "ObjectPath": "\\Game Parameters\\tension\\vanny_threat_level",
+      "GUID": "{5D72FBF5-2810-4A00-8989-60B45EE83CD9}"
+     },
+     {
+      "Id": "183903552",
+      "Name": "occlusion",
+      "ObjectPath": "\\Game Parameters\\bind_to_parameters\\occlusion",
+      "GUID": "{8D5CD7F0-0D05-416B-83A8-C86EB18CF773}"
+     },
+     {
+      "Id": "411474615",
+      "Name": "djmm_beat_level",
+      "ObjectPath": "\\Game Parameters\\hour6\\djmm_beat_level",
+      "GUID": "{B78DBE2E-CBF7-4A2A-8484-F776280A2DAF}"
+     },
+     {
+      "Id": "1437246667",
+      "Name": "azimuth",
+      "ObjectPath": "\\Game Parameters\\bind_to_parameters\\azimuth",
+      "GUID": "{BD6BD805-D680-4F3D-8319-350A45DDD2D8}"
+     },
+     {
+      "Id": "1745535041",
+      "Name": "emitter_cone",
+      "ObjectPath": "\\Game Parameters\\bind_to_parameters\\emitter_cone",
+      "GUID": "{0BDB4F2C-5C3D-479E-9285-0C2B7885F3B5}"
+     },
+     {
+      "Id": "2597585438",
+      "Name": "hour4_elevatorDescend_automation",
+      "ObjectPath": "\\Game Parameters\\hour4\\hour4_elevatorDescend_automation",
+      "GUID": "{9BA219B7-2D28-482F-B253-1154180DEFAB}"
+     },
+     {
+      "Id": "3820641237",
+      "Name": "AI_PROXIMITY",
+      "ObjectPath": "\\Game Parameters\\tension\\AI_PROXIMITY",
+      "GUID": "{A39E443F-AF31-485C-A9C9-BF39B1617530}"
+     },
+     {
+      "Id": "3927966044",
+      "Name": "light_active",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\light_active",
+      "GUID": "{80E66D31-993A-4AC2-B967-8F37D0417586}"
+     }
+    ],
+    "StateGroups": [
+     {
+      "Id": "58138747",
+      "Name": "active",
+      "ObjectPath": "\\States\\story_moments\\hour4_stageThemeIntro\\active",
+      "GUID": "{2A95626A-9E04-4B1D-89A5-A94BD512F4E3}",
+      "States": []
+     },
+     {
+      "Id": "378812136",
+      "Name": "hour4_showtime",
+      "ObjectPath": "\\States\\story_moments\\hour4_showtime",
+      "GUID": "{60C5C852-885F-4E81-AEC9-0D0A3CD303C6}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\story_moments\\hour4_showtime\\None",
+        "GUID": "{10793003-612F-46B7-9E86-01B108D78673}"
+       },
+       {
+        "Id": "58138747",
+        "Name": "active",
+        "ObjectPath": "\\States\\story_moments\\hour4_showtime\\active",
+        "GUID": "{85D1AAE9-5C35-45EC-99FA-F938A9178C40}"
+       }
+      ]
+     },
+     {
+      "Id": "748895195",
+      "Name": "None",
+      "ObjectPath": "\\States\\atmosphere_music\\hour3_prizeCounterPostOG\\None",
+      "GUID": "{B9CA0F30-AE9F-4437-8B15-AFB7052857F9}",
+      "States": []
+     }
+    ],
+    "SwitchGroups": [
+     {
+      "Id": "1389408139",
+      "Name": "djmusicman_stage",
+      "ObjectPath": "\\Switches\\music\\djmusicman_stage",
+      "GUID": "{4FE33850-5726-481E-8350-A31E0F8DE6A7}",
+      "Switches": [
+       {
+        "Id": "936729722",
+        "Name": "stage1",
+        "ObjectPath": "\\Switches\\music\\djmusicman_stage\\stage1",
+        "GUID": "{32F2CA02-7755-48F1-9DAF-8583715E0D1F}"
+       },
+       {
+        "Id": "936729721",
+        "Name": "stage2",
+        "ObjectPath": "\\Switches\\music\\djmusicman_stage\\stage2",
+        "GUID": "{67A19E25-829F-4927-853E-23A1ECB05E75}"
+       },
+       {
+        "Id": "936729720",
+        "Name": "stage3",
+        "ObjectPath": "\\Switches\\music\\djmusicman_stage\\stage3",
+        "GUID": "{05ABCA32-3F11-4ABD-B17D-A520C71FB60B}"
+       },
+       {
+        "Id": "936729727",
+        "Name": "stage4",
+        "ObjectPath": "\\Switches\\music\\djmusicman_stage\\stage4",
+        "GUID": "{E55C572A-4083-4824-BAB3-28FA12391B77}"
+       },
+       {
+        "Id": "936729726",
+        "Name": "stage5",
+        "ObjectPath": "\\Switches\\music\\djmusicman_stage\\stage5",
+        "GUID": "{096C7B82-2CBE-4C57-A6D8-319BFA5C429E}"
+       },
+       {
+        "Id": "936729725",
+        "Name": "stage6",
+        "ObjectPath": "\\Switches\\music\\djmusicman_stage\\stage6",
+        "GUID": "{2E5FCFC3-1AD6-4457-9756-59C4C93193DF}"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,467 @@
+Switch Group	ID	Name			Wwise Object Path	Notes
+	271889580	golf_current_hole			\minigames\golf_current_hole	
+	392845460	LOCO_SPEED_ANIMATRONIC			\character\LOCO_SPEED_ANIMATRONIC	
+	954419908	LOCO_SPEED_GREGORY			\character\LOCO_SPEED_GREGORY	
+	1088160865	movement_type			\physics\movement_type	
+	1108005428	LOCO_SPEED			\character\LOCO_SPEED	
+	1389408139	djmusicman_stage			\music\djmusicman_stage	
+	2241490508	Gregory_RunningEfforts_Tension			\character\Gregory_RunningEfforts_Tension	
+	3436536763	gregory_outside_freddy			\character\gregory_outside_freddy	
+	3927966044	light_active			\Default Work Unit\light_active	
+
+Switch	ID	Name	Switch Group			Notes
+	846646257	_1	golf_current_hole			
+	846646258	_2	golf_current_hole			
+	846646259	_3	golf_current_hole			
+	846646260	_4	golf_current_hole			
+	846646261	_5	golf_current_hole			
+	846646262	_6	golf_current_hole			
+	846646263	_7	golf_current_hole			
+	846646264	_8	golf_current_hole			
+	846646265	_9	golf_current_hole			
+	1644366928	_13	golf_current_hole			
+	1644366929	_12	golf_current_hole			
+	1644366930	_11	golf_current_hole			
+	1644366931	_10	golf_current_hole			
+	1644366932	_17	golf_current_hole			
+	1644366933	_16	golf_current_hole			
+	1644366934	_15	golf_current_hole			
+	1644366935	_14	golf_current_hole			
+	1644366939	_18	golf_current_hole			
+	712161704	Run	LOCO_SPEED_ANIMATRONIC			
+	2108779966	Walk	LOCO_SPEED_ANIMATRONIC			
+	340271938	Walking	LOCO_SPEED_GREGORY			
+	2645667656	SneakRunning	LOCO_SPEED_GREGORY			
+	3418139957	Sneaking	LOCO_SPEED_GREGORY			
+	3863236874	Running	LOCO_SPEED_GREGORY			
+	855798529	scrape	movement_type			
+	3257506471	impact	movement_type			
+	340271938	Walking	LOCO_SPEED			
+	2645667656	SneakRunning	LOCO_SPEED			
+	3418139957	Sneaking	LOCO_SPEED			
+	3863236874	Running	LOCO_SPEED			
+	936729720	stage3	djmusicman_stage			
+	936729721	stage2	djmusicman_stage			
+	936729722	stage1	djmusicman_stage			
+	936729725	stage6	djmusicman_stage			
+	936729726	stage5	djmusicman_stage			
+	936729727	stage4	djmusicman_stage			
+	391998042	Tense	Gregory_RunningEfforts_Tension			
+	1160234136	Normal	Gregory_RunningEfforts_Tension			
+	438105790	outside	gregory_outside_freddy			
+	3553349781	inside	gregory_outside_freddy			
+	622383625	deactivated	light_active			
+	2917726846	activated	light_active			
+
+State Group	ID	Name			Wwise Object Path	Notes
+	18731126	inside_freddy			\Default Work Unit\inside_freddy	
+	378812136	hour4_showtime			\story_moments\hour4_showtime	
+	511511205	hour3_prizeCounterPostOG			\atmosphere_music\hour3_prizeCounterPostOG	
+	651855277	golf			\minigames\golf	
+	724292039	hour1_lobbyMagnet			\atmosphere_music\hour1_lobbyMagnet	
+	733910165	hour4_moonmanchase			\atmosphere_music\hour4_moonmanchase	
+	877642339	cinematics			\story_moments\cinematics	
+	1264492076	roxy_eyes_state			\story_moments\roxy_eyes_state	
+	1305376387	hour3_chicaBathroom			\atmosphere_music\hour3_chicaBathroom	
+	1373701539	staffbot_alert			\Default Work Unit\staffbot_alert	
+	1475161877	animatronic_attack			\Default Work Unit\animatronic_attack	
+	1634552490	hour3_chicaFizzyFaz			\atmosphere_music\hour3_chicaFizzyFaz	
+	2095737386	office_game			\story_moments\office_game	
+	2456467480	hour3_atriumExplore			\atmosphere_music\hour3_atriumExplore	
+	2476932790	inside_recharge_station			\Default Work Unit\inside_recharge_station	
+	2621771053	DJMM_music			\story_moments\DJMM_music	
+	2631748423	hour3_chicaBathroomIntro			\story_moments\hour3_chicaBathroomIntro	
+	2873259978	BB_SOUNDTRACK			\Default Work Unit\BB_SOUNDTRACK	
+	3336199605	paused_state			\Default Work Unit\paused_state	
+	3342860265	hour1_corridorChase			\story_moments\hour1_corridorChase	
+	3359613719	fazwatch_camera_state			\Default Work Unit\fazwatch_camera_state	
+	3528969519	elevator_music			\atmosphere_music\elevator_music	
+	3538823496	hiding			\Default Work Unit\hiding	
+	3683551463	fazwatch_state			\Default Work Unit\fazwatch_state	
+	3870388151	hour1_postCorridorChaseOffice			\story_moments\hour1_postCorridorChaseOffice	
+	3875263435	ambience_state			\Default Work Unit\ambience_state	
+	3896917229	jumpscare_state			\Default Work Unit\jumpscare_state	
+	3975506073	hour4_stageThemeIntro			\story_moments\hour4_stageThemeIntro	
+	4040519518	mono_mode			\Default Work Unit\mono_mode	
+	4054184860	LOCATION_MUSIC			\Default Work Unit\LOCATION_MUSIC	
+	4243984524	lights_state			\Default Work Unit\lights_state	
+
+State	ID	Name	State Group			Notes
+	438105790	outside	inside_freddy			
+	748895195	None	inside_freddy			
+	3553349781	inside	inside_freddy			
+	58138747	active	hour4_showtime			
+	748895195	None	hour4_showtime			
+	58138747	active	hour3_prizeCounterPostOG			
+	748895195	None	hour3_prizeCounterPostOG			
+	1381183024	roxyEncounter	hour3_prizeCounterPostOG			
+	58138747	active	golf			
+	748895195	None	golf			
+	58138747	active	hour1_lobbyMagnet			
+	748895195	None	hour1_lobbyMagnet			
+	58138747	active	hour4_moonmanchase			
+	748895195	None	hour4_moonmanchase			
+	179926554	hour2_sunmanCarryPlayer	cinematics			
+	226153362	chicaBossBattleIntro	cinematics			
+	440612544	ending_gregoryInAlley	cinematics			
+	710521474	dumpBallsMonty	cinematics			
+	748895195	None	cinematics			
+	790502354	stageLift	cinematics			
+	1029351162	hour1_getOutOfFreddy	cinematics			
+	1177990589	ending_burntrap	cinematics			
+	1430576587	hour1_vanessaWalksBy	cinematics			
+	1458317405	montyBossBattleIntro	cinematics			
+	2178279524	overtime_endGame	cinematics			
+	2339442211	hour1_walkToFirstAid	cinematics			
+	2424749623	hour3_littleMusicManVent	cinematics			
+	2434794556	ending_vip	cinematics			
+	2513513052	hour3_chicaKitchen_Static	cinematics			
+	2517651529	hour1_firstAidDialogue	cinematics			
+	2525860868	hour1_afterIntroVideo	cinematics			
+	2571510049	ending_vannyDestroy	cinematics			
+	2631564358	roxyBossBattleIntro	cinematics			
+	2632086901	ending_vannyRedeem	cinematics			
+	2646572446	hour2_sunmanIntro	cinematics			
+	2756657571	hour4_lostAndFound	cinematics			
+	2939560893	hour5_endoIntro	cinematics			
+	2968865688	hour2_slideNoEntry	cinematics			
+	2975652148	ending_loadingDock	cinematics			
+	2975896672	hour1_introVideo	cinematics			
+	3200292227	dumpBallsMonty_sloMo	cinematics			
+	3422007485	hour4_transitionToLostAndFound	cinematics			
+	3516848363	hour2_kickedOutOfDaycare	cinematics			
+	3707806325	overtime_vannyIntro	cinematics			
+	3724300962	hour1_startInFreddy	cinematics			
+	3730917311	hour3_chicaKitchen	cinematics			
+	3878647458	hour3_elevatorTrap	cinematics			
+	4006066345	hour2_transitionToMoonMan	cinematics			
+	4083394624	burntrapBossBattleIntro	cinematics			
+	4098128287	roxyBossBattleIntro_sloMo	cinematics			
+	4222242326	hour4_mmattack	cinematics			
+	4286150249	hour2_slideEnter	cinematics			
+	748895195	None	roxy_eyes_state			
+	3426496253	installed	roxy_eyes_state			
+	58138747	active	hour3_chicaBathroom			
+	748895195	None	hour3_chicaBathroom			
+	250639526	alerted	staffbot_alert			
+	748895195	None	staffbot_alert			
+	180661997	attack	animatronic_attack			
+	748895195	None	animatronic_attack			
+	4208712191	seeking	animatronic_attack			
+	58138747	active	hour3_chicaFizzyFaz			
+	748895195	None	hour3_chicaFizzyFaz			
+	135588769	prizeCounter	office_game			
+	479909808	roxyBossBattle	office_game			
+	748895195	None	office_game			
+	1517441814	vannyBossBattle	office_game			
+	1543687740	underground	office_game			
+	1586158131	kitchen	office_game			
+	2470573081	montyBossBattle	office_game			
+	2852108392	westArcade	office_game			
+	3341690334	daycare	office_game			
+	3505015852	chicaBossBattle	office_game			
+	3538421602	backstage	office_game			
+	3991556185	fazerblast	office_game			
+	58138747	active	hour3_atriumExplore			
+	748895195	None	hour3_atriumExplore			
+	748895195	None	inside_recharge_station			
+	3553349781	inside	inside_recharge_station			
+	58138747	active	DJMM_music			
+	748895195	None	DJMM_music			
+	58138747	active	hour3_chicaBathroomIntro			
+	748895195	None	hour3_chicaBathroomIntro			
+	606143337	Glitched	BB_SOUNDTRACK			
+	748895195	None	BB_SOUNDTRACK			
+	1160234136	Normal	BB_SOUNDTRACK			
+	319258907	paused	paused_state			
+	748895195	None	paused_state			
+	1365518790	unpaused	paused_state			
+	58138747	active	hour1_corridorChase			
+	748895195	None	hour1_corridorChase			
+	58138747	active	fazwatch_camera_state			
+	748895195	None	fazwatch_camera_state			
+	3248502869	disabled	fazwatch_camera_state			
+	58138747	active	elevator_music			
+	748895195	None	elevator_music			
+	748895195	None	hiding			
+	4230341173	hiding_active	hiding			
+	58138747	active	fazwatch_state			
+	748895195	None	fazwatch_state			
+	58138747	active	hour1_postCorridorChaseOffice			
+	748895195	None	hour1_postCorridorChaseOffice			
+	748895195	None	ambience_state			
+	3346875887	pas_dome	ambience_state			
+	3554243619	montyboss	ambience_state			
+	3733799887	gatorgolf_backroom	ambience_state			
+	351483260	jumpscare_active	jumpscare_state			
+	748895195	None	jumpscare_state			
+	1432716332	game_over	jumpscare_state			
+	2062658082	nonlethal_jumpscare_active	jumpscare_state			
+	58138747	active	hour4_stageThemeIntro			
+	748895195	None	hour4_stageThemeIntro			
+	58138747	active	mono_mode			
+	748895195	None	mono_mode			
+	748895195	None	LOCATION_MUSIC			
+	1218694439	MUS_FazerblastJam	LOCATION_MUSIC			
+	1285837047	MUS_FreddysTheme_Organ	LOCATION_MUSIC			
+	1573868719	MUS_SpaceLobby	LOCATION_MUSIC			
+	1583389107	MUS_FreddysTheme_80sSynth	LOCATION_MUSIC			
+	1769899787	MUS_GolfSwamp	LOCATION_MUSIC			
+	1825203175	MUS_None	LOCATION_MUSIC			
+	2269017259	MUS_RoxyRaceway	LOCATION_MUSIC			
+	2442534611	MUS_ElChips	LOCATION_MUSIC			
+	2864353648	MUS_FreddysTheme_Muzak	LOCATION_MUSIC			
+	3351653077	MUS_Arcade	LOCATION_MUSIC			
+	4092072802	MUS_Daycare	LOCATION_MUSIC			
+	409917040	lights_off	lights_state			
+	748895195	None	lights_state			
+	1063352154	lights_on	lights_state			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	12200959	game_over	jumpscare_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Music		
+	30534765	ending_vip	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Music\AtmosphereMusic		
+	37588193	jumpscare_active	jumpscare_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Dialogue		
+	40990877	active	mono_mode	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix		
+	45253248	ending_loadingDock	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Music\LocationMusic		
+	58538604	ending_vannyRedeem	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Environments		
+	73793372	ending_loadingDock	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\EnvironmentalObjects		
+	84299460	ending_loadingDock	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Music\AtmosphereMusic		
+	96066308	ending_vannyDestroy	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\TensionSystem		
+	102108322	ending_vannyRedeem	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Music\AtmosphereMusic		
+	121973030	nonlethal_jumpscare_active	jumpscare_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Environments		
+	130577821	active	hour1_corridorChase	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\Footsteps2D		
+	144322071	hour2_sunmanCarryPlayer	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Music		
+	148031972	ending_vannyRedeem	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\Characters		
+	150734204	ending_gregoryInAlley	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\Characters		
+	162980646	jumpscare_active	jumpscare_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\Footsteps3D		
+	169129742	ending_gregoryInAlley	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Environments		
+	177869097	ending_vannyDestroy	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Music\AtmosphereMusic		
+	178240857	jumpscare_active	jumpscare_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Environments		
+	178855592	ending_gregoryInAlley	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\EnvironmentalObjects		
+	180212647	hiding_active	hiding	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Environments		
+	181808826	ending_burntrap	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Environments		
+	182249323	active	fazwatch_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Music\LocationMusic		
+	185947490	jumpscare_active	jumpscare_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\TensionSystem		
+	186618367	ending_gregoryInAlley	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\TensionSystem		
+	189542095	nonlethal_jumpscare_active	jumpscare_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs		
+	200503545	underground	office_game	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\TensionSystem		
+	218409350	jumpscare_active	jumpscare_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\Footsteps2D		
+	221375066	ending_burntrap	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Music\AtmosphereMusic		
+	227547629	kitchen	office_game	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX		
+	232746648	hour1_introVideo	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\TensionSystem		
+	238627893	inside	inside_freddy	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\Footsteps2D		
+	258014854	ending_burntrap	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\EnvironmentalObjects		
+	267828612	jumpscare_active	jumpscare_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Music		
+	290570308	overtime_vannyIntro	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Environments		
+	311937832	hour3_chicaKitchen_Static	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Environments		
+	344582748	hour3_chicaKitchen_Static	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs		
+	346287047	ending_vannyDestroy	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\EnvironmentalObjects		
+	350410994	ending_burntrap	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\TensionSystem		
+	353410184	ending_vannyDestroy	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Music\LocationMusic		
+	363345175	inside	inside_freddy	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Music\LocationMusic		
+	364350346	seeking	animatronic_attack	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Dialogue\Dialogue_Ducking\Dialogue_AllOthers\Dialogue_3DUniversal		
+	371275071	nonlethal_jumpscare_active	jumpscare_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\TensionSystem		
+	375941342	ending_vannyRedeem	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\TensionSystem		
+	384340898	inside	inside_freddy	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\EnvironmentalObjects		
+	393166891	pas_dome	ambience_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Environments\Ambiences3D\Emitters		
+	399691646	hiding_active	hiding	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\Footsteps3D		
+	401793340	inside	inside_freddy	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Environments		
+	403749168	hour4_transitionToLostAndFound	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Environments\Ambiences3D		
+	412702149	ending_gregoryInAlley	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Music\LocationMusic		
+	432159654	ending_vip	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\TensionSystem		
+	439769044	hour3_chicaKitchen	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Environments		
+	447765963	attack	animatronic_attack	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Dialogue\Dialogue_Ducking\Dialogue_AllOthers\Dialogue_3DUniversal		
+	473716444	overtime_vannyIntro	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\EnvironmentalObjects		
+	475023724	attack	animatronic_attack	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Music\LocationMusic		
+	486510816	paused	paused_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs		
+	492903920	jumpscare_active	jumpscare_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\EnvironmentalObjects		
+	495572669	jumpscare_active	jumpscare_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\Characters		
+	506021396	game_over	jumpscare_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Dialogue		
+	515234585	hour1_afterIntroVideo	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\TensionSystem		
+	516835661	inside	inside_freddy	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\Characters		
+	520159779	overtime_vannyIntro	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Music\LocationMusic		
+	520835071	ending_vip	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Environments		
+	541984308	inside	inside_freddy	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\Footsteps3D		
+	559687215	game_over	jumpscare_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\Footsteps3D		
+	564801579	active	hour1_corridorChase	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\Footsteps3D		
+	566095252	alerted	staffbot_alert	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Dialogue\Dialogue_Ducking\Dialogue_AllOthers\Dialogue_3DUniversal		
+	573513430	ending_loadingDock	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\TensionSystem		
+	584049378	active	elevator_music	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Environments\Ambiences3D\Emitters		
+	588666734	overtime_vannyIntro	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Music\AtmosphereMusic		
+	590509190	active	fazwatch_camera_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX		
+	598238052	active	hour1_lobbyMagnet	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Environments\Ambiences2D		
+	612452573	hour2_sunmanCarryPlayer	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Environments		
+	621746173	ending_vip	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\EnvironmentalObjects		
+	621917286	active	fazwatch_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\Footsteps3D		
+	629845241	hour1_afterIntroVideo	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Environments		
+	651850668	hour1_firstAidDialogue	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\TensionSystem		
+	655940261	active	mono_mode	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\MonoMix\Mono_Mode		
+	667323036	lights_off	lights_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Environments		
+	676699177	ending_vannyRedeem	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Music\LocationMusic		
+	686848485	active	hour1_corridorChase	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs		
+	699311897	hiding_active	hiding	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\Characters		
+	715654933	hour1_walkToFirstAid	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Dialogue\Dialogue_Ducking		
+	727736085	backstage	office_game	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\TensionSystem		
+	738993467	game_over	jumpscare_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Environments		
+	745649976	seeking	animatronic_attack	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs		
+	746569865	hour4_transitionToLostAndFound	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\TensionSystem		
+	773110340	kitchen	office_game	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\TensionSystem		
+	781864576	ending_loadingDock	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\Characters		
+	787300394	hour2_slideEnter	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Music		
+	795519601	game_over	jumpscare_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\TensionSystem		
+	796505183	nonlethal_jumpscare_active	jumpscare_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Music		
+	821325769	ending_loadingDock	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Environments		
+	822455050	jumpscare_active	jumpscare_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs		
+	823815885	hiding_active	hiding	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Dialogue		
+	824237848	hour2_sunmanIntro	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Environments		
+	826095466	active	hour1_corridorChase	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\TensionSystem		
+	837025171	hour2_slideEnter	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Environments		
+	840407182	ending_burntrap	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\Characters		
+	857731279	active	fazwatch_camera_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Environments		
+	865032793	attack	animatronic_attack	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs		
+	865879512	ending_vannyDestroy	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Environments		
+	888437679	ending_vannyRedeem	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\EnvironmentalObjects		
+	898511290	ending_vip	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\Characters		
+	905341859	ending_burntrap	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Music\LocationMusic		
+	934011872	game_over	jumpscare_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\Characters		
+	952525756	lights_off	lights_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs		
+	961794645	game_over	jumpscare_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\Footsteps2D		
+	974971033	ending_vannyDestroy	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\Characters		
+	991873240	active	fazwatch_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs		
+	1014955808	hiding_active	hiding	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs		
+	1021341263	ending_gregoryInAlley	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Music\AtmosphereMusic		
+	1026497167	ending_vip	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Music\LocationMusic		
+	1039281068	game_over	jumpscare_state	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\EnvironmentalObjects		
+	1040884099	active	hour1_corridorChase	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Environments		
+	1063486734	seeking	animatronic_attack	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Music\LocationMusic		
+	1065655774	hour1_introVideo	cinematics	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Environments		
+	1072714215	inside	inside_freddy	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs		
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	11027689	vanny_threat_level			\tension\vanny_threat_level	
+	209336587	uservolume_dialogue			\utility\uservolume_dialogue	
+	309141562	uservolume_sfx			\utility\uservolume_sfx	
+	670101080	chica_ability_meter			\ducking\chica_ability_meter	
+	1276785714	montyFenceBreak_meter			\ducking\montyFenceBreak_meter	
+	1300757360	bot_actor_chasing			\Default Work Unit\bot_actor_chasing	
+	1437246667	azimuth			\bind_to_parameters\azimuth	
+	1628387621	driverbot_jumpscare_meter			\ducking\driverbot_jumpscare_meter	
+	2191208031	uservolume_jumpscare			\utility\uservolume_jumpscare	
+	2233966363	uservolume_master			\utility\uservolume_master	
+	2644941418	uservolume_music			\utility\uservolume_music	
+	2657385157	dialogue_meter			\ducking\dialogue_meter	
+	3200991783	locationmusic_meter			\ducking\locationmusic_meter	
+	3436536763	GREGORY_OUTSIDE_FREDDY			\Default Work Unit\GREGORY_OUTSIDE_FREDDY	
+	3820641237	AI_PROXIMITY			\tension\AI_PROXIMITY	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	97800489	LocationMusic			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Music\LocationMusic	
+	164664013	Dialogue_FreddyGregory			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Dialogue\Dialogue_Ducking\Dialogue_FreddyGregory	
+	198065494	PrizeBoxes			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\EnvironmentalObjects\PrizeBoxes	
+	336872259	DoesNotPause Bus			\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus	
+	351627634	Dialogue_3DUniversal			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Dialogue\Dialogue_Ducking\Dialogue_AllOthers\Dialogue_3DUniversal	
+	393239870	SFX			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX	
+	539121328	Scatters			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Environments\Ambiences2D\Scatters	
+	541087927	Freddy_Monitors			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Dialogue\Dialogue_Ducking\Dialogue_FreddyGregory\Freddy_Monitors	
+	612957004	Emitters			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Environments\Ambiences3D\Emitters	
+	713834508	Gregory_Story			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Dialogue\Dialogue_Ducking\Dialogue_FreddyGregory\Gregory_Story	
+	864719785	GordSongs			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Music\AtmosphereMusic\GordSongs	
+	941216210	Master PS5 ControllerSpeaker Bus			\Default Work Unit\Master PS5 ControllerSpeaker Bus	
+	1307289529	_Futz			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\_Futz	
+	1309321443	Dialogue_Ducking			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Dialogue\Dialogue_Ducking	
+	1324422604	Tapes			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Dialogue\Tapes	
+	1467334273	Dialogue_Story			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Dialogue\Dialogue_Ducking\Dialogue_AllOthers\Dialogue_Story	
+	1476586948	Footsteps2D			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\Footsteps2D	
+	1493364567	Footsteps3D			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\Footsteps3D	
+	1551306167	UI			\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\UI	
+	1557941045	Characters			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\Characters	
+	1566286394	Ambiences2D			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Environments\Ambiences2D	
+	1583063957	Ambiences3D			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Environments\Ambiences3D	
+	1742862454	Dialogue_AllOthers			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Dialogue\Dialogue_Ducking\Dialogue_AllOthers	
+	2485108693	CinematicSFX			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\CinematicSFX	
+	2536377974	TensionSystem			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\TensionSystem	
+	2549681447	SurroundMix			\Default Work Unit\Master Audio Bus\SurroundMix	
+	2729514322	AtmosphereMusic			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Music\AtmosphereMusic	
+	2792155208	UI_Pause			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\UI_Pause	
+	2817868075	Pause Bus			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus	
+	2823808769	MiniGames			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\MiniGames	
+	2879278027	FazerBlastJam			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Music\AtmosphereMusic\FazerBlastJam	
+	2958267404	Dialogue_NonDucking			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Dialogue\Dialogue_NonDucking	
+	3052627074	Gregory_Efforts			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Dialogue\Dialogue_NonDucking\Gregory_Efforts	
+	3499689801	EnvironmentalObjects			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\EnvironmentalObjects	
+	3520998787	JumpScare			\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\JumpScare	
+	3545700988	Reverbs			\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs	
+	3568989858	MonoMix			\Default Work Unit\Master Audio Bus\MonoMix	
+	3747945562	Freddy_Fazwatch			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Dialogue\Dialogue_Ducking\Dialogue_FreddyGregory\Freddy_Fazwatch	
+	3752194581	FazwatchBus			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\_Futz\FazwatchBus	
+	3761286811	Environments			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Environments	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	3930136735	Dialogue			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Dialogue	Ducking toward Tension System - autoducking on individual busses
+	3991942870	Music			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Music	
+	4109882749	Dialogue_DreadUnit_PizzaGame			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Dialogue\Dialogue_Ducking\Dialogue_AllOthers\Dialogue_Story\Dialogue_DreadUnit_PizzaGame	
+	4292717857	CinematicMusic			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Music\CinematicMusic	
+	4292930952	Characters_BypassFreddyLPF			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\SFX\Characters_BypassFreddyLPF	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	80803695	REV_Utilidor_Large			\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_Utilidor_Large	
+	785966131	REV_Room_Tiled_Large			\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_Room_Tiled_Large	
+	800671367	REV_Room_Tiled_Medium			\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_Room_Tiled_Medium	
+	972378682	PizzaOfficeGameFutz			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\_Futz\PizzaOfficeGameFutz	
+	1385744622	REV_Stairwell			\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_Stairwell	
+	1414510339	REV_Room_Carpeted_Large			\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_Room_Carpeted_Large	
+	1599389307	REV_Utilidor_Small			\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_Utilidor_Small	
+	1963354648	Freddy_Fazwatch_ChicaVoiceBox			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Dialogue\Dialogue_Ducking\Dialogue_FreddyGregory\Freddy_Fazwatch\Freddy_Fazwatch_ChicaVoiceBox	
+	1994179471	REV_Room_Carpeted_Small			\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_Room_Carpeted_Small	
+	2089533112	REV_SewerTunnels			\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_SewerTunnels	
+	2133230327	REV_Room_Carpeted_Medium			\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_Room_Carpeted_Medium	
+	2143802544	FazwatchFutz			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\_Futz\FazwatchBus\FazwatchFutz	
+	2308966851	REV_Room_Tiled_Huge			\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_Room_Tiled_Huge	
+	2441671103	REV_Room_Tiled_Small			\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_Room_Tiled_Small	
+	2826426461	Freddy_ChicaVoiceBox			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Dialogue\Dialogue_Ducking\Dialogue_FreddyGregory\Freddy_ChicaVoiceBox	
+	2863267506	REV_VentilationSystem_Inside			\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_VentilationSystem_Inside	
+	3266438507	Gregory_InsideFreddy			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Dialogue\Dialogue_Ducking\Dialogue_FreddyGregory\Gregory_InsideFreddy	
+	3299441632	Freddy_InsideFreddy			\Default Work Unit\Master Audio Bus\SurroundMix\Pause Bus\Dialogue\Dialogue_Ducking\Dialogue_FreddyGregory\Freddy_InsideFreddy	
+	3730192026	REV_PlasticTube_Inside			\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_PlasticTube_Inside	
+	4040519518	Mono_Mode			\Default Work Unit\Master Audio Bus\MonoMix\Mono_Mode	
+	4197593147	REV_Utilidor_Medium			\Default Work Unit\Master Audio Bus\SurroundMix\DoesNotPause Bus\Reverbs\REV_Utilidor_Medium	
+	4275911945	ToControllerSpeaker			\Default Work Unit\Master PS5 ControllerSpeaker Bus\ToControllerSpeaker	
+
+Effect plug-ins	ID	Name	Type				Notes
+	4496003	Dirty_Washing_Machine	Wwise RoomVerb			
+	55647054	Wwise_Meter_(Custom)	Wwise Meter			
+	83170765	Boost_3dB_100Hz_(Custom)	Wwise Parametric EQ			
+	91523648	ShortMetallicSlap	Wwise Stereo Delay			
+	210600489	Echoes_Linear_(Custom)	Wwise Delay			
+	242376323	mcs_dialoguewwisemeter	Wwise Meter			
+	247799809	Ventilation_Inside	Wwise RoomVerb			
+	259150121	All_Buttons_IN_(Custom)	Wwise Compressor			
+	279863237	All_Buttons_IN_(Custom)	Wwise Compressor			
+	338647569	Room_Small_Tiled	Wwise RoomVerb			
+	400619910	Wwise_Meter_(Custom)	Wwise Meter			
+	596506511	Wwise_Harmonizer_(Custom)	Wwise Harmonizer			
+	596649800	Wwise_Guitar_Distortion_(Custom)	Wwise Guitar Distortion			
+	734116685	Room_Tiled_Huge	Wwise RoomVerb			
+	744284460	Wwise_Guitar_Distortion_(Custom)	Wwise Guitar Distortion			
+	755124936	Wwise_Guitar_Distortion_(Custom)	Wwise Guitar Distortion			
+	968276345	Freddy_InsideFreddy (Custom)	Wwise RoomVerb			
+	986212803	VentilationDelay	Wwise Stereo Delay			
+	1013994234	Wwise_Harmonizer_(Custom)	Wwise Harmonizer			
+	1115683185	Utilidor_Small	Wwise RoomVerb			
+	1159390747	Room_Medium_Tiled	Wwise RoomVerb			
+	1358075105	Utilidor_Medium	Wwise RoomVerb			
+	1655400308	Stairwell	Wwise RoomVerb			
+	2038996943	Plate_Sizzle	Wwise RoomVerb			
+	2068262093	Room_Small_Carpeted	Wwise RoomVerb			
+	2652646462	Dialog_Leveler_Soft	Wwise Compressor			
+	2662418867	Room_Medium_Carpeted	Wwise RoomVerb			
+	2808784349	Room_Tiled_Large	Wwise RoomVerb			
+	2877353705	Utilidor_Large	Wwise RoomVerb			
+	2921825765	Room_Large_Carpeted	Wwise RoomVerb			
+	2926115989	Sewer_Tunnels	Wwise RoomVerb			
+	3299441632	Freddy_InsideFreddy	Wwise RoomVerb			
+
+Audio Devices	ID	Name	Type				Notes
+	1334442663	Controller_Speaker	Controller Speaker			
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

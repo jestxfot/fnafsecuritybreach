@@ -1,0 +1,1364 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "140",
+  "RootPaths": {
+   "ProjectRoot": "I:\\Quarters\\fnaf9\\fnaf9_WwiseProject\\",
+   "SourceFilesRoot": "I:\\Quarters\\fnaf9\\fnaf9_WwiseProject\\.cache\\Windows\\",
+   "SoundBanksRoot": "I:\\Quarters\\fnaf9\\Content\\WwiseAudio\\Windows\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "I:\\Quarters\\fnaf9\\fnaf9_WwiseProject\\GeneratedSoundBanks\\Windows"
+  },
+  "SoundBanks": [
+   {
+    "Id": "2063746682",
+    "GUID": "{6BECBF96-ABEF-4ABE-A240-3C1A677FD683}",
+    "Language": "SFX",
+    "Hash": "3909368802",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\PrincessQuest",
+    "ShortName": "PrincessQuest",
+    "Path": "PrincessQuest.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "3319552108",
+      "Name": "Play_2_POP",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_2_POP",
+      "GUID": "{CB0BBD19-E73D-4C5D-9CE1-E3E8935FDDCE}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.033333",
+      "DurationMax": "0.033333",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "23439430",
+        "Language": "SFX",
+        "ShortName": "2_POP.WAV",
+        "Path": "SFX\\2_POP_73E79EE3.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3726842003",
+      "Name": "Play_BossRoom_Entry_Drone_Loop",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_BossRoom_Entry_Drone_Loop",
+      "GUID": "{5F3638A0-E38E-4A85-B8A9-7C59D2E8DA3E}",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "505622890",
+        "Language": "SFX",
+        "ShortName": "BossRoom_Entry_Drone_Loop.WAV",
+        "Path": "SFX\\BossRoom_Entry_Drone_Loop_90870865.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1115722696",
+      "Name": "Play_BossRoom_Reveal",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_BossRoom_Reveal",
+      "GUID": "{F2FE50F9-B186-410C-972B-8AD79A69451C}",
+      "MaxAttenuation": "2500.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "4.452245",
+      "DurationMax": "4.452245",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "790292932",
+        "Language": "SFX",
+        "ShortName": "BossRoom_Reveal.WAV",
+        "Path": "SFX\\BossRoom_Reveal_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1976491528",
+      "Name": "Play_BossRoom_Reveal_Drone_Loop",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_BossRoom_Reveal_Drone_Loop",
+      "GUID": "{DADC2062-56B0-4815-A758-031F4AF95161}",
+      "MaxAttenuation": "2500.000000",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "221624755",
+        "Language": "SFX",
+        "ShortName": "BossRoom_Reveal_Drone_Loop.WAV",
+        "Path": "SFX\\BossRoom_Reveal_Drone_Loop_90870865.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2683675573",
+      "Name": "Play_CAS_Ambience_Rain",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_CAS_Ambience_Rain",
+      "GUID": "{E08A4813-BEAA-4BB2-9E8B-F90DD0BC702A}",
+      "MaxAttenuation": "2500.000000",
+      "DurationType": "Infinite",
+      "ReferencedStreamedFiles": [
+       {
+        "Id": "505239583",
+        "Language": "SFX",
+        "ShortName": "CAS_Ambience_Rain.WAV",
+        "Path": "SFX\\CAS_Ambience_Rain_90870865.wem"
+       }
+      ]
+     },
+     {
+      "Id": "925641111",
+      "Name": "Play_CAS_Ambience_Thunder",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_CAS_Ambience_Thunder",
+      "GUID": "{941834D4-34F9-42F9-94CB-0C9DA82AE633}",
+      "MaxAttenuation": "2500.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "8.394263",
+      "DurationMax": "12.561678",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "27194213",
+        "Language": "SFX",
+        "ShortName": "CAS_Ambience_Thunder_03.WAV",
+        "Path": "SFX\\CAS_Ambience_Thunder_03_F32062C7.wem"
+       },
+       {
+        "Id": "142434441",
+        "Language": "SFX",
+        "ShortName": "CAS_Ambience_Thunder_02.WAV",
+        "Path": "SFX\\CAS_Ambience_Thunder_02_F32062C7.wem"
+       },
+       {
+        "Id": "694011388",
+        "Language": "SFX",
+        "ShortName": "CAS_Ambience_Thunder_01.WAV",
+        "Path": "SFX\\CAS_Ambience_Thunder_01_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "64708924",
+      "Name": "Play_CAS_Boss_Laugh_Glitched",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_CAS_Boss_Laugh_Glitched",
+      "GUID": "{7506AF20-572A-4CF9-8D33-A2C398A9D9BE}",
+      "MaxAttenuation": "2500.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "11.827619",
+      "DurationMax": "11.827619",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "345181219",
+        "Language": "SFX",
+        "ShortName": "CAS_Boss_Laugh_Glitched.WAV",
+        "Path": "SFX\\CAS_Boss_Laugh_Glitched_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1854041684",
+      "Name": "Play_CAS_Boss_Outro_Impact",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_CAS_Boss_Outro_Impact",
+      "GUID": "{F1CCCF49-229B-472F-BDD0-CE5D230AC8CE}",
+      "MaxAttenuation": "2500.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "7.901043",
+      "DurationMax": "7.901043",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "255872520",
+        "Language": "SFX",
+        "ShortName": "CAS_Boss_Outro_Impact.WAV",
+        "Path": "SFX\\CAS_Boss_Outro_Impact_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "48418603",
+      "Name": "Play_CAS_Boss_Voice_Glitched",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_CAS_Boss_Voice_Glitched",
+      "GUID": "{C546D1C3-EDA6-433D-8DD5-62C50EE3F426}",
+      "MaxAttenuation": "2500.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "20.744081",
+      "DurationMax": "20.744081",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "967974961",
+        "Language": "SFX",
+        "ShortName": "CAS_Boss_Voice_Glitched.WAV",
+        "Path": "SFX\\CAS_Boss_Voice_Glitched_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "72498980",
+      "Name": "Play_CAS_ContinueMusic",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_CAS_ContinueMusic",
+      "GUID": "{9E12DD1D-54E6-48BC-9F1C-0C5509EF5072}",
+      "DurationType": "Infinite",
+      "ReferencedStreamedFiles": [
+       {
+        "Id": "994243654",
+        "Language": "SFX",
+        "ShortName": "CAS_ContinueMusic.WAV",
+        "Path": "SFX\\CAS_ContinueMusic_90870865.wem"
+       }
+      ]
+     },
+     {
+      "Id": "500336410",
+      "Name": "Play_CAS_Enemy_Floater_Attach",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_CAS_Enemy_Floater_Attach",
+      "GUID": "{B7FDDC19-EDE8-4E33-AF74-ABE0F0DD5816}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.478095",
+      "DurationMax": "1.478095",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "424720190",
+        "Language": "SFX",
+        "ShortName": "CAS_Enemy_Floater_Attach.WAV",
+        "Path": "SFX\\CAS_Enemy_Floater_Attach_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1551565791",
+      "Name": "Play_CAS_Enemy_Floater_Breath",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_CAS_Enemy_Floater_Breath",
+      "GUID": "{4B5689B7-E86D-4D68-8B57-F518E38BBACD}",
+      "MaxAttenuation": "2500.000000",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "221221469",
+        "Language": "SFX",
+        "ShortName": "CAS_Enemy_Floater_Breath_11.WAV",
+        "Path": "SFX\\CAS_Enemy_Floater_Breath_11_F32062C7.wem"
+       },
+       {
+        "Id": "283709887",
+        "Language": "SFX",
+        "ShortName": "CAS_Enemy_Floater_Breath_05.WAV",
+        "Path": "SFX\\CAS_Enemy_Floater_Breath_05_F32062C7.wem"
+       },
+       {
+        "Id": "459865434",
+        "Language": "SFX",
+        "ShortName": "CAS_Enemy_Floater_Breath_13.WAV",
+        "Path": "SFX\\CAS_Enemy_Floater_Breath_13_F32062C7.wem"
+       },
+       {
+        "Id": "482482555",
+        "Language": "SFX",
+        "ShortName": "CAS_Enemy_Floater_Breath_04.WAV",
+        "Path": "SFX\\CAS_Enemy_Floater_Breath_04_F32062C7.wem"
+       },
+       {
+        "Id": "499673702",
+        "Language": "SFX",
+        "ShortName": "CAS_Enemy_Floater_Breath_03.WAV",
+        "Path": "SFX\\CAS_Enemy_Floater_Breath_03_F32062C7.wem"
+       },
+       {
+        "Id": "547148774",
+        "Language": "SFX",
+        "ShortName": "CAS_Enemy_Floater_Breath_09.WAV",
+        "Path": "SFX\\CAS_Enemy_Floater_Breath_09_F32062C7.wem"
+       },
+       {
+        "Id": "581747031",
+        "Language": "SFX",
+        "ShortName": "CAS_Enemy_Floater_Breath_02.WAV",
+        "Path": "SFX\\CAS_Enemy_Floater_Breath_02_F32062C7.wem"
+       },
+       {
+        "Id": "615591304",
+        "Language": "SFX",
+        "ShortName": "CAS_Enemy_Floater_Breath_07.WAV",
+        "Path": "SFX\\CAS_Enemy_Floater_Breath_07_F32062C7.wem"
+       },
+       {
+        "Id": "634727910",
+        "Language": "SFX",
+        "ShortName": "CAS_Enemy_Floater_Breath_12.WAV",
+        "Path": "SFX\\CAS_Enemy_Floater_Breath_12_F32062C7.wem"
+       },
+       {
+        "Id": "654614427",
+        "Language": "SFX",
+        "ShortName": "CAS_Enemy_Floater_Breath_08.WAV",
+        "Path": "SFX\\CAS_Enemy_Floater_Breath_08_F32062C7.wem"
+       },
+       {
+        "Id": "719430081",
+        "Language": "SFX",
+        "ShortName": "CAS_Enemy_Floater_Breath_06.WAV",
+        "Path": "SFX\\CAS_Enemy_Floater_Breath_06_F32062C7.wem"
+       },
+       {
+        "Id": "834914283",
+        "Language": "SFX",
+        "ShortName": "CAS_Enemy_Floater_Breath_10.WAV",
+        "Path": "SFX\\CAS_Enemy_Floater_Breath_10_F32062C7.wem"
+       },
+       {
+        "Id": "924950128",
+        "Language": "SFX",
+        "ShortName": "CAS_Enemy_Floater_Breath_01.WAV",
+        "Path": "SFX\\CAS_Enemy_Floater_Breath_01_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3440945104",
+      "Name": "Play_CAS_Enemy_Floater_Release",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_CAS_Enemy_Floater_Release",
+      "GUID": "{1487F865-C7E8-4631-8572-5D3F28D72C26}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.478095",
+      "DurationMax": "1.478095",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "250341319",
+        "Language": "SFX",
+        "ShortName": "CAS_Enemy_Floater_Release.WAV",
+        "Path": "SFX\\CAS_Enemy_Floater_Release_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1538274859",
+      "Name": "Play_CAS_Enemy_Floater_Shriek",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_CAS_Enemy_Floater_Shriek",
+      "GUID": "{A83D8D20-B546-400F-B216-77DC5528FAAF}",
+      "DurationType": "OneShot",
+      "DurationMin": "2.913175",
+      "DurationMax": "2.913175",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "582307248",
+        "Language": "SFX",
+        "ShortName": "CAS_Enemy_Floater_Shriek.WAV",
+        "Path": "SFX\\CAS_Enemy_Floater_Shriek_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1843365517",
+      "Name": "Play_CAS_Enemy_Floater_StuckLoop",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_CAS_Enemy_Floater_StuckLoop",
+      "GUID": "{840C115F-CB29-442F-AFCF-4E90609CA897}",
+      "MaxAttenuation": "1500.000000",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "418052709",
+        "Language": "SFX",
+        "ShortName": "CAS_Enemy_Floater_StuckLoop_02.WAV",
+        "Path": "SFX\\CAS_Enemy_Floater_StuckLoop_02_90870865.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3866227317",
+      "Name": "Play_CAS_Enemy_Walker_SFX",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_CAS_Enemy_Walker_SFX",
+      "GUID": "{2D9C4C10-BCC4-4C0B-B891-6B87A7986684}",
+      "MaxAttenuation": "1500.000000",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "35816291",
+        "Language": "SFX",
+        "ShortName": "CAS_Enemy_Walker_SFX_06.WAV",
+        "Path": "SFX\\CAS_Enemy_Walker_SFX_06_F32062C7.wem"
+       },
+       {
+        "Id": "151333673",
+        "Language": "SFX",
+        "ShortName": "CAS_Enemy_Walker_SFX_12.WAV",
+        "Path": "SFX\\CAS_Enemy_Walker_SFX_12_F32062C7.wem"
+       },
+       {
+        "Id": "324744177",
+        "Language": "SFX",
+        "ShortName": "CAS_Enemy_Walker_SFX_10.WAV",
+        "Path": "SFX\\CAS_Enemy_Walker_SFX_10_F32062C7.wem"
+       },
+       {
+        "Id": "374409303",
+        "Language": "SFX",
+        "ShortName": "CAS_Enemy_Walker_SFX_03.WAV",
+        "Path": "SFX\\CAS_Enemy_Walker_SFX_03_F32062C7.wem"
+       },
+       {
+        "Id": "477418006",
+        "Language": "SFX",
+        "ShortName": "CAS_Enemy_Walker_SFX_09.WAV",
+        "Path": "SFX\\CAS_Enemy_Walker_SFX_09_F32062C7.wem"
+       },
+       {
+        "Id": "520084986",
+        "Language": "SFX",
+        "ShortName": "CAS_Enemy_Walker_SFX_07.WAV",
+        "Path": "SFX\\CAS_Enemy_Walker_SFX_07_F32062C7.wem"
+       },
+       {
+        "Id": "643154211",
+        "Language": "SFX",
+        "ShortName": "CAS_Enemy_Walker_SFX_05.WAV",
+        "Path": "SFX\\CAS_Enemy_Walker_SFX_05_F32062C7.wem"
+       },
+       {
+        "Id": "656112729",
+        "Language": "SFX",
+        "ShortName": "CAS_Enemy_Walker_SFX_11.WAV",
+        "Path": "SFX\\CAS_Enemy_Walker_SFX_11_F32062C7.wem"
+       },
+       {
+        "Id": "718480375",
+        "Language": "SFX",
+        "ShortName": "CAS_Enemy_Walker_SFX_02.WAV",
+        "Path": "SFX\\CAS_Enemy_Walker_SFX_02_F32062C7.wem"
+       },
+       {
+        "Id": "788912586",
+        "Language": "SFX",
+        "ShortName": "CAS_Enemy_Walker_SFX_08.WAV",
+        "Path": "SFX\\CAS_Enemy_Walker_SFX_08_F32062C7.wem"
+       },
+       {
+        "Id": "795843891",
+        "Language": "SFX",
+        "ShortName": "CAS_Enemy_Walker_SFX_01.WAV",
+        "Path": "SFX\\CAS_Enemy_Walker_SFX_01_F32062C7.wem"
+       },
+       {
+        "Id": "960721370",
+        "Language": "SFX",
+        "ShortName": "CAS_Enemy_Walker_SFX_04.WAV",
+        "Path": "SFX\\CAS_Enemy_Walker_SFX_04_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1649935892",
+      "Name": "Play_CAS_FootStep_Stone",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_CAS_FootStep_Stone",
+      "GUID": "{5852EC01-14AC-4EB3-B74F-5EBC025F0EC2}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.480091",
+      "DurationMax": "1.480091",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "186972983",
+        "Language": "SFX",
+        "ShortName": "CAS_FootStep_Stone_02.WAV",
+        "Path": "SFX\\CAS_FootStep_Stone_02_F32062C7.wem"
+       },
+       {
+        "Id": "268546956",
+        "Language": "SFX",
+        "ShortName": "CAS_FootStep_Stone_04.WAV",
+        "Path": "SFX\\CAS_FootStep_Stone_04_F32062C7.wem"
+       },
+       {
+        "Id": "788887849",
+        "Language": "SFX",
+        "ShortName": "CAS_FootStep_Stone_03.WAV",
+        "Path": "SFX\\CAS_FootStep_Stone_03_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2164405297",
+      "Name": "Play_CAS_Get_SmallItem",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_CAS_Get_SmallItem",
+      "GUID": "{84D87459-BC59-4C38-A495-02F70E46CCC2}",
+      "MaxAttenuation": "2500.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "2.971814",
+      "DurationMax": "2.971814",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "316606485",
+        "Language": "SFX",
+        "ShortName": "CAS_Get_SmallItem.WAV",
+        "Path": "SFX\\CAS_Get_SmallItem_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1757164396",
+      "Name": "Play_CAS_Glitches_Loop",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_CAS_Glitches_Loop",
+      "GUID": "{E84854F5-DAA5-4139-8EEA-43B4604CCED2}",
+      "MaxAttenuation": "2500.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "14.388186",
+      "DurationMax": "14.388186",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "7995150",
+        "Language": "SFX",
+        "ShortName": "CAS_Glitches_Loop.WAV",
+        "Path": "SFX\\CAS_Glitches_Loop_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1615652854",
+      "Name": "Play_CAS_Interact_LockedStoneDoor",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_CAS_Interact_LockedStoneDoor",
+      "GUID": "{E536F753-4890-44B1-B61D-71DA231E22F0}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.480091",
+      "DurationMax": "1.480091",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "379656877",
+        "Language": "SFX",
+        "ShortName": "CAS_Interact_LockedStoneDoor.WAV",
+        "Path": "SFX\\CAS_Interact_LockedStoneDoor_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "620834308",
+      "Name": "Play_CAS_Interact_LockedWoodDoor",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_CAS_Interact_LockedWoodDoor",
+      "GUID": "{76C682D3-A936-4683-896E-4FF47FFC87A7}",
+      "DurationType": "OneShot",
+      "DurationMin": "2.966168",
+      "DurationMax": "2.966168",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "923575653",
+        "Language": "SFX",
+        "ShortName": "CAS_Interact_LockedWoodDoor.WAV",
+        "Path": "SFX\\CAS_Interact_LockedWoodDoor_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3637918828",
+      "Name": "Play_CAS_Interact_StoneDoor",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_CAS_Interact_StoneDoor",
+      "GUID": "{7D071BA8-774E-4DD7-91BA-94BE914E61E2}",
+      "DurationType": "OneShot",
+      "DurationMin": "4.452245",
+      "DurationMax": "4.452245",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "681876093",
+        "Language": "SFX",
+        "ShortName": "CAS_Interact_StoneDoor.WAV",
+        "Path": "SFX\\CAS_Interact_StoneDoor_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1823011201",
+      "Name": "Play_CAS_Interact_TreasureChest",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_CAS_Interact_TreasureChest",
+      "GUID": "{339697E6-2FFD-4EF1-9632-279F56BFA0BD}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.486077",
+      "DurationMax": "1.486077",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "438810697",
+        "Language": "SFX",
+        "ShortName": "CAS_Interact_TreasureChest.WAV",
+        "Path": "SFX\\CAS_Interact_TreasureChest_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2297962926",
+      "Name": "Play_CAS_Interact_WoodDoor",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_CAS_Interact_WoodDoor",
+      "GUID": "{59BCE039-47BD-4F5C-A160-172A1D60EF22}",
+      "DurationType": "OneShot",
+      "DurationMin": "2.966168",
+      "DurationMax": "2.966168",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "317076310",
+        "Language": "SFX",
+        "ShortName": "CAS_Interact_WoodDoor.WAV",
+        "Path": "SFX\\CAS_Interact_WoodDoor_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1029647517",
+      "Name": "Play_CAS_Music_TitleTheme",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_CAS_Music_TitleTheme",
+      "GUID": "{5321F1D4-3A98-4B6E-8889-81B6C3B4D5C4}",
+      "MaxAttenuation": "2500.000000",
+      "DurationType": "Infinite",
+      "ReferencedStreamedFiles": [
+       {
+        "Id": "773165517",
+        "Language": "SFX",
+        "ShortName": "CAS_Music_TitleTheme.WAV",
+        "Path": "SFX\\CAS_Music_TitleTheme_90870865.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3441035556",
+      "Name": "Play_CAS_PlayerDamage",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_CAS_PlayerDamage",
+      "GUID": "{5728E4F6-1AEB-4F59-9B03-4414AEF13B62}",
+      "MaxAttenuation": "2500.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "2.915828",
+      "DurationMax": "2.915828",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "348906407",
+        "Language": "SFX",
+        "ShortName": "CAS_PlayerDamage.WAV",
+        "Path": "SFX\\CAS_PlayerDamage_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2088807651",
+      "Name": "Play_CAS_PlayerDeath",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_CAS_PlayerDeath",
+      "GUID": "{DC274C66-DEFF-4539-B76D-6D1A9273DB9A}",
+      "MaxAttenuation": "2500.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "7.372948",
+      "DurationMax": "7.372948",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "149894756",
+        "Language": "SFX",
+        "ShortName": "CAS_PlayerDeath.WAV",
+        "Path": "SFX\\CAS_PlayerDeath_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "95109097",
+      "Name": "Play_CAS_PuzzleSolve",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_CAS_PuzzleSolve",
+      "GUID": "{6104A6BF-96C7-4376-8620-0922CD433970}",
+      "MaxAttenuation": "2500.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "4.458231",
+      "DurationMax": "4.458231",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "478762052",
+        "Language": "SFX",
+        "ShortName": "CAS_PuzzleSolve.WAV",
+        "Path": "SFX\\CAS_PuzzleSolve_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2498269162",
+      "Name": "Play_CAS_Torch",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_CAS_Torch",
+      "GUID": "{908838A9-7532-4FC5-B30E-B7E47A0D5627}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.480091",
+      "DurationMax": "1.480091",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "912208829",
+        "Language": "SFX",
+        "ShortName": "CAS_Torch.WAV",
+        "Path": "SFX\\CAS_Torch_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "921006247",
+      "Name": "Play_Cought_in_a_Loop",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_Cought_in_a_Loop",
+      "GUID": "{83B8D0D8-182F-454E-96A5-2BE6A737CD8A}",
+      "DurationType": "Infinite",
+      "ReferencedStreamedFiles": [
+       {
+        "Id": "29075957",
+        "Language": "SFX",
+        "ShortName": "Cought_in_a_Loop.WAV",
+        "Path": "SFX\\Cought_in_a_Loop_90870865.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1757471963",
+      "Name": "Play_sfx_minigame_pq3_amb_bed_bunker",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_sfx_minigame_pq3_amb_bed_bunker",
+      "GUID": "{C354D09E-23EF-4C15-82F0-6343CCBBBE55}",
+      "DurationType": "Infinite",
+      "ReferencedStreamedFiles": [
+       {
+        "Id": "739730639",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pq3_amb_bed_bunker.wav",
+        "Path": "SFX\\sfx_minigame_pq3_amb_bed_bunker_90870865.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1472935422",
+      "Name": "Play_sfx_minigame_pq3_conveyorBelt_lp",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_sfx_minigame_pq3_conveyorBelt_lp",
+      "GUID": "{290DFC42-9927-4F01-AE55-D46E7DB9176D}",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "974225670",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pq3_conveyorBelt_lp.wav",
+        "Path": "SFX\\sfx_minigame_pq3_conveyorBelt_lp_90870865.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2649473802",
+      "Name": "Play_sfx_minigame_pq3_door_openClose",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_sfx_minigame_pq3_door_openClose",
+      "GUID": "{B7D4B625-A2EE-42DD-AD92-D018EDF0246E}",
+      "DurationType": "OneShot",
+      "DurationMin": "2.000000",
+      "DurationMax": "2.000000",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "800392623",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pq3_door_openClose.wav",
+        "Path": "SFX\\sfx_minigame_pq3_door_openClose_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "68821872",
+      "Name": "Play_sfx_minigame_pq3_foxy_detection_stinger",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_sfx_minigame_pq3_foxy_detection_stinger",
+      "GUID": "{ABB97B8A-1001-4812-9C94-D4123BB930B4}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.500000",
+      "DurationMax": "1.500000",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "230997757",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pq3_foxy_detection_stinger.wav",
+        "Path": "SFX\\sfx_minigame_pq3_foxy_detection_stinger_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3907517543",
+      "Name": "Play_sfx_minigame_pq3_foxy_idle_mech_lp",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_sfx_minigame_pq3_foxy_idle_mech_lp",
+      "GUID": "{C2B38450-CD32-4922-A644-CCF8A34D6CBF}",
+      "MaxAttenuation": "1500.000000",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "17964017",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pq3_foxy_idle_mech_lp.wav",
+        "Path": "SFX\\sfx_minigame_pq3_foxy_idle_mech_lp_90870865.wem"
+       }
+      ]
+     },
+     {
+      "Id": "729757764",
+      "Name": "Play_sfx_minigame_pq3_foxy_walk_lp",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_sfx_minigame_pq3_foxy_walk_lp",
+      "GUID": "{9372ADF6-6556-4A25-89F7-EDB3A232B9E2}",
+      "MaxAttenuation": "1500.000000",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "618946940",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pq3_foxy_walk_lp.wav",
+        "Path": "SFX\\sfx_minigame_pq3_foxy_walk_lp_90870865.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2404899814",
+      "Name": "Play_sfx_minigame_pq3_glitchChest_lp",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_sfx_minigame_pq3_glitchChest_lp",
+      "GUID": "{FE8D8DD7-AB7E-4AA0-AF53-26D9C5A1B2B9}",
+      "MaxAttenuation": "600.000000",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "942095022",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pq3_glitchChest_lp.wav",
+        "Path": "SFX\\sfx_minigame_pq3_glitchChest_lp_90870865.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1779041130",
+      "Name": "Play_sfx_minigame_pq3_glitchChest_open",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_sfx_minigame_pq3_glitchChest_open",
+      "GUID": "{67F82C0A-761A-4E4A-A421-68E0F55221C8}",
+      "MaxAttenuation": "2500.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "3.000000",
+      "DurationMax": "3.000000",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "509078021",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pq3_glitchChest_open.wav",
+        "Path": "SFX\\sfx_minigame_pq3_glitchChest_open_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3389829200",
+      "Name": "Play_sfx_minigame_pq3_glitchDoor_idle_lp",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_sfx_minigame_pq3_glitchDoor_idle_lp",
+      "GUID": "{ED345780-330C-43DB-B0D6-C9535B54FDE4}",
+      "MaxAttenuation": "900.000000",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "165196257",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pq3_glitchDoor_idle_lp.wav",
+        "Path": "SFX\\sfx_minigame_pq3_glitchDoor_idle_lp_90870865.wem"
+       }
+      ]
+     },
+     {
+      "Id": "87924011",
+      "Name": "Play_sfx_minigame_pq3_glitchDoor_open",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_sfx_minigame_pq3_glitchDoor_open",
+      "GUID": "{1645A38E-0FFD-44DD-901B-FEF7AEB678D0}",
+      "MaxAttenuation": "2500.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "2.500000",
+      "DurationMax": "2.500000",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "135718914",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pq3_glitchDoor_open.wav",
+        "Path": "SFX\\sfx_minigame_pq3_glitchDoor_open_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "107091980",
+      "Name": "Play_sfx_minigame_pq3_scream",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_sfx_minigame_pq3_scream",
+      "GUID": "{B3948142-5793-477E-881A-697DFDC135CE}",
+      "DurationType": "OneShot",
+      "DurationMin": "6.000000",
+      "DurationMax": "6.000000",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "742161428",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pq3_scream.wav",
+        "Path": "SFX\\sfx_minigame_pq3_scream_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "819484058",
+      "Name": "Play_sfx_minigame_pq3_screenFade_whoosh",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_sfx_minigame_pq3_screenFade_whoosh",
+      "GUID": "{9EE4FFA6-5D94-4EB7-848F-6339F254B776}",
+      "DurationType": "OneShot",
+      "DurationMin": "6.200000",
+      "DurationMax": "6.200000",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "125128764",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pq3_screenFade_whoosh.wav",
+        "Path": "SFX\\sfx_minigame_pq3_screenFade_whoosh_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1464107125",
+      "Name": "Play_sfx_minigame_pq3_stageCurtains_open",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_sfx_minigame_pq3_stageCurtains_open",
+      "GUID": "{1855B70B-340E-4A49-B390-C36122EF6199}",
+      "MaxAttenuation": "2500.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "1.125011",
+      "DurationMax": "1.125011",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "710885366",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pq3_stageCurtains_open.wav",
+        "Path": "SFX\\sfx_minigame_pq3_stageCurtains_open_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "894480714",
+      "Name": "Play_sfx_minigame_pq3_title_screen_glitch",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_sfx_minigame_pq3_title_screen_glitch",
+      "GUID": "{A9AA4F73-369D-49B7-A854-35BBF5EEF046}",
+      "MaxAttenuation": "2500.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.937506",
+      "DurationMax": "0.937506",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "638132460",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pq3_title_screen_glitch_02.wav",
+        "Path": "SFX\\sfx_minigame_pq3_title_screen_glitch_02_F32062C7.wem"
+       },
+       {
+        "Id": "750505703",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pq3_title_screen_glitch_01.wav",
+        "Path": "SFX\\sfx_minigame_pq3_title_screen_glitch_01_F32062C7.wem"
+       },
+       {
+        "Id": "1060273638",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pq3_title_screen_glitch_03.wav",
+        "Path": "SFX\\sfx_minigame_pq3_title_screen_glitch_03_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1913625211",
+      "Name": "Play_sfx_minigame_pqA2_amb_bed_cave_med_lp",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_sfx_minigame_pqA2_amb_bed_cave_med_lp",
+      "GUID": "{B9D91DF6-60B1-4F85-880A-DC8284F5F580}",
+      "MaxAttenuation": "2500.000000",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "596480600",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pqA2_amb_bed_cave_med_lp.wav",
+        "Path": "SFX\\sfx_minigame_pqA2_amb_bed_cave_med_lp_90870865.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3171189505",
+      "Name": "Play_sfx_minigame_pqA2_amb_emitter_mushrooms_lp",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_sfx_minigame_pqA2_amb_emitter_mushrooms_lp",
+      "GUID": "{473A5458-EA8B-42A0-ADD9-B01AD6A10389}",
+      "MaxAttenuation": "1500.000000",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "691189916",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pqA2_amb_emitter_mushrooms_lp_03.wav",
+        "Path": "SFX\\sfx_minigame_pqA2_amb_emitter_mushrooms_lp_03_90870865.wem"
+       },
+       {
+        "Id": "731903787",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pqA2_amb_emitter_mushrooms_lp_01.wav",
+        "Path": "SFX\\sfx_minigame_pqA2_amb_emitter_mushrooms_lp_01_90870865.wem"
+       },
+       {
+        "Id": "1066344962",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pqA2_amb_emitter_mushrooms_lp_02.wav",
+        "Path": "SFX\\sfx_minigame_pqA2_amb_emitter_mushrooms_lp_02_90870865.wem"
+       }
+      ]
+     },
+     {
+      "Id": "899435171",
+      "Name": "Play_sfx_minigame_pqA2_bipedalBunny_attack",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_sfx_minigame_pqA2_bipedalBunny_attack",
+      "GUID": "{EBCDDAC1-B8F1-4141-833C-285A667A8331}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.325011",
+      "DurationMax": "1.325011",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "784220636",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pqA2_bipedalBunny_attack_01.wav",
+        "Path": "SFX\\sfx_minigame_pqA2_bipedalBunny_attack_01_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1568545507",
+      "Name": "Play_sfx_minigame_pqA2_bipedalBunny_death",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_sfx_minigame_pqA2_bipedalBunny_death",
+      "GUID": "{E00F3CE6-1376-486B-8D8F-5EB556CE6801}",
+      "DurationType": "OneShot",
+      "DurationMin": "3.000000",
+      "DurationMax": "3.000000",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "369795008",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pqA2_bipedalBunny_death_01.wav",
+        "Path": "SFX\\sfx_minigame_pqA2_bipedalBunny_death_01_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2586631529",
+      "Name": "Play_sfx_minigame_pqA2_cyclopsBunny_death",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_sfx_minigame_pqA2_cyclopsBunny_death",
+      "GUID": "{DC19A9BD-3A7D-4809-A3F5-B8738A7AC7E5}",
+      "DurationType": "OneShot",
+      "DurationMin": "2.809025",
+      "DurationMax": "2.809025",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "59132169",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pqA2_cyclopsBunny_death_01.wav",
+        "Path": "SFX\\sfx_minigame_pqA2_cyclopsBunny_death_01_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3109520428",
+      "Name": "Play_sfx_minigame_pqA2_enemy_dematerialize",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_sfx_minigame_pqA2_enemy_dematerialize",
+      "GUID": "{B98513A9-C1C9-40C8-BD42-892B6B80DEFF}",
+      "DurationType": "OneShot",
+      "DurationMin": "2.062494",
+      "DurationMax": "2.062494",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "1009120977",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pqA2_enemy_dematerialize_01.wav",
+        "Path": "SFX\\sfx_minigame_pqA2_enemy_dematerialize_01_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3862462095",
+      "Name": "Play_sfx_minigame_pqA2_enemy_hit",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_sfx_minigame_pqA2_enemy_hit",
+      "GUID": "{C840FDCC-F4B4-45DE-965E-332FF7E6308D}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.362494",
+      "DurationMax": "0.487506",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "39031159",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pqA2_enemy_hit_03.wav",
+        "Path": "SFX\\sfx_minigame_pqA2_enemy_hit_03_F32062C7.wem"
+       },
+       {
+        "Id": "696725782",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pqA2_enemy_hit_01.wav",
+        "Path": "SFX\\sfx_minigame_pqA2_enemy_hit_01_F32062C7.wem"
+       },
+       {
+        "Id": "776657268",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pqA2_enemy_hit_04.wav",
+        "Path": "SFX\\sfx_minigame_pqA2_enemy_hit_04_F32062C7.wem"
+       },
+       {
+        "Id": "916255416",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pqA2_enemy_hit_02.wav",
+        "Path": "SFX\\sfx_minigame_pqA2_enemy_hit_02_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2619149195",
+      "Name": "Play_sfx_minigame_pqA2_spider_death",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_sfx_minigame_pqA2_spider_death",
+      "GUID": "{C37807C3-2F6A-4B0B-8A61-533DB5A2323C}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.875011",
+      "DurationMax": "0.875011",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "378485996",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pqA2_spider_death_01.wav",
+        "Path": "SFX\\sfx_minigame_pqA2_spider_death_01_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2471681660",
+      "Name": "Play_sfx_minigame_pqA2_spider_mvmt_lp",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_sfx_minigame_pqA2_spider_mvmt_lp",
+      "GUID": "{9B3B9BC6-781F-4FC3-9C42-4218881936C9}",
+      "MaxAttenuation": "1500.000000",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "491713617",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pqA2_spider_mvmt_lp.wav",
+        "Path": "SFX\\sfx_minigame_pqA2_spider_mvmt_lp_90870865.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3973285595",
+      "Name": "Play_sfx_minigame_pqA2_spider_orb_hitPlayer",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_sfx_minigame_pqA2_spider_orb_hitPlayer",
+      "GUID": "{424F50C8-58DD-4CF1-866F-9422F5F4DA26}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.500000",
+      "DurationMax": "0.500000",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "28025061",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pqA2_spider_orb_hitPlayer_01.wav",
+        "Path": "SFX\\sfx_minigame_pqA2_spider_orb_hitPlayer_01_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2637679676",
+      "Name": "Play_sfx_minigame_pqA2_spider_shoot",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_sfx_minigame_pqA2_spider_shoot",
+      "GUID": "{E1526BFD-7C55-4422-B9D1-571ABD4ABBBB}",
+      "MaxAttenuation": "800.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "1.125011",
+      "DurationMax": "1.125011",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "35829823",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pqA2_spider_shoot_01.wav",
+        "Path": "SFX\\sfx_minigame_pqA2_spider_shoot_01_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2554429421",
+      "Name": "Play_sfx_minigame_pqA2_sword_swing",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_sfx_minigame_pqA2_sword_swing",
+      "GUID": "{B22F09B3-D0AA-4F23-A726-71E69FF3BB1B}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.189388",
+      "DurationMax": "0.189388",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "14674906",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pqA2_sword_swing_03.wav",
+        "Path": "SFX\\sfx_minigame_pqA2_sword_swing_03_F32062C7.wem"
+       },
+       {
+        "Id": "149974807",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pqA2_sword_swing_04.wav",
+        "Path": "SFX\\sfx_minigame_pqA2_sword_swing_04_F32062C7.wem"
+       },
+       {
+        "Id": "394893299",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pqA2_sword_swing_01.wav",
+        "Path": "SFX\\sfx_minigame_pqA2_sword_swing_01_F32062C7.wem"
+       },
+       {
+        "Id": "1056435880",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pqA2_sword_swing_02.wav",
+        "Path": "SFX\\sfx_minigame_pqA2_sword_swing_02_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "4287464518",
+      "Name": "Play_sfx_minigame_pqA2_torch_extinguish",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_sfx_minigame_pqA2_torch_extinguish",
+      "GUID": "{5D04695E-15B4-4D93-9D4E-D24FE164E4F6}",
+      "MaxAttenuation": "1500.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "1.750000",
+      "DurationMax": "1.750000",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "458806278",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pqA2_torch_extinguish_01.wav",
+        "Path": "SFX\\sfx_minigame_pqA2_torch_extinguish_01_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "210652919",
+      "Name": "Play_sfx_minigame_pqA2_torchPuzzle_complete",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_sfx_minigame_pqA2_torchPuzzle_complete",
+      "GUID": "{F62FB7AD-D882-4F44-BC9E-01EA3406BCB5}",
+      "DurationType": "OneShot",
+      "DurationMin": "3.500000",
+      "DurationMax": "3.500000",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "521850559",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pqA2_torchPuzzle_complete_01.wav",
+        "Path": "SFX\\sfx_minigame_pqA2_torchPuzzle_complete_01_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1590659455",
+      "Name": "Play_sfx_minigame_pqA2_torchPuzzle_rotate",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Play_sfx_minigame_pqA2_torchPuzzle_rotate",
+      "GUID": "{2743B58F-125A-4B4B-B8FD-4A6217A987E8}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.250000",
+      "DurationMax": "1.250000",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "191053572",
+        "Language": "SFX",
+        "ShortName": "sfx_minigame_pqA2_torchPuzzle_rotate_01.wav",
+        "Path": "SFX\\sfx_minigame_pqA2_torchPuzzle_rotate_01_F32062C7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "169730441",
+      "Name": "Stop_BossRoom_Entry_Drone_Loop",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Stop_BossRoom_Entry_Drone_Loop",
+      "GUID": "{58CFB1C2-6B4B-48E5-A9F5-C168E77F3722}",
+      "MaxAttenuation": "0.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000"
+     },
+     {
+      "Id": "2507510106",
+      "Name": "Stop_BossRoom_Reveal_Drone_Loop",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Stop_BossRoom_Reveal_Drone_Loop",
+      "GUID": "{D2F91BE6-2F58-4C2C-B804-9977264CF8FD}",
+      "MaxAttenuation": "0.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000"
+     },
+     {
+      "Id": "128516275",
+      "Name": "Stop_CAS_Music_TitleTheme",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Stop_CAS_Music_TitleTheme",
+      "GUID": "{D1DE65A9-DBF4-458B-AD8B-086F50858090}",
+      "MaxAttenuation": "0.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000"
+     },
+     {
+      "Id": "289346553",
+      "Name": "Stop_Cought_in_a_Loop",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Stop_Cought_in_a_Loop",
+      "GUID": "{858747F7-CAA2-421B-B943-E4BC5FD540F1}",
+      "MaxAttenuation": "0.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000"
+     },
+     {
+      "Id": "2767284428",
+      "Name": "Stop_sfx_minigame_pq3_conveyorBelt_lp",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Stop_sfx_minigame_pq3_conveyorBelt_lp",
+      "GUID": "{302F1601-5E6D-46AF-B8EE-7F837BA19E39}",
+      "MaxAttenuation": "0.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000"
+     },
+     {
+      "Id": "1262263989",
+      "Name": "Stop_sfx_minigame_pq3_foxy_idle_mech_lp",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Stop_sfx_minigame_pq3_foxy_idle_mech_lp",
+      "GUID": "{60AA35EB-49A2-4281-83E2-0192DC2C43F9}",
+      "MaxAttenuation": "0.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000"
+     },
+     {
+      "Id": "636796998",
+      "Name": "Stop_sfx_minigame_pq3_foxy_walk_lp",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Stop_sfx_minigame_pq3_foxy_walk_lp",
+      "GUID": "{0263AB88-76EF-4702-B8CB-5F0A7D9DD8FB}",
+      "MaxAttenuation": "0.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000"
+     },
+     {
+      "Id": "3904018380",
+      "Name": "Stop_sfx_minigame_pq3_glitchChest_lp",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Stop_sfx_minigame_pq3_glitchChest_lp",
+      "GUID": "{E90C3B6C-5E71-4D40-89E9-22BCEFE4551D}",
+      "MaxAttenuation": "0.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000"
+     },
+     {
+      "Id": "2144582206",
+      "Name": "Stop_sfx_minigame_pq3_glitchDoor_idle_lp",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Stop_sfx_minigame_pq3_glitchDoor_idle_lp",
+      "GUID": "{239672EA-C5A5-4ABF-9B16-632B5AB20F5D}",
+      "MaxAttenuation": "0.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000"
+     },
+     {
+      "Id": "2932247325",
+      "Name": "Stop_sfx_minigame_pqA2_amb_bed_cave_med_lp",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Stop_sfx_minigame_pqA2_amb_bed_cave_med_lp",
+      "GUID": "{305C5228-654B-431C-87D0-A81CD3CBA2E4}",
+      "MaxAttenuation": "0.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000"
+     },
+     {
+      "Id": "3163311294",
+      "Name": "Stop_sfx_minigame_pqA2_spider_mvmt_lp",
+      "ObjectPath": "\\Events\\Default Work Unit\\MiniGames\\PrincessQuest\\Stop_sfx_minigame_pqA2_spider_mvmt_lp",
+      "GUID": "{1D7C8A12-ED57-4311-A9CD-7D5600851B57}",
+      "MaxAttenuation": "0.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000"
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "1319473216",
+      "Name": "pq_glitch_effect",
+      "ObjectPath": "\\Game Parameters\\minigames\\pq_glitch_effect",
+      "GUID": "{B819463D-3330-46A9-BB9A-6C60C31EBD51}"
+     }
+    ]
+   }
+  ]
+ }
+}
