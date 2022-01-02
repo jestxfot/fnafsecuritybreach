@@ -28,7 +28,7 @@ Saves Files: `C:\Users\Admin\AppData\Local\fnaf9\Saved\SaveGames`
 - RestartLevel
 - Pause
 - DestroyPawns
-- DestroyAll `type`
+- DestroyAll `name`
 - EnableOnScreenMessages
 - ChangeSize
 
