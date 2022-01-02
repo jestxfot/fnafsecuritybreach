@@ -10,25 +10,27 @@ Saves Files: `C:\Users\Admin\AppData\Local\fnaf9\Saved\SaveGames`
 
 ### [UUU Command](https://framedsc.com/GeneralGuides/universal_ue4_consoleunlocker.htm)
 - Open MAP_ChicasFeedingFrenzy
-- open map_princessquest_titlemenu
-- open map_princessquest_titlemenu_act2
-- open map_princessquest_titlemenu_act3
-- open map_charactergallery
-- open map_BowlingAlley_Test
-- slomo `speed`
-- toggledebugcamera
-- destroytarget
-- summon freddy_c
-- summon vanny_c
-- summon vanessa_c
-- viewmode lit / shadercomplexity
-- showdebug
-- restartlevel
-- pause
-- destroypawns
-- enableonscreenmessages
-- ChangeSize
+- Open map_PrincessQuest_TitleMenu
+- Open map_PrincessQuest_TitleMenu_act2
+- Open map_PrincessQuest_TitleMenu_act3
+- Open map_charactergallery
+- Open map_BowlingAlley_Test
+- Slomo `speed`
+- ToggleDebugCamera
+- DestroyTarget
+- Summon freddy_c
+- Summon vanny_c
+- Summon vanessa_c
+- Summon burntrap_c
+- ViewMode lit
+- ViewMode shadercomplexity
+- ShowDebug
+- RestartLevel
+- Pause
+- DestroyPawns
 - DestroyAll `type`
+- EnableOnScreenMessages
+- ChangeSize
 
 ### [FnafMenuLoader (Fnaf Debug Menu)](https://github.com/Skizzium/FNaFMenuLoader)
 
