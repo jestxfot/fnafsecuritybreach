@@ -10,28 +10,72 @@
 2F850B42F70 - lives Princess
 
 ### [UUU Command](https://framedsc.com/GeneralGuides/universal_ue4_consoleunlocker.htm)
-- Open MAP_ChicasFeedingFrenzy
-- Open map_PrincessQuest_TitleMenu
-- Open map_PrincessQuest_TitleMenu_act2
-- Open map_PrincessQuest_TitleMenu_act3
-- Open map_charactergallery
-- Open map_BowlingAlley_Test
-- Slomo `speed`
-- ToggleDebugCamera
-- DestroyTarget
-- Summon freddy_c
-- Summon vanny_c
-- Summon vanessa_c
-- Summon burntrap_c
-- ViewMode lit
-- ViewMode shadercomplexity
-- ShowDebug
-- RestartLevel
-- Pause
-- DestroyPawns
-- DestroyAll `name`
-- EnableOnScreenMessages
-- ChangeSize
+```
+Open MAP_ChicasFeedingFrenzy
+```
+```
+Open map_PrincessQuest_TitleMenu
+```
+```
+Open map_PrincessQuest_TitleMenu_act2
+```
+```
+Open map_PrincessQuest_TitleMenu_act3
+```
+```
+Open map_charactergallery
+```
+```
+Open map_BowlingAlley_Test
+```
+```
+Slomo `speed`
+```
+```
+ToggleDebugCamera
+```
+```
+DestroyTarget
+```
+```
+Summon freddy_c
+```
+```
+Summon vanny_c
+```
+```
+Summon vanessa_c
+```
+```
+Summon burntrap_c
+```
+```
+ViewMode lit
+```
+```
+ViewMode shadercomplexity
+```
+```
+ShowDebug
+```
+```
+RestartLevel
+```
+```
+Pause
+```
+```
+DestroyPawns
+```
+```
+DestroyAll `name`
+```
+```
+EnableOnScreenMessages
+```
+```
+ChangeSize
+```
 
 ### [FnafMenuLoader (Fnaf Debug Menu)](https://github.com/Skizzium/FNaFMenuLoader)
 
