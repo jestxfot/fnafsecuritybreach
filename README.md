@@ -55,6 +55,10 @@ Summon burntrap_c
 ```
 Summon PlayerControlledStaffBot_C
 ```
+Lights???
+```
+PlayerControlledStaffBot_Kitchen_C
+```
 ### Other CMDs
 ```
 ViewMode lit
