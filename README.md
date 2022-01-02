@@ -6,11 +6,6 @@
 
 ![image](https://user-images.githubusercontent.com/87380272/147861521-84196a24-23cb-4113-88cf-2dbc39fbe9b3.png)
 
-### Saves Files:
-```
-%LocalAppData%\fnaf9\Saved\SaveGames
-```
-
 ### Cheat Engine
 2F850B42F70 - lives Princess
 
