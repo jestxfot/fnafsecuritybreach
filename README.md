@@ -50,6 +50,9 @@ Summon vanessa_c
 Summon burntrap_c
 ```
 ```
+Summon PlayerControlledStaffBot_C
+```
+```
 ViewMode lit
 ```
 ```
