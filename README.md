@@ -35,6 +35,7 @@
 | **Summon** StaffBotSecurityPatrol_C |
 | **Summon** StaffbotTaskPlacement_C | WTF (cube) |
 | **Summon** StaffBotWorkerPath_C | :robot: StaffBot jumpscare |
+| **Summon** BP_NoiseMakingTowerDaycareInteractible_C | Boil |
 | DestroyPawns | Destruction of ALL bots |
 | DestroyAll `value` | ??? |
 | ViewMode `value` | Values: `shadercomplexity` OR `lit`  |
