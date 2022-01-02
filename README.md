@@ -27,7 +27,7 @@
 | Summon vanessa_c |
 | Summon burntrap_c |
 | Summon PlayerControlledStaffBot_Kitchen_C | Lights??? |
-| Summon Gregory_C | Gregory 2 position (your position is bifurcated) |
+| Summon Gregory_C | 2 position (your position is bifurcated) |
 | Summon FirstPersonCharacter_C |
 | Summon StaffBotBase_C| StaffBot Original |
 | Summon PlayerControlledStaffBot_C | StaffBot Skeleton |
