@@ -59,7 +59,10 @@ Lights???
 ```
 PlayerControlledStaffBot_Kitchen_C
 ```
-Gregory
+Gregory 2 position (your position is bifurcated)
+```
+Summon Gregory_C
+```
 ```
 Summon FirstPersonCharacter_C
 ```
