@@ -77,6 +77,10 @@ Summon CautionBot_C
 ```
 Summon StaffBotSecurityPatrol_C
 ```
+WTF
+```
+Summon StaffbotTaskPlacement_C
+```
 ### Other CMDs
 ```
 ViewMode lit
