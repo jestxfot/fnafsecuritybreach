@@ -74,6 +74,9 @@ Summon PlayerControlledStaffBot_C
 ```
 Summon CautionBot_C
 ```
+```
+Summon StaffBotSecurityPatrol_C
+```
 ### Other CMDs
 ```
 ViewMode lit
