@@ -1,4 +1,7 @@
-# Save Games
+### Saves Files:
+```
+%LocalAppData%\fnaf9\Saved\SaveGames
+```
 1 slot - 11 PM Freddy room
 <br>
 2 slot - 11 PM Freddy charging station
