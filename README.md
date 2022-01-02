@@ -9,7 +9,8 @@
 ### Cheat Engine
 2F850B42F70 - lives Princess
 
-### [UUU Command](https://framedsc.com/GeneralGuides/universal_ue4_consoleunlocker.htm)
+## [UUU Command](https://framedsc.com/GeneralGuides/universal_ue4_consoleunlocker.htm)
+### Open CMDs:
 ```
 Open MAP_ChicasFeedingFrenzy
 ```
@@ -37,6 +38,7 @@ ToggleDebugCamera
 ```
 DestroyTarget
 ```
+### Summon CMDs:
 ```
 Summon freddy_c
 ```
