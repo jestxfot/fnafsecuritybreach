@@ -26,6 +26,7 @@
 | **Summon** vanny_c |
 | **Summon** vanessa_c |
 | **Summon** burntrap_c |
+| **Summon** Moonman_C |
 | **Summon** Gregory_C | 2 position (your position is bifurcated) |
 | **Summon** FirstPersonCharacter_C |
 | **Summon** StaffBotBase_C| :robot: StaffBot Original |
