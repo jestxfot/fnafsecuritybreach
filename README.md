@@ -49,6 +49,12 @@
 | Pause | HotKey: numpad 0 |
 | RestartLevel |
 
+### Location Coordinates
+| Name | Coordinates (X Y Z) |
+|---|-----------|
+| Stage | 397 44107 1435 |
+
+
 ### [FnafMenuLoader (Fnaf Debug Menu)](https://github.com/Skizzium/FNaFMenuLoader)
 
 ### [Debug Menu Unlocker mod](https://github.com/Kaydax/DebugMenuUnlocker)
