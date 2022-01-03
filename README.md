@@ -23,6 +23,7 @@
 | ToggleDebugCamera | Values: `0`, `1`, `2` |
 | DestroyTarget | Delete Object on which you are looking at |
 | **Summon** freddy_c |
+| **Summon** AISeeker_C | Freddy jumpscare |
 | **Summon** vanny_c |
 | **Summon** vanessa_c |
 | **Summon** burntrap_c |
