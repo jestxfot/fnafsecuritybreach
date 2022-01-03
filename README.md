@@ -55,7 +55,7 @@
 | Stage | 397 44107 1435 |
 | Exit | -1800 20248 1512 |
 | DayCare | -11972 29973 2131 |
-
+| Vanny Station | 11972 29973 2131 |
 ### [FnafMenuLoader (Fnaf Debug Menu)](https://github.com/Skizzium/FNaFMenuLoader)
 
 ### [Debug Menu Unlocker mod](https://github.com/Kaydax/DebugMenuUnlocker)
