@@ -40,6 +40,8 @@
 | **Summon** StaffbotTaskPlacement_C | WTF (cube) |
 | **Summon** StaffBotWorkerPath_C | :robot: StaffBot jumpscare |
 | **Summon** BP_NoiseMakingTowerDaycareInteractible_C | Boil |
+| **Summon** BP_MiniGame_Activator_C | Play MiniGame BallonBoy |
+| 
 | DestroyPawns | Destruction of ALL bots |
 | DestroyAll `value` | ??? |
 | ViewMode `value` | Values: `shadercomplexity` OR `lit`  |
