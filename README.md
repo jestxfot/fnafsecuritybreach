@@ -29,6 +29,7 @@
 | **Summon** burntrap_c |
 | **Summon** SunMan_C |
 | **Summon** MoonMan_C |
+| **Summon** MoonMan_Jumpscare_C | Only jumpscare |
 | **Summon** Gregory_C | 2 position (your position is bifurcated) |
 | **Summon** FirstPersonCharacter_C |
 | **Summon** StaffBotBase_C| :robot: StaffBot Original |
