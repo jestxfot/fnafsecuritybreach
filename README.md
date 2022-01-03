@@ -53,7 +53,7 @@
 | Name | Coordinates (X Y Z) |
 |---|-----------|
 | Stage | 397 44107 1435 |
-| Daycare | 3618 27394 2131 |
+| Exit | 2456 27540 2131 |
 
 ### [FnafMenuLoader (Fnaf Debug Menu)](https://github.com/Skizzium/FNaFMenuLoader)
 
