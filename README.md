@@ -53,7 +53,7 @@
 | Name | Coordinates (X Y Z) |
 |---|-----------|
 | Stage | 397 44107 1435 |
-| Exit | 1780 20884 1512 |
+| Exit | 0 20884 1512 |
 
 ### [FnafMenuLoader (Fnaf Debug Menu)](https://github.com/Skizzium/FNaFMenuLoader)
 
