@@ -65,9 +65,7 @@
 [Discord](https://discord.gg/5rjBEzT9Bm) | [Source post](https://www.reddit.com/r/technicalFNaF/comments/rjovxv/followup_debug_menu_loader/)
 
 ### [Debug Menu Unlocker mod by Kaydax](https://github.com/Kaydax/DebugMenuUnlocker)
-[Source post](https://www.reddit.com/r/technicalFNaF/comments/rrnp4x/debug_menu_unlocker_mod_mod_loader_for_security/)
-
-Use [Unreal Engine Mod Loader](https://github.com/RussellJerome/UnrealModLoader)
+[Source post](https://www.reddit.com/r/technicalFNaF/comments/rrnp4x/debug_menu_unlocker_mod_mod_loader_for_security/) | Use [Unreal Engine Mod Loader](https://github.com/RussellJerome/UnrealModLoader)
 ### Archive
 [Google Sheet of all English Localizations by snapcaster1234](https://docs.google.com/spreadsheets/d/1pRjWLy10mDfU-qfq481yINxZkprBCezYtKIwluHfU-A/edit#gid=1188312104)
 
