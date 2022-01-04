@@ -39,6 +39,7 @@
 | **Summon** CautionBot_C | 
 | **Summon** StaffBotSecurityPatrol_C |
 | **Summon** StaffbotTaskPlacement_C | WTF (cube) |
+| **Summon** BP_MiniMap_Plane_C | WTF 2 |
 | **Summon** StaffBotWorkerPath_C | :robot: StaffBot jumpscare |
 | **Summon** BP_NoiseMakingTowerDaycareInteractible_C | Boil |
 | **Summon** BP_MiniGame_Activator_C | Play MiniGame BallonBoy |
