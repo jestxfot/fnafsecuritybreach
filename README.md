@@ -69,7 +69,7 @@
 
 Use [Unreal Engine Mod Loader](https://github.com/RussellJerome/UnrealModLoader)
 ### Archive
-https://docs.google.com/spreadsheets/d/1pRjWLy10mDfU-qfq481yINxZkprBCezYtKIwluHfU-A/edit#gid=1188312104
+[Google Sheet of all English Localizations by snapcaster1234](https://docs.google.com/spreadsheets/d/1pRjWLy10mDfU-qfq481yINxZkprBCezYtKIwluHfU-A/edit#gid=1188312104)
 
 https://docs.google.com/document/d/1LZ3hHpNYAug7EtTcuXXcNdJjf6m8rsLaOncWLSnumE8/edit
 
