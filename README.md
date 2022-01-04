@@ -50,6 +50,7 @@
 | DestroyAll `value` | ??? |
 | ViewMode `value` | Values: `shadercomplexity` OR `lit`  |
 | ShowDebug |
+| stat levels | List loading maps |
 | EnableOnScreenMessages
 | Pause | HotKey: numpad 0 |
 | RestartLevel |
