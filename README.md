@@ -43,6 +43,7 @@
 | **Summon** StaffBotWorkerPath_C | :robot: StaffBot jumpscare |
 | **Summon** BP_NoiseMakingTowerDaycareInteractible_C | Boil |
 | **Summon** BP_MiniGame_Activator_C | Play MiniGame BallonBoy |
+| **Summon** FlashlightRechargeStation_C |
 | **Summon** PowerStation_Actor_C | 
 | **Summon** Camera_C | Camera ONLY MAP FazWatch |
 | DestroyPawns | Destruction of ALL bots |
