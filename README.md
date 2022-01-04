@@ -70,7 +70,7 @@
 [Source post](https://www.reddit.com/r/technicalFNaF/comments/rrnp4x/debug_menu_unlocker_mod_mod_loader_for_security/) | Use [Unreal Engine Mod Loader](https://github.com/RussellJerome/UnrealModLoader)
 ### Archive
 - [Google Sheet of all English Localizations by snapcaster1234](https://docs.google.com/spreadsheets/d/1pRjWLy10mDfU-qfq481yINxZkprBCezYtKIwluHfU-A/edit#gid=1188312104)
-- https://docs.google.com/document/d/1LZ3hHpNYAug7EtTcuXXcNdJjf6m8rsLaOncWLSnumE8/edit
+- [SonicBoom13561 made a guide to texture modding](https://docs.google.com/document/d/1LZ3hHpNYAug7EtTcuXXcNdJjf6m8rsLaOncWLSnumE8/edit)
 - https://docs.google.com/presentation/d/1SAlpa423Qha4vEInVoNIloI3uKCHkqM1/edit#slide=id.g10b35c89914_0_0
 - [Unused_Princess_Quest_Line](https://www.reddit.com/r/technicalFNaF/comments/jjchxv/unused_princess_quest_line_from_malhare_that/?sort=new)
 ![image](https://user-images.githubusercontent.com/87380272/148106633-66351ac9-2763-48f6-a610-36f6d3c8d6ee.png)
