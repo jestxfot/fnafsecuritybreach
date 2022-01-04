@@ -54,7 +54,7 @@
 | Pause | HotKey: numpad 0 |
 | RestartLevel |
 
-### Location Coordinates
+## Location Coordinates
 | Name | Coordinates (X Y Z) |
 |---|-----------|
 | Stage | 397 44107 1435 |
