@@ -71,3 +71,4 @@
 - [Google Sheet of all English Localizations by snapcaster1234](https://docs.google.com/spreadsheets/d/1pRjWLy10mDfU-qfq481yINxZkprBCezYtKIwluHfU-A/edit#gid=1188312104)
 - https://docs.google.com/document/d/1LZ3hHpNYAug7EtTcuXXcNdJjf6m8rsLaOncWLSnumE8/edit
 - https://docs.google.com/presentation/d/1SAlpa423Qha4vEInVoNIloI3uKCHkqM1/edit#slide=id.g10b35c89914_0_0
+![image](https://user-images.githubusercontent.com/87380272/148106633-66351ac9-2763-48f6-a610-36f6d3c8d6ee.png)
