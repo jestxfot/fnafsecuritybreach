@@ -61,7 +61,7 @@
 | Exit | 0 20248 1512 |
 | DayCare | -11972 29973 2131 |
 | Vanny Station | 11972 29973 791 |
-### [FnafMenuLoader (Fnaf Debug Menu) uSkizzik](https://github.com/Skizzium/FNaFMenuLoader)
+### [FML.exe (Fnaf Debug Menu) uSkizzik](https://github.com/Skizzium/FNaFMenuLoader)
 
 ### [Debug Menu Unlocker mod](https://github.com/Kaydax/DebugMenuUnlocker)
 
