@@ -62,7 +62,7 @@
 | DayCare | -11972 29973 2131 |
 | Vanny Station | 11972 29973 791 |
 ### [FML.exe (Fnaf Debug Menu) by uSkizzik](https://github.com/Skizzium/FNaFMenuLoader)
-[Discord](https://discord.gg/5rjBEzT9Bm) | [Source post](https://www.reddit.com/r/technicalFNaF/comments/rjovxv/followup_debug_menu_loader/)
+[Source post](https://www.reddit.com/r/technicalFNaF/comments/rjovxv/followup_debug_menu_loader/) | [Discord](https://discord.gg/5rjBEzT9Bm)
 
 ### [Debug Menu Unlocker mod by Kaydax](https://github.com/Kaydax/DebugMenuUnlocker)
 [Source post](https://www.reddit.com/r/technicalFNaF/comments/rrnp4x/debug_menu_unlocker_mod_mod_loader_for_security/) | Use [Unreal Engine Mod Loader](https://github.com/RussellJerome/UnrealModLoader)
