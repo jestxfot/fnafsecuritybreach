@@ -58,7 +58,7 @@
 | Name | Coordinates (X Y Z) |
 |---|-----------|
 | Stage | 397 44107 1435 |
-| Exit | -1800 20248 1512 |
+| Exit | 0 20248 1512 |
 | DayCare | -11972 29973 2131 |
 | Vanny Station | 11972 29973 791 |
 ### [FnafMenuLoader (Fnaf Debug Menu)](https://github.com/Skizzium/FNaFMenuLoader)
