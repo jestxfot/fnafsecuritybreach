@@ -4,9 +4,7 @@
 0x85F7D4007015493ED0359C9007266038F8F7B1F96988F19A610103874CC95286
 ```
 
-![image](https://user-images.githubusercontent.com/87380272/147861521-84196a24-23cb-4113-88cf-2dbc39fbe9b3.png)
-
-![image](https://user-images.githubusercontent.com/87380272/148217524-8802ec65-e574-4e00-a1e7-da5c1578f08f.png)
+![image](https://user-images.githubusercontent.com/87380272/147861521-84196a24-23cb-4113-88cf-2dbc39fbe9b3.png) ![image](https://user-images.githubusercontent.com/87380272/148217524-8802ec65-e574-4e00-a1e7-da5c1578f08f.png)
 
 ### [fnaf9-Win64-Shipping.CT](https://fearlessrevolution.com/viewtopic.php?f=4&t=18579&sid=018e92b24a2b6215f5840700a6a6c51c)
 2F850B42F70 - lives Princess
