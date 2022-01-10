@@ -14,10 +14,10 @@
 | 6 | 12 AM |  |
 | 7 | 12 AM | Chica |
 | 8 | 12 AM | Daycare |
-| 9 | 12 AM |  |
-| 10 | 12 AM |  |
+| 9 | 12:30 AM |  |
+| 10 | 12:30 AM |  |
 | 11 | 1 AM |  |
-| 12 | 12 AM | After daycare |
+| 12 | 12:30 AM | After daycare |
 | 13 | 1 AM |  |
 | 14 | 1 AM |  |
 | 15 | 1 AM |  |
