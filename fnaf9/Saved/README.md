@@ -14,7 +14,7 @@
 | 6 | 12 AM |  |
 | 7 | 12 AM | Chica |
 | 8 | 12 AM | Daycare |
-| 9 | 12:30 AM |  |
+| 9 | 12:30 AM | SunDrop |
 | 10 | 12:30 AM |  |
 | 11 | 1 AM |  |
 | 12 | 12:30 AM | After daycare |
