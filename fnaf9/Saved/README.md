@@ -12,8 +12,8 @@
 | 4 | 11 PM | After office camera |
 | 5 | 12 AM |  |
 | 6 | 12 AM |  |
-| 7 | 12 AM |  |
-| 8 | 12 AM |  |
+| 7 | 12 AM | Chica |
+| 8 | 12 AM | Daycare |
 | 9 | 12 AM |  |
 | 10 | 12 AM |  |
 | 11 | 1 AM |  |
