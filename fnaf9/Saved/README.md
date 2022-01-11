@@ -17,7 +17,7 @@
 | 9 | 12:30 AM | SunDrop |
 | 10 | 12:30 AM |  |
 | 11 | 1 AM |  |
-| 12 | 12:30 AM | After daycare |
+| 12 | 12:55 AM | After daycare |
 | 13 | 1 AM |  |
 | 14 | 1 AM |  |
 | 15 | 1 AM |  |
