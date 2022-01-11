@@ -19,7 +19,7 @@
 | 11 | 1 AM |  |
 | 12 | 12:55 AM | After daycare |
 | 13 | 1 AM | After Vanny meet |
-| 14 | 1 AM |  |
+| 14 | 1 AM | Take Free Map 3 floor |
 | 15 | 1 AM |  |
 | 16 | 1 AM |  |
 | 17 | 1 AM |  |
