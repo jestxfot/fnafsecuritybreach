@@ -18,7 +18,7 @@
 | 10 | 12:30 AM |  |
 | 11 | 1 AM |  |
 | 12 | 12:55 AM | After daycare |
-| 13 | 1 AM |  |
+| 13 | 1 AM | After Vanny meet |
 | 14 | 1 AM |  |
 | 15 | 1 AM |  |
 | 16 | 1 AM |  |
