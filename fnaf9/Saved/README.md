@@ -22,8 +22,8 @@
 | 14 | 1:00 AM | Take Free Map 3 floor |
 | 15 | 1:30 AM | Security Office 2 |
 | 16 | 1:45 AM | Security Office 2 (done!) |
-| 17 | 1 AM |  |
-| 18 | 1 AM |  |
+| 17 | 1:45 AM |  |
+| 18 | 1:45 AM |  |
 | 19 | 2 AM |  |
 | 20 | 2 AM |  |
 | 21 | 2 AM |  |
