@@ -1,4 +1,4 @@
-## Excract Files
+## Excract Files (from .pak file)
 ### [Fmodel.exe](https://github.com/iAmAsval/FModel) ([Umodel](https://github.com/gildor2/UEViewer))
 ### AES:
 ```
