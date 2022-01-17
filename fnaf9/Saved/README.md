@@ -21,7 +21,7 @@
 | 13 | 1:00 AM | After Vanny meet |
 | 14 | 1:00 AM | Take Free Map 3 floor |
 | 15 | 1:30 AM | Security Office 2 |
-| 16 | 1:45 AM | Security Office 2 (done!) |
+| 16 | 1:30 AM | Security Office 2 (done!) |
 | 17 | 1:45 AM |  |
 | 18 | 1:45 AM |  |
 | 19 | 2 AM |  |
