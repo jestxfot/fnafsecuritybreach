@@ -28,7 +28,7 @@
 | 20 | 2 AM | Roxy Racing Backstage |
 | 21 | 2 AM | Freddy broke down |
 | 22 | 2 AM | After Freddy broke down |
-| 23 | 2 AM |  |
+| 23 | 2 AM | Activate the music of the main stage CD |
 | 24 | 2 AM |  |
 | 25 | 3 AM |  |
 | 26 | 3 AM |  |
