@@ -26,7 +26,7 @@
 | 18 | 1:45 AM | Elevator in the prize corner (Vanessa jumpscare) |
 | 19 | 2 AM | Escaped from Vanny |
 | 20 | 2 AM | Roxy Racing Backstage |
-| 21 | 2 AM |  |
+| 21 | 2 AM | Find the elevator |
 | 22 | 2 AM |  |
 | 23 | 2 AM |  |
 | 24 | 2 AM |  |
