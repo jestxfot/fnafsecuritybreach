@@ -58,9 +58,11 @@
 | 50 | 5 AM |  |
 
 # Location of the security badges:
-1 - Daycare
-2 / 3 - Loading docks / Prize counter
-4 - Backstage control room
-5 - Parts and service
-6 / 7 - Fazerblast / Monty's golf
-8 - West Fazcade
+- [ ] 1 - Daycare
+- [ ] 2 - Loading docks
+- [ ] 3 - Prize counter
+- [ ] 4 - Backstage control room
+- [ ] 5 - Parts and service
+- [ ] 6 - Fazerblast
+- [ ] 7 - Monty's golf
+- [ ] 8 - West Fazcade
