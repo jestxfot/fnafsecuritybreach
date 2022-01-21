@@ -24,7 +24,7 @@
 | 16 | 1:30 AM | Security Office 2 (done!) |
 | 17 | 1:45 AM | Security Office 2 (done!) |
 | 18 | 1:45 AM | Elevator in the prize corner (Vanessa jumpscare) |
-| 19 | 2 AM | Escaped from Vanny |
+| 19 | 2:00 AM | Escaped from Vanny |
 | 20 | 2:15 AM | Roxy Racing Backstage |
 | 21 | 2:15 AM | Freddy broke down |
 | 22 | 2 AM | After Freddy broke down |
