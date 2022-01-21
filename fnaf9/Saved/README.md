@@ -56,3 +56,11 @@
 | 48 | 5 AM |  |
 | 49 | 5 AM | Monty Golf MiniGame Arcade |
 | 50 | 5 AM |  |
+
+# Location of the security badges:
+1 - Daycare
+2 / 3 - Loading docks / Prize counter
+4 - Backstage control room
+5 - Parts and service
+6 / 7 - Fazerblast / Monty's golf
+8 - West Fazcade
