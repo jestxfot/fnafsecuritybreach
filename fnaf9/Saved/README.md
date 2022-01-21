@@ -30,7 +30,7 @@
 | 22 | 2:30 AM | After Freddy pulled out of the vent |
 | 23 | 2:45 AM | Activate the music of the main stage CD |
 | 24 | 3:00 AM | Sneak into the parts and service |
-| 25 | 3 AM |  |
+| 25 | 3:00 AM | Endo Start |
 | 26 | 3 AM |  |
 | 27 | 3 AM |  |
 | 28 | 3 AM |  |
