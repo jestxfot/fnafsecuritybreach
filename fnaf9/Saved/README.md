@@ -28,7 +28,7 @@
 | 20 | 2:15 AM | Roxy Racing Backstage |
 | 21 | 2:15 AM | Freddy broke down (Security Office 3) |
 | 22 | 2:30 AM | After Freddy pulled out of the vent |
-| 23 | 2 AM | Activate the music of the main stage CD |
+| 23 | 2:45 AM | Activate the music of the main stage CD |
 | 24 | 3 AM | Sneak into the parts and service |
 | 25 | 3 AM |  |
 | 26 | 3 AM |  |
