@@ -33,7 +33,7 @@
 | 25 | 3:00 AM | Endo Start |
 | 26 | 3:00 AM | Endo 2 |
 | 27 | 3:00 AM | After Endo |
-| 28 | 3 AM |  |
+| 28 | 3:15 AM | Vanessa Meet Freddy (Part And Service) |
 | 29 | 3 AM |  |
 | 30 | 3 AM |  |
 | 31 | 3 AM |  |
