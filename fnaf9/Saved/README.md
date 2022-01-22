@@ -60,7 +60,7 @@
 # Location of the security badges:
 - [ ] 1 - Daycare
 - [ ] 2 - Loading docks
-- [ ] 3 - Prize counter
+- [ ] 3 - Security Office 3
 - [ ] 4 - Backstage control room
 - [ ] 5 - Parts and service
 - [ ] 6 - Fazerblast
