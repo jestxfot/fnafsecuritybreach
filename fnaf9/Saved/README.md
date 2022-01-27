@@ -36,7 +36,7 @@
 | 28 | 3:15 AM | Vanessa Meet Freddy (Part And Service) |
 | 29 | 3:15 AM | Freddy Repair |
 | 30 | 3:30 AM | After Freddy Repair |
-| 31 | 3 AM |  |
+| 31 | 3:30 AM | Found Chica Card (Main hall) |
 | 32 | 4 AM |  |
 | 33 | 4 AM |  |
 | 34 | 4 AM | FazbearBlast |
