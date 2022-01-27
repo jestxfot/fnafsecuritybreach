@@ -56,6 +56,7 @@
 | 48 | 5 AM |  |
 | 49 | 5 AM | Monty Golf MiniGame Arcade |
 | 50 | 5 AM |  |
+| 51 | 6 AM | Burntrap Battle |
 
 # Location of the security badges:
 - [ ] 1 - Daycare
