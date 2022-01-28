@@ -19,7 +19,7 @@
 | 11 | 1 AM | IDK ??? |
 | 12 | 12:55 AM | After daycare |
 | 13 | 1:00 AM | After Vanny meet |
-| 14 | 1:00 AM | Take Free Map 3 floor |
+| 14 | 1:00 AM | Take Free MapBot, 3 floor |
 | 15 | 1:30 AM | Security Office 2 |
 | 16 | 1:30 AM | Security Office 2 (done!) |
 | 17 | 1:45 AM | Security Office 2 (done!) |
@@ -60,7 +60,7 @@
 
 # Location of the security badges:
 - [ ] 1 - Daycare - 12 AM
-- [ ] 2 - Loading docks
+- [ ] 2 - Security Office 2 - 1:00 AM
 - [ ] 3 - Security Office 3 - 2:15 AM
 - [ ] 4 - (Endo) Backstage control room - 3:00 AM
 - [ ] 5 - Parts and service
