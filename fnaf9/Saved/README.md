@@ -60,7 +60,7 @@
 
 # Location of the security badges:
 - [ ] 1 - Daycare - 12 AM
-- [ ] 2 - Security Office 2 - 1:00 AM
+- [ ] 2 - Security Office 2 OR Loading Doслs (Chica) - 1:00 AM
 - [ ] 3 - Security Office 3 - 2:15 AM
 - [ ] 4 - (Endo) Backstage control room - 3:00 AM
 - [ ] 5 - Parts and service
