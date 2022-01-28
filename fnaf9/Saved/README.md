@@ -59,10 +59,10 @@
 | 51 | 6 AM | Burntrap Battle |
 
 # Location of the security badges:
-- [ ] 1 - Daycare
+- [ ] 1 - Daycare - 12 AM
 - [ ] 2 - Loading docks
-- [ ] 3 - Security Office 3
-- [ ] 4 - (Endo) Backstage control room
+- [ ] 3 - Security Office 3 - 2:15 AM
+- [ ] 4 - (Endo) Backstage control room - 3:00 AM
 - [ ] 5 - Parts and service
 - [ ] 6 - Fazerblast
 - [ ] 7 - Monty's golf
