@@ -22,6 +22,7 @@ Export path: `...\SteamLibrary\Output\Exports`
 | **Open** map_PrincessQuest_TitleMenu_act3 |
 | **Open** map_charactergallery |
 | **Open** map_BowlingAlley_Test |
+| **Open** map-charactergallery |
 | Slomo `value` | Speed Player: `0`, `1`, `2`, etc. |
 | ChangeSize `value` | Default: `1`|
 | ToggleDebugCamera | Values: `0`, `1`, `2` |
