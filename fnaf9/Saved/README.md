@@ -60,7 +60,7 @@
 
 # Location of the security badges:
 - [ ] 1 - Daycare - 12 AM
-- [ ] 2 OR 6 - El Chips (Prize Counter) Security Office 2 OR Loading Doсks (Chica) - 1:00 AM
+- [ ] 2 OR 6 - El Chips (Prize Counter) (Security Office 2) OR Loading Doсks (Chica Press) - 1:00 AM
 - [ ] 3 - Backstage (Security Office 3) - 2:15 AM
 - [ ] 4 - (Endo) Backstage control room - 3:00 AM
 - [ ] 5 or 8 - Fazerblast OR Monty's golf
