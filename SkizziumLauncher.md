@@ -7,6 +7,8 @@ Install path: `...\SteamLibrary\steamapps\common\Quarters`
 
 https://discord.gg/skizzium OR https://discord.gg/5rjBEzT9Bm
 
+[Source post](https://www.reddit.com/r/technicalFNaF/comments/rjovxv/followup_debug_menu_loader/)
+
 Old Archive: https://github.com/Skizzium/FNaFMenuLoader
 
 ## Error
