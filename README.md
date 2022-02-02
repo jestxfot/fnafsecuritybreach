@@ -1,5 +1,5 @@
 ## [Hash Version pak](https://steamdb.info/depot/747661/manifests)
-fnaf9-WindowsNoEditor.pak (18.12.2021)
+fnaf9-WindowsNoEditor.pak 78.04 GiB (18.12.2021)
 ```
 ```
 fnaf9-WindowsNoEditor.pak 78.04 GiB (28.12.2021)
