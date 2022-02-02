@@ -7,6 +7,8 @@ Install path: `...\SteamLibrary\steamapps\common\Quarters`
 
 https://discord.gg/skizzium OR https://discord.gg/5rjBEzT9Bm
 
+Old Archive: https://github.com/Skizzium/FNaFMenuLoader
+
 ## Error
 | Error | Fix
 | ---- | --------- |
