@@ -86,9 +86,6 @@ Export path: `...\SteamLibrary\Output\Exports`
 ### [File Saves editor by Sparky2199](https://github.com/SparkyTD/UnrealEngine.Gvas)
 [Source post](https://www.reddit.com/r/technicalFNaF/comments/rx5al6/i_made_a_c_library_that_can_read_modify_and_write/)
 
-### [FML.exe (Fnaf Debug Menu) by uSkizzik](https://github.com/Skizzium/FNaFMenuLoader)
-[Source post](https://www.reddit.com/r/technicalFNaF/comments/rjovxv/followup_debug_menu_loader/)
-
 ### [Debug Menu Unlocker mod by Kaydax](https://github.com/Kaydax/DebugMenuUnlocker)
 [Source post](https://www.reddit.com/r/technicalFNaF/comments/rrnp4x/debug_menu_unlocker_mod_mod_loader_for_security/) | Use [Unreal Engine Mod Loader](https://github.com/RussellJerome/UnrealModLoader)
 
