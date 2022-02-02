@@ -1,5 +1,5 @@
 ## [SkizziumLauncher-Setup.exe](https://files.skizzium.com/launcher/SkizziumLauncher-Setup.exe)
-FML 2.2.0
+FML 1.5.3
 <br>
 Install path: `...\SteamLibrary\steamapps\common\Quarters`
 
