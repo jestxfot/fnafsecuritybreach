@@ -4,6 +4,9 @@ fnaf9-WindowsNoEditor.pak (18.12.2021)
 ```
 fnaf9-WindowsNoEditor.pak (28.12.2021)
 ```
+CRC32: CE5807BD
+MD5: F6CDC20018E831D46B9A1E6E0C2D9D1A
+SHA-1: 4AB75616AD1FF39DB317FCEFFF6076683374B169
 ```
 ## Excract Files (from .pak file)
 ### [Fmodel.exe](https://github.com/iAmAsval/FModel) ([Umodel](https://github.com/gildor2/UEViewer))
