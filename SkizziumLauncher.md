@@ -9,4 +9,5 @@ https://discord.gg/skizzium
 
 ## Error
 | Error | Fix
+| ---- | --------- |
 | ![image](https://user-images.githubusercontent.com/87380272/152193209-e6e57e69-4515-4ab1-8e0c-d4adf95e3ccb.png) | Update Java: https://www.java.com/ru/download/
