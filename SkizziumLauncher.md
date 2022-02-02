@@ -1,4 +1,4 @@
-## [SkizziumLauncher-Setup.exe](https://cdn.discordapp.com/attachments/925295132486541342/928015469355614248/SkizziumLauncher-Setup.exe)
+## [SkizziumLauncher-Setup.exe](https://files.skizzium.com/launcher/SkizziumLauncher-Setup.exe)
 FML 2.2.0
 <br>
 Install path: `...\SteamLibrary\steamapps\common\Quarters`
