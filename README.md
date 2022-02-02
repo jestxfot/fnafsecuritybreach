@@ -89,6 +89,8 @@ Export path: `...\SteamLibrary\Output\Exports`
 ### [Debug Menu Unlocker mod by Kaydax](https://github.com/Kaydax/DebugMenuUnlocker)
 [Source post](https://www.reddit.com/r/technicalFNaF/comments/rrnp4x/debug_menu_unlocker_mod_mod_loader_for_security/) | Use [Unreal Engine Mod Loader](https://github.com/RussellJerome/UnrealModLoader)
 
+Discord https://discord.com/invite/ZpYy823wtB
+
 ### SB Dumps
 - [ ] https://drive.google.com/drive/folders/11Ia97xvInTkhhUb5dGEEPRk9_Of7OJ7z
 ### Archive
