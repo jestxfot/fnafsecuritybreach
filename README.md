@@ -1,4 +1,4 @@
-## Hash Version pak
+## [Hash Version pak](https://steamdb.info/depot/747661/manifests)
 fnaf9-WindowsNoEditor.pak (18.12.2021)
 ```
 ```
