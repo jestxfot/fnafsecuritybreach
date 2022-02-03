@@ -39,7 +39,7 @@
 | 31 | 3:30 AM | Found Chica Card (Main hall) |
 | 32 | 4:00 AM | Atrium (MontyGold or FazBlast) |
 | 33 | 4:00 AM | FazbearBlast lobby |
-| 34 | 4 AM | FazbearBlast |
+| 34 | 4:15 AM | FazbearBlast (done!) |
 | 35 | 4 AM |  |
 | 36 | 4 AM |  |
 | 37 | 4 AM | Chica Kitchen |
