@@ -9,7 +9,7 @@
 | 1 | 11 PM | Freddy room |
 | 2 | 11 PM | Freddy charging station |
 | 3 | 11 PM | After 1st Chica (Monty jumpscare)  |
-| 4 | 11 PM | After office camera |
+| 4 | 11 PM | After Security office 1 |
 | 5 | 12 AM |  |
 | 6 | 12 AM |  |
 | 7 | 12 AM | Chica |
@@ -41,7 +41,7 @@
 | 33 | 4:00 AM | FazbearBlast lobby |
 | 34 | 4:15 AM | FazbearBlast (done!) |
 | 35 | 4:30 AM | Bonnie Bowl (done!) |
-| 36 | 4 AM |  |
+| 36 | 4:30 AM | Staff Bot Pizza (done!) |
 | 37 | 4 AM | Chica Kitchen |
 | 38 | 4 AM |  |
 | 39 | 4 AM |  |
