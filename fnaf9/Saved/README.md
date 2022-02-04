@@ -41,7 +41,7 @@
 | 33 | 4:00 AM | FazbearBlast lobby |
 | 34 | 4:15 AM | FazbearBlast (done!) |
 | 35 | 4:15 AM | Bonnie Bowl |
-| 36 | 4 AM |  |
+| 36 | 4:30 AM |  |
 | 37 | 4 AM | Chica Kitchen |
 | 38 | 4 AM |  |
 | 39 | 4 AM |  |
