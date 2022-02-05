@@ -44,7 +44,7 @@
 | 36 | 4:30 AM | Staff Bot Pizza (done!) |
 | 37 | 4:30 AM | Chica Kitchen |
 | 38 | 4:30 AM | Shattered Chica (sewerage) |
-| 39 | 4 AM |  |
+| 39 | 4:30 AM | Sewage  |
 | 40 | 4 AM | Afton Family |
 | 41 | 5 AM | Roxy Raceway |
 | 42 | 5 AM | DJ Music Man |
