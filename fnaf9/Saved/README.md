@@ -43,7 +43,7 @@
 | 35 | 4:30 AM | Bonnie Bowl (done!) |
 | 36 | 4:30 AM | Staff Bot Pizza (done!) |
 | 37 | 4:30 AM | Chica Kitchen |
-| 38 | 4 AM |  |
+| 38 | 4:30 AM | Shattered Chica (sewerage) |
 | 39 | 4 AM |  |
 | 40 | 4 AM | Afton Family |
 | 41 | 5 AM | Roxy Raceway |
