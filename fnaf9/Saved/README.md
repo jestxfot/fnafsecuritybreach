@@ -45,7 +45,7 @@
 | 37 | 4:30 AM | Chica Kitchen |
 | 38 | 4:30 AM | Shattered Chica (sewerage) |
 | 39 | 4:30 AM | Sewage 2 generator  |
-| 40 | 4 AM | Afton Family |
+| 40 | 4:40 AM | Afton Family |
 | 41 | 5 AM | Roxy Raceway |
 | 42 | 5 AM | DJ Music Man |
 | 43 | 5 AM | Dj Music Man (done!) |
