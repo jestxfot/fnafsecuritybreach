@@ -49,7 +49,7 @@
 | 41 | 5:15 AM | Roxy Raceway |
 | 42 | 5:15 AM | DJ Music Man |
 | 43 | 5:30 AM | Dj Music Man (done!) |
-| 44 | 5:30 AM | Atrium |
+| 44 | 5:30 AM | Roxy Raceway 2 |
 | 45 | 5 AM | Monty Golf |
 | 46 | 5 AM |  |
 | 47 | 5 AM |  |
