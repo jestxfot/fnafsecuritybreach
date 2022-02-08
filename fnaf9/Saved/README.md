@@ -48,7 +48,7 @@
 | 40 | 4:40 AM | Afton Family |
 | 41 | 5:15 AM | Roxy Raceway |
 | 42 | 5:15 AM | DJ Music Man |
-| 43 | 5:15 AM | Dj Music Man (done!) |
+| 43 | 5:30 AM | Dj Music Man (done!) |
 | 44 | 5 AM |  |
 | 45 | 5 AM | Monty Golf |
 | 46 | 5 AM |  |
