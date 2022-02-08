@@ -50,13 +50,13 @@
 | 42 | 5:15 AM | DJ Music Man |
 | 43 | 5:30 AM | Dj Music Man (done!) |
 | 44 | 5:40 AM | After Roxy Battle |
-| 45 | 5 AM | Monty Golf |
-| 46 | 5 AM |  |
-| 47 | 5 AM |  |
-| 48 | 5 AM |  |
-| 49 | 5 AM | Monty Golf MiniGame Arcade |
-| 50 | 5 AM |  |
-| 51 | 6 AM | Burntrap Battle |
+| 45 | 6:00 AM | Monty Golf |
+| 46 | 6:00 AM |  |
+| 47 | 6:00 AM |  |
+| 48 | 6:00 AM |  |
+| 49 | 6:00 AM | Monty Golf MiniGame Arcade |
+| 50 | 6:00 AM |  |
+| 51 | 6:00 AM | Burntrap Battle |
 
 # Location of the security badges:
 - [ ] 1 - Daycare - 12 AM
