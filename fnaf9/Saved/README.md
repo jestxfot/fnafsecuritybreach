@@ -51,7 +51,7 @@
 | 43 | 5:30 AM | Dj Music Man (done!) |
 | 44 | 5:40 AM | After Roxy Battle |
 | 45 | 6:00 AM | Monty Golf |
-| 46 | 6:00 AM |  |
+| 46 | 6:00 AM | Roxy Raceway (Bug 5:15) |
 | 47 | 6:00 AM |  |
 | 48 | 6:00 AM |  |
 | 49 | 6:00 AM | Monty Golf MiniGame Arcade |
