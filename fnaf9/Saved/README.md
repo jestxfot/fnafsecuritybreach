@@ -20,9 +20,9 @@
 | 12 | 12:55 AM | After daycare |
 | 13 | 1:00 AM | After Vanny meet |
 | 14 | 1:00 AM | Take Free MapBot, 3 floor |
-| 15 | 1:30 AM | Security Office 2 |
-| 16 | 1:30 AM | Security Office 2 (done!) |
-| 17 | 1:45 AM | Security Office 2 (done!) |
+| 15 | 1:30 AM | Prize Counter (Security Office 2) |
+| 16 | 1:30 AM | Prize Counter Security Office 2 (done!) |
+| 17 | 1:45 AM | Prize Counter Security Office 2 (done!) |
 | 18 | 1:45 AM | Elevator in the prize corner (Vanessa jumpscare) |
 | 19 | 2:00 AM | Escaped from Vanny |
 | 20 | 2:15 AM | Roxy Racing Backstage |
@@ -41,7 +41,7 @@
 | 33 | 4:00 AM | FazbearBlast lobby |
 | 34 | 4:15 AM | FazbearBlast (done!) |
 | 35 | 4:30 AM | Bonnie Bowl (done!) |
-| 36 | 4:30 AM | Staff Bot Pizza (done!) |
+| 36 | 4:30 AM | Staff Bot Pizza (done, Security Office 4) |
 | 37 | 4:30 AM | Chica Kitchen |
 | 38 | 4:30 AM | Shattered Chica (sewerage) |
 | 39 | 4:30 AM | Sewage 2 generator  |
@@ -60,7 +60,7 @@
 
 # Location of the security badges:
 - [ ] 1 - Daycare - 12 AM
-- [ ] 2 OR 6 - El Chips (Prize Counter) (Security Office 2) OR Loading Doсks (Chica Press) - 1:00 AM
+- [ ] 2 OR 6 - El Chips (Prize Counter) (Security Office 2) OR Loading Doсks (Chica Press, Security Office 4) - 1:00 AM
 - [ ] 3 - Backstage Rockstar Row (Security Office 3) - 2:15 AM
 - [ ] 4 - (Endo) Backstage control room - 3:00 AM
 - [ ] 5 or 8 - Fazerblast OR Monty's golf
