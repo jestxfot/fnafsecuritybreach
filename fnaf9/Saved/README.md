@@ -51,8 +51,8 @@
 | 43 | 5:30 AM | Dj Music Man (done!) |
 | 44 | 5:40 AM | After Roxy Battle |
 | 45 | 6:00 AM | Monty Golf (faz-camera, bug 5:15) |
-| 46 | 6:00 AM |
-| 47 | 6:00 AM |  |
+| 46 | 6:00 AM | Mazercise |
+| 47 | 6:00 AM | Theatre (key done!) |
 | 48 | 6:00 AM |  |
 | 49 | 6:00 AM | Monty Golf MiniGame Arcade |
 | 50 | 6:00 AM |  |
