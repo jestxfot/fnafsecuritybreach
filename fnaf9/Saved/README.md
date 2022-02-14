@@ -54,7 +54,7 @@
 | 46 | 6:00 AM | Mazercise |
 | 47 | 6:00 AM | Theater (key done!) |
 | 48 | 6:00 AM |  |
-| 49 | 6:00 AM | Monty Golf MiniGame Arcade |
+| 49 | 6:00 AM | Monty's Claws |
 | 50 | 6:00 AM |  |
 | 51 | 6:00 AM | Burntrap Battle |
 
