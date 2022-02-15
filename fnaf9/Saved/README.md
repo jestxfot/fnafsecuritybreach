@@ -53,7 +53,7 @@
 | 45 | 6:00 AM | Monty Golf (faz-camera, bug 5:15) |
 | 46 | 6:00 AM | Mazercise |
 | 47 | 6:00 AM | Mazercise (key done!) |
-| 48 | 6:00 AM |  |
+| 48 | 6:00 AM | Monty Golf |
 | 49 | 6:00 AM | Monty's Claws (purple eye's Freddy) |
 | 50 | 6:00 AM |  |
 | 51 | 6:00 AM | Burntrap Battle |
