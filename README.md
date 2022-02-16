@@ -1,5 +1,5 @@
 ## [Hash Version pak](https://steamdb.info/depot/747661/manifests)
-### PRE-RELEASE BUILD
+### PRE-RELEASE BUILD (30.11.2021)
 ```
 1.0.20211130_2323_18_55037
 ```
