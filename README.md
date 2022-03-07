@@ -14,6 +14,9 @@ SHA-256: 084FE5B469EA30D0EC33B037D938C7B66DE814474C416246BBC0A688CE9AFBAE
 ```
 ### fnaf9-WindowsNoEditor.pak 76.3 GiB (01.03.2022)
 ```
+MD5: 0d6451ce9c609490d53a078eef50e4f6
+SHA-1: a9c2afbb18cf92b30fd55c08239590b34192d138
+SHA-256: 9ad43eab72e8531e6a22e04c250315d6ecfab28cab9b6405489cacefd5435688
 ```
 ## Excract Files (from .pak file)
 ### [Fmodel.exe](https://github.com/iAmAsval/FModel) ([Umodel](https://github.com/gildor2/UEViewer))
