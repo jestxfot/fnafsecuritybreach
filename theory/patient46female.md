@@ -15,8 +15,6 @@ In many languages, patient 46 appears as a woman (feminine gender and pronouns a
 ## 15 CD
 20 line - "No estás sol**A** / ты не одн**А**"
 
-https://github.com/jestxfot/fnafsecuritybreach/tree/main/fnaf9/Content/Localization/Game
-
 
 # CD subtitles
 ## German
