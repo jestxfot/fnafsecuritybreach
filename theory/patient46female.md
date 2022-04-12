@@ -4,6 +4,9 @@ In many languages, patient 46 appears as a woman (feminine gender and pronouns a
 9 line - "Ты не удивил**АСЬ**, увидев меня"
 11 line - "ты склонн**А** к скандалам"
 
+## 6 CD
+6 line - "ты проработал**А**"
+
 ## 14 CD
 5 line - "взламывал**А** их системы"
 
