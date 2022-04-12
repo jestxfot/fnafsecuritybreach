@@ -18,6 +18,13 @@ MD5: 0d6451ce9c609490d53a078eef50e4f6
 SHA-1: a9c2afbb18cf92b30fd55c08239590b34192d138
 SHA-256: 9ad43eab72e8531e6a22e04c250315d6ecfab28cab9b6405489cacefd5435688
 ```
+### 11 April 2022 Patch 58.8 GiB
+```
+CRC32: 5b430514
+MD5: 0e9da834e3ca6b16593e6e11ad4d0c0d
+SHA-1: 3aba2f0a89b201a529477e449aaf35fec261f996
+SHA-256: 3b176b3f51f5094f75bf784e6734e625a86fed4f47e6e3bed6d676b469ac42eb
+```
 ## Excract Files (from .pak file)
 ### [Fmodel.exe](https://github.com/iAmAsval/FModel) ([Umodel](https://github.com/gildor2/UEViewer))
 ### AES:
