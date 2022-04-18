@@ -15,6 +15,14 @@ In many languages, patient 46 appears as a woman (feminine gender and pronouns a
 ## 15 CD
 20 line - "No estás sol**A** / ты не одн**А**"
 
+"Ich hätte dich eher für eine Einzelgängerin gehalten"
+
+![image](https://user-images.githubusercontent.com/87380272/163831016-9927becf-265e-4f1a-b905-5ee37e29b209.png)
+
+![image](https://user-images.githubusercontent.com/87380272/163831040-54595ffe-99cb-4104-a4da-98b0b3fde43e.png)
+
+![image](https://user-images.githubusercontent.com/87380272/163831063-c95f61a7-dc42-461d-aeb8-444b22c993c5.png)
+
 
 # CD subtitles
 ## German
