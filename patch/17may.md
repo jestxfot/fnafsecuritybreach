@@ -1,3 +1,5 @@
+Baby 2 lines from SL 
+
 The fog effect
 
 Faz Facts
@@ -42,4 +44,4 @@ Party Pass bots now run away instead of disappearing
 
 Cut Freddy line introducing guests to the Pizzaplex plays when returning to the lobby after first visiting the atrium
 
-FAKE: -Cut Handunit line stating a retrieval unit is sent, and that accidental human retrieval is fatal-
+FAKE: ~Сut Handunit line stating a retrieval unit is sent, and that accidental human retrieval is fatal~
