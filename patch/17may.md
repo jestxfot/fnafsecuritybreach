@@ -16,8 +16,6 @@ Haptic Feedback and Adaptive triggers features are back on PS5
 
 Whiteboard in syrup vat office room seen in January RTX trailer is back
 
-Cut Handunit line stating a retrieval unit is sent, and that accidental human retrieval is fatal
-
 Freddy line "where are you going" plays if you exit Freddy when exiting the daycare structures after daycare mission
 
 Farer Blast minigame can now actually be replaved
@@ -43,3 +41,5 @@ Moon has a new jumpscare Endos can now run at u, while shaking the screen
 Party Pass bots now run away instead of disappearing
 
 Cut Freddy line introducing guests to the Pizzaplex plays when returning to the lobby after first visiting the atrium
+
+FAKE: -Cut Handunit line stating a retrieval unit is sent, and that accidental human retrieval is fatal-
