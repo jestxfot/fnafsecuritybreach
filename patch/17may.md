@@ -10,7 +10,7 @@ Comedy Bot model
 
 Magician Bot
 
-New endo jumpscare
+New endo jumpscare (Glamrock freddy)
 
 Security cams are now physically visible in the pizzaplex
 
