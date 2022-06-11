@@ -1,4 +1,5 @@
-# List Versions FNAF SB
+<h1 align="center">List Versions FNAF SB</h1>
+
 ### [Hash Version pak](https://steamdb.info/depot/747661/manifests)
 ### PRE-RELEASE BUILD (30.11.2021)
 ```
@@ -30,7 +31,8 @@ SHA-256: 3b176b3f51f5094f75bf784e6734e625a86fed4f47e6e3bed6d676b469ac42eb
 ```
 1.0.20220517_2334_22_64416
 ```
-## Excract Files (from .pak file)
+<h1 align="center">Excract Files (from .pak file)</h1>
+
 ### [Fmodel.exe](https://github.com/iAmAsval/FModel) ([Umodel](https://github.com/gildor2/UEViewer))
 ### AES:
 ```
@@ -44,6 +46,7 @@ Export path: `...\SteamLibrary\Output\Exports`
 
 ### [fnaf9-Win64-Shipping.CT](https://fearlessrevolution.com/viewtopic.php?f=4&t=18579&sid=018e92b24a2b6215f5840700a6a6c51c)
 2F850B42F70 - lives Princess
+
 
 ## [UUU Console (press ` or /)](https://framedsc.com/GeneralGuides/universal_ue4_consoleunlocker.htm)
 | Command | Description |
@@ -92,7 +95,8 @@ Export path: `...\SteamLibrary\Output\Exports`
 | Pause | HotKey: numpad 0 |
 | RestartLevel |
 
-## Location Coordinates
+<h2 align="center">Location Coordinates</h2>
+
 | Name | Coordinates (X Y Z) |
 |---|-----------|
 | Stage | 397 44107 1435 |
@@ -117,7 +121,10 @@ Discord https://discord.com/invite/ZpYy823wtB
 - [ ] https://drive.google.com/drive/folders/11pwk7BOBAm6x0CfMneEYn7ajOWiGXvGc
 - [ ] https://drive.google.com/file/d/1-7mf5J30i4P9_fBiC2Nteg9PiJmYLwM-/view
 - [ ] https://drive.google.com/drive/u/0/folders/1U0BQrPTNcvmjMqRfvVqpUkZn6ZKyJxrl
-### Archive
+
+
+<h2 align="center">Archive</h2>
+
 ![image](https://user-images.githubusercontent.com/87380272/148230542-d2270a2e-1ef6-40f9-be41-201808c614a8.png)
 
 - [ ] [Google Sheet of all English Localizations by snapcaster1234](https://docs.google.com/spreadsheets/d/1pRjWLy10mDfU-qfq481yINxZkprBCezYtKIwluHfU-A/edit#gid=1188312104)
