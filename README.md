@@ -31,7 +31,6 @@ SHA-256: 3b176b3f51f5094f75bf784e6734e625a86fed4f47e6e3bed6d676b469ac42eb
 ```
 1.0.20220517_2334_22_64416
 ```
-### [15 June 2022]
 
 <h1 align="center">Excract Files (from .pak file)</h1>
 
