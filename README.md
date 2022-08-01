@@ -1,37 +1,5 @@
 <h1 align="center">List Versions FNAF SB</h1>
 
-### [Hash Version pak](https://steamdb.info/depot/747661/manifests)
-### PRE-RELEASE BUILD (30.11.2021)
-```
-1.0.20211130_2323_18_55037
-```
-### fnaf9-WindowsNoEditor.pak 78.04 GiB (18.12.2021)
-### 28 February Patch 1.05 - 78.04 GiB
-```
-1.0.20211222_0116_539_57216
-CRC32: CE5807BD
-MD5: F6CDC20018E831D46B9A1E6E0C2D9D1A
-SHA-1: 4AB75616AD1FF39DB317FCEFFF6076683374B169
-SHA-256: 084FE5B469EA30D0EC33B037D938C7B66DE814474C416246BBC0A688CE9AFBAE
-```
-### 1 March 2022 Patch - 76.3 GiB
-```
-MD5: 0d6451ce9c609490d53a078eef50e4f6
-SHA-1: a9c2afbb18cf92b30fd55c08239590b34192d138
-SHA-256: 9ad43eab72e8531e6a22e04c250315d6ecfab28cab9b6405489cacefd5435688
-```
-### 11 April 2022 Patch 1.06 - 58.8 GiB
-```
-CRC32: 5b430514
-MD5: 0e9da834e3ca6b16593e6e11ad4d0c0d
-SHA-1: 3aba2f0a89b201a529477e449aaf35fec261f996
-SHA-256: 3b176b3f51f5094f75bf784e6734e625a86fed4f47e6e3bed6d676b469ac42eb
-```
-### [17 May 2022](https://github.com/jestxfot/fnafsecuritybreach/blob/main/patch/17may.md)
-```
-1.0.20220517_2334_22_64416
-```
-
 <h1 align="center">Excract Files (from .pak file)</h1>
 
 ### [Fmodel.exe](https://github.com/iAmAsval/FModel) ([Umodel](https://github.com/gildor2/UEViewer))
