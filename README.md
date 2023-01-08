@@ -73,7 +73,7 @@ Export path: `...\SteamLibrary\Output\Exports`
 | Exit | 0 20248 1512 |
 | DayCare | -11972 29973 2131 |
 | Vanny Station | 11972 29973 791 |
-| Afton Family | 11972 29973 791 |
+| Afton Family | -3553   16283 -2754 |
 [AND MORE...](https://miro.com/app/board/o9J_lLsvX7I=/?moveToWidget=3458764515942414658&cot=14)
 
 ### [Unlimited Freddy Battery by SparkyTD](https://github.com/SparkyTD/unlimited-freddy-battery)
